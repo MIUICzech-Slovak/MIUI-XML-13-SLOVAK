@@ -710,5 +710,6 @@
     <string name="swipe_the_desktop_to_the_right">Potiahnite vpravo na ploche</string>
     <string name="system_shortcuts_edit">Upraviť</string>
     <string name="toast_drag_to_assistant_reject">Spúšťanie asistenta…</string>
-                                          
+     <string name="menu_no_word">Nezobrazovať text</string>
+     <string name="menu_no_word_setting_tip" formatted="false">Použiť %d×%d rozloženie bez textu</string>                                          
 </resources>
