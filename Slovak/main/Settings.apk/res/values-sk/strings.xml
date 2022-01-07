@@ -7540,5 +7540,8 @@ Táto funkcia funguje iba vtedy, keď je navigácia v systéme nastavená na ges
      <string name="condition_turn_off">Vypnúť</string>     
      <string name="smart_home_value_none">Žiadna</string>         
 
-     <string name="memorycard_calculating">Výpočet...</string>                                    
+     <string name="memorycard_calculating">Výpočet...</string>       
+     
+<string name="bt_pre_summary">Poskytnúť vysokokvalitný zvukový zážitok</string>
+                                  
 </resources>
