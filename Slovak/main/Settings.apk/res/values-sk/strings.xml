@@ -7543,5 +7543,15 @@ Táto funkcia funguje iba vtedy, keď je navigácia v systéme nastavená na ges
      <string name="memorycard_calculating">Výpočet...</string>       
      
 <string name="bt_pre_summary">Poskytnúť vysokokvalitný zvukový zážitok</string>
+
+<string name="accessibility_menu_summary_pad">Ovládajte svoje zariadenie pomocou pohodlných skratiek</string>
+    <string name="auto_clean_description_pad">"O tejto funkcii
+- Spustite túto funkciu raz alebo dvakrát, ak zistíte, že váš reproduktor je mierne blokovaný prachom.
+- Ak je reproduktor silne zablokovaný, spustite túto funkciu %1$d-%2$d-krát, pričom zatraste zariadením tak, aby reproduktor smeroval nadol.“</string>
+<string name="clear_data_alert_info_pad">Všetky zálohy uložené v tomto zariadení budú natrvalo odstránené. Pred pokračovaním si zálohujte dôležité položky do počítača a Xiaomi Cloud.</string>
+<string name="feedback_settings_new">Spätná väzba</string>
+<string name="freeform_guide_slide_to_small_freeform_summary_pad_global">Aplikáciu minimalizujte potiahnutím rohu</string>
+<string name="multi_window_cvw_summary_global">Presunutím rohu prepnite na plávajúce okno a upravte jeho veľkosť</string>
+<string name="reset_confirm_directory_pad">"Poznámka: Pred obnovením položiek skontrolujte, či na vašom mobilnom zariadení existuje priečinok \"MIUI-Backup-AllBackup\". Ak nie, vytvorte ho."</string>
                                   
 </resources>

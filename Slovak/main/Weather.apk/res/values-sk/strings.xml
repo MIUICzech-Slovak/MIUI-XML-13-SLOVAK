@@ -375,4 +375,6 @@ Zadajte vaše mesto manuálne"</string>
 
     <string name="today">Dnes</string>
     <string name="tomorrow">Zajtra</string>   
+    
+<string name="select_show_city">Vyberte polohu</string>    
 </resources>  

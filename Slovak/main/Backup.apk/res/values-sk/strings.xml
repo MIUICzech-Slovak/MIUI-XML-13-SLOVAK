@@ -849,4 +849,53 @@ Veľkosť Delta aktualizácie: %2$s"</string>
     <string name="privacy_settings_title">Ochrana súkromia</string>	
 	
 <string name="enable_local_backup_tips_global">Zapnite túto funkciu, aby ste mohli zálohovať a obnovovať dáta do svojho zariadenia alebo počítača. Zapnúť teraz?</string>	
+
+<string name="permission_admitted">Udelené</string>
+     <string name="permission_backup_calendar">Na zálohovanie udalostí v kalendári</string>
+     <string name="permission_backup_calendar_desc">Ak chcete zálohovať udalosti kalendára, najskôr povoľte tejto aplikácii upravovať udalosti vášho kalendára.</string>
+     <string name="permission_backup_calllog">Na zálohovanie histórie hovorov</string>
+     <string name="permission_backup_calllog_desc">Ak chcete zálohovať históriu hovorov, najskôr povoľte tejto aplikácii prístup k histórii hovorov.</string>
+     <string name="permission_backup_contacts">Na zálohovanie kontaktov</string>
+     <string name="permission_backup_contacts_desc">Ak chcete zálohovať kontakty, najskôr povoľte tejto aplikácii prístup k vašim kontaktom.</string>
+     <string name="permission_backup_file">Na zálohovanie súborov</string>
+     <string name="permission_backup_sms">Na zálohovanie správ</string>
+     <string name="permission_backup_sms_desc">Ak chcete zálohovať správy, najskôr povoľte tejto aplikácii prístup k vašim správam.</string>
+     <string name="permission_content_title">Vyžadujú sa povolenia</string>
+     <string name="permission_dialog_positive_btn">Nastavenia</string>
+     <string name="permission_intro">Podrobnosti povolení</string>
+     <string name="permission_management_entrance">Spravovať povolenia</string>
+     <string name="permission_not_admit">Neudelené</string>
+     <string name="permission_purpose">Táto funkcia vám umožňuje zálohovať a obnovovať položky pomocou mobilného zariadenia, počítačov a jednotiek USB.</string>
+     <string name="permission_read_apps">Prístup k zoznamu aplikácií nainštalovaných v tomto zariadení</string>
+     <string name="permission_read_calendar">Prístup k udalostiam kalendára</string>
+     <string name="permission_read_calllog">Prístup k histórii hovorov</string>
+     <string name="permission_read_contacts">Prístup ku kontaktom</string>
+     <string name="permission_read_sms">Prístup k správam</string>
+     <string name="permission_read_storage">Pristupujte k položkám a ukladajte ich do úložiska</string>
+     <string name="permission_read_storage_global">Prístup k úložisku</string>
+     <string name="permission_read_write_storage">Ak chcete zálohovať položky, najskôr povoľte tejto funkcii prístup k úložisku.</string>
+     <string name="permission_read_write_sys_app">Ak chcete zálohovať a obnoviť správy, kontakty a históriu hovorov, najskôr povoľte tejto funkcii prístup k týmto položkám.</string>
+     <string name="permission_related">Povolenia</string>
+     <string name="permission_restore_calendar">Na obnovenie udalostí v kalendári</string>
+     <string name="permission_restore_calendar_desc">Ak chcete obnoviť udalosti v kalendári, najskôr povoľte tejto aplikácii upravovať udalosti vášho kalendára.</string>
+     <string name="permission_restore_calllog">Na obnovenie histórie hovorov</string>
+     <string name="permission_restore_calllog_desc">Ak chcete obnoviť históriu hovorov, najskôr povoľte tejto aplikácii upravovať vašu históriu hovorov.</string>
+     <string name="permission_restore_contacts">Na obnovenie kontaktov</string>
+     <string name="permission_restore_contacts_desc">Ak chcete obnoviť kontakty, najskôr povoľte tejto aplikácii upravovať vaše kontakty.</string>
+     <string name="permission_show_all_apps">Na zobrazenie aplikácií, ktoré je možné zálohovať</string>
+     <string name="permission_show_all_apps_desc">Ak chcete zobraziť aplikácie, ktoré možno zálohovať, najskôr povoľte tejto aplikácii prístup k zoznamu aplikácií nainštalovaných v tomto zariadení.</string>
+     <string name="permission_write_calllog">Upraviť históriu hovorov</string>
+     <string name="permission_write_contacts">Upraviť kontakty</string>
+     <string name="permission_write_storage">Uložiť položky do úložiska</string>
+     
+<string name="agree_button">Súhlasím</string>
+    <string name="agree_revoke_permission_title">Odobratie povolení</string>
+<string name="alternative_ui_content">Táto funkcia vám umožňuje zálohovať a obnovovať položky pomocou mobilného zariadenia a počítača. Táto funkcia sa musí pripojiť k internetu a vyžaduje nasledujúce povinné povolenia, aby mohla normálne fungovať:</string>
+    <string name="grant_all_permission_content">Udeľte všetky povinné povolenia, aby ste mohli zálohovať a obnovovať položky.</string>
+    <string name="grant_all_permission_title">Vyžadujú sa povolenia</string>
+<string name="privacy_policy_link">Ak sa chcete dozvedieť viac o našich postupoch spracovania údajov a svojich právach ako používateľa, prečítajte si a vyjadrite súhlas s našimi Zásadami ochrany osobných údajov predtým, ako budete pokračovať."</string>
+<string name="private_policy_text">Zásady ochrany osobných údajov</string>
+<string name="restore_files">Na obnovenie položiek</string>
+<string name="revoke_permission_dialog_content">"Bez všetkých povinných povolení nebudete môcť zálohovať ani obnovovať položky. Napriek tomu povolenia odobrať?"</string>
+<string name="user_know_button_text">Rozumiem</string>     
 </resources>  

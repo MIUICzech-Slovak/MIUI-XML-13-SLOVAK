@@ -167,4 +167,5 @@
     <string name="permission_description">Podrobnosti o povoleniach</string>
     <string name="preference_privacy_policy">Zobraziť Ochranu súkromia</string>
     <string name="preference_privacy_setting">Súkromie</string>	
+<string name="calibrating">Kalibrovanie kompasu</string>    
 </resources>  

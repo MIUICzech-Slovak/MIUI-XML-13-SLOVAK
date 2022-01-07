@@ -2723,4 +2723,5 @@ dd.MM"</string>
      <string name="input_pattern_after_face_not_allowed">Zadajte svoje heslo aspoň raz za %d hodín, aby bolo toto zariadenie zabezpečené</string>
      <string name="input_pattern_or_finger_after_face_not_allowed">Zadajte svoje heslo alebo použite odtlačok prsta aspoň raz za %d hodín, aby ste toto zariadenie zabezpečili</string>
      <string name="open_xmyzl_hint_text">Prejdením prstom doprava otvorte Xiaomi Magic Control</string>     
+    <string name="input_second_pattern_after_restart_msg">Zadajte heslo pre Druhý prodil ak chcete pokračovať</string>     
 </resources>
