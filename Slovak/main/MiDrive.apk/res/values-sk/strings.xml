@@ -539,7 +539,7 @@ Uistite sa, že ako systémový účet MIUI používate aktuálny účet Mi."</s
      <string name="upload_metered_network_dialog_ok">Odovzdať</string>
      <string name="upload_metered_network_dialog_title">Používanie mobilných dát</string>
      <string name="user_agreement_title">Používateľská zmluva služby Mi Drive</string>
-     <string name="user_protocol_and_privacy_protocol">Prečítal som si Podmienky používania a Ochranu súkromia.</Data></string>
+     <string name="user_protocol_and_privacy_protocol">Prečítal som si Podmienky používania a Ochranu súkromia.</string>
      <string name="v7_preference_off">VYPNUTÉ</string>
      <string name="v7_preference_on">ZAPNUTÉ</string>
      <string name="video_picker_title">Vyberte videá</string>
