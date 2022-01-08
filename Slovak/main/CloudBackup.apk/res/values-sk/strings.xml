@@ -402,4 +402,21 @@ Vyžadujú sa povolenia."</string>
 	
     <string name="miuix_access_state_desc">Vybrané</string>
 	<string name="miuix_indexer_selected">Vybraných: %s</string>
+	
+
+     <string name="cloud_backup_detail_app_data_summary">Zálohovanie histórie rozhovorov, súborov a iných položiek</string>
+     <string name="confirm_restore_app_data">Prepísanie údajov aplikácie</string>
+     <string name="copy">Kopírovať</string>
+     <string name="dialog_app_usage_consent_title">Povoliť prístup k údajom o používaní aplikácie</string>
+     <string name="dialog_backup_failed">"Nepodarilo sa zálohovať"</string>
+     <string name="dialog_button_agree">Povoliť</string>
+     <string name="dialog_button_disagree">"Nepovoliť"</string>
+     <string name="dialog_buy_cloud_space">Inovovať</string>
+     <string name="dialog_cloud_space_not_enough">Táto záloha vyžaduje %1$s voľného priestoru v cloude. Ak chcete zálohovať položky, inovujte svoj plán úložiska.</string>
+     <string name="dump_app_data_record_complete_msg">Umiestnenia súborov: %s</string>
+     <string name="expand_button_title">Rozšírené</string>
+     <string name="not_set">Nenastavené</string>
+     <string name="preference_copied">\"%1$s\" bolo skopírované do schránky.</string>
+     <string name="restore_detail_category_app_data_summary">História hovorov, súbory a ďalšie položky (%s)</string>
+	
 </resources>  
