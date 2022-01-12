@@ -326,4 +326,8 @@
     
      <string name="miui_multiwindow_not_support_small_window">%1$s nepodporuje plávajúce okná</string>
      <string name="miui_multiwindow_not_support_split">%1$s nepodporuje rozdelenú obrazovku</string>  
+     
+<string name="small_freeform_check_memory_exception_message">%1$s spôsobila chybu RAM. Zatvorte túto aplikáciu, aby ste sa vyhli zasekávaniu.</string>
+     <string name="small_freeform_check_memory_exception_negative_message">Zrušiť</string>
+     <string name="small_freeform_check_memory_exception_positive_message">Zatvoriť</string>     
 </resources>

@@ -1349,4 +1349,6 @@ Toto povolenie môžete udeliť v časti Nastavenia > Ochrana osobných údajov.
      <string name="wifi_check_message">Používať na sťahovanie aktualizácií mobilné dáta?</string>
      <string name="wifi_check_tip">Už nezobrazovať</string>         
      <string name="privacy_pad_fold_Read_write_storage">Prístup k úložisku</string>     
+     <string name="show_exchange">Skratka centra uplatnenia</string>
+     <string name="show_exchange_desc">Zobraziť alebo skryť skratku Centra uplatnenia</string> 
 </resources>  

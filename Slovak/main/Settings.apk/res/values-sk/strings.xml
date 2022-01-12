@@ -7553,5 +7553,9 @@ Táto funkcia funguje iba vtedy, keď je navigácia v systéme nastavená na ges
 <string name="freeform_guide_slide_to_small_freeform_summary_pad_global">Aplikáciu minimalizujte potiahnutím rohu</string>
 <string name="multi_window_cvw_summary_global">Presunutím rohu prepnite na plávajúce okno a upravte jeho veľkosť</string>
 <string name="reset_confirm_directory_pad">"Poznámka: Pred obnovením položiek skontrolujte, či na vašom mobilnom zariadení existuje priečinok \"MIUI-Backup-AllBackup\". Ak nie, vytvorte ho."</string>
-                                  
+
+    <string name="ap_connect_failed">Pripojenie zlyhalo</string>
+    <string name="ap_connected_battery_level">" | batéria %1$s"</string>    
+    <string name="connection_control">Spravovať pripojenia</string>
+                                      
 </resources>

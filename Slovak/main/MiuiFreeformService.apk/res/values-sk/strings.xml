@@ -34,4 +34,6 @@
     <string name="freeform_demo_previous_tutorial">Späť</string>       
      <string name="multi_window_cvw">Plávajúce okno</string>
      <string name="multi_window_cvw_summary">Presunutím rohu prepnite na plávajúce okno a upravte jeho veľkosť</string>
+     
+   <string name="multi_window_cvw_summary_global">Presunutím rohu prepnite na plávajúce okno a upravte jeho veľkosť</string>  
 </resources>

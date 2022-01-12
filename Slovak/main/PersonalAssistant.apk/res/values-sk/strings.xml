@@ -735,4 +735,40 @@
      <string name="cta_dialog_desc_storage">Pre ukladanie položiek do zariadenia</string>    
      
     <string name="calc_convert">Konvertovať</string>     
+    
+<string name="agenda_request_perm">Povoliť tejto aplikácii najskôr prístup ku Kalendáru</string>
+<string name="app_pa_setting_about_title">O tejto aplikácii</string>
+    <string name="app_pa_setting_perm_calendar">Prístup ku kalendáru</string>
+    <string name="app_pa_setting_perm_denied">Neudelené</string>
+    <string name="app_pa_setting_perm_desc">Podrobnosti povolení</string>
+    <string name="app_pa_setting_perm_granted">Udelené</string>
+    <string name="app_pa_setting_perm_location">Prístup k polohe</string>
+    <string name="app_pa_setting_perm_state">Prístup k informáciám o zariadení</string>
+    <string name="app_pa_setting_perm_storage">Prístup k úložisku</string>
+    <string name="app_pa_setting_perm_title">Povolenia</string>
+    <string name="app_pa_setting_permission">Podrobnosti o povoleniach</string>
+    <string name="app_pa_setting_preference_title">Predvoľby</string>
+    <string name="app_pa_setting_priv_policy_title">Zásady ochrany osobných údajov</string>
+    <string name="app_pa_setting_private_policy">Zobraziť pravidlá ochrany osobných údajov</string>
+    <string name="app_pa_setting_retract">Odvolanie súhlasu</string>
+    <string name="app_pa_setting_retract_dialog_message">"Ak budete pokračovať, odvoláte svoj súhlas s pravidlami ochrany osobných údajov trezoru aplikácie. Osobné informácie, ktoré už boli zhromaždené a uchovávané, budú vymazané počas konkrétneho obdobia v súlade s platnými zákonmi a nariadeniami, pokiaľ to nebude potrebné v opačnom prípade. Keďže Trezor aplikácií poskytuje svoje služby na základe zhromažďovania potrebných osobných informácií, vaše odvolanie súhlasu sa bude považovať za odmietnutie prijatia služieb Trezor aplikácií. Odvolať súhlas teraz?“</string>
+    <string name="app_pa_setting_retract_dialog_negative">Vybrať</string>
+    <string name="app_pa_setting_retract_error">"Nepodarilo sa pripojiť k sieti. Skontrolujte nastavenia siete a skúste to znova."</string>
+    <string name="app_pa_setting_retract_error_message">Vyskytla sa chyba servera. Počkajte minútu alebo dve a skúste to znova.</string>
+    <string name="app_pa_setting_retract_error_title">„Súhlas sa nepodarilo odvolať“</string>
+    <string name="app_pa_setting_retract_no_net_message">Vaše zariadenie sa musí pripojiť k sieti, aby ste mohli odvolať súhlas. Skontrolujte nastavenia siete a skúste to znova.</string>
+    <string name="app_pa_setting_retract_no_net_title">"Nepodarilo sa pripojiť k sieti"</string>
+    <string name="app_pa_setting_retract_positive">Rozumiem</string>
+    <string name="app_pa_setting_retract_sec_left">Výber (%ds)</string>
+    <string name="app_pa_setting_retract_summary">Odvolať súhlas s pravidlami ochrany osobných údajov trezoru aplikácie</string>
+    <string name="app_pa_setting_retract_title">Odvolanie súhlasu a zrušenie služby</string>
+    <string name="cta_policy_change_dialog_agree">Súhlasím</string>
+    <string name="cta_policy_change_dialog_exit">Ukončiť</string>
+    <string name="cta_policy_change_dialog_message" formatted="false">"Zásady ochrany osobných údajov trezora aplikácií boli aktualizované:
+%s
+Pred pokračovaním si prečítajte a vyjadrite súhlas s novou verziou %s."</string>
+    <string name="cta_policy_change_dialog_title">Aktualizované pravidlá ochrany osobných údajov</string>
+     <string name="cta_privacy_policy">Zásady ochrany osobných údajov</string>
+    <string name="cta_refuse_policy_dialog_message">"Nebudete môcť naďalej používať Trezor aplikácií, pokiaľ nevyjadríte súhlas s novou verziou jeho %s. Súhlasíte teraz s aktualizovanými Zásadami ochrany osobných údajov?"</string>
+    <string name="cta_refuse_policy_dialog_title">Pozor</string>    
 </resources>  

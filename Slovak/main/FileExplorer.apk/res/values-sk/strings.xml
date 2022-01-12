@@ -959,5 +959,7 @@ Získali ste ďalších %1$s"</string>
     <string name="no_permission">Povoľte požadované povolenia pre túto funkciu</string>
     <string name="to_open">Nastavenia</string>
     <string name="to_setting">Nastavenia</string>        
-	
+    <string name="midriver_install_button_text">Inštalovať</string>
+    <string name="midriver_not_install_title">MiDrive je odinštalovaný</string>
+    <string name="reinstall_midriver_message">Nainštalovať znovu?</string>    	
 </resources>
