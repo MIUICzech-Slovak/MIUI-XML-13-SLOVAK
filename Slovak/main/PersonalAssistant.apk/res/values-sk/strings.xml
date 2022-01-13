@@ -749,7 +749,6 @@
     <string name="app_pa_setting_permission">Podrobnosti o povoleniach</string>
     <string name="app_pa_setting_preference_title">Predvoľby</string>
     <string name="app_pa_setting_priv_policy_title">Zásady ochrany osobných údajov</string>
-    <string name="app_pa_setting_private_policy">Zobraziť pravidlá ochrany osobných údajov</string>
     <string name="app_pa_setting_retract">Odvolanie súhlasu</string>
     <string name="app_pa_setting_retract_dialog_message">"Ak budete pokračovať, odvoláte svoj súhlas s pravidlami ochrany osobných údajov trezoru aplikácie. Osobné informácie, ktoré už boli zhromaždené a uchovávané, budú vymazané počas konkrétneho obdobia v súlade s platnými zákonmi a nariadeniami, pokiaľ to nebude potrebné v opačnom prípade. Keďže Trezor aplikácií poskytuje svoje služby na základe zhromažďovania potrebných osobných informácií, vaše odvolanie súhlasu sa bude považovať za odmietnutie prijatia služieb Trezor aplikácií. Odvolať súhlas teraz?“</string>
     <string name="app_pa_setting_retract_dialog_negative">Vybrať</string>
