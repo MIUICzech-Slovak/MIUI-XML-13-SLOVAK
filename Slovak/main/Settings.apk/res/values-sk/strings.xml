@@ -7557,5 +7557,7 @@ Táto funkcia funguje iba vtedy, keď je navigácia v systéme nastavená na ges
     <string name="ap_connect_failed">Pripojenie zlyhalo</string>
     <string name="ap_connected_battery_level">" | batéria %1$s"</string>    
     <string name="connection_control">Spravovať pripojenia</string>
-                                      
+     <string name="sar">Informácie o vystavení RF</string>
+     <string name="privacy_policy">Ochrana súkromia</string>     
+     <string name="user_agreement">Podmienky používania</string>                                           
 </resources>

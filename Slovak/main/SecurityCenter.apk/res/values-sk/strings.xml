@@ -5450,4 +5450,14 @@ k zvýšenej spotrebe batérie a prehrievaniu"</string>
 <string name="gd_splite_screen_tips">Rozdelená obrazovka nepodporuje plávajúce okná</string>
      <string name="pc_battery_chart_loading">Načítavanie...</string>
      <string name="vb_video_effects_3d_summary_headset">Zvýšte pocit ponorenia a obklopenia pri počúvaní zvuku v slúchadlách</string>     
+     
+<string name="system_anti_fraud_dialog_confirm_btn_txt">Rozumiem</string>
+     <string name="system_anti_fraud_dialog_content">"Zdá sa, že ste práve dostali podvodný hovor alebo správu. Pokračovanie v tejto platbe môže spôsobiť finančné straty."</string>
+     <string name="system_anti_fraud_dialog_hint">Ak vás personál služieb zákazníkom, úrady alebo ľudia, ktorých možno poznáte, požiadajú o dokončenie tejto platby, pred pokračovaním overte ich identitu.</string>
+     <string name="system_anti_fraud_dialog_image_txt">Ochrana proti podvodom</string>
+     <string name="system_anti_fraud_dialog_title">Upozornenie proti podvodom</string>
+     <string name="system_app_permission_instruction">Táto aplikácia potrebuje na poskytovanie základných systémových služieb nasledujúce povolenia. Správa povolení je pre túto aplikáciu obmedzená, pretože zmena stavu povolení povedie k abnormalitám fungovania systému.</string>
+     <string name="system_permission_declare_analytics_declare">"Pozývame vás, aby ste sa zaregistrovali do nášho Programu používateľskej skúsenosti. Táto aplikácia sa musí pripojiť k internetu a používať nasledujúce povolenia alebo funkcie na zhromažďovanie štatistík s cieľom zlepšiť služby, ktoré vám poskytujeme. zbierajte tu údaje iba na štatistické účely a na základe údajov, ktoré zhromažďujeme, vás nemôžeme osobne identifikovať.“</string>
+     <string name="system_permission_declare_no_say_no_analytics">"Ak nechcete udeliť tieto povolenia, môžete zrušiť registráciu v časti Nastavenia > Ďalšie nastavenia > Ochrana osobných údajov > Program používateľskej skúsenosti."</string>
+          
 </resources>  
