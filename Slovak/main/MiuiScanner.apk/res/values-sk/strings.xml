@@ -362,7 +362,7 @@
      <string name="code_result">Výsledky</string>
      <string name="confirm">OK</string>
      <string name="connect_to_wifi">Pripojte sa k tejto sieti</string>
-     <string name="content_desktop_uninstall">"Skener je systémová aplikácia. Po odinštalovaní aplikácie nebudete môcť používať súvisiace funkcie v Mi Browser, Camera, Mi AI, Contacts a ďalších systémových službách."</ reťazec>
+     <string name="content_desktop_uninstall">"Skener je systémová aplikácia. Po odinštalovaní aplikácie nebudete môcť používať súvisiace funkcie v Mi Browser, Camera, Mi AI, Contacts a ďalších systémových službách."</string>
      <string name="continue_waiting">Čakajte ďalej</string>
      <string name="copy_tracknum">Kopírujte kód sledovania</string>
      <string name="create_again">Obnoviť</string>
