@@ -539,7 +539,7 @@
      <string name="please_try_again_later">Počkajte minútu alebo dve a skúste to znova</string>
      <string name="preference_copied">\"%1$s\" bolo skopírované do schránky.</string>
      <string name="privacy_policy_update">Aktualizované zásady ochrany osobných údajov</string>
-     <string name="privacy_policy_update_message"><Data>"Skener nebudete môcť naďalej používať, pokiaľ nevyjadríte súhlas s novou verziou jeho &lt;a href=\"%1$s\">zásad ochrany osobných údajov&lt;/a >. Súhlasíte s aktualizovanými Zásadami ochrany osobných údajov?"</Data></string>
+     <string name="privacy_policy_update_message">"Skener nebudete môcť naďalej používať, pokiaľ nevyjadríte súhlas s novou verziou Podmienok ochrany súkromia. Súhlasíte?"</string>
      <string name="privacy_policy_update_welcome">Zásady ochrany osobných údajov skenera boli aktualizované:</string>
      <string name="privacy_policy_withdrawal_error">"Súhlas sa nepodarilo odvolať. Počkajte minútu alebo dve a skúste to znova."</string>
      <string name="privacy_policy_withdrawal_message">"Ak budete pokračovať, odvoláte svoj súhlas so Zásadami ochrany osobných údajov skenera. Bude to považované za odmietnutie prijatia služieb skenera. Budete musieť vyjadriť súhlas s Ochranou súkromia, ak sa rozhodnete použiť Skener. Chcete teraz odvolať súhlas?"</string>
