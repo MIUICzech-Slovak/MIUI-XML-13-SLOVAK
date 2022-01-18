@@ -13,7 +13,7 @@
   <string name="allow_check_website_security">skontrolovať bezpečnosť webstránok</string>
   <string name="always">Vždy</string>
   <string name="app_description_content">Skener môže načítať QR kódy, vizitky a dokumenty.</string>
-  <string name="app_description_title">O skenere</string>
+  <string name="app_description_title">O skeneri</string>
   <string name="app_details">"Apl.: "</string>
   <string name="app_name">Skener</string>
   <string name="back">Späť</string>
@@ -361,8 +361,8 @@
      <string name="code_determine">OK</string>
      <string name="code_result">Výsledky</string>
      <string name="confirm">OK</string>
-     <string name="connect_to_wifi">Pripojte sa k tejto sieti</string>
-     <string name="content_desktop_uninstall">"Skener je systémová aplikácia. Po odinštalovaní aplikácie nebudete môcť používať súvisiace funkcie v Mi Browser, Camera, Mi AI, Contacts a ďalších systémových službách."</string>
+     <string name="connect_to_wifi">Pripojiť sa k tejto sieti</string>
+     <string name="content_desktop_uninstall">"Skener je systémová aplikácia. Po odinštalovaní aplikácie nebudete môcť používať súvisiace funkcie v Mi Browser, Camera, Mi AI, Kontaktov a ďalších systémových službách."</string>
      <string name="continue_waiting">Čakajte ďalej</string>
      <string name="copy_tracknum">Kopírujte kód sledovania</string>
      <string name="create_again">Obnoviť</string>
@@ -391,8 +391,8 @@
      <string name="fax">Fax</string>
      <string name="feedback">Spätná väzba</string>
      <string name="filename_cannot_beempty">"Súbory bez názvu nemožno uložiť"</string>
-     <string name="flash_close">zavrieť</string>
-     <string name="flash_open">otvoriť</string>
+     <string name="flash_close">Zhasnúť</string>
+     <string name="flash_open">Zapnúť</string>
      <string name="format_error">Neplatné heslo</string>
      <string name="general_error">"Nepodarilo sa rozpoznať"</string>
      <string name="general_feedback">Nahláste chyby</string>
@@ -503,8 +503,8 @@
      <string name="picture_message_audio_max_num">Vyberte až %1$s zvuk</string>
      <string name="picture_message_max_num">Vyberte až %1$s obrázkov</string>
      <string name="picture_message_video_max_num">Vyberte až %1$s video</string>
-     <string name="picture_min_img_num">Výber obrázka nemôže%1$sNumber</string>
-     <string name="picture_min_video_num">Výber videa nemôže%1$sNumber</string>
+     <string name="picture_min_img_num">Výber obrázka nemôže %1$s</string>
+     <string name="picture_min_video_num">Výber videa nemôže %1$s</string>
      <string name="picture_not_crop_data">Žiadne orezané údaje</string>
      <string name="picture_original_image">Pôvodné (%1$s)</string>
      <string name="picture_pause_audio">Pozastaviť</string>
@@ -513,7 +513,7 @@
      <string name="picture_photo_recording">Dlhé stlačenie fotoaparátu</string>
      <string name="picture_photograph">Fotografie</string>
      <string name="picture_play_audio">Prehrať</string>
-     <string name="picture_please">Prosím neskôr...</string>
+     <string name="picture_please">Načítavanie...</string>
      <string name="picture_please_select">Vyberte</string>
      <string name="picture_preview">Ukážka</string>
      <string name="picture_preview_image_num">%1$d/%2$d</string>
@@ -533,7 +533,7 @@
      <string name="picture_take_picture">Výstrel</string>
      <string name="picture_tape">Páska</string>
      <string name="picture_video_error">Video je poškodené</string>
-     <string name="picture_video_toast">Video nie je ukážka</string>
+     <string name="picture_video_toast">Video nemá ukážku</string>
      <string name="picture_warning">Žiadne mediálne súbory!</string>
      <string name="please_select_an_item">Vyberte položky</string>
      <string name="please_try_again_later">Počkajte minútu alebo dve a skúste to znova</string>
@@ -544,7 +544,7 @@
      <string name="privacy_policy_withdrawal_error">"Súhlas sa nepodarilo odvolať. Počkajte minútu alebo dve a skúste to znova."</string>
      <string name="privacy_policy_withdrawal_message">"Ak budete pokračovať, odvoláte svoj súhlas so Zásadami ochrany osobných údajov skenera. Bude to považované za odmietnutie prijatia služieb skenera. Budete musieť vyjadriť súhlas s Ochranou súkromia, ak sa rozhodnete použiť Skener. Chcete teraz odvolať súhlas?"</string>
      <string name="processing">Spracováva sa…</string>
-     <string name="prompt">Pozor</string>
+     <string name="prompt">Upozornenie</string>
      <string name="qrcode_cannot_be_processed_auto">"Inteligentný skener nedokáže spracovať tento kód. Namiesto toho naskenujte kód pomocou služby WeChat."</string>
      <string name="qureyGoods">Vyhľadať produkty</string>
      <string name="read_contacts_permissions_text">Povoľte Skeneru prístup ku kontaktom, aby ste mohli používať túto funkciu.</string>
@@ -588,7 +588,7 @@
      <string name="ucrop_rotate">Otočiť</string>
      <string name="ucrop_scale">Mierka</string>
      <string name="uninstall_prompt">Ak sa počas inštalácie vyskytnú problémy, prejdite do časti Nastavenia > Aplikácie > Spravovať aplikácie > Skener, klepnite na položku \"Odinštalovať\" a skúste aplikáciu nainštalovať znova.</string>
-     <string name="user_agreement">Zmluva s používateľom</string>
+     <string name="user_agreement">Podmienky používania</string>
      <string name="user_notification">Odvolanie súhlasu</string>
      <string name="version_code">"Verzia: "</string>
      <string name="welcome_to_thesweepversion">Vitajte v Scanner Beta!</string>
@@ -599,5 +599,6 @@
      <string name="word_to_be_recognized_is_aligned_with_cross">Slovo, ktoré sa má rozpoznať, je zarovnané s krížikom</string>
      <string name="word_translation">Preklad slova</string>
      <string name="you_id">"Vaše ID: "</string>                    
+    <string name="feedback_title">Spätná väzba</string>
           
 </resources>  
