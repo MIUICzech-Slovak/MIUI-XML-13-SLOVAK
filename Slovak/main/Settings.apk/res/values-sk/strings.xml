@@ -7212,7 +7212,7 @@ Medzi funkciami môžete prepínať potiahnutím troma prstami nahor a podržan�
     <string name="asst_capability_prioritizer_title">Priorita prispôsobivých upozornení</string>
     <string name="asst_capability_ranking_summary">Automaticky zoradiť upozornenia podľa relevancie</string>
     <string name="asst_capability_ranking_title">Pozícia prispôsobivých upozornení</string>
-    <string name="enable_sizecompat_freeform">Povoliť prispôsobenie pri nemennej veľkosti</string>
+    <string name="enable_sizecompat_freeform">Vynútiť zmenu veľkosti okien</string>
     <string name="enable_sizecompat_freeform_summary">Povolí prispôsobenie aplikácií s nemennou veľkosťou</string>
     <string name="screen_timeout_subtitle">Zobrazenie statického obsahu po dlhšiu dobu môže spôsobiť, že farby budú nerovnomerné</string>	
     <string name="switch_power_sound">Prehrať zvuk pri pripojení nabíjačky</string>	
@@ -7559,5 +7559,14 @@ Táto funkcia funguje iba vtedy, keď je navigácia v systéme nastavená na ges
     <string name="connection_control">Spravovať pripojenia</string>
      <string name="sar">Informácie o vystavení RF</string>
      <string name="privacy_policy">Ochrana súkromia</string>     
-     <string name="user_agreement">Podmienky používania</string>                                           
+     <string name="user_agreement">Podmienky používania</string>                  
+     
+<string name="brightness_auto_summary">Upraviť jas podľa okolitého svetla, aby sa šetrila batéria</string>
+     <string name="external_ram_remind_toast">Dochádza miesto na úložisku. Rozšírenie RAM je momentálne vypnuté.</string>
+     <string name="headset_ambient_sound">Okolité zvuky</string>
+     <string name="headset_silent_upgrade_switch_summary">Slúchadlá sa automaticky inovujú za určitých podmienok</string>
+     <string name="headset_silent_upgrade_switch_title">Automatická aktualizácia</string>
+     <string name="high_brightness_hint_summary">Keď je okolité svetlo silné, v hornej časti obrazovky sa zobrazí ikona slnka</string>
+     <string name="screen_brightness">Jas obrazovky</string>
+                                                          
 </resources>

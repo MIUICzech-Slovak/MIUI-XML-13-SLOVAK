@@ -962,4 +962,9 @@ Získali ste ďalších %1$s"</string>
     <string name="midriver_install_button_text">Inštalovať</string>
     <string name="midriver_not_install_title">MiDrive je odinštalovaný</string>
     <string name="reinstall_midriver_message">Nainštalovať znovu?</string>    	
+    <string name="internal_storage">Interné úložisko</string>    
+    
+    <string name="tip">Upozornenie</string>
+
+    
 </resources>

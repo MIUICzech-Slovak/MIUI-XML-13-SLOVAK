@@ -5459,5 +5459,12 @@ k zvýšenej spotrebe batérie a prehrievaniu"</string>
      <string name="system_app_permission_instruction">Táto aplikácia potrebuje na poskytovanie základných systémových služieb nasledujúce povolenia. Správa povolení je pre túto aplikáciu obmedzená, pretože zmena stavu povolení povedie k abnormalitám fungovania systému.</string>
      <string name="system_permission_declare_analytics_declare">"Pozývame vás, aby ste sa zaregistrovali do nášho Programu používateľskej skúsenosti. Táto aplikácia sa musí pripojiť k internetu a používať nasledujúce povolenia alebo funkcie na zhromažďovanie štatistík s cieľom zlepšiť služby, ktoré vám poskytujeme. zbierajte tu údaje iba na štatistické účely a na základe údajov, ktoré zhromažďujeme, vás nemôžeme osobne identifikovať.“</string>
      <string name="system_permission_declare_no_say_no_analytics">"Ak nechcete udeliť tieto povolenia, môžete zrušiť registráciu v časti Nastavenia > Ďalšie nastavenia > Ochrana osobných údajov > Program používateľskej skúsenosti."</string>
-          
+
+     <string name="send_sms_title">Povoliť %s odoslať správu?</string>
+     <string name="setting_back_sound_loading_msg">Načítavanie...</string>
+     <string name="sms_content">"Správa: "</string>
+     <string name="sms_sender">"Komu: "</string>
+     <string name="verify_sms_ensure_allow">Odoslať</string>
+     <string name="verify_sms_title">%1$s sa pokúša odoslať správu…</string>
+                              
 </resources>  
