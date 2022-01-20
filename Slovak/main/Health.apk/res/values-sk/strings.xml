@@ -1731,7 +1731,7 @@ Ak nechcete zdieľať svoje informácie, môžete túto funkciu vypnúť."</stri
      <string name="tb_hearing_column">%1$s | Expozícia pre slúchadlá: %2$s | Hlasné zvuky: %3$s.</string>
      <string name="tb_hearing_daily_card">%1$s | Expozícia pre slúchadlá: %2$s | Hlasné zvuky: %3$s.</string>
      <string name="tb_hearing_wm_card">%1$s | Priemerná expozícia slúchadiel: %2$s | Priemerná expozícia hlasitému zvuku: %3$s.</string>
-     <string name="tb_step_widget">Dnes. %1$s. Priebeh: %2$d%</string>
+     <string name="tb_step_widget" formatted="false">Dnes. %1$s. Priebeh: %2$d%</string>
      <string name="tb_volume_list_item">%1$s | Zvuky prostredia: %3$s (%2$d dB).</string>
      <string name="treble_duration">Hlasné zvuky</string>
      <string name="treble_sum_duration">Hlasné zvuky</string>
