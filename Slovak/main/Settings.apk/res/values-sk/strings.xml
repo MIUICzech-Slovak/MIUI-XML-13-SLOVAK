@@ -7562,7 +7562,6 @@ Táto funkcia funguje iba vtedy, keď je navigácia v systéme nastavená na ges
      <string name="user_agreement">Podmienky používania</string>                  
      
 <string name="brightness_auto_summary">Upraviť jas podľa okolitého svetla, aby sa šetrila batéria</string>
-     <string name="external_ram_remind_toast">Dochádza miesto na úložisku. Rozšírenie RAM je momentálne vypnuté.</string>
      <string name="headset_ambient_sound">Okolité zvuky</string>
      <string name="headset_silent_upgrade_switch_summary">Slúchadlá sa automaticky inovujú za určitých podmienok</string>
      <string name="headset_silent_upgrade_switch_title">Automatická aktualizácia</string>
