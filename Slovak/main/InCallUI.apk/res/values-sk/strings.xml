@@ -142,7 +142,7 @@
   <string name="fraud_call_answer">Prijať</string>
   <string name="fraud_call_decline">Odmietnuť</string>
   <string name="fraud_call_waring">Buďte opatrný: Mali by ste si vždy overiť totožnosť kontaktu pred akoukoľvek odpoveďou na otázky ohľadom vašich osobných údajov.</string>
-  <string name="inCallLabel">InCallUI</string>
+  <string name="inCallLabel">Hovory</string>
   <string name="incall_bubble_hangup_click_hint">Dotknite sa znova pre návrat k hovoru</string>
   <string name="incall_call_type_label_sip">Volanie cez internet</string>
   <string name="incall_error_supp_service_conference">Hovory nie je možné spojiť do konferenčného hovoru.</string>

@@ -7567,5 +7567,8 @@ Táto funkcia funguje iba vtedy, keď je navigácia v systéme nastavená na ges
      <string name="headset_silent_upgrade_switch_title">Automatická aktualizácia</string>
      <string name="high_brightness_hint_summary">Keď je okolité svetlo silné, v hornej časti obrazovky sa zobrazí ikona slnka</string>
      <string name="screen_brightness">Jas obrazovky</string>
-<string name="interconnection">Prepojenie</string>                                                          
+<string name="interconnection">Prepojenie</string>            
+<string name="settingslib_learn_more_text">Viac</string>                                  
+<string name="use_personalized_ad_service_summary_for_global">"Keď sú odporúčania prispôsobených reklám vypnuté, v systémových aplikáciách MIUI sa vám bude stále zobrazovať rovnaké množstvo reklám, ako keď je táto funkcia zapnutá. Reklamy od Xiaomi a platforiem tretích strán sa však už nebudú relevantné, pretože nebudú založené na vašich osobných preferenciách.“</string>  
+<string name="about_ad_service_instructions_for_global">Informácie o reklamných službách a ochrane osobných údajov v systémových aplikáciách MIUI</string>          
 </resources>

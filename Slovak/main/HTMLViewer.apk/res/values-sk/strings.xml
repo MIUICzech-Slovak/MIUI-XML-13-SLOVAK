@@ -124,4 +124,24 @@
 <string name="user_experience_program">Program používateľskej skúsenosti</string>
     <string name="today">Dnes</string>
     <string name="tomorrow">Zajtra</string>   
+    
+<string name="action_use_network">Použiť</string>
+     <string name="autoconnect">Pripojiť automaticky</string>
+     <string name="copyright">Autorské práva</string>
+     <string name="error_continue_via_browser">Podrobnosti</string>
+     <string name="instruction">Dôležité bezpečnostné informácie</string>
+     <string name="legal_written_offer">Písomná ponuka</string>
+     <string name="open_wifi_connect_and_use_data_summary">Používanie mobilných dát. Klepnutím prepnete na Wi-Fi.</string>
+     <string name="poco_launcher_privacy_policy">Zásady ochrany osobných údajov spúšťača POCO</string>
+     <string name="poco_launcher_user_agreement">Používateľská zmluva spúšťača POCO</string>
+     <string name="poco_privacy_policy">Zásady ochrany osobných údajov spúšťača POCO &amp; POCO Launcher User Agreement</string>
+     <string name="privacy_policy">Zásady ochrany osobných údajov</string>
+     <string name="privacy_station_title">Ochrana osobných údajov v spoločnosti Xiaomi</string>
+     <string name="sar">Informácie o vystavení RF</string>
+     <string name="settings_ad_loading">Načítavanie...</string>
+     <string name="settings_ad_loading_unavailable">Informácie sa nepodarilo načítať.</string>
+     <string name="ssl_error_untrusted">Certifikát nevydala dôveryhodná certifikačná autorita. Napriek tomu ho použiť?</string>
+     <string name="user_agreement">Zmluvné podmienky</string>
+     <string name="user_experience_program">Program používateľskej skúsenosti</string>
+     <string name="user_manual">Príručka používateľa</string>    
 </resources>  
