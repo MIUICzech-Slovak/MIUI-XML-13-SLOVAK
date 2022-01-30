@@ -6871,7 +6871,7 @@ Táto funkcia získa vašu MAC adresu Wi-Fi siete iba na počiatočnú registrá
     <string name="system_touch">Haptická odozva</string>
     <string name="title_font_settings">Nastavenie písma</string>
     <string name="toast_apply_font_fail">Nie je možné nastaviť písmo</string>
-    <string name="user_experience_open_url">Dozvedieť sa viac o User Experience Program</string>
+    <string name="user_experience_open_url">Dozvedieť sa viac o Programe používateľskej skúsenosti</string>
 
     <string name="error_apn_not_allowed">Toto APN nie je povolené. Skúste iné.</string>
     <string name="intelligence_suppression_summary">Dynamicky prispôsobiť veľkosť oblasti pri krajoch kde budú ignorované dotyky</string>
@@ -7567,5 +7567,5 @@ Táto funkcia funguje iba vtedy, keď je navigácia v systéme nastavená na ges
      <string name="headset_silent_upgrade_switch_title">Automatická aktualizácia</string>
      <string name="high_brightness_hint_summary">Keď je okolité svetlo silné, v hornej časti obrazovky sa zobrazí ikona slnka</string>
      <string name="screen_brightness">Jas obrazovky</string>
-                                                          
+<string name="interconnection">Prepojenie</string>                                                          
 </resources>

@@ -294,7 +294,7 @@ Karty kontaktu sú deaktivované"</string>
   <string name="deleteConfirmation_title">Vymazať kontakt</string>
   <string name="delete_call_log_message">Vymazať históriu hovorov?</string>
   <string name="delete_call_log_selected_title">Vymazať vybrané záznamy volaní?</string>
-  <string name="delete_call_log_title">Vymazať vybrané logy hovorov?</string>
+  <string name="delete_call_log_title">Upozornenie</string>
   <string name="delete_contact_calllog_title">Chcete vymazať všetky záznamy o volaní kontaktu?</string>
   <string name="delete_dial_input">Vymazať</string>
   <string name="delete_duplicate">Zlúčiť</string>
