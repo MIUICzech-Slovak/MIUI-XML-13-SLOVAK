@@ -756,7 +756,7 @@ Pred pokračovaním si prečítajte a vyjadrite súhlas s novou verziou %3$s."</
      <string name="request_error_unknown">Vyskytla sa systémová chyba. Vráťte sa a skúste to znova.</string>
      <string name="request_gallery_permission_message">Povoliť prístup do Galérie: na nastavenie profilových fotografií</string>
      <string name="skip_query_account">Preskočiť</string>
-     <string name="submit_dialog_content_global_with_contactinfo">Vaša spätná väzba spolu s prílohami (ak existujú), denníkmi (môžete zrušiť začiarknutie príslušných políčok pri položkách, ktoré nechcete nahrať), telefónnym číslom alebo e-mailom sa odošle na servery MIUI. Protokoly môžu obsahovať osobné informácie a údaje o vašej polohe. Výberom možnosti \"Súhlasím\" znamená, že ste si prečítali našu Ochranu súkromia a súhlasíte s nimi a Podmienky používania.</Data></string>
+     <string name="submit_dialog_content_global_with_contactinfo">Vaša spätná väzba spolu s prílohami (ak existujú), denníkmi (môžete zrušiť začiarknutie príslušných políčok pri položkách, ktoré nechcete nahrať), telefónnym číslom alebo e-mailom sa odošle na servery MIUI. Protokoly môžu obsahovať osobné informácie a údaje o vašej polohe. Výberom možnosti \"Súhlasím\" znamená, že ste si prečítali našu Ochranu súkromia a súhlasíte s nimi a Podmienky používania.</string>
      <string name="system_error_info">Systém je zaneprázdnený. Počkajte minútu alebo dve a skúste to znova.</string>
      <string name="unknown_error_info">Neznáma chyba</string>
      <string name="user_agreement_hint_3rd_app">Prečítal som si Podmienky používania a Ochranu súkromia.</Data></string>
