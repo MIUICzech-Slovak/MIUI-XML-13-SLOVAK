@@ -1918,5 +1918,6 @@ Tiesňové volania sú možné len v oblastiach s pokrytím mobilnou sieťou.“
       <string name="vowifi_emergency_warning_title">Tiesňové volania cez volanie cez Wi-Fi</string>   
       
 <string name="status_unavailable">Nedostupné</string>
-                          
+<string name="roaming_notification_content">Predvoľby krajín môžete pridať automaticky, aby bolo vytáčanie pohodlnejšie.</string>
+<string name="roaming_notification_title">Zrejme je aktivovaný roaming</string>                     
 </resources>
