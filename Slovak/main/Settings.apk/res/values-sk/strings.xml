@@ -965,7 +965,7 @@ Vysielanie používa signály Bluetooth s nízkou spotrebou energie."</string>
   <string name="category_personal">Osobné</string>
   <string name="category_work">Práca</string>
   <string name="cdma_security_settings_summary">Nastavenie funkcie Moja poloha, odomknutie obrazovky a zamknutie úložiska poverení</string>
-  <string name="cell_broadcast_settings">Cell broadcasts</string>
+  <string name="cell_broadcast_settings">Núdzové správy</string>
   <string name="cell_broadcast_settings_summary">Vyberte typ núdzových správ na zobrazenie</string>
   <string name="cellular_data_summary">Povoliť využitie dát cez mobilnú sieť</string>
   <string name="cellular_data_title">Mobilné dáta</string>
