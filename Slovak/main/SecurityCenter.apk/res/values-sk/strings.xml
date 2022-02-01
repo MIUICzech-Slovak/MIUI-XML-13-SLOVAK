@@ -5466,5 +5466,7 @@ k zvýšenej spotrebe batérie a prehrievaniu"</string>
      <string name="sms_sender">"Komu: "</string>
      <string name="verify_sms_ensure_allow">Odoslať</string>
      <string name="verify_sms_title">%1$s sa pokúša odoslať správu…</string>
-<string name="system_permission_declare_optional">Na poskytovanie ďalších služieb počas používania aplikácie môžeme potrebovať nasledujúce povolenia: %s. Predvoľby povolení môžete kedykoľvek upraviť v časti Nastavenia.</string>                              
+<string name="system_permission_declare_optional">Na poskytovanie ďalších služieb počas používania aplikácie môžeme potrebovať nasledujúce povolenia: %s. Predvoľby povolení môžete kedykoľvek upraviť v časti Nastavenia.</string>                    
+     <string name="bottom_func_guide_default_text">Ďalšie funkcie</string>     
+     <string name="HIPS_Perm_tencentControl_Desc">Prístup k súborom zo sociálnych sietí</string>     
 </resources>  
