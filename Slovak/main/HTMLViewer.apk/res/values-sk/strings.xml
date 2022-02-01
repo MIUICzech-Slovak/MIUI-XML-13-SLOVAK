@@ -120,12 +120,9 @@
   <string name="fmt_date_short_month_day">"d. MMM "</string>
   <string name="fmt_date_short_year_month">MMM, yyyy</string>
   <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>     
-  
-<string name="user_experience_program">Program používateľskej skúsenosti</string>
-    <string name="today">Dnes</string>
-    <string name="tomorrow">Zajtra</string>   
-    
-<string name="action_use_network">Použiť</string>
+  <string name="today">Dnes</string>
+  <string name="tomorrow">Zajtra</string>   
+  <string name="action_use_network">Použiť</string>
      <string name="autoconnect">Pripojiť automaticky</string>
      <string name="copyright">Autorské práva</string>
      <string name="error_continue_via_browser">Podrobnosti</string>
