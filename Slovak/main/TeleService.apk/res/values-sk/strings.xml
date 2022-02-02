@@ -385,7 +385,7 @@ Vzorkovacia frekvencia"</string>
   <string name="choose_profile">Výber profilu</string>
   <string name="clear_adb_keys">Odvolať autorizácie na ladenie cez USB</string>
   <string name="clir_choices_hide_number">Skryť číslo</string>
-  <string name="clir_choices_network_default">Predvolená sieť</string>
+  <string name="clir_choices_network_default">Predvolené sieťou</string>
   <string name="clir_choices_show_number">Zobraziť číslo</string>
   <string name="close">Zatvoriť</string>
   <string name="close_dialog">OK</string>
@@ -1206,7 +1206,7 @@ Počet zostávajúcich pokusov: %d."</string>
   <string name="preferred_network_type_pref_entries_3g_preferred_cdma">Preferovať 3G(CDMA) siete</string>
   <string name="preferred_network_type_pref_entries_4g_preferred">Preferovať 4G siete</string>
   <string name="preferred_network_type_pref_entries_4g_preferred_cdma">Preferovať 4G (CDMA) siete</string>
-  <string name="preferred_network_type_pref_entries_5g_preferred">Preferovať 5G</string>
+  <string name="preferred_network_type_pref_entries_5g_preferred">Preferovať 5G siete</string>
   <string name="preferred_network_type_pref_entries_auto">Automaticky</string>
   <string name="preferred_network_type_pref_entries_global">Globálne</string>
   <string name="preferred_network_type_pref_entries_only_2g">Len 2G (šetrí batériu)</string>

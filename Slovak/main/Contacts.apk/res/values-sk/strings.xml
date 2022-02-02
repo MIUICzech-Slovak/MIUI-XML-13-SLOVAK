@@ -717,7 +717,7 @@ Chyba: \"%s\""</string>
   <string name="menu_viewContact">Zobraziť kontakt</string>
   <string name="merge_contact_message">Kontakty (%1$d) s podobnými informáciami</string>
   <string name="messageShortcutActivityTitle">Výber čísla pre správu</string>
-  <string name="miprofile_account_type">Mi účet</string>
+  <string name="miprofile_account_type">"Mi účet "</string>
   <string name="miprofile_alertdialog_edit">Zadajte meno</string>
   <string name="miprofile_alertdialog_message">Zobraziť toto meno kontaktom ak žiadate výmenu kariet.</string>
   <string name="miprofile_alertdialog_title">Zadajte meno</string>
@@ -854,7 +854,7 @@ Pre pridanie kontaktu do obľúbených:
 "</string>
   <string name="noGroups">Žiadne skupiny.</string>
   <string name="noMatchingContacts">Nenájdené žiadne zodpovedajúce kontakty.</string>
-  <string name="noRecentContacts">žiadne posledné kontakty</string>
+  <string name="noRecentContacts">Žiadne nedávne kontakty</string>
   <string name="no_account_prompt">"Kontakty pracujú najlepšie s účtom Google. 
 
 Majte k ním prístup kdekoľvek. 
@@ -1477,4 +1477,8 @@ Zvoľte jednu z nasledujúcich možností:</string>
       <string name="saf_permission_dialog_grant_permission_immediately">Povoliť</string>
       <string name="saf_permission_dialog_later">Neskôr</string>
       <string name="saf_permission_dialog_title">Povoliť prístup k nahrávkam hovorov</string>	
+<string name="miuix_appcompat_cloud_state_disabled">Synchronizácia s cloudom je vypnutá</string>
+      <string name="miuix_appcompat_cloud_state_finished">Úspešne synchronizované s cloudom</string>
+      <string name="miuix_appcompat_cloud_state_synncing">Synchronizuje sa s cloudom…</string>     
+           <string name="account_dual_sim">SIM karta %s</string> 
 </resources>  

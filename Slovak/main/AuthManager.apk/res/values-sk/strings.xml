@@ -109,7 +109,7 @@
   <string name="HIPS_Perm_DisableKeyguard_Hint">%1$s aplikácií môže odomknúť displej</string>
   <string name="HIPS_Perm_EndCall">Ukončiť prebiehajúci hovor</string>
   <string name="HIPS_Perm_External_Storage">Prístup a úprava súborov na internom úložisku</string>
-  <string name="HIPS_Perm_External_Storage_Desc">Vytvoriť a vymazať súboru na internom úložisku</string>
+  <string name="HIPS_Perm_External_Storage_Desc">Vytvoriť a vymazať súbory na internom úložisku</string>
   <string name="HIPS_Perm_GetCallState">Zistiť stav hovoru</string>
   <string name="HIPS_Perm_ListenCallState">Sledovať stav hovoru</string>
   <string name="HIPS_Perm_Location">Poloha</string>
@@ -222,7 +222,7 @@
   <string name="HIPS_Perm_background_start_activity">Spustiť na pozadí</string>
   <string name="HIPS_Perm_background_start_activity_Desc">Spustiť aplikáciu na pozadí</string>
   <string name="HIPS_Perm_deamon_notification">Permanentné upozornenie</string>
-  <string name="HIPS_Perm_deamon_notification_Desc">zobraziť permanentné upozornenie</string>
+  <string name="HIPS_Perm_deamon_notification_Desc">Zobraziť permanentné upozornenie</string>
   <string name="HIPS_Perm_get_accounts">Prístup k účtom v zariadení</string>
   <string name="HIPS_Perm_get_accounts_Desc">Prístup k všetkým účtom uloženým v zariadení</string>
   <string name="HIPS_Perm_get_installed_apps">Získať informácie o nainštalovaných aplikáciách</string>
@@ -254,7 +254,7 @@
   <string name="HIPS_SecurityPrompt_ROOT_Step3">Vaše súkromné dáta, ako sú účty, heslá a správy by mohli byť ohrozené</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step4">Tiež je možné trvalé poškodenie prístroja</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step5">Používajte opatrne!</string>
-  <string name="HIPS_SecurityPrompt_ROOT_Step6">Skutočne chcete povoliť aplikácií %1$s získať práva ROOT?</string>
+  <string name="HIPS_SecurityPrompt_ROOT_Step6">Skutočne chcete povoliť aplikácii %1$s získať práva ROOT?</string>
   <string name="HIPS_SecurityPrompt_Reject">Zakázať (%d)</string>
   <string name="HIPS_SecurityPrompt_Reject_Once">Zakázať raz (%d)</string>
   <string name="HIPS_SecurityPrompt_Remember">Pamätať si nastavenie</string>
@@ -381,7 +381,7 @@
   <string name="perm_modem_location">Prístup k vašej polohe</string>
   <string name="perm_modem_location_desc">Váš operátor sa pokúša o prístup k vašej polohe. Chcete povoliť informácie o polohe s operátorom?</string>
   <string name="HIPS_Perm_recognition">Prístup k aktivitám</string>
-  <string name="HIPS_Perm_recognition_Desc">Povoliť aplikácií prístup k vašej aktivite</string>  
+  <string name="HIPS_Perm_recognition_Desc">Povoliť aplikácii prístup k vašej aktivite</string>  
   
     <string name="HIPS_ACTION_REJECT_CLEAR">Zakázať a vymazať schránku</string>
     <string name="HIPS_Action_Accept_This">Povoliť raz</string>
