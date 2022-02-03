@@ -355,8 +355,8 @@
   <string name="transformation_type_rotate">3D rotácia</string>
   <string name="transformation_type_stack">Stoh</string>
   <string name="uninstall">Odinšt.</string>
-  <string name="uninstall_dialog_message">Odobrať aplikáciu</string>
-  <string name="uninstall_dialog_title_format">Odobrať \"%s\"</string>
+  <string name="uninstall_dialog_message">Všetky dáta apl. budú vymazané</string>
+  <string name="uninstall_dialog_title_format">Odinštalovať %s</string>
   <string name="uninstall_dialog_title_multi_format" formatted="false">Odinštalovať %s a %d ďalších apl.?</string>
   <string name="uninstall_result_failed">Nie je možné odinštalovať %s</string>
   <string name="uninstall_result_multi_succeeded">Odinštalované apl. (%1$d)</string>
