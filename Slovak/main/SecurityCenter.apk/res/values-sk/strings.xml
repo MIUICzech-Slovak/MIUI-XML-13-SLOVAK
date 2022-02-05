@@ -373,7 +373,7 @@ alebo zadajte heslo"</string>
   <string name="app_manager_wakepath_dialog_summary">Chain start happens when one app starts another app in the background. It can drain battery and lower the system performance. MIUI would normally block chain start.</string>
   <string name="app_manager_wakepath_dialog_title">Čo je to autoštart</string>
   <string name="app_managere_not_have_app">Prázdne</string>
-  <string name="app_mobile">2G/3G</string>
+  <string name="app_mobile">Mob. dáta</string>
   <string name="app_name">Zámok aplikácií</string>
   <string name="app_name_na">Spotreba dát</string>
   <string name="app_name_securitycenter">Optimalizácia</string>
@@ -1093,7 +1093,7 @@ For more info check the message you received from your service provider"</string
   <string name="firewall_restrict_data">Zakázať mobilné pripojenie</string>
   <string name="firewall_restrict_notify_title">%s nemôže použiť sieť</string>
   <string name="firewall_restrict_wlan">Zakázať používanie Wi-Fi</string>
-  <string name="firewall_rule_group_title_mobile">2G/3G</string>
+  <string name="firewall_rule_group_title_mobile">Mob. dáta</string>
   <string name="firewall_rule_group_title_roaming">Medzinárodný roaming</string>
   <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
   <string name="firewall_service_network_blocked">%1$s bolo zakázané používanie %2$s sietí</string>
@@ -2171,7 +2171,7 @@ Tento proces skracuje životnosť batérie."</string>
   <string name="power_mode_cpu_state_save">Úsporný</string>
   <string name="power_mode_cpu_state_save_desc">Priorita je čo najdlhšia životnosť batérie na úkor výkonu</string>
   <string name="power_mode_gps">GPS</string>
-  <string name="power_mode_internet">2G/3G</string>
+  <string name="power_mode_internet">Mob. dáta</string>
   <string name="power_mode_keep_state">Nemeniť</string>
   <string name="power_mode_my_mode">Môj režim</string>
   <string name="power_mode_my_mode_summary">Automaticky uložený stav denného používania</string>
@@ -2352,7 +2352,7 @@ Funkcia úspory dát nevyužíva žiadne vaše súkromné dáta.
 &lt;br /&gt;&lt;br /&gt;
 &lt;b&gt;2. Ako funguje úspora mobilných dát?&lt;/b&gt;
 &lt;br /&gt;&lt;br /&gt;
-Úspora mobilných dát funguje len pri pripojení na 2G/3G siete. 
+Úspora mobilných dát funguje len pri pripojení na Mob. dáta siete. 
 Počas dátového prenosu sa text a obrázky komprimujú na serveri a tým sa urýchli ich načítavanie. Hudba a videá sa nekomprimujú."</string>
   <string name="pref_traffic_saving_no_compress">Nekomprimované</string>
   <string name="pref_traffic_saving_notify_switch">Upozornenie v lište</string>
