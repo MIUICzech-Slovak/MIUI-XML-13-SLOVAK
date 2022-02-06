@@ -2352,7 +2352,7 @@ Funkcia úspory dát nevyužíva žiadne vaše súkromné dáta.
 &lt;br /&gt;&lt;br /&gt;
 &lt;b&gt;2. Ako funguje úspora mobilných dát?&lt;/b&gt;
 &lt;br /&gt;&lt;br /&gt;
-Úspora mobilných dát funguje len pri pripojení na Mob. dáta siete. 
+Úspora mobilných dát funguje len pri pripojení na Mob. dáta. 
 Počas dátového prenosu sa text a obrázky komprimujú na serveri a tým sa urýchli ich načítavanie. Hudba a videá sa nekomprimujú."</string>
   <string name="pref_traffic_saving_no_compress">Nekomprimované</string>
   <string name="pref_traffic_saving_notify_switch">Upozornenie v lište</string>
