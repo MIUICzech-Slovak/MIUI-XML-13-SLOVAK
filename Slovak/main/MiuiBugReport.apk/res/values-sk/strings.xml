@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="abc_action_bar_home_description">Prejsť na plochu</string>
     <string name="abc_action_bar_up_description">Prejsť nahor</string>
@@ -27,12 +27,13 @@
     <string name="abc_shareactionprovider_share_with">Zdieľať s</string>
     <string name="abc_shareactionprovider_share_with_application">Zdieľať s aplikáciou %s</string>
     <string name="abc_toolbar_collapse_description">Zbaliť</string>
+    <string name="access_denied_info">Príliš veľa pokusov. Počkajte minútu alebo dve a skúste to znova.</string>
     <string name="account_bind_secure_email_title">Pridať e-mail pre obnovenie</string>
     <string name="account_bind_secure_phone_title">Pridať telefónne číslo pre obnovenie</string>
     <string name="account_crop_user_avatar">Orezať fotografiu</string>
     <string name="account_empty_user_name">Zadajte užívateľské meno pre Mi Konto</string>
     <string name="account_error_all_space_user_name">Užívateľské meno musí obsahovať aj iné znaky ako len medzery</string>
-    <string name="account_error_invalid_user_name">Meno nemôže obsahovať &lt;, >, alebo /</string>
+    <string name="account_error_invalid_user_name">Meno nemôže obsahovať &lt;, &gt;, alebo /</string>
     <string name="account_error_longer_user_name">Meno nemôže byť dlhšie ako 20 znakov</string>
     <string name="account_error_shorter_user_name">Meno musí mať viac ako 2 znaky</string>
     <string name="account_error_user_birthday">Dátum narodenia nie je správny</string>
@@ -76,7 +77,7 @@
     <string name="bind_sign_in_title">Pridať Mi Konto</string>
     <string name="btn_send">Odoslať</string>
     <string name="bugreport_dialog_not_show_again">Viac nezobrazovať</string>
-    <string name="bugreport_dialog_submit_content">&lt;Data>Práve ukladáte do vášho zariadenia softvérové záznamy. Záznamy môžu obsahovať osobné informácie alebo informácie o vašej polohe. Pokiaľ sa chcete vyhnúť úniku informácií, s nikým tieto údaje nezdieľajte. Zvolením možnosti \"Súhlasím\" prehlasujete, že ste si prečítali a súhlasíte s našimi zmluvami &lt;a href=\"%1$s\">Zásady ochrany osobných údajov&lt;/a> a &lt;a href=\"%2$s\">Podmienky používania&lt;/a>.&lt;/Data></string>
+    <string name="bugreport_dialog_submit_content">&lt;Data&gt;Práve ukladáte do vášho zariadenia softvérové záznamy. Záznamy môžu obsahovať osobné informácie alebo informácie o vašej polohe. Pokiaľ sa chcete vyhnúť úniku informácií, s nikým tieto údaje nezdieľajte. Zvolením možnosti \"Súhlasím\" prehlasujete, že ste si prečítali a súhlasíte s našimi zmluvami &lt;a href=\"%1$s\"&gt;Zásady ochrany osobných údajov&lt;/a&gt; a &lt;a href=\"%2$s\"&gt;Podmienky používania&lt;/a&gt;.&lt;/Data&gt;</string>
     <string name="bugreport_dump_complete_notification_summary">Ťuknutím zobraziť.</string>
     <string name="bugreport_dump_complete_notification_title">Hlásenie o chybe vytvorené</string>
     <string name="bugreport_dump_start_notification_summary">Môže to trvať niekoľko minút.</string>
@@ -103,25 +104,32 @@
     <string name="catch_full_log_item_content_title">Ako generovať logy</string>
     <string name="catch_full_log_item_title_audio">Zvuky a nahrávanie hovorov</string>
     <string name="catch_full_log_item_title_bt">Bluetooth</string>
+    <string name="catch_full_log_item_title_camera">Fotoaparát</string>
+    <string name="catch_full_log_item_title_charge">Nabíjanie</string>
     <string name="catch_full_log_item_title_dump_heap">Oneskorenie</string>
     <string name="catch_full_log_item_title_gps">Služby určovania polohy</string>
     <string name="catch_full_log_item_title_sensor">Snímače</string>
     <string name="catch_full_log_item_title_signal">Telefón, signál a mobilné siete</string>
+    <string name="catch_full_log_item_title_trace">Zasekávanie</string>
     <string name="catch_full_log_item_title_wifi">Wi-Fi</string>
     <string name="catch_full_log_item_title_wifi_china">WLAN</string>
     <string name="catch_full_log_notification_content">Ťuknite pre návrat ku záznamom</string>
     <string name="catch_full_log_notification_title">Generuje sa záznam…</string>
     <string name="catch_full_log_privacy_content_audio">Generujete záznamy a ukladáte ich do vášho zariadenia. Záznamy môžu obsahovať informácie o zvuku vo vašom zariadení, vrátane histórie prehrávania alebo histórie nahrávania. Buďte opatrný a neukazujte tieto záznamy iným ľuďom. Dotykom na \"Súhlasím\" nižšie vyjadrujete súhlas s tým, že môžeme počas generovania záznamov zbierať údaje ako sú uvedené vyššie a budeme nahrávať tieto záznamy na naše servery, aby sme mohli nájsť a vyriešiť problémy, ktoré ste nahlásili.</string>
     <string name="catch_full_log_privacy_content_bt">Generujete záznamy a ukladáte ich do vášho zariadenia. Záznamy môžu obsahovať informácie o používaní Bluetooth na zariadení (vrátane histórie hovorov, správ, prenesených údajov, atď.) Buďte opatrný a neukazujte tieto záznamy iným ľuďom. Dotykom na \"Súhlasím\" nižšie vyjadrujete súhlas s tým, že môžeme počas generovania záznamov zbierať údaje ako sú uvedené vyššie a budeme nahrávať tieto záznamy na naše servery, aby sme mohli nájsť a vyriešiť problémy, ktoré ste nahlásili.</string>
+    <string name="catch_full_log_privacy_content_camera">"Generujete denníky a ukladáte ich do svojho zariadenia. Denníky môžu obsahovať informácie o využití fotoaparátu (vrátane frekvencie procesora, systémových volaní, využitia pamäte atď.). Buďte opatrní a neprezrádzajte ich logy iným ľuďom. Klepnutím na \"Súhlasím\" nižšie vyjadrujete súhlas s tým, že pri generovaní denníkov budeme zhromažďovať vyššie uvedené údaje a potom ich nahrať na naše servery, aby sme našli a vyriešili problémy, ktoré nahlásite.“ </string>
+    <string name="catch_full_log_privacy_content_charge">"Generujete denníky a ukladáte ich do svojho zariadenia. Denníky môžu obsahovať štatistiky účtovania. Buďte opatrní a neprezrádzajte tieto denníky iným ľuďom. Klepnutím nižšie na \"Súhlasím\" súhlasíte s tým, že pri generovaní denníkov budeme zhromažďovať vyššie uvedené údaje a potom denníky nahrať na naše servery, aby sme našli a vyriešili problémy, ktoré nahlásite.“</string>
     <string name="catch_full_log_privacy_content_gps">Generujete záznamy a ukladáte ich do vášho zariadenia. Záznamy môžu obsahovať vaše osobné údaje alebo údaje o vašej polohe. Buďte opatrný a neukazujte tieto záznamy iným ľuďom. Dotykom na \"Súhlasím\" nižšie vyjadrujete súhlas s tým, že môžeme počas generovania záznamov zbierať údaje ako sú uvedené vyššie a budeme nahrávať tieto záznamy na naše servery, aby sme mohli nájsť a vyriešiť problémy, ktoré ste nahlásili.</string>
     <string name="catch_full_log_privacy_content_sensor">Generujete záznamy a ukladáte ich do vášho zariadenia. Záznamy môžu obsahovať informácie zaznamenané senzormi vášho zariadenia (vrátane okolitého senzoru svetla, barometra, pedometra, magnetometra, atď.) Buďte opatrný a neukazujte tieto záznamy iným ľuďom. Dotykom na \"Súhlasím\" nižšie vyjadrujete súhlas s tým, že môžeme počas generovania záznamov zbierať údaje ako sú uvedené vyššie a budeme nahrávať tieto záznamy na naše servery, aby sme mohli nájsť a vyriešiť problémy, ktoré ste nahlásili.</string>
     <string name="catch_full_log_privacy_content_signal">Generujete záznamy a ukladáte ich do vášho zariadenia. Záznamy môžu obsahovať správy, históriu hovorov, informácie o sieti a údaje o komunikácii. Buďte opatrný a neukazujte tieto záznamy iným ľuďom. Dotykom na \"Súhlasím\" nižšie vyjadrujete súhlas s tým, že môžeme počas generovania záznamov zbierať údaje ako sú uvedené vyššie a budeme nahrávať tieto záznamy na naše servery, aby sme mohli nájsť a vyriešiť problémy, ktoré ste nahlásili.</string>
+    <string name="catch_full_log_privacy_content_trace">"Generujete denníky a ukladáte ich do svojho zariadenia. Denníky môžu obsahovať štatistiky využitia aplikácií (vrátane frekvencie procesora, systémového volania, využitia pamäte atď.). Buďte opatrní a neprezrádzajte tieto denníky ďalším ľuďom. Klepnutím na tlačidlo „Súhlasím“ nižšie vyjadrujete súhlas s tým, že pri generovaní denníkov budeme zhromažďovať vyššie uvedené údaje a potom denníky odovzdať na naše servery, aby sme našli a vyriešili problémy, ktoré nahlásite. "</string>
     <string name="catch_full_log_privacy_content_wifi">Generujete záznamy a ukladáte ich do vášho zariadenia. Záznamy môžu obsahovať vaše osobné údaje, údaje o vašej polohe ako aj IP alebo MAC adresy vášho zariadenia. Ak ste pripojený k nešifrovanej Wi-Fi sieti, budeme mať tiež prístup k časti vašich komunikačných dát. Buďte opatrný a neukazujte tieto záznamy iným ľuďom. Dotykom na \"Súhlasím\" nižšie vyjadrujete súhlas s tým, že môžeme počas generovania záznamov zbierať údaje ako sú uvedené vyššie a budeme nahrávať tieto záznamy na naše servery, aby sme mohli nájsť a vyriešiť problémy, ktoré ste nahlásili.</string>
     <string name="catch_full_log_privacy_content_wifi_china">Generujete záznamy a ukladáte ich do vášho zariadenia. Záznamy môžu obsahovať vaše osobné údaje, údaje o vašej polohe ako aj IP alebo MAC adresy vášho zariadenia. Ak ste pripojený k nešifrovanej WLAN sieti, budeme mať tiež prístup k časti vašich komunikačných dát. Buďte opatrný a neukazujte tieto záznamy iným ľuďom. Dotykom na \"Súhlasím\" nižšie vyjadrujete súhlas s tým, že môžeme počas generovania záznamov zbierať údaje ako sú uvedené vyššie a budeme nahrávať tieto záznamy na naše servery, aby sme mohli nájsť a vyriešiť problémy, ktoré ste nahlásili.</string>
     <string name="catch_full_log_start_dump_hprof">Generovať záznam o laggovaní</string>
     <string name="catch_full_log_submit_directly">Odoslať</string>
     <string name="change_activate_email">Zmeniť e-mailovú adresu</string>
     <string name="change_password">Zmeniť heslo</string>
+    <string name="character_counter_content_description">Prekročili ste limit počtu znakov %1$d z %2$d</string>
     <string name="choose_to_signin">Áno</string>
     <string name="choose_to_signup">Nie, vytvorím si nový</string>
     <string name="clearable_edittext_clear_description">Vymazať</string>
@@ -152,6 +160,9 @@ Odošlite tento kód zodpovednej osobe."</string>
     <string name="discard_draft_dialog_button_discard">Zahodiť</string>
     <string name="discard_draft_dialog_content">Akékoľvek vykonané zmeny sa zrušia.</string>
     <string name="discard_draft_dialog_title">Zrušiť koncept</string>
+    <string name="doing_login">Prihlasuje sa…</string>
+    <string name="doing_query_account">Kontrolujú sa informácie o účte…</string>
+    <string name="doing_register">Vytvára sa účet…</string>
     <string name="early_morning">Ráno</string>
     <string name="empty" />
     <string name="eras_ad">CE</string>
@@ -337,10 +348,14 @@ Odošlite tento kód zodpovednej osobe."</string>
     <string name="get_phone_verifycode_exceed_limit">Bolo odoslaných príliš veľa overovacích kódov. Počkajte 24 hodín a skúste to znovu.</string>
     <string name="goon_feedback_main">Pokračovať</string>
     <string name="goto_sign_up">Vytvoriť účet</string>
+    <string name="header_help">Pomocník</string>
     <string name="hint_feedback_main">Popíšte chybu</string>
+    <string name="i_get_it">Rozumiem</string>
+    <string name="i_know">Rozumiem</string>
     <string name="identity">Identifikácia</string>
     <string name="inconsistent_pwd">Heslá sa nezhodujú</string>
     <string name="input_email_address_notice">Tento e-mail bude použitý pre overenie vášho konta</string>
+    <string name="input_length_exceeds_limit">Zadaný text je príliš dlhý</string>
     <string name="input_new_pwd">Zadajte nové heslo</string>
     <string name="isornot_your_mi_account">Je toto váš Mi účet?</string>
     <string name="issue_search">Vyhľadať</string>
@@ -366,6 +381,11 @@ Odošlite tento kód zodpovednej osobe."</string>
     <string name="kr_authorization_user_protocol">Podmienky používania (povinné)</string>
     <string name="loading">Malý moment…</string>
     <string name="loading_apps">Načítavanie zoznamu…</string>
+    <string name="login_by_local_phone_long_text">Prihláste sa teraz</string>
+    <string name="login_by_local_phone_short_text">Prihlásiť sa</string>
+    <string name="login_other">Ďalší účet Mi</string>
+    <string name="login_register_by_local_phone_long_text">Vytvoriť účet</string>
+    <string name="login_with_sns">Iné spôsoby prihlásenia</string>
     <string name="logo_title">Spätná väzba</string>
     <string name="logout_account">Odhlásiť sa</string>
     <string name="menu_copy">Kopírovať</string>
@@ -375,6 +395,7 @@ Odošlite tento kód zodpovednej osobe."</string>
     <string name="mi_service_dialog_content">Všetky funkcie spätnej väzby boli presunuté do novej aplikácie \"Služby a spätná väzba\". Aplikácia Spätnej väzby bude odstránená z Domovskej obrazovky. Ťuknite na \"Otvoriť\" a vyskúšajte aplikáciu \"Služby a spätná väzba\".</string>
     <string name="mi_service_dialog_title">Predstavujeme \"Služby a spätnú väzbu\"</string>
     <string name="midnight">Noc</string>
+    <string name="mishop_login_other">Iný účet</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Zrušiť výber</string>
     <string name="miuix_appcompat_action_mode_select_all">Vybrať všetko</string>
     <string name="miuix_appcompat_action_mode_title_empty">Označiť položky</string>
@@ -465,6 +486,8 @@ Odošlite tento kód zodpovednej osobe."</string>
     <string name="morning">Ráno</string>
     <string name="net_error_info">Žiadne sieťové pripojenie, ťuknite sem na prechod do Nastavení</string>
     <string name="network_err">Nie je možné sa pripojiť k sieti.</string>
+    <string name="network_error_info">Vyskytla sa chyba siete. Skontrolujte nastavenia siete a skúste to znova.</string>
+    <string name="network_timeout_info">"Nepodarilo sa pripojiť k sieti. Skúste to znova."</string>
     <string name="network_unavailable_dialog_button_ok">OK</string>
     <string name="network_unavailable_dialog_content">Hlásená chyba bude odoslaná po pripojení k sieti.</string>
     <string name="network_unavailable_dialog_title">Nie je možné sa pripojiť k sieti</string>
@@ -478,6 +501,7 @@ Odošlite tento kód zodpovednej osobe."</string>
     <string name="nothing">--</string>
     <string name="ok">OK</string>
     <string name="open_feedback_main">Viac</string>
+    <string name="open_settings">Nastavenia</string>
     <string name="passport_access_denied">Prístup zamietnutý</string>
     <string name="passport_account_label">Mi Konto</string>
     <string name="passport_account_name">"Konto: %1$s "</string>
@@ -485,6 +509,7 @@ Odošlite tento kód zodpovednej osobe."</string>
     <string name="passport_area_code_title">Kód oblasti</string>
     <string name="passport_bad_authentication">Nesprávne meno alebo heslo</string>
     <string name="passport_barcode_add_account_prompt">Pre pridanie konta po prihlásení znovu načítajte QR kód.</string>
+    <string name="passport_can_not_receive_verification_code">„Nemôžete prijať overovací kód?“</string>
     <string name="passport_captcha_title">Captcha</string>
     <string name="passport_checking_account">Kontroluje sa heslo…</string>
     <string name="passport_close">Zatvoriť</string>
@@ -509,7 +534,7 @@ Odošlite tento kód zodpovednej osobe."</string>
     <string name="passport_error_unknown">Neznáma chyba</string>
     <string name="passport_error_user_agreement_error">Najskôr vyjadrite súhlas s podmienkami</string>
     <string name="passport_error_user_name">Zadané užívateľské meno je nesprávne</string>
-    <string name="passport_forget_password"><u>Zabudnuté heslo</u></string>
+    <string name="passport_forget_password" />
     <string name="passport_get_verify_code">Získať kód</string>
     <string name="passport_getting_verify_code">Malý moment…</string>
     <string name="passport_identification_expired">Platnosť overovacieho kódu vypršala, začnite znovu.</string>
@@ -553,8 +578,8 @@ Odošlite tento kód zodpovednej osobe."</string>
     <string name="passport_unknow_error">Vyskytla sa neznáma chyba</string>
     <string name="passport_unknow_host_network_error">Skontrolujte nastavenie siete a skúste to znova</string>
     <string name="passport_unknow_network_error">Vyskytla sa chyba siete</string>
-    <string name="passport_user_agreement_link">&lt;Data>Prečítal(a) som si a súhlasím so zmluvami &lt;a href=\"%1$s\">Podmienky používania&lt;/a> a &lt;a href=\"%2$s\">Zásady ochrany osobných údajov&lt;/a> spoločnosti Xiaomi.&lt;/Data></string>
-    <string name="passport_user_agreement_link_more">&lt;Data>Prečítal(a) som si a súhlasím s nasledujúcimi zmluvami: &lt;a href=\"%1$s\">Podmienky používania&lt;/a> a &lt;a href=\"%4$s\">Zásady ochrany osobných údajov&lt;/a> spoločnosti Xiaomi, &lt;a href=\"%2$s\">\"%3$s\"&lt;/a>.&lt;/Data></string>
+    <string name="passport_user_agreement_link">&lt;Data&gt;Prečítal(a) som si a súhlasím so zmluvami &lt;a href=\"%1$s\"&gt;Podmienky používania&lt;/a&gt; a &lt;a href=\"%2$s\"&gt;Zásady ochrany osobných údajov&lt;/a&gt; spoločnosti Xiaomi.&lt;/Data&gt;</string>
+    <string name="passport_user_agreement_link_more">&lt;Data&gt;Prečítal(a) som si a súhlasím s nasledujúcimi zmluvami: &lt;a href=\"%1$s\"&gt;Podmienky používania&lt;/a&gt; a &lt;a href=\"%4$s\"&gt;Zásady ochrany osobných údajov&lt;/a&gt; spoločnosti Xiaomi, &lt;a href=\"%2$s\"&gt;\"%3$s\"&lt;/a&gt;.&lt;/Data&gt;</string>
     <string name="passport_user_id_intro">Zadajte heslo pre %1$s</string>
     <string name="passport_v_code_error">Overovací kód je nesprávny</string>
     <string name="passport_vcode_notification_title">Vaše overenie prihlásenia nie je dokončené</string>
@@ -567,25 +592,44 @@ Odošlite tento kód zodpovednej osobe."</string>
     <string name="passport_wrong_phone_number_format">Formát telefónneho čísla je neplatný</string>
     <string name="passport_wrong_vcode">Zadaný kód je nesprávny</string>
     <string name="passport_wrong_voice">Zadaný kód je nesprávny</string>
+    <string name="password_toggle_content_description">Zobraziť heslo</string>
     <string name="phone_bind_too_many">Tento telefón bol v poslednej dobe prepojený s viacerými Mi účtami. Skúste použiť iné telefónne číslo.</string>
     <string name="phone_hint">Telefónne číslo</string>
     <string name="phone_num_use_for">Telefónne číslo použité pre:</string>
     <string name="phone_number">Telefónne číslo</string>
     <string name="photoPickerNotFoundText">Žiadne fotografie.</string>
+    <string name="please_agree_protocal">Protokol súhlasu prosím</string>
     <string name="pm">pop.</string>
     <string name="post_miui_bbs_failed">Nebolo možné odoslať na MIUI fórum</string>
     <string name="preference_copied">Položka %1$s bola skopírovaná do schránky.</string>
     <string name="privacy_category_title">Súkromie</string>
     <string name="privacy_policy_title">Zásady ochrany osobných údajov</string>
+    <string name="privacy_policy_update_hint">"Zásady ochrany osobných údajov %1$s boli aktualizované:
+%2$s
+Pred pokračovaním si prečítajte a vyjadrite súhlas s novou verziou %3$s."</string>
+    <string name="privacy_policy_update_title">Aktualizované zásady ochrany osobných údajov</string>
+    <string name="progressbar_title">Kontrolujú sa problémy so zabezpečením...</string>
+    <string name="protocal_dialog_cancel">Zrušiť</string>
+    <string name="protocal_dialog_confirm">Súhlasím</string>
+    <string name="protocal_dialog_title">Pozor</string>
     <string name="psw_hint">Heslo</string>
     <string name="psw_sign_in">Prihlásiť sa pomocou hesla</string>
     <string name="refresh">Obnoviť</string>
+    <string name="register_by_local_phone_long_text">Vytvoriť účet</string>
+    <string name="register_by_local_phone_short_text">Vytvoriť účet</string>
     <string name="related_question_answer_details">Súvisiaci problém</string>
     <string name="reply_failed">Odpoveď zlyhala</string>
     <string name="reply_option_log_hint">Voliteľné</string>
     <string name="reply_select_log_hint">Vyberte záznam</string>
     <string name="reply_successful">Úspešne odpovedané</string>
     <string name="report_miui">Nahlásiť chybu</string>
+    <string name="request_agree">Povoliť</string>
+    <string name="request_camera_permission_message">Vaše osobné údaje budeme chrániť v súlade s príslušnými zákonmi a nariadeniami. Táto aplikácia potrebuje na normálne fungovanie nasledujúce povolenia: Používanie fotoaparátu (napr. nastavenie vašej profilovej fotografie) Ak nesúhlasíte s udelením takýchto povolení, nebudete môcť používať niektoré funkcie tejto aplikácie; jej základné funkcie však budú byť vám k dispozícii. Povolenia môžete kedykoľvek obmedziť alebo svoju autorizáciu odvolať v Nastaveniach.</string>
+    <string name="request_cancel">Zrušiť</string>
+    <string name="request_error_invalid_token">"Nepodarilo sa overiť"</string>
+    <string name="request_error_network">Vyskytla sa chyba siete. Skontrolujte nastavenia siete a skúste to znova.</string>
+    <string name="request_error_unknown">Vyskytla sa systémová chyba. Vráťte sa a skúste to znova.</string>
+    <string name="request_gallery_permission_message">Povoliť prístup do Galérie: na nastavenie profilových fotografií</string>
     <string name="resend_active_email">Preposlať</string>
     <string name="resend_email_reach_limit_message">Vyžiadali ste si priveľa overovacích e-mailov. Skontrolujte priečinok SPAM vo vašej e-mailovej schránke.</string>
     <string name="resend_email_reach_limit_title">Príliš veľa pokusov</string>
@@ -610,6 +654,7 @@ Odošlite tento kód zodpovednej osobe."</string>
     <string name="sign_in">Prihlasovanie</string>
     <string name="sign_in_progress">Prihlasovanie…</string>
     <string name="sign_in_title">Prihlásiť sa so svojim Mi účtom</string>
+    <string name="skip_query_account">Preskočiť</string>
     <string name="sms_send_success">Úspešne odoslané</string>
     <string name="sns_access_token_expired_warning">Platnosť relácie vypršala. Prihláste sa znovu pre opätovné pripojenie tohto konta.</string>
     <string name="sns_bind_limit">Príliš veľa pokusov. Skúste iné spôsoby prihlásenia.</string>
@@ -621,8 +666,9 @@ Odošlite tento kód zodpovednej osobe."</string>
     <string name="stop_full_log_dialog_title">Generujú sa logy…</string>
     <string name="submit_dialog_cancel">Nesúhlasím</string>
     <string name="submit_dialog_confirm">Súhlasím</string>
-    <string name="submit_dialog_content">&lt;Data>Pred odoslaním spätnej väzby si prečítajte a vyjadrite súhlas s našimi zmluvami&lt;a href=\"%1$s\">Zásady ochrany osobných údajov&lt;/a> a &lt;a href=\"%2$s\">Podmienky používania&lt;/a>. Problémy, ktoré nahlásite spolu s položkami, ktoré priložíte (vrátane protokolov, ktoré môžu obsahovať osobné informácie, ako aj informácie o vašom zariadení a sieti), sa nahrajú na servery MIUI. Toto nám pomôže nájsť a vyriešiť problémy, ktoré nahlásite. Ak nahlásite problémy týkajúce sa viacerých zariadení, nahrajú sa aj protokoly z iných zariadení, kde sa používa vaše Mi Konto.&lt;/Data></string>
-    <string name="submit_dialog_content_global">&lt;Data>Vaša pripomienka, spolu s prílohami (ak nejaké existujú) a logmi (nežiadúce položky môžete odznačiť) bude odoslaná na MIUI servery. Logy môžu obsahovať vaše osobné údaje a údaje o vašej polohe. Zvolením možnosti \"Súhlasím\" vyjadrujete súhlas, že ste si prečítali a súhlasíte s našimi zmluvami &lt;a href=\"%1$s\">Zásady ochrany osobných údajov&lt;/a> a &lt;a href=\"%2$s\">Podmienky používania&lt;/a>.&lt;/Data></string>
+    <string name="submit_dialog_content">&lt;Data&gt;Pred odoslaním spätnej väzby si prečítajte a vyjadrite súhlas s našimi zmluvami&lt;a href=\"%1$s\"&gt;Zásady ochrany osobných údajov&lt;/a&gt; a &lt;a href=\"%2$s\"&gt;Podmienky používania&lt;/a&gt;. Problémy, ktoré nahlásite spolu s položkami, ktoré priložíte (vrátane protokolov, ktoré môžu obsahovať osobné informácie, ako aj informácie o vašom zariadení a sieti), sa nahrajú na servery MIUI. Toto nám pomôže nájsť a vyriešiť problémy, ktoré nahlásite. Ak nahlásite problémy týkajúce sa viacerých zariadení, nahrajú sa aj protokoly z iných zariadení, kde sa používa vaše Mi Konto.&lt;/Data&gt;</string>
+    <string name="submit_dialog_content_global">&lt;Data&gt;Vaša pripomienka, spolu s prílohami (ak nejaké existujú) a logmi (nežiadúce položky môžete odznačiť) bude odoslaná na MIUI servery. Logy môžu obsahovať vaše osobné údaje a údaje o vašej polohe. Zvolením možnosti \"Súhlasím\" vyjadrujete súhlas, že ste si prečítali a súhlasíte s našimi zmluvami &lt;a href=\"%1$s\"&gt;Zásady ochrany osobných údajov&lt;/a&gt; a &lt;a href=\"%2$s\"&gt;Podmienky používania&lt;/a&gt;.&lt;/Data&gt;</string>
+    <string name="submit_dialog_content_global_with_contactinfo">Vaša spätná väzba spolu s prílohami (ak existujú), denníkmi (môžete zrušiť začiarknutie príslušných políčok pri položkách, ktoré nechcete nahrať), telefónnym číslom alebo e-mailom sa odošle na servery MIUI. Protokoly môžu obsahovať osobné informácie a údaje o vašej polohe. Výberom možnosti \"Súhlasím\" znamená, že ste si prečítali našu Ochranu súkromia a súhlasíte s nimi a Podmienky používania.</string>
     <string name="submit_dialog_not_show_again">Viac nezobrazovať</string>
     <string name="submit_dialog_title">Odoslať hlásenie</string>
     <string name="submit_feedback_info_failed">Nebolo možné odoslať hlásenie</string>
@@ -636,6 +682,7 @@ Odošlite tento kód zodpovednej osobe."</string>
     <string name="sunday_short">Neď</string>
     <string name="sunday_shortest">Neď</string>
     <string name="system_app_select">Vstavané aplikácie</string>
+    <string name="system_error_info">Systém je zaneprázdnený. Počkajte minútu alebo dve a skúste to znova.</string>
     <string name="tab_title_chat">Časté otázky</string>
     <string name="tab_title_my_reports">Moje hlásenia</string>
     <string name="tab_title_preferences">Nastavenia</string>
@@ -687,6 +734,7 @@ Odošlite tento kód zodpovednej osobe."</string>
     <string name="tuesday">Utorok</string>
     <string name="tuesday_short">Uto</string>
     <string name="tuesday_shortest">Uto</string>
+    <string name="unknown_error_info">Neznáma chyba</string>
     <string name="update_dialog_cancel">Zrušiť</string>
     <string name="update_dialog_confirm">Aktualizovať</string>
     <string name="update_dialog_content_log">"Čo je nové:
@@ -699,80 +747,30 @@ Veľkosť: %2$s"</string>
     <string name="update_phone_notice">Zmeniť bezpečnostné nastavenia</string>
     <string name="upload_error_log">Nahrať záznam</string>
     <string name="upload_log_failed">Nebolo možné odoslať záznamy o chybe</string>
+    <string name="user_agreement_hint_3rd_app">Prečítal som si Podmienky používania a Ochranu súkromia.</string>
+    <string name="user_agreement_hint_default">Prečítal som si Podmienky používania a Ochranu súkromia.</string>
+    <string name="user_agreement_hint_default_1">Prečítal som si Podmienky používania a Ochranu súkromia.</string>
+    <string name="user_agreement_hint_default_extra">Prečítal som si Podmienky používania a Ochranu súkromia.</string>
+    <string name="user_agreement_hint_first_login">Ak používate svoje telefónne číslo prvýkrát, účet vám vytvoríme automaticky.</string>
+    <string name="user_agreement_protocal_dialog_hint_default">Prečítal som si Podmienky používania a Ochranu súkromia.</string>
     <string name="user_avatar_update_title">Zmeniť profilovú fotografiu</string>
     <string name="user_avatar_uploading">Malý moment…</string>
     <string name="user_id_hint">E-mail/Telefón/ID Mi Konta</string>
+    <string name="user_must_known">Pozor</string>
+    <string name="user_must_known_content">Nebudete môcť naďalej používať naše služby, pokiaľ nevyjadríte súhlas s novou verziou nášho %s. Súhlasíte teraz s aktualizovanými Zásadami ochrany osobných údajov?</string>
+    <string name="user_name_phone_number">Telefónne číslo</string>
     <string name="v7_preference_off">VYP.</string>
     <string name="v7_preference_on">ZAP.</string>
     <string name="v_code_title">Zadajte overovací kód</string>
     <string name="wednesday">Streda</string>
     <string name="wednesday_short">Str</string>
     <string name="wednesday_shortest">Str</string>
+    <string name="withdraw">Vybrať</string>
+    <string name="withdraw_consent">Odvolanie súhlasu</string>
+    <string name="withdraw_consent_failed">"Súhlas sa nepodarilo odvolať"</string>
+    <string name="withdraw_consent_failed_hint">Vyskytla sa chyba servera. Počkajte minútu alebo dve a skúste to znova.</string>
+    <string name="withdraw_consent_failed_hint_connect_net">Vaše zariadenie sa musí pripojiť k sieti, aby ste mohli odvolať súhlas. Skontrolujte nastavenia siete a skúste to znova.</string>
+    <string name="withdraw_consent_hint">Ak budete pokračovať, odvoláte svoj súhlas so Zásadami ochrany osobných údajov %1$s. Osobné údaje, ktoré už boli zhromaždené a uchovávané, budú vymazané počas konkrétneho obdobia v súlade s platnými zákonmi a nariadeniami pokiaľ to nie je potrebné inak. Keďže %2$s poskytuje svoje služby na základe zhromažďovania potrebných osobných informácií, vaše odvolanie súhlasu sa bude považovať za odmietnutie akceptovania služieb %3$s. Odvolať súhlas teraz?</string>
+    <string name="withdrawing">Odvoláva sa súhlas...</string>
     <string name="yesterday">Včera</string>
-    
-<string name="access_denied_info">Príliš veľa pokusov. Počkajte minútu alebo dve a skúste to znova.</string>
-     <string name="catch_full_log_item_title_camera">Fotoaparát</string>
-     <string name="catch_full_log_item_title_charge">Nabíjanie</string>
-     <string name="catch_full_log_item_title_trace">Zasekávanie</string>
-     <string name="catch_full_log_privacy_content_camera">"Generujete denníky a ukladáte ich do svojho zariadenia. Denníky môžu obsahovať informácie o využití fotoaparátu (vrátane frekvencie procesora, systémových volaní, využitia pamäte atď.). Buďte opatrní a neprezrádzajte ich logy iným ľuďom. Klepnutím na \"Súhlasím\" nižšie vyjadrujete súhlas s tým, že pri generovaní denníkov budeme zhromažďovať vyššie uvedené údaje a potom ich nahrať na naše servery, aby sme našli a vyriešili problémy, ktoré nahlásite.“ </string>
-     <string name="catch_full_log_privacy_content_charge">"Generujete denníky a ukladáte ich do svojho zariadenia. Denníky môžu obsahovať štatistiky účtovania. Buďte opatrní a neprezrádzajte tieto denníky iným ľuďom. Klepnutím nižšie na \"Súhlasím\" súhlasíte s tým, že pri generovaní denníkov budeme zhromažďovať vyššie uvedené údaje a potom denníky nahrať na naše servery, aby sme našli a vyriešili problémy, ktoré nahlásite.“</string>
-     <string name="catch_full_log_privacy_content_trace">"Generujete denníky a ukladáte ich do svojho zariadenia. Denníky môžu obsahovať štatistiky využitia aplikácií (vrátane frekvencie procesora, systémového volania, využitia pamäte atď.). Buďte opatrní a neprezrádzajte tieto denníky ďalším ľuďom. Klepnutím na tlačidlo „Súhlasím“ nižšie vyjadrujete súhlas s tým, že pri generovaní denníkov budeme zhromažďovať vyššie uvedené údaje a potom denníky odovzdať na naše servery, aby sme našli a vyriešili problémy, ktoré nahlásite. "</string>
-     <string name="character_counter_content_description">Prekročili ste limit počtu znakov %1$d z %2$d</string>
-     <string name="doing_login">Prihlasuje sa…</string>
-     <string name="doing_query_account">Kontrolujú sa informácie o účte…</string>
-     <string name="doing_register">Vytvára sa účet…</string>
-     <string name="header_help">Pomocník</string>
-     <string name="i_get_it">Rozumiem</string>
-     <string name="i_know">Rozumiem</string>
-     <string name="input_length_exceeds_limit">Zadaný text je príliš dlhý</string>
-     <string name="login_by_local_phone_long_text">Prihláste sa teraz</string>
-     <string name="login_by_local_phone_short_text">Prihlásiť sa</string>
-     <string name="login_other">Ďalší účet Mi</string>
-     <string name="login_register_by_local_phone_long_text">Vytvoriť účet</string>
-     <string name="login_with_sns">Iné spôsoby prihlásenia</string>
-     <string name="mishop_login_other">Iný účet</string>
-     <string name="network_error_info">Vyskytla sa chyba siete. Skontrolujte nastavenia siete a skúste to znova.</string>
-     <string name="network_timeout_info">"Nepodarilo sa pripojiť k sieti. Skúste to znova."</string>
-     <string name="open_settings">Nastavenia</string>
-     <string name="passport_can_not_receive_verification_code">„Nemôžete prijať overovací kód?“</string>
-     <string name="password_toggle_content_description">Zobraziť heslo</string>
-     <string name="please_agree_protocal">Protokol súhlasu prosím</string>
-     <string name="privacy_policy_update_hint">"Zásady ochrany osobných údajov %1$s boli aktualizované:
-%2$s
-Pred pokračovaním si prečítajte a vyjadrite súhlas s novou verziou %3$s."</string>
-     <string name="privacy_policy_update_title">Aktualizované zásady ochrany osobných údajov</string>
-     <string name="progressbar_title">Kontrolujú sa problémy so zabezpečením...</string>
-     <string name="protocal_dialog_cancel">Zrušiť</string>    
-     
-<string name="protocal_dialog_confirm">Súhlasím</string>
-     <string name="protocal_dialog_title">Pozor</string>
-     <string name="register_by_local_phone_long_text">Vytvoriť účet</string>
-     <string name="register_by_local_phone_short_text">Vytvoriť účet</string>
-     <string name="request_agree">Povoliť</string>
-     <string name="request_camera_permission_message">Vaše osobné údaje budeme chrániť v súlade s príslušnými zákonmi a nariadeniami. Táto aplikácia potrebuje na normálne fungovanie nasledujúce povolenia: Používanie fotoaparátu (napr. nastavenie vašej profilovej fotografie) Ak nesúhlasíte s udelením takýchto povolení, nebudete môcť používať niektoré funkcie tejto aplikácie; jej základné funkcie však budú byť vám k dispozícii. Povolenia môžete kedykoľvek obmedziť alebo svoju autorizáciu odvolať v Nastaveniach.</string>
-     <string name="request_cancel">Zrušiť</string>
-     <string name="request_error_invalid_token">"Nepodarilo sa overiť"</string>
-     <string name="request_error_network">Vyskytla sa chyba siete. Skontrolujte nastavenia siete a skúste to znova.</string>
-     <string name="request_error_unknown">Vyskytla sa systémová chyba. Vráťte sa a skúste to znova.</string>
-     <string name="request_gallery_permission_message">Povoliť prístup do Galérie: na nastavenie profilových fotografií</string>
-     <string name="skip_query_account">Preskočiť</string>
-     <string name="submit_dialog_content_global_with_contactinfo">Vaša spätná väzba spolu s prílohami (ak existujú), denníkmi (môžete zrušiť začiarknutie príslušných políčok pri položkách, ktoré nechcete nahrať), telefónnym číslom alebo e-mailom sa odošle na servery MIUI. Protokoly môžu obsahovať osobné informácie a údaje o vašej polohe. Výberom možnosti \"Súhlasím\" znamená, že ste si prečítali našu Ochranu súkromia a súhlasíte s nimi a Podmienky používania.</string>
-     <string name="system_error_info">Systém je zaneprázdnený. Počkajte minútu alebo dve a skúste to znova.</string>
-     <string name="unknown_error_info">Neznáma chyba</string>
-     <string name="user_agreement_hint_3rd_app">Prečítal som si Podmienky používania a Ochranu súkromia.</string>
-     <string name="user_agreement_hint_default">Prečítal som si Podmienky používania a Ochranu súkromia.</string>
-     <string name="user_agreement_hint_default_1">Prečítal som si Podmienky používania a Ochranu súkromia.</string>
-     <string name="user_agreement_hint_default_extra">Prečítal som si Podmienky používania a Ochranu súkromia.</string>
-     <string name="user_agreement_hint_first_login">Ak používate svoje telefónne číslo prvýkrát, účet vám vytvoríme automaticky.</string>
-     <string name="user_agreement_protocal_dialog_hint_default">Prečítal som si Podmienky používania a Ochranu súkromia.</string>
-     <string name="user_must_known">Pozor</string>
-     <string name="user_must_known_content">Nebudete môcť naďalej používať naše služby, pokiaľ nevyjadríte súhlas s novou verziou nášho %s. Súhlasíte teraz s aktualizovanými Zásadami ochrany osobných údajov?</string>
-     <string name="user_name_phone_number">Telefónne číslo</string>
-     <string name="withdraw">Vybrať</string>
-     <string name="withdraw_consent">Odvolanie súhlasu</string>
-     <string name="withdraw_consent_failed">"Súhlas sa nepodarilo odvolať"</string>
-     <string name="withdraw_consent_failed_hint">Vyskytla sa chyba servera. Počkajte minútu alebo dve a skúste to znova.</string>
-     <string name="withdraw_consent_failed_hint_connect_net">Vaše zariadenie sa musí pripojiť k sieti, aby ste mohli odvolať súhlas. Skontrolujte nastavenia siete a skúste to znova.</string>
-<string name="withdraw_consent_hint">Ak budete pokračovať, odvoláte svoj súhlas so Zásadami ochrany osobných údajov %1$s. Osobné údaje, ktoré už boli zhromaždené a uchovávané, budú vymazané počas konkrétneho obdobia v súlade s platnými zákonmi a nariadeniami pokiaľ to nie je potrebné inak. Keďže %2$s poskytuje svoje služby na základe zhromažďovania potrebných osobných informácií, vaše odvolanie súhlasu sa bude považovať za odmietnutie akceptovania služieb %3$s. Odvolať súhlas teraz?</string>
-      <string name="withdrawing">Odvoláva sa súhlas...</string>
 </resources>

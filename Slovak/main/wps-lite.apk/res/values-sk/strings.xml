@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="BookTitleDisplayName">Názov knihy</string>
     <string name="DefaultParagraphFontDisplayName">Predvolené písmo odstavca</string>
@@ -29,6 +29,18 @@
     <string name="aboard_mail_body_content">Aplikácia je kompatibilná s rôznymi formátmi dokumentov, je malá a zadarmo. Získajte ju tu:</string>
     <string name="app_packageName">Mi Prehliadač dokumentov (Poskytuje WPS)</string>
     <string name="app_unknownError">Ukončenie spôsobené neznámou chybou</string>
+    <string name="chart_NotSupportedPic_bmw">Tento obrázok sa momentálne nedá zobraziť.</string>
+    <string name="chart_OtherCategoryName_bmw">Iné</string>
+    <string name="chart_defaultAxisTitle_bmw">Názov osi</string>
+    <string name="chart_defaultChartTitle_bmw">Názov grafu</string>
+    <string name="chart_exponencial_bmw">Exponenciálny</string>
+    <string name="chart_linear_bmw">Lineárne</string>
+    <string name="chart_logarithmic_bmw">Logaritmické</string>
+    <string name="chart_moving_bmw">Kĺzavý priemer</string>
+    <string name="chart_polynomaial_bmw">Polynóm</string>
+    <string name="chart_power_bmw">Napájanie</string>
+    <string name="chart_series_bmw">Séria</string>
+    <string name="chart_unsupport_bmw">Tento graf sa nedá nakresliť</string>
     <string name="doc_scan_save_to_album">Uložené do Galérie</string>
     <string name="documentmanager_addPic_failed">Vloženie obrázku zlyhalo</string>
     <string name="documentmanager_checkUpdate">Skontrolovať aktualizácie</string>
@@ -89,6 +101,12 @@
     <string name="et_sorter_expand_selection_cancel">Aktuálny výber</string>
     <string name="et_sorter_expand_selection_ok">Rozšíriť na ďalšie oblasti</string>
     <string name="filter">Filtrovať</string>
+    <string name="func_extract_sheet">Extrahovať</string>
+    <string name="func_output_as_pic">Obrázok</string>
+    <string name="func_pdf_to_word">Slovo</string>
+    <string name="func_smart_typography">Inteligentné rozloženie</string>
+    <string name="func_translate_title">Preložiť celý dokument</string>
+    <string name="highlight">Zvýraznenie</string>
     <string name="pdf_comment">Komentár</string>
     <string name="pdf_decrypt_edit_tips">Autor nastavil heslo na úpravu dokumentu. Pre pokračovanie zadajte heslo.</string>
     <string name="pdf_lack_content_tip">Dokument má nasledujúci obsah, ktorý v súčasnosti nie je podporovaný, čo môže ovplyvniť zobrazenie:</string>
@@ -157,7 +175,9 @@
     <string name="public_keep_format">Zachovať formát</string>
     <string name="public_kitkat_file_cant_write_tips">Aktuálna verzia systému Android momentálne nepovoľuje aplikáciám zapisovať na \"SD kartu (%1$s). Súbor sa musí uložiť na \"SD kartu (%2$s)\" ako nový súbor. Uložiť teraz?</string>
     <string name="public_kitkat_unable_to_write">Nie je možné vpísať</string>
+    <string name="public_lite_cloud_dialog_message">Použite WPS Office, užite si službu %s</string>
     <string name="public_lite_install_app_tips">Použite WPS Office na úpravu dokumentov vždy a všade</string>
+    <string name="public_lite_update_cloud_dialog_message">Aktualizujte WPS Office, užite si službu %s</string>
     <string name="public_lite_update_right_now">Aktualizovať teraz</string>
     <string name="public_lite_use_right_now">Použiť teraz</string>
     <string name="public_loadDocumentFormatError">Chyba formátu súboru. Nie je možné otvoriť súbor.</string>
@@ -165,9 +185,12 @@
     <string name="public_loadDocumentOutOfMemoryError">Nedostatok úložiska, súbor nie je možné otvoriť.</string>
     <string name="public_loadDocumentUnsupport">Formát dokumentu nie je podporovaný</string>
     <string name="public_long_time_not_save_tip">Pri upravovaní dokumentu vždy pamätajte na jeho uloženie.</string>
+    <string name="public_mi_agree_desc">Povoľte tejto aplikácii pripojenie k internetu a udeľte povinné povolenia uvedené vyššie.</string>
     <string name="public_mi_other_app_open_recommend">Odporúčané</string>
     <string name="public_mi_other_app_open_save_choose">Zapamätať si moju voľbu</string>
     <string name="public_mi_other_app_open_title">Otvoriť pomocou</string>
+    <string name="public_mi_privacy_desc">Na prezeranie a správu dokumentov na tomto zariadení</string>
+    <string name="public_mi_privacy_purpose">Vitajte v prehliadači Mi Doc Viewer (používa technológiu WPS)! Toto je vlastná verzia aplikácie, ktorú vytvoril Kingsoft pre Xiaomi. Túto aplikáciu môžete použiť na prezeranie dokumentov na svojom zariadení.</string>
     <string name="public_no_format">Žiadny formát</string>
     <string name="public_not_support_in_multiwindow">Táto funkcia nie je podporovaná v Rozdelenej obrazovke</string>
     <string name="public_ok">OK </string>
@@ -177,7 +200,19 @@
     <string name="public_other_app">Otvoriť v inej aplikácii</string>
     <string name="public_outline">Obsah</string>
     <string name="public_paste">Prilepiť</string>
+    <string name="public_pdf_converter_item_name">PDF</string>
+    <string name="public_pdf_converter_normal">Normálne</string>
+    <string name="public_pdf_converter_open_tip">Otvoriť tento dokument?</string>
+    <string name="public_pdf_converter_success">"Exportované do "</string>
+    <string name="public_pdf_converter_success_open">Otvoriť</string>
+    <string name="public_pdf_converter_success_tip">Úspešne exportované</string>
+    <string name="public_pdf_converter_title">Exportovať</string>
+    <string name="public_pdf_converter_water">Vodoznak</string>
+    <string name="public_pdf_convertering_title">Exportuje sa…</string>
     <string name="public_pdf_label">Mi Prehliadač PDF</string>
+    <string name="public_pdf_print_converting">Pripravuje sa tlač...</string>
+    <string name="public_pdf_print_fail">Dokument sa nepodarilo vytlačiť</string>
+    <string name="public_pdf_print_title">Tlačiť</string>
     <string name="public_permission_request">Udeľte požadované povolenia v Nastaveniach, aby ste mohli pracovať s dokumentami.</string>
     <string name="public_permission_storage_disallow_msg">Po zrušení autorizácie už nebudete môcť pracovať s dokumentami.</string>
     <string name="public_play">Prehrať</string>
@@ -200,7 +235,7 @@
     <string name="public_search_empty">Najskôr zadajte obsah</string>
     <string name="public_searchnotfound">Žiadne výsledky</string>
     <string name="public_secre_dialog_content_1">Aby sme mohli poskytovať naše služby a vylepšovať naše produkty, potrebujeme povolenia na prístup k úložisku a zberu dát, ktoré nám popisujú, akým spôsobom používate naše funkcie.</string>
-    <string name="public_secre_dialog_content_2" formatted="false">&lt;Data>Vaše osobné údaje budeme chrániť v súlade s našimi zmluvami &lt;a href=\"%s\">Podmienky používania &lt;/a > a &lt;a href=\"%s\">Zásady ochrany osobných údajov&lt;/a >.&lt;/Data></string>
+    <string formatted="false" name="public_secre_dialog_content_2">&lt;Data&gt;Vaše osobné údaje budeme chrániť v súlade s našimi zmluvami &lt;a href=\"%s\"&gt;Podmienky používania &lt;/a &gt; a &lt;a href=\"%s\"&gt;Zásady ochrany osobných údajov&lt;/a &gt;.&lt;/Data&gt;</string>
     <string name="public_secre_dialog_exit">Koniec</string>
     <string name="public_secre_dialog_positive">Súhlasím</string>
     <string name="public_secre_dialog_tips_agree">Ak súhlasíte so stanoviskami a podmienkami našich Podmienok používania a Zásad ochrany osobných údajov, ťuknite na \"Súhlasím\" a začnite používať naše služby.</string>
@@ -208,6 +243,8 @@
     <string name="public_secre_dialog_title">Vyhlásenie o ochrane súkromia</string>
     <string name="public_selectAll">Vybrať všetko</string>
     <string name="public_selectText">Vybrať</string>
+    <string name="public_sensor_ratation_land_tip">Orientácia na šírku</string>
+    <string name="public_sensor_ratation_port_tip">Orientácia na výšku</string>
     <string name="public_service_disable_error_tips">Túto funkciu nie je možné použiť, keďže súvisiaca služba bola deaktivovaná.</string>
     <string name="public_share_no_network">Nepodarilo sa pripojiť k sieti</string>
     <string name="public_share_retry">Skúsiť znova</string>
@@ -224,6 +261,7 @@
     <string name="public_table_merge">Zlúčiť</string>
     <string name="public_table_split">Rozdeliť</string>
     <string name="public_table_split_columns_exceed_maximum">Bol prekročený maximálny počet stpĺpcov</string>
+    <string name="public_thumbnail_title">Ukážka</string>
     <string name="public_undo">Späť</string>
     <string name="public_unsave">Zrušiť</string>
     <string name="public_warnedit_dialog_title_text">Tipy</string>
@@ -232,6 +270,25 @@
     <string name="public_wpscloud_recovery_edit_not_saved_and_to_save">Bezpečne uložte dokument</string>
     <string name="public_writer_label">Mi Prehliadač textu</string>
     <string name="public_writer_ui_delete">Odstrániť</string>
+    <string name="reader_ppt_autoplay">automatické prehrávanie</string>
+    <string name="reader_ppt_play_exit">ukončiť</string>
+    <string name="reader_ppt_play_options">Možnosti</string>
+    <string name="reader_ppt_slide_list_new">Vložiť</string>
+    <string name="reader_public_cancel">zrušiť</string>
+    <string name="reader_public_close">zavrieť</string>
+    <string name="reader_public_next">ďalší</string>
+    <string name="reader_public_previous">predchádzajúce</string>
+    <string name="reader_public_textcontextmenu">zobrazuje sa %1$s prvok %2$s</string>
+    <string name="reader_writer_accept_revision">prijmite revíziu</string>
+    <string name="reader_writer_delete_comment">odstrániť komentár</string>
+    <string name="reader_writer_hide">menej</string>
+    <string name="reader_writer_more">viac</string>
+    <string name="reader_writer_page_num">Strana %1$s</string>
+    <string name="reader_writer_paste_options">možnosti prilepenia</string>
+    <string name="reader_writer_reject_revision">odmietnuť revíziu</string>
+    <string name="reader_writer_table_edit_add_column">pridať stĺpec</string>
+    <string name="reader_writer_table_edit_add_row">pridať riadok</string>
+    <string name="ss_card_mode_filter_title_text">Vyberte položky na zobrazenie</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="writer_characters">Počet znakov (bez medzier)</string>
     <string name="writer_characters_with_spaces">Počet znakov (s medzerami)</string>
@@ -254,12 +311,12 @@
     <string name="writer_page_break">Zlom strany</string>
     <string name="writer_page_setting_units"> cm</string>
     <string name="writer_page_setting_units_inch">palec</string>
-    <string name="writer_paragraph_set_firstlineindent" formatted="false">Odsadenie prvého riadka: %.2f%2$s</string>
-    <string name="writer_paragraph_set_hangingindent" formatted="false">Opakované odsadenie: %.2f%2$s</string>
-    <string name="writer_paragraph_set_leftindent" formatted="false">Ľavé odsadenie: %.2f%2$s</string>
-    <string name="writer_paragraph_set_rightindent" formatted="false">Pravé odsadenie: %.2f%2$s</string>
-    <string name="writer_paragraph_set_spaceafter" formatted="false">Medzera za riadkom: %.2f%2$s</string>
-    <string name="writer_paragraph_set_spacebefore" formatted="false">Medzera pred riadkom: %.2f%2$s</string>
+    <string formatted="false" name="writer_paragraph_set_firstlineindent">Odsadenie prvého riadka: %.2f%2$s</string>
+    <string formatted="false" name="writer_paragraph_set_hangingindent">Opakované odsadenie: %.2f%2$s</string>
+    <string formatted="false" name="writer_paragraph_set_leftindent">Ľavé odsadenie: %.2f%2$s</string>
+    <string formatted="false" name="writer_paragraph_set_rightindent">Pravé odsadenie: %.2f%2$s</string>
+    <string formatted="false" name="writer_paragraph_set_spaceafter">Medzera za riadkom: %.2f%2$s</string>
+    <string formatted="false" name="writer_paragraph_set_spacebefore">Medzera pred riadkom: %.2f%2$s</string>
     <string name="writer_read_mode">Režim zobrazenia</string>
     <string name="writer_revision_edit_nottrack">Táto operácia nebude označená ako oprava. Pokračovať?</string>
     <string name="writer_revision_unsupportedRevisionSubDocument">Momentálne nie je možné opraviť</string>
@@ -272,62 +329,4 @@
     <string name="writer_wordcounts_tips_selection">Výber: %d</string>
     <string name="writer_words">Počet slov</string>
     <string name="writer_words_exceeds_not_operated">Prekročený maximálny počet slóv. Operáciu nie je možné dokončiť.</string>
-	
-<string name="chart_NotSupportedPic_bmw">Tento obrázok sa momentálne nedá zobraziť.</string>
-      <string name="chart_OtherCategoryName_bmw">Iné</string>
-      <string name="chart_defaultAxisTitle_bmw">Názov osi</string>
-      <string name="chart_defaultChartTitle_bmw">Názov grafu</string>
-      <string name="chart_exponencial_bmw">Exponenciálny</string>
-      <string name="chart_linear_bmw">Lineárne</string>
-      <string name="chart_logarithmic_bmw">Logaritmické</string>
-      <string name="chart_moving_bmw">Kĺzavý priemer</string>
-      <string name="chart_polynomaial_bmw">Polynóm</string>
-      <string name="chart_power_bmw">Napájanie</string>
-      <string name="chart_series_bmw">Séria</string>
-      <string name="chart_unsupport_bmw">Tento graf sa nedá nakresliť</string>
-	  <string name="func_extract_sheet">Extrahovať</string>
-      <string name="func_output_as_pic">Obrázok</string>
-      <string name="func_pdf_to_word">Slovo</string>
-      <string name="func_smart_typography">Inteligentné rozloženie</string>
-      <string name="func_translate_title">Preložiť celý dokument</string>
-	  <string name="highlight">Zvýraznenie</string>
-	  <string name="public_lite_cloud_dialog_message">Použite WPS Office, užite si službu %s</string>
-      <string name="public_lite_update_cloud_dialog_message">Aktualizujte WPS Office, užite si službu %s</string>
-      <string name="public_mi_agree_desc">Povoľte tejto aplikácii pripojenie k internetu a udeľte povinné povolenia uvedené vyššie.</string>
-      <string name="public_mi_privacy_desc">Na prezeranie a správu dokumentov na tomto zariadení</string>
-      <string name="public_mi_privacy_purpose">Vitajte v prehliadači Mi Doc Viewer (používa technológiu WPS)! Toto je vlastná verzia aplikácie, ktorú vytvoril Kingsoft pre Xiaomi. Túto aplikáciu môžete použiť na prezeranie dokumentov na svojom zariadení.</string>
-	  <string name="public_pdf_converter_item_name">PDF</string>
-      <string name="public_pdf_converter_normal">Normálne</string>
-      <string name="public_pdf_converter_open_tip">Otvoriť tento dokument?</string>
-      <string name="public_pdf_converter_success">"Exportované do "</string>
-      <string name="public_pdf_converter_success_open">Otvoriť</string>
-      <string name="public_pdf_converter_success_tip">Úspešne exportované</string>
-      <string name="public_pdf_converter_title">Exportovať</string>
-      <string name="public_pdf_converter_water">Vodoznak</string>
-      <string name="public_pdf_convertering_title">Exportuje sa…</string>
-      <string name="public_pdf_print_converting">Pripravuje sa tlač...</string>
-      <string name="public_pdf_print_fail">Dokument sa nepodarilo vytlačiť</string>
-      <string name="public_pdf_print_title">Tlačiť</string>
-	  <string name="public_sensor_ratation_land_tip">Orientácia na šírku</string>
-     <string name="public_sensor_ratation_port_tip">Orientácia na výšku</string>
-     <string name="public_thumbnail_title">Ukážka</string>
-     <string name="reader_ppt_autoplay">automatické prehrávanie</string>
-     <string name="reader_ppt_play_exit">ukončiť</string>
-     <string name="reader_ppt_play_options">Možnosti</string>
-     <string name="reader_ppt_slide_list_new">Vložiť</string>
-     <string name="reader_public_cancel">zrušiť</string>
-     <string name="reader_public_close">zavrieť</string>
-     <string name="reader_public_next">ďalší</string>
-     <string name="reader_public_previous">predchádzajúce</string>
-     <string name="reader_public_textcontextmenu">zobrazuje sa %1$s prvok %2$s</string>
-     <string name="reader_writer_accept_revision">prijmite revíziu</string>
-     <string name="reader_writer_delete_comment">odstrániť komentár</string>
-     <string name="reader_writer_hide">menej</string>
-     <string name="reader_writer_more">viac</string>
-     <string name="reader_writer_page_num">Strana %1$s</string>
-     <string name="reader_writer_paste_options">možnosti prilepenia</string>
-     <string name="reader_writer_reject_revision">odmietnuť revíziu</string>
-     <string name="reader_writer_table_edit_add_column">pridať stĺpec</string>
-     <string name="reader_writer_table_edit_add_row">pridať riadok</string>
-	 <string name="ss_card_mode_filter_title_text">Vyberte položky na zobrazenie</string>
 </resources>
