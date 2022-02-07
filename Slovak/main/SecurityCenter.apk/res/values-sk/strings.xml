@@ -5408,4 +5408,21 @@ Skúste zväčšiť rozlíšenie!"</string>
     <string name="xspace_warning_dialog_title">Upozornenie</string>
     <string name="xunyou_server_expired">Relácia vypršala.</string>
     <string name="yesterday">Včera</string>
+    
+<string name="app_predict_dialog_button">Pridať na plochu</string>
+     <string name="app_predict_dialog_message">AI vám navrhne aplikácie, ktoré by ste mohli momentálne potrebovať</string>
+     <string name="app_predict_dialog_success">Úspešne pridané na plochu</string>
+     <string name="app_predict_guide_button">Pridať</string>
+     <string name="app_predict_guide_message">AI vám navrhne aplikácie, ktoré by ste mohli momentálne potrebovať</string>
+     <string name="app_predict_guide_title">Návrhy inteligentných aplikácií</string>
+     <string name="app_predict_privacy_btn_exit_text">Ukončiť</string>
+     <string name="app_predict_privacy_btn_sure_text">Súhlasím</string>
+     <string name="app_predict_privacy_content">Táto služba používa algoritmy, ktoré fungujú v rámci našich mechanizmov ochrany súkromia a zisťujú, ako používate aplikácie nainštalované v tomto zariadení. To vám umožní dostávať návrhy aplikácií, ktoré momentálne s najväčšou pravdepodobnosťou potrebujete.</string>
+     <string name="app_predict_privacy_privacy_policy_text">Zásady ochrany osobných údajov</string>
+     <string name="app_predict_privacy_title">Návrhy aplikácií</string>
+     <string name="app_predict_privacy_user_agreement_privacy_policy_text">Skôr ako budete pokračovať, prečítajte si naše %1$s a %2$s a vyjadrite s nimi súhlas.</string>
+     <string name="app_predict_privacy_user_agreement_text">Zmluva s používateľom</string>
+     <string name="app_predict_widget_experience_now">Vyskúšať</string>
+     <string name="app_predict_widget_summary">Rýchlo spúšťajte aplikácie, ktoré by ste práve teraz mohli potrebovať</string>
+     <string name="app_predict_widget_title">Návrhy aplikácií</string>    
 </resources>
