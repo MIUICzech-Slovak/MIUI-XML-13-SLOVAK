@@ -138,9 +138,9 @@
     <string name="callrecordview_menu_show_accepted">Zobraziť prijaté</string>
     <string name="callrecordview_menu_show_all">Všetky hovory</string>
     <string name="callrecordview_menu_show_called">Zobraziť volané</string>
-    <string name="callrecordview_menu_show_missed">Zmeškané hovory</string>
+    <string name="callrecordview_menu_show_missed">Zobraziť zmeškané</string>
     <string name="callrecordview_menu_show_new">Nové Kontakty</string>
-    <string name="callrecordview_menu_show_sim">Hovorov: %s</string>
+    <string name="callrecordview_menu_show_sim">Hovory zo %s</string>
     <string name="callrecordview_menu_show_stranger">Neznáme čísla</string>
     <string name="callrecordview_menu_show_title">Výber kategórie</string>
     <string name="cancel">Zrušiť</string>
@@ -1328,7 +1328,7 @@ Synchronizujte ich teraz."</string>
     <string name="sms_work_mobile">Odoslať správu na pracovný mobil</string>
     <string name="sms_work_pager">Odoslať správu na pracovný pager</string>
     <string name="social_widget_label">Kontakt</string>
-    <string name="social_widget_loading">Nahrávam …</string>
+    <string name="social_widget_loading">Nahrávam…</string>
     <string name="splitConfirmation"> Skutočne chcete tento kontakt rozdeliť na viac kontaktov? Pre každú pripojenú kontaktnú informáciu bude vytvorený samostatný kontakt.</string>
     <string name="splitConfirmation_title">Oddeliť kontakt</string>
     <string name="starredList">Obľúbené</string>
@@ -1474,4 +1474,6 @@ Zvoľte jednu z nasledujúcich možností:</string>
     <string name="yellowpage_user_profile">Profil</string>
     <string name="yesterday">Včera</string>
     <string name="zero_items_selected">Nič nie je vybrané</string>
+    
+    <string name="account_dual_sim">SIM %s</string>    
 </resources>
