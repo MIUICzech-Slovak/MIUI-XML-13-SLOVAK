@@ -14,8 +14,8 @@
     <string name="agree">OK</string>
     <string name="already_liked">Už je v obľúbených</string>
     <string name="already_signin_description">Podpísať sa môžete len raz za 24h, skúste to opäť zajtra.</string>
-    <string name="app_all_purpose">Vitajte v aplikácií Súbory!</string>
-    <string name="app_all_purpose_pad">Vitajte v aplikácií Súbory! Pomocou tejto aplikácie môžete spravovať vaše súbory na úložisku.</string>
+    <string name="app_all_purpose">Vitajte v aplikácii Súbory!</string>
+    <string name="app_all_purpose_pad">Vitajte v aplikácii Súbory! Pomocou tejto aplikácie môžete spravovať vaše súbory na úložisku.</string>
     <string name="app_function">Spravuje súbory vo vašom zariadení</string>
     <string name="app_name">Súbory</string>
     <string name="app_name_bluetooth">Bluetooth</string>
@@ -532,7 +532,7 @@ Server je momentálne nedostupný, skúste to opäť neskôr
     <string name="my_video">Videá</string>
     <string name="my_video_desc" />
     <string name="name_empty">Musíte zadať názov.</string>
-    <string name="need_open_content">Povoľte aplikácií Súbory prístup k súborom na internom úložisku.</string>
+    <string name="need_open_content">Povoľte aplikácii Súbory prístup k súborom na internom úložisku.</string>
     <string name="need_open_permission">Požadované povolenia</string>
     <string name="need_read_storage_permission">Aplikácia súbory vyžaduje povolenie pre prístup k úložisku.</string>
     <string name="net_lose_connected">Sieť nedostupná, nie je možné zistiť veľkosť</string>
@@ -630,7 +630,7 @@ and never miss the cool new ones!"</string>
     <string name="operation_moving_detail">Presúvanie (%1$d/%2$d)</string>
     <string name="operation_new_folder">Vytvoriť zložku</string>
     <string name="operation_open">Otvoriť</string>
-    <string name="operation_other_apps">Otvoriť v inej aplikácií</string>
+    <string name="operation_other_apps">Otvoriť v inej aplikácii</string>
     <string name="operation_paste">Vložiť</string>
     <string name="operation_paste_to_folder">Vložiť do zložky</string>
     <string name="operation_pasting">Kopírujem...</string>
@@ -661,9 +661,9 @@ and never miss the cool new ones!"</string>
     <string name="partial_encrypt_success">Nebolo možné zmeniť niektoré súbory na súkromné</string>
     <string name="partial_repair_done">Niektoré súbory boli úspešne obnovené</string>
     <string name="paused">Pozastavené</string>
-    <string name="permission_denial">Nie je možný prístup k súborom. Povoľte aplikácií Súbory prístup k úložisku.</string>
+    <string name="permission_denial">Nie je možný prístup k súborom. Povoľte aplikácii Súbory prístup k úložisku.</string>
     <string name="permission_description">Podrobnosti o povoleniach</string>
-    <string name="permission_required">Nie je možný prístup k súborom. Povoľte aplikácií Súbory prístup k úložisku.</string>
+    <string name="permission_required">Nie je možný prístup k súborom. Povoľte aplikácii Súbory prístup k úložisku.</string>
     <string name="petabyteShort">PB</string>
     <string name="phone">Interné úložisko</string>
     <string name="phone_storage">Úložisko</string>
