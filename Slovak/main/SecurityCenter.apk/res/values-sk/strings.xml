@@ -3646,8 +3646,8 @@ Počas dátového prenosu sa text a obrázky komprimujú na serveri a tým sa ur
     <string name="privacy_dialog_camera_message">Pre ochranu vášho súkromia, MIUI nedovolí aplikáciam používať fotoaparát na pozadí.</string>
     <string name="privacy_dialog_camera_title">Zakázať používanie fotoaparátu na pozadí</string>
     <string name="privacy_dialog_content_part1">Vitajte v Optimalizácii! Táto aplikácia stráži vaše zariadenie, či neobsahuje odpad a vírusy, a tiež vám umožňuje spravovať aplikácie, riadiť využitie mobilných dát, blokovať hovory a správy atď.</string>
-    <string name="privacy_dialog_content_part2" />
-    <string name="privacy_dialog_content_part3" />
+<string name="privacy_dialog_content_part2">Optimalizácia potrebuje zhromažďovať potrebné osobné informácie, aby vám mohla poskytovať svoje služby a mohla zlepšovať svoje funkcie. V našich Podmienkach používania sa dozviete, ako narábame s informáciami, ktoré zhromažďujeme. Svoj súhlas môžete kedykoľvek odvolať v Nastaveniach.</string>
+     <string name="privacy_dialog_content_part3">Prečítajte si a vyjadrite súhlas s našimi Podmienkami používania a Ochranou súkromia pred použitím Optimalizácie.</string>
     <string name="privacy_dialog_danger_mission_message">Android má niekoľko vysoko rizikových povolení (napr. povolenie na odoslanie push upozornenia). Pre ochranu vášho súkromia, MIUI sa vás opýta či chcete danú akciu vykonať.</string>
     <string name="privacy_dialog_danger_mission_title">Vysoko rizikové povolenia</string>
     <string name="privacy_dialog_feedback">Feedback</string>
