@@ -4,7 +4,6 @@
     <string name="accessibility_contact_detail">Podrobnosti</string>
     <string name="account_container_title">V tomto účte</string>
     <string name="account_default">Telefón</string>
-    <string name="account_dual_sim">SIM karta %s</string>
     <string name="account_phone">Len v Telefóne, nesynchr.</string>
     <string name="account_sim">SIM karta</string>
     <string name="account_sim2">SIM karta %d</string>
