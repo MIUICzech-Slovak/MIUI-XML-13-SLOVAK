@@ -208,5 +208,5 @@ Dotykom ju zobrazíte"</string>
     <string name="wednesday_shortest">S</string>
     <string name="yesterday">Včera</string>
 <string name="battery_not_allowed_warning">Nie je možné zaznamenať, keď je batéria nižšia ako %1$s. Uistite sa, že je batéria nabitá aspoň na %2$s.</string>
-<string name="low_memory_for_phone">Máte menej ako %1$d GB dostupného miest ana úložisku. Teraz môžete nahrávať maximálne %2$d minút.</string>    
+<string name="low_memory_for_phone">Máte menej ako %1$d GB dostupného miesta na úložisku. Teraz môžete nahrávať maximálne %2$d minút.</string>    
 </resources>
