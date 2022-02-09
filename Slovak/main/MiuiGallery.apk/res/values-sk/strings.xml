@@ -2435,4 +2435,35 @@
     <string name="yuzhitiaojie">Upravenie hrúbky</string>
     <string name="zi_ding_yi_wenben">Vlastná veľkosť</string>
     <string name="zman_title">Bezpečné zdieľanie</string>
+    
+<string name="album_screen_record">Záznamy obrazovky</string>
+    <string name="annual_babies_title">Rastú tak rýchlo</string>
+    <string name="annual_group_people_title">Spolu</string>
+    <string name="annual_pets_title">Labka v labke</string>
+    <string name="annual_year_title">Tento rok</string>
+    <string name="annula_sports_title">Posun vpred</string>
+<string name="baby_birthday_title">Všetko najlepšie k narodeninám!</string>
+    <string name="foods_people_title">Raj chuťových pohárikov</string>
+    <string name="foods_people_travel_title">Prejeme sa %2$s s %1$s</string>
+    <string name="foods_travel_title_one">Chuť %1$s</string>
+    <string name="foods_travel_title_two">%1$s jedlo</string>
+    <string name="holiday_travel_title_one">%1$s dovolenka</string>
+    <string name="holiday_travel_title_two">Späť do práce</string>
+    <string name="labour_day">Sviatok práce</string>
+    <string name="last_some_day_pets_title">Labky a fúzy</string>
+    <string name="last_some_day_show_title">Premietací čas</string>
+    <string name="last_some_day_surfing_title">Primeraný vietor</string>
+    <string name="last_some_day_travel_title_four">Ahoj %1$s!</string>
+    <string name="last_some_day_travel_title_one">V %1$s</string>
+    <string name="last_some_day_travel_title_three">Skúmanie %1$s</string>
+    <string name="last_some_day_travel_title_two">Spomienky na %1$s</string>
+    <string name="miplay_circulate_failed">"Prehrávanie sa nepodarilo preniesť. Počkajte minútu alebo dve a skúste to znova."</string>
+    <string name="miplay_circulating_msg">Prenáša sa prehrávanie...</string>
+    <string name="monthly_pets_title">Chlpatí priatelia</string>
+    <string name="monthly_sports_title">Plný energie</string>
+    <string name="monthly_travel_title">Cesty v %1$s</string>
+<string name="national_day">Národný deň</string>
+<string name="quarterly_pets_title">Chlpatí priatelia</string>
+<string name="sea_title">Vlny</string>
+<string name="solar_valentines_day_title">Sviatok svätého Valentína</string>     
 </resources>

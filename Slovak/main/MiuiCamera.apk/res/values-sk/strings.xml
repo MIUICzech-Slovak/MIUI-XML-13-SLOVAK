@@ -1439,4 +1439,8 @@ Objekt bude ostrý na rozmazanom pozadí."</string>
     <string name="wideselfie_rotate_to_right_slowly">Natočte telefón doprava</string>
     <string name="yesterday">Včera</string>
     <string name="zoom_no_support_tip_48M">Zoom nefunguje v 48MP režime</string>
+    
+<string name="pref_hybrid_video_mode_description">Použiť technológiu HLG na zlepšenie farieb a dynamického rozsahu videí zaznamenaných vo vysokom rozlíšení</string>
+<string name="pref_camera_track_eye_preferred_description">Sledovať pohyb očí, aby boli oči zaostrené, keď je v zábere jedna osoba</string>
+     <string name="pref_camera_track_eye_preferred_title">Ostrenie na oči</string>    
 </resources>

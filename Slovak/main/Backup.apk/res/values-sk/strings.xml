@@ -890,4 +890,5 @@ Veľkosť: %2$s"</string>
 Veľkosť Delta aktualizácie: %2$s"</string>
     <string name="xiaomi_update_dialog_title">Dostupná aktualizácia</string>
     <string name="yesterday">Včera</string>
+        <string name="backup_notification_title">\"Záloha\" pracuje…</string>
 </resources>
