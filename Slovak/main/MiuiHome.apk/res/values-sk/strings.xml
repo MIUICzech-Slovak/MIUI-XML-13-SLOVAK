@@ -541,7 +541,7 @@
     <string name="recents_exit_multi_window_mode">Ukončiť</string>
     <string name="recents_forbid_dock_when_screening_toast_text">Počas vysielania nie je možné rozdeliť obrazovku</string>
     <string name="recents_incompatible_app_message">Táto aplikácia nepodporuje rozdelenú obrazovku</string>
-    <string name="recents_layout_style">Rozloženie položiek v nedávnych aplikáciach</string>
+    <string name="recents_layout_style">Rozloženie položiek v nedávnych aplikáciách</string>
     <string name="recents_layout_style_horizontal">Horizontálne</string>
     <string name="recents_layout_style_vertical">Vertikálne</string>
     <string name="recents_smallwindow_drag_text">Potiahnite sem pre pripnutie</string>

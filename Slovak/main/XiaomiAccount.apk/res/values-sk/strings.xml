@@ -722,10 +722,10 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
     <string name="sunday_short">Ned</string>
     <string name="sunday_shortest">N</string>
     <string name="switch_orientation_desc">Orientácia obrazovky</string>
-    <string name="system_ad">Reklamy v systémových aplikáciach</string>
+    <string name="system_ad">Reklamy v systémových aplikáciách</string>
     <string name="system_ad_list">Zobraziť aplikácie.</string>
-    <string name="system_ad_summary">Povolením tejto funkcie sa budú zobrazovať reklamy v systémových aplikáciach!</string>
-    <string name="system_ad_switch">Reklamy v systémových aplikáciach</string>
+    <string name="system_ad_summary">Povolením tejto funkcie sa budú zobrazovať reklamy v systémových aplikáciách!</string>
+    <string name="system_ad_switch">Reklamy v systémových aplikáciách</string>
     <string name="system_ad_switch_failed">zlyhalo</string>
     <string name="third_party_login">Ďalšie účty</string>
     <string name="thursday">Štvrtok</string>

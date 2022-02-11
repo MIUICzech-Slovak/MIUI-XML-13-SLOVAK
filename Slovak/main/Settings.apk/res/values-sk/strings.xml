@@ -1531,7 +1531,7 @@ Ak chcete ďalej používať svoj telefón, musíte obnoviť jeho továrenské n
     <string name="cutout_mode_always">Vždy zobraziť výrez</string>
     <string name="cutout_mode_default">Autom.</string>
     <string name="cutout_mode_settings_title">Niektoré aplikácie môžu byť zobrazené nesprávne ak zmeníte zobrazovanie výrezu.</string>
-    <string name="cutout_mode_title">Výrez v aplikáciach</string>
+    <string name="cutout_mode_title">Výrez v aplikáciách</string>
     <string name="cutout_type_desc">Povoľte pre plynulý prechod výrezu</string>
     <string name="cutout_type_title">Upraviť tvar výrezu</string>
     <string name="daltonizer_mode_deuteranomaly">Deuteranomália (červená-zelená)</string>
@@ -1552,7 +1552,7 @@ Ak chcete ďalej používať svoj telefón, musíte obnoviť jeho továrenské n
     <string name="dangerous_option_hint_title">Nebezpečná funkcia povolená</string>
     <string name="dangerous_option_switch_title">Upozorniť na nebezpečné funkcie</string>
     <string name="dark_color_mode">Tmavý režim</string>
-    <string name="dark_color_summary">Použiť tmavú farbu pozadia v kompatibilných aplikáciach</string>
+    <string name="dark_color_summary">Použiť tmavú farbu pozadia v kompatibilných aplikáciách</string>
     <string name="dark_color_summary_lcd">Použiť tmavé pozadie pre systém a všetky podporované aplikácie.</string>
     <string name="dark_color_summary_oled">Použiť tmavé pozadie pre systém a všetky podporované aplikácie.</string>
     <string name="dark_mode_apps_header">Jednotlivé aplikácie</string>
@@ -2522,7 +2522,7 @@ Táto funkcia funguje iba vtedy, keď je navigácia v systéme nastavená na ges
     <string name="freeform_guide_slide_up_to_close_summary">Potiahnite nahor z lišty plávajúceho okna</string>
     <string name="freeform_guide_slide_up_to_close_title">Zatvorenie plávajúcich okien</string>
     <string name="freeform_vedio_description">"·Stlačte a podržte, potom potiahnite nadol upozornenie pre jeho otvorenie v plávajúcom okne.
-·Stlačte \"Plávajúce okná\" v Nedávnych aplikáciach pre výber aplikácie."</string>
+·Stlačte \"Plávajúce okná\" v Nedávnych aplikáciách pre výber aplikácie."</string>
     <string name="frequently_fragment_delete">Vymazať</string>
     <string name="frequently_fragment_tempty">Často používané položky budú zobrazené tu</string>
     <string name="friday">Piatok</string>
@@ -5054,7 +5054,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
     <string name="screen_dark_mode_smart_dark_3rd_apps_list">Doinštalované aplikácie</string>
     <string name="screen_dark_mode_smart_dark_apps_setting_summary">Niektoré aplikácie môžu byť zobrazené nesprávne v Tmavom režime. Môžete zakázať Tmavý režim pre jednotlivé aplikácie.</string>
     <string name="screen_dark_mode_smart_dark_apps_setting_title">Jednotlivé aplikácie</string>
-    <string name="screen_dark_mode_smart_dark_summary">Vynútiť tmavý režim v aplikáciach. Niektoré aplikácie nemusia byť zobrazené správne.</string>
+    <string name="screen_dark_mode_smart_dark_summary">Vynútiť tmavý režim v aplikáciách. Niektoré aplikácie nemusia byť zobrazené správne.</string>
     <string name="screen_dark_mode_smart_dark_title">Globálny tmavý režim</string>
     <string name="screen_dark_mode_time_title">Naplánovať</string>
     <string name="screen_effect">Kontrast a farby</string>
@@ -6602,7 +6602,7 @@ Zvážte použitie rýchlejšieho zariadenia (^1) s lepšou výkonnosťou."</str
     <string name="use_otg_title">USB On-The-Go</string>
     <string name="use_personalized_ad_service">Prispôsobené reklamy</string>
     <string name="use_personalized_ad_service_summary">V našej ROM od miuios.cz sú systémové reklamy blokované.</string>
-    <string name="use_personalized_ad_service_summary_for_global">"Keď sú odporúčania prispôsobených reklám vypnuté, v systémových aplikáciách MIUI sa vám bude stále zobrazovať rovnaké množstvo reklám, ako keď je táto funkcia zapnutá. Reklamy od Xiaomi a platforiem tretích strán sa však už nebudú relevantné, pretože nebudú založené na vašich osobných preferenciách.“</string>
+    <string name="use_personalized_ad_service_summary_for_global">Keď sú odporúčania prispôsobených reklám vypnuté, v systémových aplikáciách MIUI sa vám bude stále zobrazovať rovnaké množstvo reklám, ako keď je táto funkcia zapnutá. Reklamy od Xiaomi a platforiem tretích strán už nebudú relevantné, pretože nebudú založené na vašich osobných preferenciách.</string>
     <string name="use_privacy_password_immediate">Použiť</string>
     <string name="use_system_language_to_select_input_method_subtypes">Použiť systémový jazyk</string>
     <string name="use_this_wlan">Použiť túto Wi-Fi</string>
@@ -7507,4 +7507,5 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
     <string name="zone_auto_title">Časové pásmo podľa siete</string>
     <string name="zone_list_menu_sort_alphabetically">Zoradiť abecedne</string>
     <string name="zone_list_menu_sort_by_timezone">Zoradiť podľa časového pásma</string>
+    <string name="screen_projection_help">Pomoc</string>
 </resources>

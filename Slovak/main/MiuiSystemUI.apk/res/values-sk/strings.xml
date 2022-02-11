@@ -88,7 +88,7 @@
     <string name="accessibility_data_connection_lte">LTE</string>
     <string name="accessibility_data_connection_lte_plus">LTE+</string>
     <string name="accessibility_data_connection_roaming">Roaming</string>
-    <string name="accessibility_data_connection_wifi">Wi‑Fi</string>
+    <string name="accessibility_data_connection_wifi">Wi-Fi</string>
     <string name="accessibility_data_four_bars">Dáta štyri čiarky.</string>
     <string name="accessibility_data_one_bar">Dáta jedna čiarka.</string>
     <string name="accessibility_data_saver_off">Šetrič dát je vypnutý</string>
@@ -240,8 +240,8 @@
     <string name="accessibility_quick_settings_settings">Otvoriť nastavenia</string>
     <string name="accessibility_quick_settings_user">Prihlásený používateľ %s</string>
     <string name="accessibility_quick_settings_wifi">%1$s</string>
-    <string name="accessibility_quick_settings_wifi_changed_off">Pripojenie Wi‑Fi je vypnuté.</string>
-    <string name="accessibility_quick_settings_wifi_changed_on">Pripojenie Wi‑Fi je zapnuté.</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">Pripojenie Wi-Fi je vypnuté.</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">Pripojenie Wi-Fi je zapnuté.</string>
     <string name="accessibility_quick_settings_work_mode_changed_off">Pracovný režim je vypnutý.</string>
     <string name="accessibility_quick_settings_work_mode_changed_on">Pracovný režim je zapnutý.</string>
     <string name="accessibility_quick_settings_work_mode_off">Pracovný režim vypnutý</string>
@@ -567,7 +567,7 @@ Vzorkovacia frekvencia"</string>
     <string name="connected_via_network_scorer">Automaticky pripojené prostredníctvom %1$s</string>
     <string name="connected_via_network_scorer_default">Automaticky pripojené prostredníctvom poskytovateľa hodnotenia siete</string>
     <string name="connected_via_passpoint">Pripojené cez %1$s</string>
-    <string name="connected_via_wfa">Pripojené cez Wi‑Fi asistent</string>
+    <string name="connected_via_wfa">Pripojené cez Wi-Fi asistent</string>
     <string name="content_description_menu_button">Ponuka</string>
     <string name="control_center_notification_switch_guide">Potiahnutím do strán prepnete medzi upozorneniami a Centrom ovládania</string>
     <string name="controls_added_tooltip">Pridržaním vypínača zobrazíte nové ovládacie prvky</string>
@@ -1488,8 +1488,8 @@ dd.MM"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nebolo možné načítať položky</string>
     <string name="mobile_data">Mobilné dáta</string>
     <string name="mobile_data_always_on">Mobilné dáta ponechať vždy aktívne</string>
-    <string name="mobile_data_always_on_summary">Vždy ponechávať mobilné dáta aktívne, dokonca aj pri aktívnej sieti Wi‑Fi (na rýchle prepínanie sietí)</string>
-    <string name="mobile_data_disable_message">Nebudete mať prístup k dátam ani internetu prostredníctvom operátora %s. Internet bude k dispozícii iba cez Wi‑Fi.</string>
+    <string name="mobile_data_always_on_summary">Vždy ponechávať mobilné dáta aktívne, dokonca aj pri aktívnej sieti Wi-Fi (na rýchle prepínanie sietí)</string>
+    <string name="mobile_data_disable_message">Nebudete mať prístup k dátam ani internetu prostredníctvom operátora %s. Internet bude k dispozícii iba cez Wi-Fi.</string>
     <string name="mobile_data_disable_message_default_carrier">váš operátor</string>
     <string name="mobile_data_disable_title">Chcete vypnúť mobilné dáta?</string>
     <string name="mock_location_app">Vybrať aplikáciu so simulovanou polohou</string>
@@ -1936,7 +1936,7 @@ Máte tiež aktívne pripojenie k sieti VPN, ktorá môže sledovať vašu akti
     <string name="quick_settings_cast_detail_empty_text">Nie sú k dispozícii žiadne zariadenia</string>
     <string name="quick_settings_cast_device_default_description">Pripravené na prenášanie</string>
     <string name="quick_settings_cast_device_default_name">Nepomenované zariadenie</string>
-    <string name="quick_settings_cast_no_wifi">Sieť Wi‑Fi nie je pripojená</string>
+    <string name="quick_settings_cast_no_wifi">Sieť Wi-Fi nie je pripojená</string>
     <string name="quick_settings_cast_title">Prenos</string>
     <string name="quick_settings_casting">Prenáša sa</string>
     <string name="quick_settings_cellular_detail_data_limit">Limit: %s</string>
@@ -2337,7 +2337,7 @@ posunutím nadol uzamknete"</string>
     <string name="status_bar_settings_settings_button">Nastavenia</string>
     <string name="status_bar_settings_signal_meter_disconnected">Žiadne pripojenie k internetu</string>
     <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi pripojené</string>
-    <string name="status_bar_settings_wifi_button">Wi‑Fi</string>
+    <string name="status_bar_settings_wifi_button">Wi-Fi</string>
     <string name="status_bar_style_settings">Upozornenia</string>
     <string name="status_bar_use_physical_keyboard">Fyzická klávesnica</string>
     <string name="status_bar_volte_label">HD</string>
@@ -2640,9 +2640,9 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
     <string name="wednesday">Streda</string>
     <string name="wednesday_short">Str</string>
     <string name="wednesday_shortest">S</string>
-    <string name="wifi_aggressive_handover">Agres. odovzdávať Wi‑Fi na mobilnú sieť</string>
-    <string name="wifi_aggressive_handover_summary">Keď túto možnosť zapnete, Wi‑Fi bude agresívnejšie odovzdávať dátové pripojenie na mobilnú sieť vtedy, keď bude slabý signál Wi‑Fi</string>
-    <string name="wifi_allow_scan_with_traffic">Vždy povoliť funkciu Wi‑Fi Roam Scans</string>
+    <string name="wifi_aggressive_handover">Agres. odovzdávať WiFi na mobilnú sieť</string>
+    <string name="wifi_aggressive_handover_summary">Keď túto možnosť zapnete, Wi-Fi bude agresívnejšie odovzdávať dátové pripojenie na mobilnú sieť vtedy, keď bude slabý signál Wi-Fi</string>
+    <string name="wifi_allow_scan_with_traffic">Vždy povoliť funkciu Wi-Fi Roam Scans</string>
     <string name="wifi_allow_scan_with_traffic_summary">Povoliť alebo zakázať funkciu Wifi Roam Scans na základe objemu prenosu údajov v rozhraní</string>
     <string name="wifi_ap_unable_to_handle_new_sta">Prístupový bod je dočasne plný</string>
     <string name="wifi_cant_connect">Nedá sa pripojiť</string>
@@ -2659,7 +2659,7 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
     <string name="wifi_display_certification">Certifikácia bezdrôtového zobrazenia</string>
     <string name="wifi_display_certification_summary">Zobraziť možnosti certifikácie bezdrôtového zobrazenia</string>
     <string name="wifi_fail_to_scan">Nie je možné skenovať siete</string>
-    <string name="wifi_is_off">Pripojenie Wi‑Fi je vypnuté</string>
+    <string name="wifi_is_off">Pripojenie Wi-Fi je vypnuté</string>
     <string name="wifi_no_internet">Nebolo zistené žiadne internetové pripojenie.</string>
     <string name="wifi_no_internet_no_reconnect">Nedôjde k automatickému pripojeniu</string>
     <string name="wifi_not_in_range">Mimo dosah</string>
@@ -2668,8 +2668,8 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
     <string name="wifi_security_none_owe">Žiadne</string>
     <string name="wifi_security_passpoint">Passpoint</string>
     <string name="wifi_security_short_none_owe">Žiadne</string>
-    <string name="wifi_verbose_logging">Podrobné denníky Wi‑Fi</string>
-    <string name="wifi_verbose_logging_summary">Zvýšiť úroveň denníkov Wi-Fi, zobrazovať podľa SSID RSSI pri výbere siete Wi‑Fi</string>
+    <string name="wifi_verbose_logging">Podrobné denníky Wi-Fi</string>
+    <string name="wifi_verbose_logging_summary">Zvýšiť úroveň denníkov Wi-Fi, zobrazovať podľa SSID RSSI pri výbere siete Wi-Fi</string>
     <string name="window_animation_scale_title">Mierka animácie okna</string>
     <string name="wireless_change_to_ac_charging">Bezdrôtové nabíjanie</string>
     <string name="wireless_charge_current">Nabíjanie</string>
@@ -2703,4 +2703,7 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
     <string name="zen_priority_introduction">Nebudú vás vyrušovať zvuky ani vibrácie, iba budíky, pripomenutia, udalosti a volajúci, ktorých určíte. Budete naďalej počuť všetko, čo sa rozhodnete prehrať, ako napríklad hudbu, videá a hry.</string>
     <string name="zen_silence_introduction">Zablokujú sa tým VŠETKY zvuky a vibrácie vrátane zvukov budíkov, hudby, videí a hier.</string>
     <string name="zen_silence_introduction_voice">Zablokujú sa VŠETKY zvuky a vibrácie vrátane budíkov, hudby, videí a hier. Stále však budete môcť telefonovať.</string>
+
+   <string name="settingslib_learn_more_text">Ďalšie informácie</string>
+   
 </resources>

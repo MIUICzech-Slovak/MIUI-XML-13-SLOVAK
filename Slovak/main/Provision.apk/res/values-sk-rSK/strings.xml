@@ -198,7 +198,7 @@
     <string name="other_settings_ad_dialog_agree">Povoliť</string>
     <string name="other_settings_ad_dialog_content">"Po vypnutí tejto funkcie už viac nebudete dostávať prispôsobené reklamy. Stále však budete dostávať iný druh reklamy. Viac o prispôsobených reklamách sa dozviete v Zásadách ochrany osobných údajov spoločnosti Xiaomi.
 Vypnúť prispôsobené reklamy napriek tomu?"</string>
-    <string name="other_settings_ad_dialog_content_for_global">"Keď sú odporúčania prispôsobených reklám vypnuté, v systémových aplikáciách MIUI sa vám bude stále zobrazovať rovnaké množstvo reklám, ako keď je táto funkcia zapnutá. Reklamy od Xiaomi a platforiem tretích strán sa však už nebudú relevantné, pretože nebudú založené na vašich osobných preferenciách.“</string>
+    <string name="other_settings_ad_dialog_content_for_global">Keď sú odporúčania prispôsobených reklám vypnuté, v systémových aplikáciách MIUI sa vám bude stále zobrazovať rovnaké množstvo reklám, ako keď je táto funkcia zapnutá. Reklamy od Xiaomi a platforiem tretích strán už nebudú relevantné, pretože nebudú založené na vašich osobných preferenciách.</string>
     <string name="other_settings_ad_dialog_disagree">Vypnúť</string>
     <string name="other_settings_ad_disable_summary">Povoliť prispôsobené reklamy</string>
     <string name="other_settings_ad_enable">Prispôsobené reklamy</string>

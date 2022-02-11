@@ -545,7 +545,7 @@ Pred pokračovaním si prečítajte a vyjadrite súhlas s novou verziou %s."</st
     <string name="note_parent">Poznámky</string>
     <string name="notification_channel_default">Predvolené</string>
     <string name="notification_channel_default_description">Ostatné upozornenia</string>
-    <string name="notification_channel_favorite_description">Upozornenia o položkách pridaných do záložiek v iných aplikáciach</string>
+    <string name="notification_channel_favorite_description">Upozornenia o položkách pridaných do záložiek v iných aplikáciách</string>
     <string name="notification_channel_shopping_description">Upozornenia o produktoch pridaných do záložiek</string>
     <string name="notification_title">Pridané do záložiek</string>
     <string name="notification_title_fail">"Couldn't add payment"</string>

@@ -32,7 +32,7 @@
     <string name="HIPS_Perm_External_Storage_Desc">Prístup a uložiť súbory a fotografie na interné úložisko</string>
     <string name="HIPS_Perm_External_Storage_Group">Spravovať povolenia úložiska</string>
     <string name="HIPS_Perm_External_Storage_Group_Desc">Vyberte ktoré aplikácie majú povolenie pre prístup</string>
-    <string name="HIPS_Perm_GetInstall_Desc">Získať informácie o nainštalovaných aplikáciach v tomto zariadení.</string>
+    <string name="HIPS_Perm_GetInstall_Desc">Získať informácie o nainštalovaných aplikáciách v tomto zariadení.</string>
     <string name="HIPS_Perm_PhoneID_Desc">Prístup k telefónnemu číslu, IMEI, a IMSI</string>
     <string name="HIPS_Perm_PhoneID_Desc_Q">Prístup k telefónnemu číslu a stavu zariadenia</string>
     <string name="HIPS_Perm_Read_Call_Log_Desc">Čítať históriu hovorov</string>
@@ -43,7 +43,7 @@
     <string name="HIPS_Perm_add_voicemail_Desc">Pridať hlasovú správu</string>
     <string name="HIPS_Perm_get_accounts_Desc">Prístup k všetkým účtom uloženým v zariadení</string>
     <string name="HIPS_Perm_process_nfc_Desc">Používanie NFC</string>
-    <string name="HIPS_Perm_tencentControl">Prístup k správam v sociálnych aplikáciach</string>
+    <string name="HIPS_Perm_tencentControl">Prístup k správam v sociálnych aplikáciách</string>
     <string name="HIPS_Perm_tencentControl_Desc">Prístup k súborom zo sociálnych sietí</string>
     <string name="HIPS_Perm_use_sip_Desc">Použiť Session Initiation Protocol pre streamovanie videa</string>
     <string name="MALICIOUS_URL">Škodlivý odkaz</string>
@@ -591,7 +591,7 @@ alebo zadajte heslo"</string>
     <string name="app_manager_system_mobile_disable">Zakázať dáta</string>
     <string name="app_manager_tab_app">Aplikácie</string>
     <string name="app_manager_tab_manager">Spravovať</string>
-    <string name="app_manager_thumbnail_blur_summary">Rozmazať náhľady v nedávnych aplikáciach</string>
+    <string name="app_manager_thumbnail_blur_summary">Rozmazať náhľady v nedávnych aplikáciách</string>
     <string name="app_manager_thumbnail_blur_title">Rozmazať náhľady</string>
     <string name="app_manager_title">Aplikácie</string>
     <string name="app_manager_to_appstore">Viac aplikácií</string>
@@ -2604,7 +2604,7 @@ Niekedy tieto čísla môžu byť užitočné. Blokujte len čísla z ktorých u
     <string name="network_speed_for_apps_title">Pripojenie</string>
     <string name="network_speed_for_apps_total">Rýchlosť pripojenia</string>
     <string name="network_test_speed">Otestovať rýchlosť Wi-Fi</string>
-    <string name="network_traffic_warning_text">MIUI nemôže vypočítať spotrebu dát pre jednotlivé systémové aplikácie. Podrobnosti o spotrebe dát nájdete v jednotivých aplikáciach.</string>
+    <string name="network_traffic_warning_text">MIUI nemôže vypočítať spotrebu dát pre jednotlivé systémové aplikácie. Podrobnosti o spotrebe dát nájdete v jednotivých aplikáciách.</string>
     <string name="network_traffic_warning_title">Spotreba dát pre systémové aplikácie</string>
     <string name="networkchanged_exception_summary">Pripojenie k sieti bolo zmenené. Skontrolujte ho znova.</string>
     <string name="networkchanged_exception_title">Pripojenie zmenené</string>
@@ -3812,7 +3812,7 @@ Počas dátového prenosu sa text a obrázky komprimujú na serveri a tým sa ur
     <string name="privacy_thumbnail_blur_category_tip">Odporúčané</string>
     <string name="privacy_thumbnail_blur_search_empty">Nič sa nenašlo</string>
     <string name="privacy_thumbnail_blur_title">Rozmazanie náhľadov</string>
-    <string name="privacy_thumbnail_blur_top_tip">Vyberte aplikácie ktoré budú mať rozmazaný náhľad v nedávnych aplikáciach</string>
+    <string name="privacy_thumbnail_blur_top_tip">Vyberte aplikácie ktoré budú mať rozmazaný náhľad v nedávnych aplikáciách</string>
     <string name="privacy_type_open">Zap.</string>
     <string name="privacy_using_camera">Používanie fotoaparátu</string>
     <string name="privacy_using_location">Prístup k polohe</string>

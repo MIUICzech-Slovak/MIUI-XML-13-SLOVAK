@@ -1178,7 +1178,7 @@ ale obsah ktorý hľadáte nie je dostupný vo vašej krajine."</string>
     <string name="transparent_wallpaper_disable">Vyp</string>
     <string name="transparent_wallpaper_enable">Zap</string>
     <string name="transparent_wallpaper_enable_success">Povolené</string>
-    <string name="transparent_wallpaper_filter_pref_summary">Priehľadné pozadia nebudú zobrazené v zakázaných aplikáciach</string>
+    <string name="transparent_wallpaper_filter_pref_summary">Priehľadné pozadia nebudú zobrazené v zakázaných aplikáciách</string>
     <string name="transparent_wallpaper_filter_pref_title">Vyberte aplikácie v ktorých nechcete zobraziť tapetu</string>
     <string name="transparent_wallpaper_filter_set_successfully">Nastavené</string>
     <string name="transparent_wallpaper_filter_setting">aplikácie</string>

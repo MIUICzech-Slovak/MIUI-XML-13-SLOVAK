@@ -1040,7 +1040,7 @@ Synchronizujte ich teraz."</string>
     <string name="picker_join_title">Zvoľte kontakt na prepojenie s %s</string>
     <string name="picker_number_title">Vyberte číslo</string>
     <string name="picker_postal_title">Vyberte poštu</string>
-    <string name="picker_recent_list_empty">Žiadne posledné kontakty</string>
+    <string name="picker_recent_list_empty">Žiadne nedávne kontakty</string>
     <string name="pkgLabel">Kontakty a Volanie</string>
     <string name="play_add_incall_show_entry">Prehrať alebo pridať video</string>
     <string name="play_incall_show_entry">Prehrať video</string>
