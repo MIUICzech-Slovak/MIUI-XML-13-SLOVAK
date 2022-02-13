@@ -196,7 +196,7 @@
     <string name="noon">PM</string>
     <string name="note">Poznámka</string>
     <string name="organization">Organizácia</string>
-    <string name="perm_payment_dspt">Povoliť aplikácií platiť cez Mi platby</string>
+    <string name="perm_payment_dspt">Povoliť aplikácii platiť cez Mi platby</string>
     <string name="perm_payment_lab">Mi platby</string>
     <string name="permdesc_sendSmsNoConfirmation">Povolí aplikácií odoslať SMS. Vaše mesačné poplatky sa môžu výrazne navýšiť ak podvodné aplikácie budú odosielať SMS bez vášho vedomia.</string>
     <string name="permlab_sendSmsNoConfirmation">odoslať SMS bez potvrdenia</string>

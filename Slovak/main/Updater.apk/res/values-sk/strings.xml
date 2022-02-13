@@ -60,8 +60,8 @@ Vaše dáta nebudú vymazané."</string>
     <string name="notif_service_summary">Podržte pre deaktivovanie upozornenia</string>
     <string name="notif_service_title">Aplikácia Aktualizácia beží na pozadí</string>
     <string name="notifications_switch">Upozorniť na novú verziu</string>
-    <string name="permdesc_cache_filesystem">Povoliť aplikácií zápis do /cache.</string>
-    <string name="permdesc_reboot">Povoliť aplikácií reštartovať zariadenie.</string>
+    <string name="permdesc_cache_filesystem">Povoliť aplikácii zápis do /cache.</string>
+    <string name="permdesc_reboot">Povoliť aplikácii reštartovať zariadenie.</string>
     <string name="permlab_cache_filesystem">Prístup ku Cache</string>
     <string name="permlab_reboot">Povoliť reštartovanie</string>
     <string name="pick_not_found">Nebol nájdený žiaden správca súborov.</string>

@@ -208,7 +208,7 @@
     <string name="operation_create_group">Názov</string>
     <string name="operation_create_group_message">Zadajte nový názov skupiny</string>
     <string name="performance_category">Výkon</string>
-    <string name="permstep_description">Povoliť aplikácií prístup k počtu krokov</string>
+    <string name="permstep_description">Povoliť aplikácii prístup k počtu krokov</string>
     <string name="permstep_label">Čítať kroky</string>
     <string name="power_center">Výkon</string>
     <string name="power_checker_background_cpu_multi_apps_title">%1$s beží abnormálne</string>

@@ -505,7 +505,7 @@ alebo zadajte heslo"</string>
     <string name="app_manager_find_apps">Nájsť aplikácie</string>
     <string name="app_manager_force_stop_dlg_text">Ak vynútite ukončenie aplikácie, môže sa správať nesprávne.</string>
     <string name="app_manager_force_stop_dlg_title">Vynútiť ukončenie?</string>
-    <string name="app_manager_full_screen_summary">Povoliť aplikácií celú výšku displeja</string>
+    <string name="app_manager_full_screen_summary">Povoliť aplikácii celú výšku displeja</string>
     <string name="app_manager_full_screen_title">Celý displej</string>
     <string name="app_manager_globel_other_perm_title">Ostatné povolenia</string>
     <string name="app_manager_globel_perm_summary">Spravovať povolenia ako poloha, úložisko, telefón, SMS, a kontakty.</string>
@@ -1762,7 +1762,7 @@ For more info check the message you received from your service provider"</string
     <string name="gamebooster_lowbattery_notification_summary">Pripojte nabíjačku kým sa telefón nevypne.</string>
     <string name="gamebooster_lowbattery_notification_title">Batéria má menej ako 5%%</string>
     <string name="gamebooster_main_activity_back">Naspäť</string>
-    <string name="gamebooster_network_dialog_message">Povoliť aplikácií Optimalizácia pripojenie k sieti pre plné využívanie Zrýchlenia hier?</string>
+    <string name="gamebooster_network_dialog_message">Povoliť aplikácii Optimalizácia pripojenie k sieti pre plné využívanie Zrýchlenia hier?</string>
     <string name="gamebooster_network_dialog_title">Niektoré funkcie nie sú dostupné</string>
     <string name="gamebox_brightness">Jas</string>
     <string name="gamebox_browser_not_find">Nainštalujte Mi Prehliadač</string>
@@ -3080,7 +3080,7 @@ Tento proces skracuje životnosť batérie."</string>
     <string name="pkg_traffic">Nastaviť limit mobilných dát</string>
     <string name="please_continue_keep">Ponechať</string>
     <string name="pm_auto_start_by_other">Vyvolaný štart</string>
-    <string name="pm_auto_start_by_other_app">Povoliť aplikácií spustenie inou aplikáciou</string>
+    <string name="pm_auto_start_by_other_app">Povoliť aplikácii spustenie inou aplikáciou</string>
     <string name="pm_auto_start_by_system">Spustenie apl.</string>
     <string name="pm_auto_start_by_system_event">Povoliť apl. automatické spustenie</string>
     <string name="pm_auto_start_proc_is_running">Spustené</string>

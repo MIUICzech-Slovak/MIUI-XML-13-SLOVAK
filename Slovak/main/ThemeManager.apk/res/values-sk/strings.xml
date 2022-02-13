@@ -588,7 +588,7 @@ dd.MM"</string>
     <string name="pref_read_write_function_detail">Na zmenu predvolieb prispôsobenia a uloženie stiahnutých položiek</string>
     <string name="pref_reading_the_application_list_detail">Na použitie priehľadných tapiet</string>
     <string name="preference_copied">\"%1$s\" bolo skopírované do schránky.</string>
-    <string name="preference_subtitle_get_device_status">Povoliť aplikácií prístup k ID zariadenia pre sťahovanie zakúpených tém</string>
+    <string name="preference_subtitle_get_device_status">Povoliť aplikácii prístup k ID zariadenia pre sťahovanie zakúpených tém</string>
     <string name="preference_title_get_device_status">Prístup k ID zariadenia</string>
     <string name="present_local_fonts">Moje písma</string>
     <string name="present_local_themes">Stiahnuté</string>
