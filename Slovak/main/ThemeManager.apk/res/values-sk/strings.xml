@@ -1079,7 +1079,7 @@ ale obsah ktorý hľadáte nie je dostupný vo vašej krajine."</string>
     <string name="theme_component_title_boot_audio">Boot Audio</string>
     <string name="theme_component_title_clock">Hodiny</string>
     <string name="theme_component_title_contact">Číselník</string>
-    <string name="theme_component_title_font">Písmo</string>
+    <string name="theme_component_title_font">Písma</string>
     <string name="theme_component_title_framework">Framework</string>
     <string name="theme_component_title_homepage">Domáca plocha</string>
     <string name="theme_component_title_icon">Ikony</string>
@@ -1091,10 +1091,10 @@ ale obsah ktorý hľadáte nie je dostupný vo vašej krajine."</string>
     <string name="theme_component_title_notification">Upozornenia</string>
     <string name="theme_component_title_others">Ostatné</string>
     <string name="theme_component_title_photo_frame">Fotorámček</string>
-    <string name="theme_component_title_ringtone">Zvonenie</string>
+    <string name="theme_component_title_ringtone">Zvonenia</string>
     <string name="theme_component_title_statusbar">Oznam. lišta</string>
-    <string name="theme_component_title_wallpaper">Tapeta</string>
-    <string name="theme_component_video_wallpaper">Dynamické tapety</string>
+    <string name="theme_component_title_wallpaper">Tapety</string>
+    <string name="theme_component_video_wallpaper">Dynam. tapety</string>
     <string name="theme_current_using_has_update">Súčasná téma bola aktualizovaná, dotknite sa tu pre jej aplikovanie</string>
     <string name="theme_description_title_customized">Vlastné</string>
     <string name="theme_description_title_default">Predvolené</string>
@@ -1329,4 +1329,13 @@ ale obsah ktorý hľadáte nie je dostupný vo vašej krajine."</string>
     <string name="wifi_check_message">Používať na sťahovanie aktualizácií mobilné dáta?</string>
     <string name="wifi_check_tip">Už nezobrazovať</string>
     <string name="yesterday">Včera</string>
+    
+<string name="local_mode">Režim offline</string>
+     <string name="local_mode_close">Vypnúť režim offline?</string>
+     <string name="local_mode_close_desc">Ak chcete používať služby online, vypnite režim offline. Vypnúť teraz?</string>
+     <string name="local_mode_desc">Režim offline používa iba lokálny obsah a nepoužíva online služby</string>
+     <string name="local_mode_hint">"Používate režim offline.
+Dotykom vypnete."</string>
+     <string name="local_mode_open">Režim offline</string>
+
 </resources>
