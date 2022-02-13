@@ -96,7 +96,7 @@
     <string name="continue_operation">Pokračovať</string>
     <string name="continue_step">Ďalej</string>
     <string name="control_set_alarm">Nastaviť budík</string>
-    <string name="control_set_alarm_with_existing">Nastavenie budíku: %s</string>
+    <string name="control_set_alarm_with_existing">Nastavenie budíka: %s</string>
     <string name="copy">Kopírovať</string>
     <string name="current_stopwatch_time">Súčasné načasovanie</string>
     <string name="day">1 deň</string>
@@ -175,7 +175,7 @@
     <string name="label">Nastaviť štítok</string>
     <string name="label_input_desc">Tento názov bude zobrazený na displeji keď sa vypne budík</string>
     <string name="label_input_hint">Zadajte názov</string>
-    <string name="label_pref_summary">Názov tohto budíku</string>
+    <string name="label_pref_summary">Názov tohto budíka</string>
     <string name="lap">Kolo</string>
     <string name="lap_num">Kolo</string>
     <string name="last_step">Späť</string>
@@ -531,4 +531,13 @@
     <string name="worldcolock_timezone_gap">Hodina</string>
     <string name="worldcolock_timezone_local">Rovnaký čas ako u vás</string>
     <string name="yesterday">Včera</string>
+
+<string name="permission_desc">Podrobnosti povolení</string>
+      <string name="permission_granted">Udelené</string>
+      <string name="permission_rejected">Neudelené</string>
+      <string name="permission_related">Povolenia</string>
+      <string name="privacy_settings_title">Ochrana osobných údajov</string>
+      <string name="query_privacy_policy">Zobraziť Ochranu osobných údajov</string>
+      <string name="read_external_storage_permission_desc">Na nastavenie vlastných vyzváňacích tónov</string>
+      <string name="read_internal_storage">Prístup k úložisku</string>
 </resources>

@@ -323,4 +323,6 @@
     <string name="wireless_charging_notification_titile">Reverzné bezdrôtové nabíjanie je deaktivované</string>
     <string name="xspace_head">Klonovaná aplikácia</string>
     <string name="xspace_resolver_activity_title">Vybrať apl.</string>
+    <string name="android_ringtone_silent">Žiadne</string>
+     <string name="android_ringtone_unknown">Neznáme zvonenie</string>
 </resources>

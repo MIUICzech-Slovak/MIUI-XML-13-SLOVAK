@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="action_use_network">Použiť</string>
+    <string name="ad_service">Reklamné služby</string>
     <string name="app_label">HTML Viewer</string>
     <string name="app_name_which_call">Aplikácia: %s</string>
     <string name="app_version_which_call">Verzia: %s</string>

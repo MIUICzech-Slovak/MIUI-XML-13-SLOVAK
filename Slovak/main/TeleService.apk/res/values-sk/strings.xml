@@ -280,7 +280,7 @@ Vzorkovacia frekvencia"</string>
     <string name="call_recording_notification_toggle_title">Upozornenie nahrávania hovorov</string>
     <string name="call_recording_setting">Nahrávanie hovoru</string>
     <string name="call_remove_exception_numbers_confirm">%d čísel bude vymazaných.</string>
-    <string name="call_settings">Nastavenie hovoru</string>
+    <string name="call_settings">Nastavenie hovorov</string>
     <string name="call_settings_admin_user_only">Nastavenia hovorov môže zmeniť iba používateľ s povoleniami správcu.</string>
     <string name="call_settings_category">Hovor</string>
     <string name="call_settings_with_label">Nastavenia (%s)</string>
@@ -294,7 +294,7 @@ Vzorkovacia frekvencia"</string>
     <string name="caller_id_summary">Skryť/zobraziť moje číslo v odchádzajúcich hovoroch (pokiaľ sieť podporuje)</string>
     <string name="caller_id_title">ID volajúceho</string>
     <string name="caller_manage_header">Konferenčný hovor %s</string>
-    <string name="callind">Nastavenie hovoru</string>
+    <string name="callind">Nastavenie hovorov</string>
     <string name="callind_multi_sim">Zvoliť Podpis</string>
     <string name="calling_via_template">Volanie cez %s</string>
     <string name="callwait_open_hint">\"Čakajúci hovor\" je služba poskytovaná operátorom. Ak sa zobrazí \"Chybný MMI kód\", obráťte sa na svojho operátora.</string>
@@ -579,7 +579,7 @@ Ak chcete pokračovať, stlačte tlačidlo Vymazať a konvertovať…"</string>
     <string name="disconnect_data_confirm">Mobilné dáta budú dočasne odpojené. Pokračovať?</string>
     <string name="display_name_summary">Rovnaké ako meno</string>
     <string name="display_name_title">Zobrazované meno</string>
-    <string name="domain_address_title">server</string>
+    <string name="domain_address_title">Server</string>
     <string name="doneButton">Hotovo</string>
     <string name="dtmf_tone_enable_title">Zvuk dotyku kláves</string>
     <string name="dtmf_tone_entries_long">Dlhé</string>
@@ -1572,11 +1572,11 @@ Počet zostávajúcich pokusov: %d."</string>
     <string name="sip_accounts_title">Účty</string>
     <string name="sip_add_account_tip_text">Prosím vložte účet SIP pre používanie internetových volaní</string>
     <string name="sip_always_send_keepalive">Vždy odosielať</string>
-    <string name="sip_call_options_entry_1">pre všetky hovory</string>
+    <string name="sip_call_options_entry_1">Pre všetky hovory</string>
     <string name="sip_call_options_entry_2">Len pre internetové hovory</string>
     <string name="sip_call_options_entry_3">Vždy sa opýtať</string>
     <string name="sip_call_options_title">Hovor cez internet</string>
-    <string name="sip_call_options_wifi_only_entry_1">pre všetky hovory</string>
+    <string name="sip_call_options_wifi_only_entry_1">Pre všetky hovory</string>
     <string name="sip_call_options_wifi_only_title">Hovor cez internet (Len cez Wi-Fi)</string>
     <string name="sip_connection_service_label">Vstavané SIP hovory</string>
     <string name="sip_edit_new_title">etaily účtu Hovoru cez internet</string>
@@ -1906,4 +1906,5 @@ Tiesňové volania sú možné len v oblastiach s pokrytím mobilnou sieťou.“
     <string name="xdivert_summary">CFNRc Nastavenia</string>
     <string name="xdivert_title">X-Divert</string>
     <string name="yesterday">Včera</string>
+    <string name="mobile_network_dual_card_optimizationmobile_title">Dual SIM a mobilné siete</string>
 </resources>

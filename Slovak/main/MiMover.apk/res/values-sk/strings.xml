@@ -486,4 +486,5 @@ zvuky, video, dokumenty a aplikácie do nového zariadenia"</string>
     <string name="wednesday_short">Str</string>
     <string name="wednesday_shortest">S</string>
     <string name="yesterday">Včera</string>
+<string name="dialog_request_permission_message">"Vitajte v Mi Mover! Túto aplikáciu môžete použiť na prenos údajov zo starého zariadenia do nového. Údaje sa prenesú medzi týmito dvoma zariadeniami a nebudú nahrané na naše servery. Táto aplikácia sa musí pripojiť k internetu a vyžaduje nasledujúce povolenia, aby mohla normálne fungovať: "</string>    
 </resources>

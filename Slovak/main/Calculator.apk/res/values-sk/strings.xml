@@ -826,4 +826,5 @@ Veľkosť delta aktualizácie: %2$s"</string>
     <string name="xiaomi_update_dialog_title">Aktualizácia aplikácie %1$s!</string>
     <string name="year" />
     <string name="yesterday">Včera</string>
+     <string name="dont_allow">Nesúhlasím</string>    
 </resources>
