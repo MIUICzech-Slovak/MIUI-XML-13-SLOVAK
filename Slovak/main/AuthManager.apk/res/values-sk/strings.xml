@@ -480,7 +480,7 @@
     <string name="permission_description_summary_sms">Aplikácia s týmto povolením môže odoslať SMS</string>
     <string name="permission_description_summary_storage">Aplikácia s týmto povolením môže pristupovať k vašim fotografiám a médiám v zariadení</string>
     <string name="permission_group_title_charges_related">Platby</string>
-    <string name="permission_group_title_media_related">Multimédia</string>
+    <string name="permission_group_title_media_related">Multimédiá</string>
     <string name="permission_group_title_privacy_related">Súkromie</string>
     <string name="permission_group_title_sensitive_privacy_related">Citlivé povolenia</string>
     <string name="permission_group_title_settings_related">Nastavenie</string>

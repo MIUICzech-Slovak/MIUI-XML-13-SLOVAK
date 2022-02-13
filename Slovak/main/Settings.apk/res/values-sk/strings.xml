@@ -5910,7 +5910,7 @@ Všetky aplikácie v úložisku ^1 sa odinštalujú a ich údaje sa vymažú;. A
 
 Toto úložisko ^1 je naformátované tak, aby fungovalo iba v tomto zariadení."</string>
     <string name="storage_label">Úložisko</string>
-    <string name="storage_low_summary">Niektoré funkcie systému ako, synchronizácia, nemusia pracovať správne. Pokúste sa uvoľniť miesto vymazaním súborov ako aplikácie alebo multimédia.</string>
+    <string name="storage_low_summary">Niektoré funkcie systému ako, synchronizácia, nemusia pracovať správne. Pokúste sa uvoľniť miesto vymazaním súborov ako aplikácie alebo multimédiá.</string>
     <string name="storage_low_title">Málo miesta na úložisku</string>
     <string name="storage_menu_explore">Preskúmať</string>
     <string name="storage_menu_forget">Odstrániť záznam</string>
