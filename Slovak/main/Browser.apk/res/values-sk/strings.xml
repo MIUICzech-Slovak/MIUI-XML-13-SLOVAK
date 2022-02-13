@@ -915,7 +915,7 @@ Chcete opustiť túto web stránku?"</string>
     <string name="root_folder_lable">Žiadna</string>
     <string name="router_download_exist">Tento súbor už existuje</string>
     <string name="router_download_failed">Sťahovanie zlyhalo, skúste to znova.</string>
-    <string name="router_download_success">Sťahovanie, skontrolujte priebeh v aplikácií pre Mi Router.</string>
+    <string name="router_download_success">Sťahovanie, skontrolujte priebeh v aplikácii pre Mi Router.</string>
     <string name="same_bookmarks_warning">Táto záložka už existuje</string>
     <string name="same_folder_name_warning">Táto zložka už existuje</string>
     <string name="save_button_text">Uložiť</string>

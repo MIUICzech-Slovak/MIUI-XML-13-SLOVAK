@@ -94,7 +94,7 @@
     <string name="app_store_installing_message">Inštalácia...</string>
     <string name="app_store_missing_title">„App Store nie je nainštalovaný“</string>
     <string name="app_version_format">Verzia: %1$s</string>
-    <string name="application_detail_tips">Podrobnosti o aplikácií</string>
+    <string name="application_detail_tips">Podrobnosti o aplikácii</string>
     <string name="auto_startup_dialog_msg">Táto aplikácia sa môže spustiť bez vášho povolenia.</string>
     <string name="available_via_carrier">K dispozícii prostredníctvom operátora %1$s</string>
     <string name="available_via_passpoint">K dispozícii prostredníctvom %1$s</string>

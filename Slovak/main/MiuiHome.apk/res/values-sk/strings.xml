@@ -7,7 +7,7 @@
     <string name="accessibility_enter_all_app_settings">Otvoriť nastavenia zoznamu aplikácií</string>
     <string name="accessibility_menu_item_split_disable">Aplikácia nepodporuje rozdelenie obrazovky.</string>
     <string name="accessibility_menu_item_split_enable">Aplikácia podporuje rozdelenie obrazovky</string>
-    <string name="accessibility_recents_item_open_app_info">Otvoriť informácie o aplikácií %s.</string>
+    <string name="accessibility_recents_item_open_app_info">Otvoriť informácie o aplikácii %s.</string>
     <string name="accessibility_splite_screen_primary">Pridané ako primárna aplikácia pre rozdelenie obrazovky</string>
     <string name="accessibility_splite_screen_secondary">Pridané ako sekundárna aplikácia pre rozdelenie obrazovky</string>
     <string name="action_add_to_workspace">Pridať do pracovného priestoru</string>
@@ -531,7 +531,7 @@
     <string name="recent_menu_item_lock">Uzamknúť</string>
     <string name="recent_menu_item_multi_window">Rozdeliť</string>
     <string name="recent_menu_item_unlock">Odomknúť</string>
-    <string name="recents_app_info_button_label">Info o aplikácií</string>
+    <string name="recents_app_info_button_label">Info o aplikácii</string>
     <string name="recents_clear_all_tasks">Vyčistiť všetko</string>
     <string name="recents_config_title">Zobrazenie spustených aplikácií</string>
     <string name="recents_dimiss_task">Vymazať</string>

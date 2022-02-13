@@ -21,7 +21,7 @@
     <string name="clear_shortcuts">Vymazať históriu v zariadení</string>
     <string name="clear_shortcuts_agree">Vymazať históriu</string>
     <string name="clear_shortcuts_disagree">"Nemazať zástupcov"</string>
-    <string name="clear_shortcuts_prompt">"Vymaže históriu nedávno vybraných návrhov pre obsah a aplikácie v tomto zariadení.(Pro vymazanie histórie prehliadača použite Nastavenie v aplikácií Prehliadač.)"</string>
+    <string name="clear_shortcuts_prompt">"Vymaže históriu nedávno vybraných návrhov pre obsah a aplikácie v tomto zariadení.(Pro vymazanie histórie prehliadača použite Nastavenie v aplikácii Prehliadač.)"</string>
     <string name="clear_shortcuts_summary">Vymazať históriu najčastejších zvolených návrhov</string>
     <string name="common_category_entrance">Karty</string>
     <string name="common_category_entrance_subtitle">Zoraziť karty s kategóriami</string>

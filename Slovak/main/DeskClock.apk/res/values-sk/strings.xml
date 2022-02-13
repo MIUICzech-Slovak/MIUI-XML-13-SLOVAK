@@ -20,7 +20,7 @@
     <string name="alarm_clock_more_setting">Ďalšie nastavenia</string>
     <string name="alarm_disabled">Vypnutý</string>
     <string name="alarm_in_silent_mode_title">Budík v tichom režime</string>
-    <string name="alarm_klaxon_service_desc">Služba prehrávania zvuku budíkov nastavených v aplikácií Hodiny.</string>
+    <string name="alarm_klaxon_service_desc">Služba prehrávania zvuku budíkov nastavených v aplikácii Hodiny.</string>
     <string name="alarm_label_hint">Zadajte názov</string>
     <string name="alarm_list_title">Budíky</string>
     <string name="alarm_notify_snooze_label">%s (odložené)</string>

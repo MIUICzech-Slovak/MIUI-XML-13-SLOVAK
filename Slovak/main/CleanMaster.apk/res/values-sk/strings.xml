@@ -719,9 +719,9 @@
     <string name="storage_app_detail_third_clean_size">Uvoľniť %s</string>
     <string name="storage_app_detail_total">Celkovo obsadené miesto</string>
     <string name="storage_app_detail_uninstall_app">Odinštalovať aplikáciu</string>
-    <string name="storage_app_list_activity_title">Podrobnosti o aplikácií</string>
+    <string name="storage_app_list_activity_title">Podrobnosti o aplikácii</string>
     <string name="storage_app_list_desc">Obsadené miesto: %s</string>
-    <string name="storage_app_space_details_entry">Zobraziť podrobnosti o aplikácií</string>
+    <string name="storage_app_space_details_entry">Zobraziť podrobnosti o aplikácii</string>
     <string name="storage_available_total_size">%1$s z %2$s dostupné</string>
     <string name="storage_deepclean_entry">Hĺbkové čistenie</string>
     <string name="storage_item_apk_name">APKs</string>

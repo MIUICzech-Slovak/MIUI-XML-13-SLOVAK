@@ -454,7 +454,7 @@ Správca môže sledovať a spravovať nastavenia, prístup, aplikácie a údaje
     <string name="app_link_open_always">Otvárať v tejto aplikácii</string>
     <string name="app_link_open_ask">Vždy sa opýtať</string>
     <string name="app_link_open_never">Neotvárať v tejto aplikácii</string>
-    <string name="app_link_title">Ďalšie nastavenia v aplikácií</string>
+    <string name="app_link_title">Ďalšie nastavenia v aplikácii</string>
     <string name="app_list_memory_use">Využitie aplikáciami</string>
     <string name="app_list_preference_none">Žiadna</string>
     <string name="app_lock_role_instruction">Chráňte vaše súkromné aplikácie</string>
@@ -504,7 +504,7 @@ Správca môže sledovať a spravovať nastavenia, prístup, aplikácie a údaje
     <string name="app_wifi">Wi-Fi</string>
     <string name="application_data">Aplikácie</string>
     <string name="application_forbid_auto_startup">Zakázať %s sa spustiť na pozadí</string>
-    <string name="application_info_label">Informácie o aplikácií</string>
+    <string name="application_info_label">Informácie o aplikácii</string>
     <string name="application_item_already_permission">Povolené</string>
     <string name="application_item_disable">Zakázať</string>
     <string name="application_item_permission">Povoliť</string>
@@ -669,7 +669,7 @@ Zálohy sú uložené v MiCloude. Tento spôsob je rýchlejší ale nie je možn
     <string name="baseband_version">Modem</string>
     <string name="batch_delete_saved_network">Vymazať uloženú sieť: %s?</string>
     <string name="batch_delete_saved_networks">Vymazať všetky vybrané siete</string>
-    <string name="battery_action_app_details">Informácie o aplikácií</string>
+    <string name="battery_action_app_details">Informácie o aplikácii</string>
     <string name="battery_action_app_settings">Nastavenie aplikácie</string>
     <string name="battery_action_bluetooth">Nastavenie Bluetooth</string>
     <string name="battery_action_display">Nastavenie obrazovky</string>
@@ -3045,7 +3045,7 @@ Nakopírujte zálohy z USB naspäť do zložky (MIUI-backup-AllBackup) v telefó
     <string name="launching_cit">Launching cit, please wait.</string>
     <string name="launching_pho">Launching phone info, please wait.</string>
     <string name="launching_rep">Reporting…</string>
-    <string name="layout_exhuge_font_take_effect_tips">XXL text bude zobrazený len v aplikácií Telefón, SMS a Kontakty</string>
+    <string name="layout_exhuge_font_take_effect_tips">XXL text bude zobrazený len v aplikácii Telefón, SMS a Kontakty</string>
     <string name="layout_exhuge_font_tips">Viac nastavení nájdete v %1$s</string>
     <string name="layout_exhuge_font_tips_reg">Uľahčenie prístupu a Displej</string>
     <string name="layout_size_exhuge_text">XXL</string>
@@ -5162,7 +5162,7 @@ Ako funkciu použiť:
     <string name="screen_projection_characteristics_small_window_title">Minimalizovať okno</string>
     <string name="screen_projection_example_document_summary">Zobraziť prezentácie na externom monitore a používajte svoj telefón na posúvanie strán a čítanie poznámok.</string>
     <string name="screen_projection_example_document_title">Dokumenty</string>
-    <string name="screen_projection_example_gallery_summary">Stlačte tlačidlo Zdieľať v aplikácií Galéria pre zobrazenie na monitore.</string>
+    <string name="screen_projection_example_gallery_summary">Stlačte tlačidlo Zdieľať v aplikácii Galéria pre zobrazenie na monitore.</string>
     <string name="screen_projection_example_gallery_title">Fotografie a videá</string>
     <string name="screen_projection_example_game_summary">Zrýchlenie hier umožňuje vysielať hry na externý monitor.</string>
     <string name="screen_projection_example_game_title">Hry</string>

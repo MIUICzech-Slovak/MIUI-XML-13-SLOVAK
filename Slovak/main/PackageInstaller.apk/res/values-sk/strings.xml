@@ -456,7 +456,7 @@ Všetky predchádzajúce používateľské údaje budú uložené."</string>
     <string name="power_remaining_duration_only_short">%1$s left</string>
     <string name="pref_ads">Odporúčania</string>
     <string name="pref_key_antivirus">Antivírus</string>
-    <string name="pref_key_antivirus_summary">Skontrolovať vírusy v aplikácií pred inštaláciou</string>
+    <string name="pref_key_antivirus_summary">Skontrolovať vírusy v aplikácii pred inštaláciou</string>
     <string name="privacyPerms">Ochrana osobných údajov</string>
     <string name="privacy_relative">Práva k súkromným údajom</string>
     <string name="reboot_time">Zariadenie bude reštartované...(%1$s)</string>

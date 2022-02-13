@@ -204,7 +204,7 @@ Vypnúť prispôsobené reklamy napriek tomu?"</string>
     <string name="other_settings_ad_enable">Prispôsobené reklamy</string>
     <string name="other_settings_ad_enable_summary">Prispôsobte si reklamy na základe vašich záujmov</string>
     <string name="other_settings_auto_update">Automatické systémové aktualizácie</string>
-    <string name="other_settings_auto_update_summary">Nové aktualizácie MIUI stiahnite na adrese miuios.cz/rom a nainštalujete v aplikácií Aktualizácia - Menu (3 bodky)- Vybrať zip.</string>
+    <string name="other_settings_auto_update_summary">Nové aktualizácie MIUI stiahnite na adrese miuios.cz/rom a nainštalujete v aplikácii Aktualizácia - Menu (3 bodky)- Vybrať zip.</string>
     <string name="other_settings_enhanced_lockscreen">Denná tapeta</string>
     <string name="other_settings_enhanced_lockscreen_privacy_index">Zásady ochrany osobných údajov</string>
     <string name="other_settings_enhanced_lockscreen_summary">Dostávajte vybrané obrázky a príbehy do vášho zariadenia každý deň. %1$s a %2$s</string>

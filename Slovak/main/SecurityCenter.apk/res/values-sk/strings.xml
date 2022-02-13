@@ -486,7 +486,7 @@ alebo zadajte heslo"</string>
     <string name="app_manager_defaults_setting">Predvolené</string>
     <string name="app_manager_details_electric_title">Batéria</string>
     <string name="app_manager_details_storage_title">Úložisko</string>
-    <string name="app_manager_details_title">Informácie o aplikácií</string>
+    <string name="app_manager_details_title">Informácie o aplikácii</string>
     <string name="app_manager_details_traffic_title">Mobilné dáta</string>
     <string name="app_manager_disable">Nepovoliť</string>
     <string name="app_manager_disable_dlg_text">Ak deaktivujete túto aplikáciu, ostatné aplikácie nemusia fungovať správne.</string>
@@ -656,7 +656,7 @@ alebo zadajte heslo"</string>
     <string name="app_running_tip_dialog_text">Ukončite %1$s pre zabránenie behu na pozadí. Zrýchli to vaše zariadenie a zníži spotrebu batérie.</string>
     <string name="app_running_tip_dialog_title">Ukončiť aplikáciu</string>
     <string name="app_running_tip_uninstall">Odinštalovať aplikáciu</string>
-    <string name="app_settings_link">Ďalšie nastavenia v aplikácií</string>
+    <string name="app_settings_link">Ďalšie nastavenia v aplikácii</string>
     <string name="app_statusbar_audio_now">Nahrávanie</string>
     <string name="app_statusbar_camera_now">Fotenie</string>
     <string name="app_statusbar_location_now">Lokalizovanie</string>
@@ -1255,7 +1255,7 @@ alebo zadajte heslo"</string>
     <string name="cta_close_dialog_title">Zakázať prístup</string>
     <string name="cta_dialog_msg">Optimalizácia vyžaduje prístup na internet pre aktualizáciu databázy.</string>
     <string name="cta_dialog_title">Podmienky používania</string>
-    <string name="cta_main_purpose">Vitajte v aplikácií Optimalizácia! Môžete tu vymazať odpad z vášho zariadenia, skontrolovať vírusy, ušetriť spotrebu energie a mnoho ďalších užitočných funkcií.</string>
+    <string name="cta_main_purpose">Vitajte v aplikácii Optimalizácia! Môžete tu vymazať odpad z vášho zariadenia, skontrolovať vírusy, ušetriť spotrebu energie a mnoho ďalších užitočných funkcií.</string>
     <string name="cta_settings">Povoliť prístup k sieti</string>
     <string name="current_network_state_not_need_diagnose">Všetko je v poriadku</string>
     <string name="customize_limit_pkg">%s (vlastné)</string>
