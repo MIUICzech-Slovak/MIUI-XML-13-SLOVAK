@@ -392,7 +392,7 @@
         <item>Jesenné hody</item>
         <item>Zimné prikrývky</item>
     </string-array>
-    <string-array name="jarná_sezóna_názov">
+    <string-array name="spring_season_title">
         <item>Kvitne jar</item>
         <item>Jar je vo vzduchu</item>
         <item>Ahoj jar!</item>
