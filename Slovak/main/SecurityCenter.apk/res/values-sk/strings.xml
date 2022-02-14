@@ -321,7 +321,7 @@ alebo zadajte heslo"</string>
     <string name="app_behavior_desc_other_perm_allowed">Posledná aktivita: %s</string>
     <string name="app_behavior_desc_other_perm_denied">Aktivita počas posledných %dh</string>
     <string name="app_behavior_desc_virtual_once">Odoslaná prázdna správa do %1$s</string>
-    <string name="app_behavior_door">Správanie aplikácie</string>
+    <string name="app_behavior_door">Správanie aplikácií</string>
     <string name="app_behavior_get_install">%1s načítalo zoznam aplikácií</string>
     <string name="app_behavior_get_install_single">Táto aplikácia načítala zoznam aplikácií</string>
     <string name="app_behavior_global_settings_perm_tips">Zobraziť upozornenie ak aplikácie nahrajú zvuk alebo použijú fotoaparát</string>
@@ -569,12 +569,12 @@ alebo zadajte heslo"</string>
     <string name="app_manager_reset_app_preferences_desc">"Budú obnovené tieto nastavenia:
 
  "- Deaktivované aplikácie"
- "- Deaktivované upozornenia aplikície"
+ "- Deaktivované upozornenia aplikácie"
  "- Predvolené aplikácie"
  "- Zakázané mobilné dáta aplikácií"
 
  Nestratíte žiadne dáta aplikácií."</string>
-    <string name="app_manager_reset_app_preferences_title">Obnoviť nastavenia aplikácie?</string>
+    <string name="app_manager_reset_app_preferences_title">Obnoviť nastavenia aplikácií?</string>
     <string name="app_manager_search_prompt">Nič ste nenašli? Skúste zobraziť všetky aplikácie.</string>
     <string name="app_manager_show_all_apps">Zobraziť všetky apl.</string>
     <string name="app_manager_show_all_apps_opened">Zobrazenie všetkých aplikácií...</string>
@@ -1214,7 +1214,7 @@ alebo zadajte heslo"</string>
     <string name="commonly_used_func_edit_too_many_func">Nie je možné pridať ďalšie položky</string>
     <string name="comprehensive_protection_measures">Komplexná ochrana</string>
     <string name="confirmSecondSpacePassword">Potvrďte heslo Druhého profilu</string>
-    <string name="confirm_allow_all_permission">Povoliť všetkým aplikáciam používanie tejto funkcie?</string>
+    <string name="confirm_allow_all_permission">Povoliť všetkým aplikáciám používanie tejto funkcie?</string>
     <string name="confirm_bind_xiaomi_account_dialog_title">Pridávanie Mi účtu</string>
     <string name="confirm_fingerprint_msg">Overte váš odtlačok prstu</string>
     <string name="confirm_open_shut_down_password_content">Nastavte zámok obrazovky pred povolením potvrdenia vypnutia zariadenia.</string>
@@ -1610,7 +1610,7 @@ For more info check the message you received from your service provider"</string
     <string name="firewall_network_restrict_notify_message">Zmeniť nastavenia</string>
     <string name="firewall_network_restrict_notify_mobile">Mobilné dáta</string>
     <string name="firewall_network_restrict_notify_title">%1$s nemá povolené pripojenie k sieti.</string>
-    <string name="firewall_partial">Povoliť niektorých aplikáciam pripojenie</string>
+    <string name="firewall_partial">Povoliť niektorých aplikáciám pripojenie</string>
     <string name="firewall_restrict_all">Zakázať pripojenie pre všetky aplikácie</string>
     <string name="firewall_restrict_android_dialog_content">Pre zaistenie správnej funkčnosti vášho systému, niektoré systémové aplikácie budú mať stále prístup k internetu. Tieto aplikácie budú využívať vaše mobilné pripojenie.</string>
     <string name="firewall_restrict_android_dialog_title">Upozornenie</string>
@@ -2010,7 +2010,7 @@ z vášho hrania hier"</string>
     <string name="gtb_guide_gtb_line_new">Nastavte si vašu hru s novým Zrýchlením hier!</string>
     <string name="gtb_guide_small_window_app_desc">Použite iné aplikácie počas hrania</string>
     <string name="gtb_guide_small_window_app_title">Plávajúce okná</string>
-    <string formatted="false" name="gtb_setting_item_summary_smart_wlan_speed">Zvýšiť rýchlosť pripojenia o 10%-20% ak ste pripojený k Mi/Redmi rútru</string>
+    <string formatted="false" name="gtb_setting_item_summary_smart_wlan_speed">Zvýšiť rýchlosť pripojenia o 10%-20% ak ste pripojený k Mi/Redmi routru</string>
     <string name="gtb_setting_item_title_brightness">Automaticky znížiť jas displeja</string>
     <string name="gtb_setting_item_title_smart_wlan_speed">Mi Wi-Fi zrýchlenie</string>
     <string name="gtb_spring_festival_back_game">Späť do hry</string>
@@ -2387,7 +2387,7 @@ Niekedy tieto čísla môžu byť užitočné. Blokujte len čísla z ktorých u
     <string name="menu_item_about_content">Verzia: %s</string>
     <string name="menu_item_about_privacy_title">Ochrana súkromia</string>
     <string name="menu_item_about_summary">Verzia: %s</string>
-    <string name="menu_item_about_title">O aplikácií</string>
+    <string name="menu_item_about_title">O aplikácii</string>
     <string name="menu_item_app_details">Podrobnosti</string>
     <string name="menu_item_app_permissions_control">Správca povolení</string>
     <string name="menu_item_control_app_permissions">Požadovať vaše povolenie pre prístup ku kontaktom, záznamom o volaní, zmenu nastavení systému alebo prístupu ku kamere.</string>
@@ -2404,7 +2404,7 @@ Niekedy tieto čísla môžu byť užitočné. Blokujte len čísla z ktorých u
     <string name="menu_item_uninstall">Odinštalovať</string>
     <string name="menu_item_virus_cloud_scan_summary">Použiť online databázu</string>
     <string name="menu_item_virus_cloud_scan_title">Cloudová vírusová databáza</string>
-    <string name="menu_item_virus_install_monitor_summary">Kontrolovať vírusy pri inštalácií aplikácie</string>
+    <string name="menu_item_virus_install_monitor_summary">Kontrolovať vírusy pri inštalácii aplikácie</string>
     <string name="menu_item_virus_install_monitor_title">Sledovanie inštalácií</string>
     <string name="menu_item_virus_lib_auto_update_summary">Naposledy aktualizované: %s</string>
     <string name="menu_mark">Označiť</string>
@@ -3057,10 +3057,10 @@ Tento proces skracuje životnosť batérie."</string>
     <string name="permission_upgrade_privacy_title">Povolenia pre nahrávanie zvuku a prístup ku kontaktom teraz majú možnosť udeliť prístup len ak sa aplikácia používa. Pre ochranu vášho súkromia, aplikácie nebudú mať k týmto povoleniam prístup na pozadí.</string>
     <string name="permission_upgrade_runtime">Povolenia pre prístup k vašej polohe a zhotoveniu fotografie teraz majú možnosť udeliť prístup len raz. Pre ochranu vášho súkromia, aplikácie nebudú mať k týmto povoleniam prístup po ich ukončení.</string>
     <string name="permission_upgrade_title">Aktualizované povolenia</string>
-    <string name="permission_upgrade_virtual">Ak nechcete povoliť aplikáciam prístup k vašim kontaktom alebo histórií hovorov, môžete vybrať možnosť \"Odoslať prázdnu správu\" keď pridelíte tieto povolenia.</string>
+    <string name="permission_upgrade_virtual">Ak nechcete povoliť aplikáciám prístup k vašim kontaktom alebo histórií hovorov, môžete vybrať možnosť \"Odoslať prázdnu správu\" keď pridelíte tieto povolenia.</string>
     <string name="permission_with_SMS_and_MMS">Povolenia pre SMS a MMS</string>
     <string name="permission_with_call_and_contact">Povolenia týkajúce sa hovorov, kontaktov a zoznamu hovorov.</string>
-    <string name="permission_with_read_write_clipboard">Povoliť aplikáciam prístup ku schránke</string>
+    <string name="permission_with_read_write_clipboard">Povoliť aplikáciám prístup ku schránke</string>
     <string name="permit_running_network">Povoliť dáta na pozadí</string>
     <string name="person_hotpot">Mobilné hot-spoty</string>
     <string name="phone">Telefón</string>
@@ -3285,7 +3285,7 @@ Tento proces skracuje životnosť batérie."</string>
     <string name="power_optimize_open_hide_mode">Zapnite Šetrenie batérie</string>
     <string name="power_optimize_power_save_extend_time">Pridá %s</string>
     <string name="power_optimize_power_save_summary">Prepnite na Tmavý režim a použite niekoľko optimalizácií systému pre úsporu batérie</string>
-    <string name="power_optimize_prohibit_app_autostart">Nepovoliť aplikáciam autoštart</string>
+    <string name="power_optimize_prohibit_app_autostart">Nepovoliť aplikáciám autoštart</string>
     <string name="power_optimize_reduce_fps">Znížiť frekvenciu displeja na %d HZ</string>
     <string name="power_optimize_reduce_fps_summary">Pre väčšinu situácií postačuje nižšia frekvencia</string>
     <string name="power_optimize_save_mode_not_opened">Šetrenie batérie vypnuté</string>
@@ -3388,7 +3388,7 @@ Tento proces skracuje životnosť batérie."</string>
     <string name="pp_app_gets_dangerous_permission_reminder_detail">Dostávať upozornenia vždy keď aplikácia použije vysoko rizikové povolenie a zohľadniť vaše možnosti</string>
     <string name="pp_app_lock_introduction">Prídavný zámok displeja</string>
     <string name="pp_app_permission_settings">Povolenia aplikácie</string>
-    <string name="pp_app_permission_settings_detail">Povoliť aplikáciam použiť súkromné povolenia</string>
+    <string name="pp_app_permission_settings_detail">Povoliť aplikáciám použiť súkromné povolenia</string>
     <string name="pp_app_reads_clipboard_smart_reminder">Chrániť schránku</string>
     <string name="pp_app_reads_clipboard_smart_reminder_detail">MIUI bude rozhodovať či aplikácie budú mať povolenie k prístupu k vašej schránke.</string>
     <string name="pp_app_warning_permission_tips">Dostávať upozornenie o správaní aplikácie</string>
@@ -3404,9 +3404,9 @@ Tento proces skracuje životnosť batérie."</string>
     <string name="pp_contacts_msg">Kontakty</string>
     <string name="pp_data_rights_realization">Práva dát</string>
     <string name="pp_fuzzy_positioning">Menšia presnosť polohy</string>
-    <string name="pp_fuzzy_positioning_detail">Menšia presnosť polohy a povolenie aplikáciam načítať nepresnú informáciu o polohe</string>
-    <string name="pp_grant_permission_only_during_app_use">Povoliť aplikáciam použiť povolenia len počas ich používania</string>
-    <string name="pp_grant_permission_only_during_app_use_detail">Pre zamedzenie aplikáciam v používaní povolení na pozadí, môžete povoliť ich používanie len ak práve používate aplikáciu</string>
+    <string name="pp_fuzzy_positioning_detail">Menšia presnosť polohy a povolenie aplikáciám načítať nepresnú informáciu o polohe</string>
+    <string name="pp_grant_permission_only_during_app_use">Povoliť aplikáciám použiť povolenia len počas ich používania</string>
+    <string name="pp_grant_permission_only_during_app_use_detail">Pre zamedzenie aplikáciám v používaní povolení na pozadí, môžete povoliť ich používanie len ak práve používate aplikáciu</string>
     <string name="pp_hide_app">Skryť aplikácie</string>
     <string name="pp_hide_app_form_desktop">Odstrániť ikony aplikácie z plochy</string>
     <string name="pp_icon_layout_status_bg_content_enable">Chránené</string>
@@ -3415,13 +3415,13 @@ Tento proces skracuje životnosť batérie."</string>
     <string name="pp_interception_net_visit_content_manager">Chrániť Galériu a sociálne aplikácie</string>
     <string name="pp_interception_net_visit_content_manager_detail">Vyberte ktoré aplikácie majú povolenie pre prístup k fotografiám, videám a správam</string>
     <string name="pp_local_msg">Informácie o polohe</string>
-    <string name="pp_manage_apps_location_information">Povoliť aplikáciam prístup k polohe</string>
+    <string name="pp_manage_apps_location_information">Povoliť aplikáciám prístup k polohe</string>
     <string name="pp_manage_track">Monitorovať sledovače</string>
     <string name="pp_manage_track_summary">Zistiť a zakázať rôzne typy sledovacích nástrojov zabudovaných do aplikácií. Takéto sledovače môžu zdieľať vaše osobné identifikátory tým, že pristupujú k položkám a ukladajú ich do interného úložiska, alebo na sledovanie vašej činnosti používajú zdieľané SDK.</string>
     <string name="pp_one_app_two_use">Použiť dva účty bez odhlásenia sa</string>
     <string name="pp_one_phone_two_space">Použiť jedno zariadenie ako dve</string>
-    <string name="pp_only_allow_permission_during_this_run">Povoliť aplikáciam použiť povolenie iba raz</string>
-    <string name="pp_only_allow_permission_during_this_run_detail">Môžete povoliť aplikáciam povolenia pre polohu, zvuk alebo kontakty iba raz. Tieto povolenia budú zakázané po ukončení aplikácie.</string>
+    <string name="pp_only_allow_permission_during_this_run">Povoliť aplikáciám použiť povolenie iba raz</string>
+    <string name="pp_only_allow_permission_during_this_run_detail">Môžete povoliť aplikáciám povolenia pre polohu, zvuk alebo kontakty iba raz. Tieto povolenia budú zakázané po ukončení aplikácie.</string>
     <string name="pp_operator_get_number">Vyžadovať povolenie pre prístup k telefónnemu číslu</string>
     <string name="pp_operator_get_number_summary">Aplikácie vás požiadajú o povolenie, keď chcú získať prístup k vášmu telefónnemu číslu na prihlásenie.</string>
     <string name="pp_optional_protection_function">Nepovinné ochranné opatrenia</string>
@@ -3429,7 +3429,7 @@ Tento proces skracuje životnosť batérie."</string>
     <string name="pp_permission_settings">Povolenia</string>
     <string name="pp_privacy_input_tips">Chráňte svoju klávesnicu</string>
     <string name="pp_privacy_lab_blur_location">Približná poloha</string>
-    <string name="pp_privacy_lab_blur_location_summary">Nedovoľte aplikáciam načítať vašu presnú polohu</string>
+    <string name="pp_privacy_lab_blur_location_summary">Nedovoľte aplikáciám načítať vašu presnú polohu</string>
     <string name="pp_privacy_lab_clipboard">Ochrana schránky</string>
     <string name="pp_privacy_lab_clipboard_summary">Povoliť MIUI rozhodovať či aplikácia môže pristupovať ku skopírovaným dátam v schránke</string>
     <string name="pp_privacy_lab_operator_get_number">Vyžadovať schválenie pre prístup k telefónnemu číslu</string>
@@ -3466,7 +3466,7 @@ Tento proces skracuje životnosť batérie."</string>
     <string name="pp_understanding_privacy">Informácie</string>
     <string name="pp_virtual_identity_manager">Virtuálne ID</string>
     <string name="pp_virtual_identity_summary">Namiesto skutočného identifikátora je možné aplikáciám poskytnúť virtuálny identifikátor (OAID). Chráni vaše súkromie a umožňuje vám ovládať, ako aplikácie sledujú vaše správanie.</string>
-    <string name="pref_about">O aplikácií</string>
+    <string name="pref_about">O aplikácii</string>
     <string name="pref_about_traffic_title">Nastavenie spotreby dát</string>
     <string name="pref_add_traffic_pkg">Dodatočne zakúpené dáta</string>
     <string name="pref_adjust_data_usage">Vzor správy operátora</string>
@@ -3640,10 +3640,10 @@ Počas dátového prenosu sa text a obrázky komprimujú na serveri a tým sa ur
     <string name="privacy_dialog_call_item_1">Prístup k info o zariadení</string>
     <string name="privacy_dialog_call_item_2">Uskutočniť hovory</string>
     <string name="privacy_dialog_call_item_3">Prístup stav zariadenia</string>
-    <string name="privacy_dialog_call_message">Ako predvolené, MIUI nedovolí nainštalovaným aplikáciam vykonať tieto akcie:</string>
+    <string name="privacy_dialog_call_message">Ako predvolené, MIUI nedovolí nainštalovaným aplikáciám vykonať tieto akcie:</string>
     <string name="privacy_dialog_call_result">Stále budete môcť používať nainštalované aplikácie.</string>
     <string name="privacy_dialog_call_title">Chrániť hovory</string>
-    <string name="privacy_dialog_camera_message">Pre ochranu vášho súkromia, MIUI nedovolí aplikáciam používať fotoaparát na pozadí.</string>
+    <string name="privacy_dialog_camera_message">Pre ochranu vášho súkromia, MIUI nedovolí aplikáciám používať fotoaparát na pozadí.</string>
     <string name="privacy_dialog_camera_title">Zakázať používanie fotoaparátu na pozadí</string>
     <string name="privacy_dialog_content_part1">Vitajte v Optimalizácii! Táto aplikácia stráži vaše zariadenie, či neobsahuje odpad a vírusy, a tiež vám umožňuje spravovať aplikácie, riadiť využitie mobilných dát, blokovať hovory a správy atď.</string>
 <string name="privacy_dialog_content_part2">Optimalizácia potrebuje zhromažďovať potrebné osobné informácie, aby vám mohla poskytovať svoje služby a mohla zlepšovať svoje funkcie. V našich Podmienkach používania sa dozviete, ako narábame s informáciami, ktoré zhromažďujeme. Svoj súhlas môžete kedykoľvek odvolať v Nastaveniach.</string>
@@ -3679,7 +3679,7 @@ Počas dátového prenosu sa text a obrázky komprimujú na serveri a tým sa ur
     <string name="privacy_look_all_permission_status">Všetky povolenia</string>
     <string name="privacy_look_all_permission_times">Všetky aplikácie</string>
     <string name="privacy_manage_title">Spravovať</string>
-    <string name="privacy_mask_summary">Namiesto vášho skutočného identifikátora, MIUI poskytne aplikáciam virtuálne ID (OAID). Aplikáciam to zabráni sledovať vaše správanie, nastavenia a chráni vaše súkromie.</string>
+    <string name="privacy_mask_summary">Namiesto vášho skutočného identifikátora, MIUI poskytne aplikáciám virtuálne ID (OAID). aplikáciám to zabráni sledovať vaše správanie, nastavenia a chráni vaše súkromie.</string>
     <string name="privacy_mask_title">Virtuálne ID je povolené</string>
     <string name="privacy_mode_dialog_title">Režim Návštevník</string>
     <string name="privacy_more_info_title">Zistite viac o funkcii ochrany súkromia</string>
@@ -3728,16 +3728,16 @@ Počas dátového prenosu sa text a obrázky komprimujú na serveri a tým sa ur
     <string name="privacy_risk_app_fuzzy">Aplikácie bez rozmazaného náhľadu</string>
     <string name="privacy_risk_dangerous_bar_title">Vysoko rizikové povolenia</string>
     <string name="privacy_risk_dangerous_manager">Kontrolovať zariadenia</string>
-    <string name="privacy_risk_dangerous_manager_msg">Povoliť aplikáciam čiastočne kontrolovať vaše zariadenie</string>
+    <string name="privacy_risk_dangerous_manager_msg">Povoliť aplikáciám čiastočne kontrolovať vaše zariadenie</string>
     <string name="privacy_risk_dangerous_msg">Aplikácie môžu použiť tieto povolenia na zneužitie vášho súkromia</string>
     <string name="privacy_risk_dangerous_notice">Čítať a spravovať upozornenia</string>
-    <string name="privacy_risk_dangerous_notice_msg">Povoliť aplikáciam čítať a spravovať upozornenia</string>
+    <string name="privacy_risk_dangerous_notice_msg">Povoliť aplikáciám čítať a spravovať upozornenia</string>
     <string name="privacy_risk_dangerous_permissions">Vysoko rizikové povolenia</string>
     <string name="privacy_risk_dangerous_permissions_msg">Pre ochranu vášho súkromia a zneužitia citlivých údajov, povoľte vysoko rizikové povolenia len ak je to nutné.</string>
     <string name="privacy_risk_dangerous_title">Udelili ste vysoko rizikové povolenia</string>
     <string name="privacy_risk_dangerous_top_tip">Pre ochranu vášho súkromia a zneužitia citlivých údajov, povoľte vysoko rizikové povolenia len ak je to nutné.</string>
     <string name="privacy_risk_dangerous_usage">Sledovať aktivitu zariadenia</string>
-    <string name="privacy_risk_dangerous_usage_msg">Povoliť aplikáciam sledovať aktivitu zariadenia</string>
+    <string name="privacy_risk_dangerous_usage_msg">Povoliť aplikáciám sledovať aktivitu zariadenia</string>
     <string name="privacy_risk_detection_continue">Pokračovať</string>
     <string name="privacy_risk_detection_stop">Zastaviť</string>
     <string name="privacy_risk_detection_stop_btn">Zastaviť</string>
@@ -3769,15 +3769,15 @@ Počas dátového prenosu sa text a obrázky komprimujú na serveri a tým sa ur
     <string name="privacy_risk_result_uninstall_btn">Odinštalovať</string>
     <string name="privacy_risk_sensitive">Citlivé povolenia</string>
     <string name="privacy_risk_sensitive_bar_title">Citlivé povolenia</string>
-    <string name="privacy_risk_sensitive_call_records">Povoliť aplikáciam prístup k zoznamu hovorov</string>
-    <string name="privacy_risk_sensitive_contact">Povoliť aplikáciam prístup ku kontaktom</string>
-    <string name="privacy_risk_sensitive_location">Povoliť aplikáciam používať GPS</string>
+    <string name="privacy_risk_sensitive_call_records">Povoliť aplikáciám prístup k zoznamu hovorov</string>
+    <string name="privacy_risk_sensitive_contact">Povoliť aplikáciám prístup ku kontaktom</string>
+    <string name="privacy_risk_sensitive_location">Povoliť aplikáciám používať GPS</string>
     <string name="privacy_risk_sensitive_permissions">Citlivé povolenia</string>
     <string name="privacy_risk_sensitive_permissions_msg">Pre ochranu vášho súkromia, udeľte citlivé povolenia len ak je to potrebné.</string>
-    <string name="privacy_risk_sensitive_record">Povoliť aplikáciam nahrávať zvuk alebo hovory</string>
+    <string name="privacy_risk_sensitive_record">Povoliť aplikáciám nahrávať zvuk alebo hovory</string>
     <string name="privacy_risk_sensitive_second_msg">Aplikácie môžu používať tieto povolenia pre prístup k vašim súkromným informáciám</string>
     <string name="privacy_risk_sensitive_second_title">Udelili ste citlivé povolenia</string>
-    <string name="privacy_risk_sensitive_storage">Povoliť aplikáciam prístup k úložisku</string>
+    <string name="privacy_risk_sensitive_storage">Povoliť aplikáciám prístup k úložisku</string>
     <string name="privacy_risk_sensitive_top_tip">Pre ochranu vášho súkromia, udeľte citlivé povolenia len ak je to potrebné.</string>
     <string name="privacy_risk_space_uninstall_dialog_msg">Odinštalovať vybrané aplikácie vrátane ich klonov?</string>
     <string name="privacy_risk_uninstall_dialog_msg">Odinštalovať vybrané aplikácie?</string>
@@ -3865,7 +3865,7 @@ Počas dátového prenosu sa text a obrázky komprimujú na serveri a tým sa ur
     <string name="read_clipboard_ai_close_yes">Upraviť</string>
     <string name="read_clipboard_op_content">Namiesto udelenia povolenia len ak používate aplikáciu, budete dostávať upozornenie vždy keď aplikácia načíta vašu schránku.</string>
     <string name="read_clipboard_op_title">Upozorniť ak aplikácie načítajú schránku</string>
-    <string name="read_clipboard_tip_content">Toto povolenie dovolí aplikáciam načítať obsah ktorý skopírujete, čo môže obsahovať citlivé dáta.</string>
+    <string name="read_clipboard_tip_content">Toto povolenie dovolí aplikáciám načítať obsah ktorý skopírujete, čo môže obsahovať citlivé dáta.</string>
     <string name="read_clipboard_tip_title">Prístup k položkám v schránke</string>
     <string name="read_number">86 článkov</string>
     <string name="read_unit">" článkov"</string>
@@ -3879,7 +3879,7 @@ Počas dátového prenosu sa text a obrázky komprimujú na serveri a tým sa ur
     <string name="recommended">Odporúčané</string>
     <string name="reject_all">Zakázať všetky</string>
     <string name="reject_countdown">Zakázať (%d)</string>
-    <string name="reject_usb_install">Zakázaný prístup k inštalácií týchto apl. cez USB</string>
+    <string name="reject_usb_install">Zakázaný prístup k inštalácii týchto apl. cez USB</string>
     <string name="release_meminfo">Uvoľniť %dMB</string>
     <string name="release_memory">Vymazaná cache</string>
     <string name="renew_ip">Znova</string>
@@ -5399,7 +5399,7 @@ Skúste zväčšiť rozlíšenie!"</string>
     <string name="wlan_change_protection_title">Zamedziť zmene siete</string>
     <string name="wlan_optimization_summary">Obmedziť oneskorenie Wi-Fi</string>
     <string name="wlan_optimization_title">Optimalizácia Wi-Fi</string>
-    <string name="write_clipboard_tip_content">Toto povolenie dovolí aplikáciam uložiť položky do schránky.</string>
+    <string name="write_clipboard_tip_content">Toto povolenie dovolí aplikáciám uložiť položky do schránky.</string>
     <string name="write_clipboard_tip_title">Ukladanie položiek do schránky</string>
     <string name="wrong_password">Nesprávne heslo</string>
     <string name="xiaomi_privacy_protection_measures">Opatrenia na ochranu súkromia</string>

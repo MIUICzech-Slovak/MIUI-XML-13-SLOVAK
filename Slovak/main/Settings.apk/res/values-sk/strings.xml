@@ -585,7 +585,7 @@ Správca môže sledovať a spravovať nastavenia, prístup, aplikácie a údaje
     <string name="auto_punctuate_summary">Znak „.“ je možné vložiť dvojitým stlačením klávesy Medzerník.</string>
     <string name="auto_replace">Automatické nahradenie</string>
     <string name="auto_replace_summary">Opravovať pravopisné chyby</string>
-    <string name="auto_restore_summary">Pri opätovnej inštalácií aplikácie obnoviť zálohované nastavenia a ďalšie dáta</string>
+    <string name="auto_restore_summary">Pri opätovnej inštalácii aplikácie obnoviť zálohované nastavenia a ďalšie dáta</string>
     <string name="auto_restore_title">Automatické obnovenie</string>
     <string name="auto_rule">Naplánované pravidlá</string>
     <string name="auto_silent">Naplánované</string>
@@ -1792,7 +1792,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
     <string name="device_name_input_overlength">Nad limitom slov</string>
     <string name="device_name_usage_point">Povoliť vyhľadanie telefónu iným Bluetooth zariadeniam.</string>
     <string name="device_oaid">ID zariadenia</string>
-    <string name="device_oaid_desc">Namiesto reálneho identifikátora, MIUI poskytne virtuálne ID (OAID) nainštalovaným aplikáciam pre ochranu vášho súkromia.</string>
+    <string name="device_oaid_desc">Namiesto reálneho identifikátora, MIUI poskytne virtuálne ID (OAID) nainštalovaným aplikáciám pre ochranu vášho súkromia.</string>
     <string name="device_oaid_title">Virtuálne ID</string>
     <string name="device_opcust_version">Súčasná verzia</string>
     <string name="device_picker">Bluetooth zariadenie</string>
@@ -2381,7 +2381,7 @@ Odomknutie tvárou je menej bezpečné ako PIN, heslo alebo vzor. Vaše zariaden
     <string name="finish_application">Ukončiť</string>
     <string name="finish_button">Ukončiť</string>
     <string name="finish_button_label">Dokončiť</string>
-    <string name="firewall_allow_all">Povoliť všetkým aplikáciam pripojenie cez</string>
+    <string name="firewall_allow_all">Povoliť všetkým aplikáciám pripojenie cez</string>
     <string name="firewall_allow_data">Povoliť používanie mobilných dát</string>
     <string name="firewall_allow_network">Povoliť</string>
     <string name="firewall_allow_wlan">Povoliť používanie Wi-Fi pripojenia</string>
@@ -2390,9 +2390,9 @@ Odomknutie tvárou je menej bezpečné ako PIN, heslo alebo vzor. Vaše zariaden
     <string name="firewall_network_allow">Povolené %1$s používať %2$s pripojenie</string>
     <string name="firewall_network_restrict_notify_message">Dotykom zmeníte nastavenia.</string>
     <string name="firewall_network_restrict_notify_mobile">Mobilné dáta</string>
-    <string name="firewall_partial">Povoliť niektorým aplikáciam pripojenie cez​</string>
+    <string name="firewall_partial">Povoliť niektorým aplikáciám pripojenie cez​</string>
     <string name="firewall_permission">Povolenie pripojenia</string>
-    <string name="firewall_restrict_all">Zakázať všetkým aplikáciam pripojenie cez</string>
+    <string name="firewall_restrict_all">Zakázať všetkým aplikáciám pripojenie cez</string>
     <string name="firewall_restrict_android_dialog_content">Pre kontrolu, že vaše zariadenie pracuje správne, niektoré aplikácie sa budú môcť stále pripojiť k sieti.</string>
     <string name="firewall_restrict_android_dialog_title">Upozornenie</string>
     <string name="firewall_restrict_data">Zakázať používanie mobilných dát</string>
@@ -4239,7 +4239,7 @@ Vyberte váš operačný systém:"</string>
     <string name="others">Ostatné</string>
     <string name="overlay_display_devices_title">Simulovať sek. displeje</string>
     <string name="overlay_settings">Vykresliť cez ďalšie aplikácie</string>
-    <string name="overlay_settings_summary">Povoliť aplikáciam zobrazenie nad nastaveniami</string>
+    <string name="overlay_settings_summary">Povoliť aplikáciám zobrazenie nad nastaveniami</string>
     <string name="overlay_settings_title">Povoliť prekrývanie v Nastaveniach</string>
     <string name="owner_info_settings_edit_text_hint">Zadajte text, ktorý sa zobrazí na zamknutej obrazovke</string>
     <string name="owner_info_settings_summary" />
@@ -7200,7 +7200,7 @@ Chcete túto možnosť povoliť všetkým aplikáciám, ktoré chcú vyhľadáva
     <string name="wifi_setup_description_connected">"Ak chcete pokračovať v nastavení, dotknite sa možnosti "Ďalej". Dotknite sa možnosti "Späť", ak sa chcete pripojiť k inej sieti Wi-Fi."</string>
     <string name="wifi_setup_description_connecting">Pripájanie môže trvať niekoľko minút...</string>
     <string name="wifi_setup_detail">Podrobnosti siete</string>
-    <string name="wifi_setup_eap_not_supported">Pripojenie Wi-Fi EAP nie je možné nakonfigurovať pri inštalácií. Môžete to vykonať po dokončení inštalácie v ponuke Nastavenie v časti Bezdrôtové pripojenie a siete.</string>
+    <string name="wifi_setup_eap_not_supported">Pripojenie Wi-Fi EAP nie je možné nakonfigurovať pri inštalácii. Môžete to vykonať po dokončení inštalácie v ponuke Nastavenie v časti Bezdrôtové pripojenie a siete.</string>
     <string name="wifi_setup_forget">Odstrániť</string>
     <string name="wifi_setup_next">Ďalej</string>
     <string name="wifi_setup_not_connected">Nepripojené</string>
@@ -7296,7 +7296,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
     <string name="wifi_tether_stopping">Prebieha vypínanie hotspotu...</string>
     <string name="wifi_traffic_priority">Wi-Fi režim rýchlosti</string>
     <string name="wifi_traffic_priority_extreme">Extrémny režim</string>
-    <string name="wifi_traffic_priority_extreme_summary">Prideliť čo najväčšiu časť pásma aplikáciam v popredí. Procesy na pozadí sa nemusia pripojiť k internetu.</string>
+    <string name="wifi_traffic_priority_extreme_summary">Prideliť čo najväčšiu časť pásma aplikáciám v popredí. Procesy na pozadí sa nemusia pripojiť k internetu.</string>
     <string name="wifi_traffic_priority_off">Vyp</string>
     <string name="wifi_traffic_priority_on">Zap</string>
     <string name="wifi_traffic_priority_regular">Normálny režim</string>

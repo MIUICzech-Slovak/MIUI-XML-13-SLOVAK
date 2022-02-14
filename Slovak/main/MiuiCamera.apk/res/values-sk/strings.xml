@@ -98,7 +98,7 @@
     <string name="back_bokeh_use_hint">Uistite sa, že objekt nie je ďalej ako 1,5m.</string>
     <string name="background">Pozadie</string>
     <string name="beauty_body">Postava</string>
-    <string name="beauty_body_body">Štíhly</string>
+    <string name="beauty_body_body">Boky</string>
     <string name="beauty_body_head">Hlava</string>
     <string name="beauty_body_legged">Nohy</string>
     <string name="beauty_body_reset_tip">Efekt postavy odstránený</string>
@@ -997,7 +997,7 @@ Objekt bude ostrý na rozmazanom pozadí."</string>
     <string name="pref_camera_scenemode_entry_sunset">Západ slnka</string>
     <string name="pref_camera_scenemode_title">Scény</string>
     <string name="pref_camera_settings">Nastavenie zariadenia</string>
-    <string name="pref_camera_settings_category">Nastavenie fotoaparátu</string>
+    <string name="pref_camera_settings_category">Nastavenia fotoaparátu</string>
     <string name="pref_camera_settings_title">Nastavenia</string>
     <string name="pref_camera_sharpness_title">Ostrosť</string>
     <string name="pref_camera_show_gender_age_config_title">Vek a pohlavie</string>
@@ -1067,7 +1067,7 @@ Objekt bude ostrý na rozmazanom pozadí."</string>
     <string name="pref_camera_zoom_mode_title">Objektív</string>
     <string name="pref_camera_zsl_entry_off">Vypnutá (Odporúčané)</string>
     <string name="pref_camera_zsl_entry_on">Zapnutá</string>
-    <string name="pref_capture_settings">Nastavenie Fotoaparátu</string>
+    <string name="pref_capture_settings">Nastavenia Fotoaparátu</string>
     <string name="pref_cup_camera_position_summary">Zobraziť pozíciu prednej kamery ak sa práve používa</string>
     <string name="pref_cup_camera_position_title">Zobraziť prednú kameru</string>
     <string name="pref_custom_feature_layout_title">Rozloženie funkcií</string>
@@ -1132,7 +1132,7 @@ Objekt bude ostrý na rozmazanom pozadí."</string>
     <string name="pref_retain_live_shot">Dynamické zábery</string>
     <string name="pref_retain_live_shot_description">Zachovať stav dynamických snímok nastavený počas predchádzajúceho používania</string>
     <string name="pref_s_n_r_s_c">Potlačenie hluku vo videu závisí od scény</string>
-    <string name="pref_scan_qrcode_summary">Zadná kamera môže rozpoznať QR kódy len režime \"Fotografie\".</string>
+    <string name="pref_scan_qrcode_summary">Zadná kamera môže rozpoznať QR kódy len v režime \"Fotografie\".</string>
     <string name="pref_scan_qrcode_title">Skenovať QR kód</string>
     <string name="pref_setting_title">Nastavenia</string>
     <string name="pref_simple_hdr_entry_off">Vypnuté</string>
@@ -1238,8 +1238,8 @@ Objekt bude ostrý na rozmazanom pozadí."</string>
     <string name="setting_top_text">Režim</string>
     <string name="settings_camera_detect_card_description">Zobraziť odkaz kedykoľvek AI fotoaparát rozpozná preukaz totožnosti</string>
     <string name="settings_camera_detect_description_doc">Zobraziť odkaz kedykoľvek AI fotoaparát rozpozná dokument alebo snímku prezentácie</string>
-    <string name="settings_camera_near_range_description">Odstrániť rozmazanie pri zaostrení na plochu z blízka</string>
-    <string name="settings_camera_near_range_title">Zaostrenie z blízka</string>
+    <string name="settings_camera_near_range_description">Odstrániť rozmazanie pri zaostrení na plochu zblízka</string>
+    <string name="settings_camera_near_range_title">Zaostrenie zblízka</string>
     <string name="share">Zdieľať</string>
     <string name="simple_mode_button_asd_flash">Ukončiť</string>
     <string name="simple_mode_button_asd_hdr">Ukončiť</string>

@@ -559,7 +559,7 @@
     <string name="notification_garbage_clean_size_new">Uvoľnite %s na úložisku</string>
     <string name="notification_garbage_cleanup_summary">Veľkosť odpadu dosiahla %s</string>
     <string name="notification_garbage_cleanup_title">Vyčistite odpad</string>
-    <string name="notification_installed_clean_size">Uvoľniť %2$s po inštalácií %1$s</string>
+    <string name="notification_installed_clean_size">Uvoľniť %2$s po inštalácii %1$s</string>
     <string name="notification_low_memory_button_text">Opraviť</string>
     <string name="notification_low_memory_cache_summary">Menej ako 1.5GB dostupného úložiska</string>
     <string name="notification_low_memory_cache_title">Vymazať cache</string>

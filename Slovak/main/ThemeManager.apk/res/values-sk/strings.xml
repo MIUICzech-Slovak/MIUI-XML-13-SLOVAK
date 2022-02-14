@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="about_app_name">O aplikácií</string>
+    <string name="about_app_name">O aplikácii</string>
     <string name="accessibiliy_description_content_favorite">Obľúbené</string>
     <string name="accessibiliy_description_content_more">Viac</string>
     <string name="account_info">Môj účet</string>

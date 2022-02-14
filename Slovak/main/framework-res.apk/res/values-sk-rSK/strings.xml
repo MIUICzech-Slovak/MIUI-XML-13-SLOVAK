@@ -839,7 +839,7 @@ Skúste to znova o %d s."</string>
     <string name="permdesc_manageCaCertificates">Umožňuje aplikácii inštalovať a odinštalovať certifikáty CA ako dôveryhodné poverenia.</string>
     <string name="permdesc_manageDeviceAdmins">Umožňuje držiteľovi pridať alebo odstrániť správcov aktívnych zariadení. Bežné aplikácie by toto povolenie nemali nikdy potrebovať.</string>
     <string name="permdesc_manageDocs">Umožňuje aplikácii spravovať ukladací priestor dokumentov.</string>
-    <string name="permdesc_manageLocationPolicy">Povoliť aplikáciam spravovať vašu polohu a nastaviť pravidlá pre jednotlivé apl.</string>
+    <string name="permdesc_manageLocationPolicy">Povoliť aplikáciám spravovať vašu polohu a nastaviť pravidlá pre jednotlivé apl.</string>
     <string name="permdesc_manageMediaProjection">Umožňuje aplikácii spravovať relácie premietania médií. Tieto relácie môžu aplikáciám umožniť zaznamenávanie obsahu obrazu a zvuku. Bežné aplikácie by tieto povolenia nemali nikdy potrebovať.</string>
     <string name="permdesc_manageNetworkPolicy">Umožňuje aplikácii spravovať pravidlá siete a definovať pravidlá pre konkrétnu aplikáciu.</string>
     <string name="permdesc_manageUsb">Umožňuje aplikácii spravovať predvoľby a povolenia zariadení USB.</string>

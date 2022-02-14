@@ -210,7 +210,7 @@ Vypnúť prispôsobené reklamy napriek tomu?"</string>
     <string name="other_settings_enhanced_lockscreen_summary">Dostávajte vybrané obrázky a príbehy do vášho zariadenia každý deň. %1$s a %2$s</string>
     <string name="other_settings_enhanced_lockscreen_summary_index">Licenčná zmluva koncového používateľa</string>
     <string name="other_settings_location">Prístup k polohe</string>
-    <string name="other_settings_location_summary">Povoliť aplikáciam prístup k vašej polohe</string>
+    <string name="other_settings_location_summary">Povoliť aplikáciám prístup k vašej polohe</string>
     <string name="other_settings_upload_debug_log_detail">"Pomôžte vylepšiť svoje zážitky zo zariadenia MIUI automatickým odosielaním diagnostických údajov, údajov o používaní zariadenia a aplikácií do spoločnosti Xiaomi. Pomôže to zlepšiť výdrž batérie, systém MIUI a stabilitu aplikácií.</string>
     <string name="other_settings_upload_debug_log_summary">Štatistiky o využívaní dát, ktoré nám pomáhajú nájsť a vyriešiť problém, môžu obsahovať vaše osobné informácie</string>
     <string name="other_settings_upload_debug_log_title">Odoslať diagnostické dáta</string>
@@ -260,7 +260,7 @@ Vypnúť prispôsobené reklamy napriek tomu?"</string>
     <string name="permission_log_introduction">Pre ukladanie logov</string>
     <string name="permission_login_introduction">Pre prihlasovanie a spravovanie systémových kont</string>
     <string name="permission_make_a_call">Uskutočňovať hovory</string>
-    <string name="permission_make_a_call_fast_application_summary">Na umožnenie rýchlym aplikáciam uskutočňovať hovory;</string>
+    <string name="permission_make_a_call_fast_application_summary">Na umožnenie rýchlym aplikáciám uskutočňovať hovory;</string>
     <string name="permission_message_introduction">Pre odosielanie správ blokovaným kontaktom</string>
     <string name="permission_phone_imei_device">Pre prístup k IMEI z dôvodu identifikácie zariadení</string>
     <string name="permission_phone_network">Pre prístup k typu siete z dôvodu optimalizácie a upravenia položiek na stiahnutie</string>

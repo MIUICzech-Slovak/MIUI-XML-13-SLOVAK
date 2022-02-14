@@ -248,7 +248,7 @@
     <string name="saturday">Sobota</string>
     <string name="saturday_short">Sob</string>
     <string name="saturday_shortest">S</string>
-    <string name="save_energy_text">Zakázať aplikáciam ich automatické spustenie na pozadí</string>
+    <string name="save_energy_text">Zakázať aplikáciám ich automatické spustenie na pozadí</string>
     <string name="save_energy_title">Optimalizácia spotreby</string>
     <string name="scan_installed_games">Kontrola nainštalovaných hier...</string>
     <string name="search_events">Vyhľadať udalosť</string>

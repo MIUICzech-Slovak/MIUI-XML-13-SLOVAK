@@ -957,7 +957,7 @@ Tieto informácie určujú, či vaše kontakty môžu používať určité funkc
     <string name="contact_discovery_opt_in_summary">Odosielajte telefónne čísla svojich kontaktov na poskytovanie rozšírených funkcií</string>
     <string name="contact_discovery_opt_in_title">Odosielať kontakty operátorovi</string>
     <string name="content_capture">Prispôsobiť pomocou dát aplikácií</string>
-    <string name="content_capture_summary">Umožniť aplikáciam odosielať obsah do Androidu</string>
+    <string name="content_capture_summary">Umožniť aplikáciám odosielať obsah do Androidu</string>
     <string name="content_description_menu_button">Ponuka</string>
     <string name="contextual_card_dismiss_confirm_message">Chcete odstrániť tento návrh?</string>
     <string name="contextual_card_dismiss_keep">Ponechať</string>

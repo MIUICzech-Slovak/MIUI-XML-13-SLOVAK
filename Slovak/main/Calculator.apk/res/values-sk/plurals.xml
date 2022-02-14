@@ -106,5 +106,9 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">Pred %d minútami</item>
         <item quantity="one">Pred minútou</item>
-    </plurals>                   
+    </plurals>         
+     <plurals name="tenure_years">
+        <item quantity="other">%d roky</item>
+        <item quantity="one">%d rok</item>
+     </plurals>              
 </resources>

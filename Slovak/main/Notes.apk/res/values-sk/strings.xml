@@ -386,7 +386,7 @@
     <string name="repeat_mode_normal_workday">Pondelok až Piatok</string>
     <string name="repeat_mode_set_item_day">Každý deň</string>
     <string name="repeat_mode_set_item_month_detail_lastday">Posledný deň v mesiaci</string>
-    <string name="repeat_mode_set_item_month_global">Každý mesiac (rovnaký dátum)</string>
+    <string name="repeat_mode_set_item_month_global">Každý mesiac (Rovnaký dátum)</string>
     <string name="repeat_mode_set_item_none">Nikdy</string>
     <string name="repeat_mode_set_item_normal_workday">Pondelok až Piatok</string>
     <string name="repeat_mode_set_item_week">Každý týždeň (%s)</string>
@@ -628,4 +628,5 @@ http://www.miuios.cz/rom
     <string name="widget_take_notes_title">Poznámky</string>
     <string name="widget_under_privacy_mode">Režim Súkromie, nie je možné zobraziť obsah poznámky</string>
     <string name="yesterday">Včera</string>
+    <string name="permission_data_shared_desc">Vyhlásenie o zdieľaní údajov tretej strany</string>
 </resources>

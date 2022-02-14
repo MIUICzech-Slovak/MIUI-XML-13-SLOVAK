@@ -267,7 +267,7 @@
     <string name="HIPS_Perm_process_outgoing_calls">Prístup k apl. Telefón</string>
     <string name="HIPS_Perm_process_outgoing_calls_Desc">Sledovať a ukončiť hovory</string>
     <string name="HIPS_Perm_read_clipboard">Prístup ku schránke</string>
-    <string name="HIPS_Perm_read_clipboard_Desc">Povoliť aplikáciam prístup ku schránke</string>
+    <string name="HIPS_Perm_read_clipboard_Desc">Povoliť aplikáciám prístup ku schránke</string>
     <string name="HIPS_Perm_read_notification_sms">SMS služieb</string>
     <string name="HIPS_Perm_read_notification_sms_Desc">Čítať SMS služieb</string>
     <string name="HIPS_Perm_recognition">Prístup k aktivitám</string>
@@ -281,7 +281,7 @@
     <string name="HIPS_Perm_use_sip">Video služby</string>
     <string name="HIPS_Perm_use_sip_Desc">Používať protokol pre streamovanie videa</string>
     <string name="HIPS_Perm_write_clipboard">Uložiť položky do schránky</string>
-    <string name="HIPS_Perm_write_clipboard_Desc">Povoliť aplikáciam ukladať položky do schránky</string>
+    <string name="HIPS_Perm_write_clipboard_Desc">Povoliť aplikáciám ukladať položky do schránky</string>
     <string name="HIPS_SecurityPrompt_Accept">Povolené (%d)</string>
     <string name="HIPS_SecurityPrompt_AcceptRoot">Povoliť</string>
     <string name="HIPS_SecurityPrompt_Accept_Once">Povoliť raz (%d)</string>

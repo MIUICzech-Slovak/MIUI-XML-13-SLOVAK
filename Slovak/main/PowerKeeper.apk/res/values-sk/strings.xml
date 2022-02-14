@@ -245,7 +245,7 @@
     <string name="power_config_cpu_freq_title">Frekvencia CPU</string>
     <string name="power_config_cpu_mode_dialog_title">Režim CPU</string>
     <string name="power_config_cpu_mode_title">Režim CPU</string>
-    <string name="power_config_data_connect_summary">Povoliť aplikáciam dátové pripojenie na pozadí</string>
+    <string name="power_config_data_connect_summary">Povoliť aplikáciám dátové pripojenie na pozadí</string>
     <string name="power_config_data_connect_title">Dátové pripojenie</string>
     <string name="power_config_disable_description">MIUI nebude obmedzovať aktivity na pozadí</string>
     <string name="power_config_disable_title">Deaktivované</string>

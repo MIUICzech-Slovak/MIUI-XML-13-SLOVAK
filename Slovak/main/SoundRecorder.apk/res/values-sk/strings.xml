@@ -239,7 +239,7 @@ Pri použití mobilných dát sa budú účtovať poplatky od operátora."</stri
     <string name="rename_no_more_tip">Viac sa nepýtať</string>
     <string name="retry">Znova</string>
     <string name="runtime_permission_ungranted">Nie je možné použiť Záznamník lebo nemá potrebné povolenia</string>
-    <string name="saf_permission_dialog_content">Vzhľadom na obmedzenia systému Android potrebuje Diktafón povolenie na prístup k záznamom vytvoreným inými aplikáciami. Povoľte Diktafónovi prístup k týmto nahrávkam, aby si ich mohol prezerať.</string>
+    <string name="saf_permission_dialog_content">Vzhľadom na obmedzenia systému Android potrebuje Diktafón povolenie na prístup k záznamom vytvoreným inými aplikáciami. Povoľte Diktafónu prístup k týmto nahrávkam, aby si ich mohol prezerať.</string>
     <string name="saf_permission_dialog_grant_permission_immediately">Nastavenia</string>
     <string name="saf_permission_dialog_later">Nie, ďakujem</string>
     <string name="saf_permission_dialog_no_more_tip">"Už nezobrazovať"</string>
@@ -325,4 +325,5 @@ Pri použití mobilných dát sa budú účtovať poplatky od operátora."</stri
  Dotknite sa %s pre spustenie sťahovania po pripojení na Wi-Fi sieť."</string>
     <string name="wifi_recommended_title">Upozornenie na spotrebu dát</string>
     <string name="yesterday">Včera</string>
+         <string name="recognition_notification_channel">Prepisovanie</string>
 </resources>
