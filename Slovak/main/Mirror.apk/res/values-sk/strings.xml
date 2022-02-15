@@ -218,7 +218,7 @@ Zatvorte túto stránku a skúste to znova."</string>
     <string name="relay_msg_photo_title">Nový obrázok</string>
     <string name="relay_msg_screenshot_text">Uložené</string>
     <string name="relay_msg_screenshot_title">Nový screenshot</string>
-    <string name="resource_log">Resource logs</string>
+    <string name="resource_log">Záznamy zdrojov</string>
     <string name="saturday">Sobota</string>
     <string name="saturday_short">Sob</string>
     <string name="saturday_shortest">S</string>
@@ -311,7 +311,7 @@ pokračovať“</string>
     <string name="tuesday_shortest">U</string>
     <string name="v7_preference_off">Vyp</string>
     <string name="v7_preference_on">Zap</string>
-    <string name="verbose_mode">Verbose mode</string>
+    <string name="verbose_mode">Podrobný režim</string>
     <string name="wednesday">Streda</string>
     <string name="wednesday_short">Str</string>
     <string name="wednesday_shortest">S</string>

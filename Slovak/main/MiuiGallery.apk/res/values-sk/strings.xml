@@ -116,7 +116,7 @@
     <string name="album_pano_name">Panorámy</string>
     <string name="album_permission_activity_title">Spravovať povolenia</string>
     <string name="album_permission_state_granted">Udelené</string>
-    <string name="album_permission_state_non_granted">Grant</string>
+    <string name="album_permission_state_non_granted">Povoliť</string>
     <string name="album_permission_subtitle_single">%2$d album (%1$s)</string>
     <string name="album_permission_tip_text">Galéria potrebuje povolenia, aby mohla synchronizovať, upravovať a spravovať položky zobrazené nižšie.</string>
     <string name="album_permission_title_granted">Udelené</string>
@@ -731,7 +731,7 @@
     <string name="error_storage_full_action">Uvoľnite miesto na úložisku</string>
     <string name="error_storage_full_msg">Uvoľnite miesto na úložisku a skúste to znova.</string>
     <string name="error_storage_full_tip">Nie je dostatok miesta na úložisku</string>
-    <string name="error_storage_no_write_permission_tip_action">Grant</string>
+    <string name="error_storage_no_write_permission_tip_action">Povoliť</string>
     <string name="error_storage_no_write_permission_tip_title">"Niektoré albumy vyžadujú na synchronizáciu povolenia."</string>
     <string name="error_sync_off_action">Povoliť</string>
     <string name="error_sync_off_msg">Ujistite sa, že máte povolenú synchronizáciu s MiCloud.</string>
@@ -2467,5 +2467,6 @@
 <string name="sea_title">Vlny</string>
 <string name="solar_valentines_day_title">Sviatok svätého Valentína</string>     
         <string name="album_screenshot_and_screen_recorder_name">Screenshoty a záznamy</string>
-
+  <string name="share_and_delete_screenshot">Vymazať po zdieľaní</string>
+  <string name="scope_storage_dialog_guide_content">Stlačte \"%1$s\" a potom \"%2$s\".</string>
 </resources>

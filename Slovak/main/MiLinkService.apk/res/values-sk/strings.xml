@@ -32,8 +32,8 @@
     <string name="app_pkg_name">com.milink.service</string>
     <string name="app_ver_code">1</string>
     <string name="app_ver_name">1.0</string>
-    <string name="audio_record_des">Pre prenášanie zvuku z vášho zariadenia do externého monitora</string>
-    <string name="casting_tips">Prenáša sa…</string>
+    <string name="audio_record_des">Pre vysielanie zvuku z vášho zariadenia do externého monitora</string>
+    <string name="casting_tips">Vysiela sa…</string>
     <string name="close">Zatvoriť</string>
     <string name="close_hotspot_hint">Vypnúť prenosný hotspot pred prenosom</string>
     <string name="close_slave_wifi_hint">Odpojiť od podporných Wi-Fi sietí pred prenosom</string>
@@ -41,7 +41,7 @@
     <string name="console_guide_btn_got_it">Rozumiem</string>
     <string name="console_guide_subtitle_hang_up">Môžete pokračovať v prenose aj s vypnutou obrazovkou zariadenia. Táto funkcia znižuje spotrebu batérie.</string>
     <string name="console_guide_subtitle_private">Nezobrazovať plávajúce upozornenia, prichádzajúce hovory a ostatné osobné položky na externých monitoroch</string>
-    <string name="console_guide_subtitle_small_window">Minimalizovať okno, v ktorom prebieha prenášanie a umožniť používať iné funkcie vo vašom telefóne</string>
+    <string name="console_guide_subtitle_small_window">Minimalizovať okno, v ktorom prebieha vysielanie a umožniť používať iné funkcie vo vašom telefóne</string>
     <string name="date_time_picker_dialog_title">Nastaviť dátum a čas</string>
     <string name="dialog_can_not_find_device">Nenašli sa zariadenia v okolí</string>
     <string name="dialog_cancle">Zrušiť</string>
@@ -53,7 +53,7 @@
     <string name="dialog_connecting">Pripájanie…</string>
     <string name="dialog_location_permission_message">Táto aplikácia potrebuje prístup k polohe. Vyberte \"Vždy povoliť\" pre zamedzenie prípadným problémom.</string>
     <string name="dialog_location_permission_title">Vyžadujú sa povolenia</string>
-    <string name="dialog_nfc_cast_wifi_off">Zapnite Wi-Fi pre prenášanie obsahu pomocou technológie NFC. Zapnúť teraz?</string>
+    <string name="dialog_nfc_cast_wifi_off">Zapnite Wi-Fi pre vysielanie obsahu pomocou technológie NFC. Zapnúť teraz?</string>
     <string name="dialog_no_device_message">&lt;Data&gt;1. Pripojte telefón a televíziu k rovnakej Wi-Fi sieti.&lt;br&gt;&lt;br&gt;2. Na niektorých modeloch televízorov je táto funkcia dostupná iba po spustení zrkadlenia obrazu. Pre viac informácií prejdite na &lt;a href=milink://com.milink.service/specification&gt;Pomocníka\"&lt;/a&gt;.&lt;/Data&gt;</string>
     <string name="dialog_no_device_message_china">&lt;Data&gt;1. Connect both your phone and TV to the same WLAN network.&lt;br&gt;&lt;br&gt;2. On some TV models, this feature is only available when screen mirroring is on. View &lt;a href=milink://com.milink.service/specification&gt;\"Help\"&lt;/a&gt; to learn more.&lt;/Data&gt;</string>
     <string name="dialog_ok">OK</string>
@@ -76,7 +76,7 @@ Ak máte problémy s pripojením, otvorte pomocníka."</string>
     <string name="dialog_select_tv">Vyberte zariadenie (%d)</string>
     <string name="dialog_show_help">Pomocník</string>
     <string name="disconnect">Zastaviť prenos</string>
-    <string name="enable_screen_projection_summary">Prenášajte obsah obrazovky na externý monitor</string>
+    <string name="enable_screen_projection_summary">Vysielajte obsah obrazovky na externý monitor</string>
     <string name="file_read_des">Pre zobrazenie fotografií na externom monitore</string>
     <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">d. MMMM</string>
@@ -101,7 +101,7 @@ Ak máte problémy s pripojením, otvorte pomocníka."</string>
     <string name="global_privacy_negative">Nesúhlasím</string>
     <string name="global_privacy_positive">Súhlasím</string>
     <string name="global_privacy_tip">Potrebujeme zhromaždiť potrebné osobné informácie, aby sme vám mohli poskytnúť základné služby a optimalizovať postup vysielania.</string>
-    <string name="hang_up">Prenášať s vypnutou obrazovkou</string>
+    <string name="hang_up">Vysielať s vypnutou obrazovkou</string>
     <string name="hang_up_alert_dialog_content">Pokračovať v prenose keď je displej na zariadení vypnutý. Táto funkcia znižuje spotrebu batérie. Pre zapnutie displeja stlačte tlačidlo Napájania.</string>
     <string name="hang_up_alert_dialog_neg">Zrušiť</string>
     <string name="hang_up_alert_dialog_pos">OK</string>
@@ -235,7 +235,7 @@ Ak je potrebné spustiť funkciu Miracast, stlačte tlačidlo [MENU] a vyberte M
     <string name="month_september">September</string>
     <string name="month_september_short">Sep</string>
     <string name="month_september_shortest">S</string>
-    <string name="nfc_connect_failed_toast">Prenášanie zlyhalo. Skúste to znovu.</string>
+    <string name="nfc_connect_failed_toast">Vysielanie zlyhalo. Skúste to znovu.</string>
     <string name="notification_rc_title">Asistent XiaoMi TV</string>
     <string name="notification_show_more">Ťuknite pre viac funkcií</string>
     <string name="notify">Vysielanie pracuje na pozadí</string>
@@ -261,8 +261,8 @@ Ak je potrebné spustiť funkciu Miracast, stlačte tlačidlo [MENU] a vyberte M
     <string name="privacy_permission_wlan_desc">Na vyhľadanie dostupných zariadení v okolí</string>
     <string name="privacy_permission_wlan_desc_china">Na vyhľadanie dostupných zariadení v okolí</string>
     <string name="privacy_positive">Súhlasím</string>
-    <string name="privacy_text_1">"&lt;Data&gt;Vitajte v Prenášaní! Prenášanie vám umožňuje premietať položky z obrazovky vášho telefónu na väčší externý monitor.
-Vaše osobné informácie budeme chrániť v súlade s platnými zákonmi, nariadeniami a zásadami ochrany osobných údajov. Niektoré funkcie sú poskytované poskytovateľom tretej strany HappyCast. Pred použitím tejto funkcie si prečítajte a vyjadrite váš súhlas so zmluvami &lt;a href=%2$s&gt;Právne vyhlásenie prenášania HappyCast&lt;/a&gt; a &lt;a href=%1$s&gt;Zásady ochrany osobných údajov spoločnosti HappyCast&lt;/a&gt;.
+    <string name="privacy_text_1">"&lt;Data&gt;Vitajte vo Vysielaní! Vysielanie vám umožňuje premietať položky z obrazovky vášho telefónu na väčší externý monitor.
+Vaše osobné informácie budeme chrániť v súlade s platnými zákonmi, nariadeniami a zásadami ochrany osobných údajov. Niektoré funkcie sú poskytované poskytovateľom tretej strany HappyCast. Pred použitím tejto funkcie si prečítajte a vyjadrite váš súhlas so zmluvami &lt;a href=%2$s&gt;Právne vyhlásenie vysielania HappyCast&lt;/a&gt; a &lt;a href=%1$s&gt;Zásady ochrany osobných údajov spoločnosti HappyCast&lt;/a&gt;.
 Pre správne fungovanie si vyžaduje táto aplikácia pripojenie na internet a nasledujúce povolenia z dôvodu zbierania osobných informácií:&lt;/Data&gt;"</string>
     <string name="privacy_text_2">"&lt;Data&gt;Ak nesúhlasíte s udelením takých povolení alebo zdieľaním a nahrávaním vašich osobných informácií, nebudete môcť používať túto aplikáciu. V takom prípade ju môžete odinštalovať, odhlásiť sa alebo zakázať oprávnenia v Nastaveniach.
 Pred použitím tejto funkcie si prečítajte a vyjadrite súhlas s našimi zmluvami &lt;a href=%1$s&gt;Podmienky používania&lt;/a&gt; a &lt;a href=%2$s&gt;Zásady ochrany osobných údajov&lt;/a&gt;.&lt;/Data&gt;"</string>
@@ -279,10 +279,10 @@ Pred použitím tejto funkcie si prečítajte a vyjadrite súhlas s našimi zmlu
     <string name="saturday">Sobota</string>
     <string name="saturday_short">Sob</string>
     <string name="saturday_shortest">S</string>
-    <string name="screen_projection">Prenášať</string>
+    <string name="screen_projection">Vysielať</string>
     <string name="screen_projection_characteristics">Špeciálne funkcie</string>
     <string name="screen_projection_characteristics_off_screen_summary">Môžete pokračovať v prenose aj s vypnutou obrazovkou zariadenia. Táto funkcia znižuje spotrebu batérie.</string>
-    <string name="screen_projection_characteristics_off_screen_title">Prenášať s vypnutou obrazovkou</string>
+    <string name="screen_projection_characteristics_off_screen_title">Vysielať s vypnutou obrazovkou</string>
     <string name="screen_projection_characteristics_privacy_protect_summary">Nezobrazovať plávajúce upozornenia, prichádzajúce hovory a ostatné osobné položky na externých monitoroch.</string>
     <string name="screen_projection_characteristics_privacy_protect_title">Skryť súkromné položky</string>
     <string name="screen_projection_characteristics_small_window_summary">Minimalizovať okno, v ktorom prebieha prenášanie a umožniť používať iné funkcie vo vašom telefóne.</string>
@@ -294,16 +294,16 @@ Pred použitím tejto funkcie si prečítajte a vyjadrite súhlas s našimi zmlu
     <string name="screen_projection_example_game_summary">Game Turbo vám umožňuje prenášať hry na externý monitor. Pre povolenie tejto funkcie použite odkaz v nástrojoch Game Turbo.</string>
     <string name="screen_projection_example_game_title">Hry</string>
     <string name="screen_projection_help">Pomocník</string>
-    <string name="screen_projection_sample_summary">Prenášanie dokumentov, hier, fotografií a videí</string>
+    <string name="screen_projection_sample_summary">Vysielanie dokumentov, hier, fotografií a videí</string>
     <string name="screen_projection_sample_title">Ukážky</string>
-    <string name="screen_projection_title">Prenášať</string>
+    <string name="screen_projection_title">Vysielať</string>
     <string name="search_events">Vyhľadať udalosť</string>
     <string name="search_history">História</string>
     <string name="search_menu_title">Hľadať</string>
     <string name="send">Odoslať</string>
     <string name="small_window">Minimalizovať okno</string>
-    <string name="small_window_not_supported">Počas prenášania nie je možné minimalizovať túto aplikáciu</string>
-    <string name="status_bar_in_casting">Prenáša sa…</string>
+    <string name="small_window_not_supported">Počas vysielania nie je možné minimalizovať túto aplikáciu</string>
+    <string name="status_bar_in_casting">Vysiela sa…</string>
     <string name="status_bar_in_casting_long">Ťuknite pre viac možností prenosu</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="sunday">Nedeľa</string>
@@ -313,7 +313,7 @@ Pred použitím tejto funkcie si prečítajte a vyjadrite súhlas s našimi zmlu
     <string name="thursday">Štvrtok</string>
     <string name="thursday_short">Štv</string>
     <string name="thursday_shortest">Š</string>
-    <string name="tile_label">Prenos</string>
+    <string name="tile_label">Vysielanie</string>
     <string name="time_picker_dialog_title">Nastaviť čas</string>
     <string name="time_picker_label_hour">H</string>
     <string name="time_picker_label_minute">M</string>
@@ -324,7 +324,7 @@ Pred použitím tejto funkcie si prečítajte a vyjadrite súhlas s našimi zmlu
     <string name="toast_msg_for_small_window">Okno prenosu môžete minimalizovať, aby ste mohli používať iné funkcie telefónu bez prerušenia priebehu prenosu.</string>
     <string name="toast_nfc_dont_move">Neodkladajte váš telefón</string>
     <string name="toast_title_for_small_window">Vyberte \"Minimalizovať okno\" v aplikácii</string>
-    <string name="toast_turn_off_hotspot_before_cast">Vypnúť prenosný hotspot pred prenášaním</string>
+    <string name="toast_turn_off_hotspot_before_cast">Vypnúť prenosný hotspot pred vysielaním</string>
     <string name="today">Dnes</string>
     <string name="tomorrow">Zajtra</string>
     <string name="tuesday">Utorok</string>

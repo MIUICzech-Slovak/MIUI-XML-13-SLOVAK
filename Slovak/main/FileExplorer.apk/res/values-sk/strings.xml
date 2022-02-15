@@ -164,10 +164,10 @@
     <string name="delete_video_success">Vymazané</string>
     <string name="des_running_trans">Ešte %1$d súborov je potrebných preniesť</string>
     <string name="dialog_select_type">Zvoľte typ súboru</string>
-    <string name="dialog_type_audio">Zvuk</string>
-    <string name="dialog_type_image">Obrázok</string>
+    <string name="dialog_type_audio">Zvuky</string>
+    <string name="dialog_type_image">Obrázky</string>
     <string name="dialog_type_text">Text</string>
-    <string name="dialog_type_video">Video</string>
+    <string name="dialog_type_video">Videá</string>
     <string name="dir_not_support">Táto zložka nemôže byť súkromná.</string>
     <string name="directory_no_item">Prázdna zložka</string>
     <string name="disk_available">"Dostupné: "</string>
@@ -263,7 +263,7 @@
     <string name="friday">Piatok</string>
     <string name="friday_short">Pia</string>
     <string name="friday_shortest">Pia</string>
-    <string name="ftp_account_req_notice">Užívateľské meno a heslo, 4~16 znakov, obsahovať čísla, písmena...</string>
+    <string name="ftp_account_req_notice">4–16 znakov, písmen a číslic, rozlišujú sa malé a veľké písmená</string>
     <string name="ftp_anonymous_login">Anonymné FTP</string>
     <string name="ftp_anonymous_warning_msg">Anonymizačné služby môžu predstavovať riziko pre vaše dáta. Aj tak použiť?</string>
     <string name="ftp_anonymous_warning_title">Upozornenie</string>
@@ -957,4 +957,5 @@ Získali ste ďalších %1$s"</string>
     <string name="year_month_day_format">dd. MMM. yyyy</string>
     <string name="yes">Áno</string>
     <string name="yesterday">Včera</string>
+         <string name="doc_all">Všetky</string>
 </resources>

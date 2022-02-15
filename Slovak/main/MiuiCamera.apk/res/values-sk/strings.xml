@@ -1443,4 +1443,8 @@ Objekt bude ostrý na rozmazanom pozadí."</string>
 <string name="pref_hybrid_video_mode_description">Použiť technológiu HLG na zlepšenie farieb a dynamického rozsahu videí zaznamenaných vo vysokom rozlíšení</string>
 <string name="pref_camera_track_eye_preferred_description">Sledovať pohyb očí, aby boli oči zaostrené, keď je v zábere jedna osoba</string>
      <string name="pref_camera_track_eye_preferred_title">Ostrenie na oči</string>    
+     <string name="pref_hdr10_video_mode_description">Automatická optimalizácia farieb a kontrastu pre videá v rozlíšení 4K a 8K. Optimalizované videá je možné prehrávať iba na zariadeniach kompatibilných s HDR10.</string>
+     <string name="pref_camera_video_tag">Povliť označenie videí</string>
+         <string name="pref_camera_dynamic_frame_rate_title_new">Autom. snímková frekvencia</string>
+
 </resources>

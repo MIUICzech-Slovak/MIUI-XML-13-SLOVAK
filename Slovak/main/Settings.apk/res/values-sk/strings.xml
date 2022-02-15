@@ -101,7 +101,7 @@ Poznámka: Priblíženie trojitým klepnutím funguje všade okrem klávesnice a
     <string name="accessibility_screen_magnification_title">Gestá priblíženia</string>
     <string name="accessibility_screen_option">Možnosti</string>
     <string name="accessibility_screen_reader_haptic_title">Čítanie displeja</string>
-    <string name="accessibility_service_default_description">K dispozícií nie je žiaden popis.</string>
+    <string name="accessibility_service_default_description">K dispozícii nie je žiaden popis.</string>
     <string name="accessibility_service_master_open_title">Otvoriť %1$s</string>
     <string name="accessibility_service_master_switch_title">Použiť %1$s</string>
     <string name="accessibility_service_no_apps_message">TalkBack poskytuje hovorenú navigáciu nevidiacim a slabozrakým užívateľom. Chcete túto aplikáciu stiahnuť zdarma zo služby Google Play?</string>
@@ -357,7 +357,7 @@ Správca môže sledovať a spravovať nastavenia, prístup, aplikácie a údaje
     <string name="ambient_display_screen_title">Ambientný displej</string>
     <string name="ambient_display_summary">Skontrolovať čas, upozornenia a iné informácie, dvakrát poklepte po displeji.</string>
     <string name="ambient_display_title">Dvakrát poklepať pre kontrolu</string>
-    <string name="android_beam_disabled_summary">Nie je k dispozícií, pretože je vypnutá funkcia NFC</string>
+    <string name="android_beam_disabled_summary">Nie je k dispozícii, pretože je vypnutá funkcia NFC</string>
     <string name="android_beam_explained">"Pokiaľ je funkcia zapnutá, môžete prenášať obsah aplikácie do iného zariadenia s funkciou NFC tým, že podržíte zariadenia blízko seba. Môžete napríklad prenášať stránky prehliadača, videá YouTube, kontakty a ďalšie. Priložte zariadenia k sebe (spravidla zadnou stranou) a dotknite sa obrazovky. Aplikácia určí, aký obsah sa bude prenášať."</string>
     <string name="android_beam_label">Android Beam</string>
     <string name="android_beam_off_summary">Prenos obsahu pomocou NFC je vypnuté</string>
@@ -757,12 +757,12 @@ Zálohy sú uložené v MiCloude. Tento spôsob je rýchlejší ale nie je možn
     <string name="battery_status_title">Stav batérie</string>
     <string name="battery_sugg_apps_gps">GPS môžete ručne nastaviť, aby ho aplikácie nemohli používať.</string>
     <string name="battery_sugg_apps_info">Ukončíte aplikáciu alebo ju odinštalujte</string>
-    <string name="battery_sugg_apps_settings">V aplikácií môžu byť k dispozícií nastavenia k zníženiu spotreby energie</string>
+    <string name="battery_sugg_apps_settings">V aplikácií môžu byť k dispozícii nastavenia k zníženiu spotreby energie</string>
     <string name="battery_sugg_bluetooth_basic">Vypnite funkciu Bluetooth, ak ju nepoužívate.</string>
     <string name="battery_sugg_bluetooth_headset">Skúste sa pripojiť k inému zariadeniu Bluetooth</string>
     <string name="battery_sugg_display">Znížte jas displeja alebo interval vypnutia obrazovky</string>
     <string name="battery_sugg_radio">V oblastiach bez pokrytia signálu prepnite do režimu Lietadlo</string>
-    <string name="battery_sugg_wifi">Pokiaľ sieť Wi-Fi nepoužívate alebo na danom mieste nie je k dispozícií, vypnite Wi-Fi v telefóne.</string>
+    <string name="battery_sugg_wifi">Pokiaľ sieť Wi-Fi nepoužívate alebo na danom mieste nie je k dispozícii, vypnite Wi-Fi v telefóne.</string>
     <string name="battery_summary">%1$d %% využitie od posledného úplného dobitia</string>
     <string name="bearer">Nositeľ</string>
     <string name="beauty_fc_assistant">Asistent predného fotoaparátu</string>
@@ -1893,7 +1893,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
     <string name="dlg_close">Zatvoriť</string>
     <string name="dlg_confirm_uicc_unmount_text">Ak odpojíte úložisko UICC, niektoré používané aplikácie môžu byť zastavené a nebudú k dispozícii, kým úložisko UICC znova nepripojíte.</string>
     <string name="dlg_confirm_uicc_unmount_title">Odpojiť úložisko UICC?</string>
-    <string name="dlg_confirm_unmount_text">Ak odpojíte USB úložisko, niektoré používané aplikácie prestanú fungovať. Tieto aplikácie pravdepodobne nebudú k dispozícií, pokiaľ USB úložisko opäť nepripojíte.</string>
+    <string name="dlg_confirm_unmount_text">Ak odpojíte USB úložisko, niektoré používané aplikácie prestanú fungovať. Tieto aplikácie pravdepodobne nebudú k dispozícii, pokiaľ USB úložisko opäť nepripojíte.</string>
     <string name="dlg_confirm_unmount_title">Odpojiť USB úložisko?</string>
     <string name="dlg_confirm_usb_unmount_text">Ak odpojíte úložisko USB, niektoré používané aplikácie môžu byť zastavené a nebudú k dispozícii, kým úložisko USB znova nepripojíte.</string>
     <string name="dlg_confirm_usb_unmount_title">Odpojiť úložisko USB?</string>
@@ -3440,7 +3440,7 @@ Na tomto zariadení sú prítomní ďalší používatelia.
     <string name="mem_use_zram_type">ZRam swap</string>
     <string name="memory">RAM</string>
     <string name="memory_apps_usage">Aplikácie</string>
-    <string name="memory_available">K dispozícií</string>
+    <string name="memory_available">K dispozícii</string>
     <string name="memory_available_read_only">K dispozícii (len na čítanie)</string>
     <string name="memory_avg_desc">Priemer %1$s</string>
     <string name="memory_avg_use">Priemer</string>
@@ -4085,7 +4085,7 @@ Vyberte váš operačný systém:"</string>
     <string name="no_connected_devices">Žiadne pripojené zariadenia</string>
     <string name="no_data_usage">Neboli využité žiadne údaje</string>
     <string name="no_default_apps">Žiadne predvol. aplikácie</string>
-    <string name="no_device_admins">Nie je k dispozícií žiadny správca zariadenia</string>
+    <string name="no_device_admins">Nie je k dispozícii žiadny správca zariadenia</string>
     <string name="no_internet_access_remember">Nabudúce sa na túto sieť nepýtať</string>
     <string name="no_internet_access_text">Sieť %1$s nemá prístup k internetu. Chcete k nej zostať pripojený?</string>
     <string name="no_media_button_receiver">Nie</string>
@@ -5152,7 +5152,7 @@ Ako funkciu použiť:
     <string name="screen_pinning_unlock_password">Pred uvoľnením požiadať o heslo</string>
     <string name="screen_pinning_unlock_pattern">Pred uvoľnením požiadať o bezpečnostný vzor</string>
     <string name="screen_pinning_unlock_pin">Pred uvoľnením požiadať o PIN</string>
-    <string name="screen_projection">Vysielať</string>
+    <string name="screen_projection">Vysielanie</string>
     <string name="screen_projection_characteristics">Špeciálne funkcie</string>
     <string name="screen_projection_characteristics_off_screen_summary">Môžete vysielať aj počas vypnutého displeja na vašom telefóne. Táto funkcia zmenší spotrebu batérie.</string>
     <string name="screen_projection_characteristics_off_screen_title">Vysielať s vypnutým displejom</string>
@@ -5169,7 +5169,7 @@ Ako funkciu použiť:
     <string name="screen_projection_help">Pomoc</string>
     <string name="screen_projection_sample_summary">Vysielanie dokumentov, hier, fotografií a videí</string>
     <string name="screen_projection_sample_title">Ukážky</string>
-    <string name="screen_projection_title">Vysielať</string>
+    <string name="screen_projection_title">Vysielanie</string>
     <string name="screen_reader_mode_input_type_summary">Vyberte gesto pre aktiváciu klávesnice ak je aktívny TalkBack</string>
     <string name="screen_reader_mode_input_type_title">Zadávanie textu</string>
     <string name="screen_recorder">Nahrávanie plochy</string>
@@ -5381,7 +5381,7 @@ Ako funkciu použiť:
     <string name="settings_notify_phone_recycled">Your phone number has been recycled. Tap to add a different phone number.</string>
     <string name="settings_safetylegal_activity_loading">Načítavam...</string>
     <string name="settings_safetylegal_activity_title">Bezpečnostné informácie</string>
-    <string name="settings_safetylegal_activity_unreachable">Dátové pripojenie momentálne nie je k dispozícií. Ak chcete tieto informácie zobraziť, prejdite z ľubovoľného počítača pripojeného k internetu na stránku %s.</string>
+    <string name="settings_safetylegal_activity_unreachable">Dátové pripojenie momentálne nie je k dispozícii. Ak chcete tieto informácie zobraziť, prejdite z ľubovoľného počítača pripojeného k internetu na stránku %s.</string>
     <string name="settings_safetylegal_title">Bezpečnostné informácie</string>
     <string name="settings_shortcut">Zástupca nastavení</string>
     <string name="settings_toggle_position_divider_list">Prepínače nad čiarou sú aktívne</string>
@@ -6577,7 +6577,7 @@ Zvážte použitie rýchlejšieho zariadenia (^1) s lepšou výkonnosťou."</str
     <string name="usb_tethering_errored_subtext">Chyba zdieľania dátového pripojenia prostredníctvom USB</string>
     <string name="usb_tethering_storage_active_subtext">Nie je možné zdieľať dátové pripojenie, pokiaľ sa používa úložisko USB</string>
     <string name="usb_tethering_turnon_subtext">Pripojte sa</string>
-    <string name="usb_tethering_unavailable_subtext">Pripojenie USB nie je k dispozícií</string>
+    <string name="usb_tethering_unavailable_subtext">Pripojenie USB nie je k dispozícii</string>
     <string name="usb_title">USB</string>
     <string name="usb_unmount_inform_text">USB úložisko bude odpojené.</string>
     <string name="usb_use">Použiť rozhranie USB na</string>
@@ -7337,8 +7337,8 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
     <string name="wifi_wapi_user_cert">WAPI User Certifikát</string>
     <string name="wifi_whitelist_roaming">SSID Bridging - Rýchle uvoľnenie</string>
     <string name="wifi_whitelist_roaming_summary">Povoliť roaming medzi rôznymi SSID WPA/WPA2-PSK APs s rovnakou gateway MAC adresou</string>
-    <string name="wifi_wps_available_first_item">Je k dispozícií chránená sieť</string>
-    <string name="wifi_wps_available_second_item">"(k dispozícií je chránená sieť)"</string>
+    <string name="wifi_wps_available_first_item">Je k dispozícii chránená sieť</string>
+    <string name="wifi_wps_available_second_item">"(k dispozícii je chránená sieť)"</string>
     <string name="wifi_wps_complete">WPS úspešné. Pripájanie k sieti...</string>
     <string name="wifi_wps_connected">Pripojené k Wi-Fi sieti %s</string>
     <string name="wifi_wps_failed_auth">Overovanie zlyhalo. Skúste ešte raz.</string>

@@ -372,7 +372,7 @@
     <string name="message_failed_body">Skúste to znova</string>
     <string name="message_number">Telefónne číslo:</string>
     <string name="message_pending">Odosielanie...</string>
-    <string name="message_queued">V súčasnej dobe nie je možné správu odoslať. Bude odoslaná, akonáhle bude služba k dispozícií.</string>
+    <string name="message_queued">V súčasnej dobe nie je možné správu odoslať. Bude odoslaná, akonáhle bude služba k dispozícii.</string>
     <string name="message_queued_second_space">Nie je možné odoslať vašu správu. Povoľte prístup k sieti.</string>
     <string name="message_readed">Prečítané</string>
     <string name="message_received">Doručené</string>

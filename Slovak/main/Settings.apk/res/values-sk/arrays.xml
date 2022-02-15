@@ -95,7 +95,7 @@
         <item>Pripojené</item>
         <item>Pozvané</item>
         <item>Neúspešné</item>
-        <item>K dispozícií</item>
+        <item>K dispozícii</item>
         <item>Mimo dosahu</item>
     </string-array>
     <string-array name="bluetooth_visibility_timeout_entries">

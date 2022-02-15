@@ -1463,7 +1463,7 @@ Počet zostávajúcich pokusov: %d."</string>
     <string name="sum_cfu_enabled">všetky hovory budú presmerované na {0}</string>
     <string name="sum_cfu_enabled_indicator">všetky hovory budú presmerované</string>
     <string name="sum_cfu_enabled_indicator_by_sim">Všetky hovory na SIM %s budú presmerované</string>
-    <string name="sum_cfu_enabled_no_number">Číslo nie je k dispozícií</string>
+    <string name="sum_cfu_enabled_no_number">Číslo nie je k dispozícii</string>
     <string name="sum_cw_disabled">Upozorňovať na prichádzajúce hovory aj počas hovoru</string>
     <string name="sum_cw_enabled">Upozorňovať na prichádzajúce hovory aj počas hovoru</string>
     <string name="sum_default_caller_id">Zobrazenie čísla v odchádzajúcich hovoroch bude nastavené podľa operátora</string>
