@@ -761,4 +761,19 @@ Pred pokračovaním si prečítajte a vyjadrite súhlas s novou verziou %s."</st
     <string name="xspace_resolver_activity_title">vyberte aplikáciu</string>
     <string name="year_month_day_all_format_en">MM.dd.yyyy HH:mm:ss</string>
     <string name="yesterday">Včera</string>
+    
+     <string name="pa_base_time_month">dd.MM.</string>
+     <string name="pa_base_time_year">dd.MM.yyyy</string>
+     <string name="pa_base_year_month_day_all_format_en">dd.MM.yyyy HH:mm:ss</string>    
+     <string name="pa_picker_detail_add_to_home">Pridať na Plochu</string>
+     <string name="pa_picker_detail_add_to_minus">Pridať do Asistenta</string>
+     <string name="pa_picker_detail_bottom_bt_text_to_home">Pridať na Plochu</string>
+     <string name="pa_picker_detail_bottom_bt_text_to_minus">Pridať do Asistenta</string>
+     <string name="pa_picker_home_title">Pridať widget</string>
+     <string name="pa_picker_maml_list_activity_title">Pridať widget</string>
+     <string name="pa_lite_setting_service_search">Vyhľadať</string>
+     <string name="pa_cancel">Zrušiť</string>
+     <string name="pa_picker_detail_download_app_dialog_cancel">Zrušiť</string>      
+     <string name="pa_stock_not_found_related_items">Nič sa nenašlo</string>
+                                       
 </resources>
