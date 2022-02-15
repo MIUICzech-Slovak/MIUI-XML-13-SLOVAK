@@ -1017,19 +1017,19 @@ Dajte si pauzu!"</item>
         <item quantity="one">Povolené pre %s apl.</item>
     </plurals>    
     <plurals name="power_center_unoffical_battery_dialog_negative">
-         <item kvantita="other">Zrušiť (%ds)</item>
-         <item kvantita="one">Zrušiť (%ds)</item>
+         <item quantity="other">Zrušiť (%ds)</item>
+         <item quantity="one">Zrušiť (%ds)</item>
       </plurals>
       <plurals name="summary_absorbed_time_foramt">
-         <item kvantita="other">Zapnúť režim sústredenia na %d minút</item>
-         <item kvantita="one">Zapnúť režim sústredenia na %d minútu</item>
+         <item quantity="other">Zapnúť režim sústredenia na %d minút</item>
+         <item quantity="one">Zapnúť režim sústredenia na %d minútu</item>
       </plurals>
       <plurals name="summary_condition_lock_screen_format">
-         <item kvantita="other">Po uzamknutí obrazovky na %d min</item>
-         <item kvantita="one">Po uzamknutí obrazovky na %d min</item>
+         <item quantity="other">Po uzamknutí obrazovky na %d min</item>
+         <item quantity="one">Po uzamknutí obrazovky na %d min</item>
       </plurals>
       <plurals name="summary_result_absorbed_time_format">
-         <item kvantita="other">%d min</item>
-         <item number="one">%d min</item>
+         <item quantity="other">%d min</item>
+         <item quantity="one">%d min</item>
       </plurals>    
 </resources>
