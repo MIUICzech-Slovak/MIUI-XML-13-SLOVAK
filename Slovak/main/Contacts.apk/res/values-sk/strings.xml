@@ -1475,4 +1475,13 @@ Zvoľte jednu z nasledujúcich možností:</string>
     <string name="zero_items_selected">Nič nie je vybrané</string>
     
     <string name="account_dual_sim">SIM %s</string>    
+    
+    <string name="calllog_record_none_toast">No call recordings to show</string>
+<string name="new_saf_permission_dialog_content">"Povolenia ku kontaktom boli aktualizované. Povoľte kontaktom prístup k záznamom hovorov.
+
+Ako udeliť povolenie
+Klepnite na \"%1$s\" a potom vyberte \"%2$s\"."</string>
+     <string name="new_saf_permission_dialog_grant_permission_immediately">Ďalej</string>
+     <string name="new_saf_permission_dialog_title">Vyžadujú sa povolenia</string>   
+<string name="this_folder">Použiť tento priečinok</string>          
 </resources>

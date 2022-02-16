@@ -5431,4 +5431,10 @@ Skúste zväčšiť rozlíšenie!"</string>
           <string name="select_app_title_default">Otvoriť aplikáciu</string>
      <string name="select_app_title_music">Prehrať hudbu</string>
           <string name="add_auto_task_desktop_icon">Pridať odkaz na plochu</string>
+<string name="confirm_ai_allow_all_permission">Zmeniť stav povolenia na \"Rozhodnúť za mňa\" pre všetky aplikácie?</string>
+     <string name="gb_performance_balance_tips">"Vyvážený režim šetrí energiu
+pri znížení obnovovacej frekvencie a teplotných limitov“</string>
+     <string name="gd_sidebar_long_press_tips">Stlačením a podržaním indikátora ho posuniete, zatiaľ čo zariadenie držíte vertikálne</string>
+     <string name="gtb_guide_game_mode_tips">Vyberte preferovaný herný režim</string>
+     <string name="gtb_guide_gtb_line_xspace">Zlepšite svoju hru s úplne novou hrou Game Turbo!</string>        
 </resources>

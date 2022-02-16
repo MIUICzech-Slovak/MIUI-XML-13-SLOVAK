@@ -122,4 +122,5 @@ dlhý screenshot"</string>
     <string name="wednesday_short">Str</string>
     <string name="wednesday_shortest">S</string>
     <string name="yesterday">Včera</string>
+    <string name="long_screenshot_error">Nepodarilo sa vytvoriť screenshot. Skúste to znova.</string>
 </resources>

@@ -315,4 +315,9 @@
     <string name="wlan_change_protection_detail">Neprepínať automaticky na Wi-Fi po pripojení na mobilné dáta</string>
     <string name="wlan_change_protection_title">Zamedziť zmene siete</string>
     <string name="yesterday">Včera</string>
+<string name="gamebooster_network_dialog_message_pad">Povolte Optimalizácii pripojenie k sieti, aby ste mohli využívať všetky funkcie Game Turbo?</string>
+     <string name="gb_global_settings">Všeobecné nastavenia</string>
+     <string name="gb_webwindow_schemedialog_accept">Otvoriť</string>
+     <string name="gb_webwindow_schemedialog_cancel">Zrušiť</string>
+     <string name="gb_webwindow_schemedialog_title">Otvoriť Hry?</string>      
 </resources>

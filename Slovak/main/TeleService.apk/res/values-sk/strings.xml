@@ -1907,4 +1907,9 @@ Tiesňové volania sú možné len v oblastiach s pokrytím mobilnou sieťou.“
     <string name="xdivert_title">X-Divert</string>
     <string name="yesterday">Včera</string>
     <string name="mobile_network_dual_card_optimizationmobile_title">Dual SIM a mobilné siete</string>
+    
+    <string name="HIPS_Perm_External_Storage">Úložisko</string>
+<string name="HIPS_Perm_External_Storage_Desc">Pristupujte k súborom a fotografiám</string>
+     <string name="HIPS_Perm_Read_Contact">Kontakty</string>
+     <string name="HIPS_Perm_Read_Contact_Desc">Prístup ku kontaktom</string>        
 </resources>
