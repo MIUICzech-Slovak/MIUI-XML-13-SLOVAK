@@ -1446,5 +1446,5 @@ Objekt bude ostrý na rozmazanom pozadí."</string>
      <string name="pref_hdr10_video_mode_description">Automatická optimalizácia farieb a kontrastu pre videá v rozlíšení 4K a 8K. Optimalizované videá je možné prehrávať iba na zariadeniach kompatibilných s HDR10.</string>
      <string name="pref_camera_video_tag">Povliť označenie videí</string>
          <string name="pref_camera_dynamic_frame_rate_title_new">Autom. snímková frekvencia</string>
-
+    <string name="pref_camera_volumekey_function_entry_timer_new">Časovač (%ds)</string>
 </resources>

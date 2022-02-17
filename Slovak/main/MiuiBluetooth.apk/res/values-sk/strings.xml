@@ -227,4 +227,11 @@ Rýchlejšie pripojenie."</string>
     <string name="wednesday_short">Str</string>
     <string name="wednesday_shortest">S</string>
     <string name="yesterday">Včera</string>
+    
+<string name="config_net_device_connect">Pripojiť</string>
+     <string name="config_net_device_find">Pripojiť zariadenie</string>
+     <string name="config_net_not_my_device">Zrušiť</string>
+     <string name="confignet_app_download">Inštalovať</string>
+     <string name="confignet_cancel">Zrušiť</string>
+     <string name="confignet_download_title">Ak chcete pokračovať, nainštalujte Mi Fitness</string>    
 </resources>

@@ -212,7 +212,7 @@ Ak nechcete získať prístup k odporúčaným kurzom, môžete stále používa
     <string name="daily_consumption_label"> kalórie </string>
     <string name="daily_distance_label"> Vzdialenosť </string>
     <string name="daily_reminders"> Denné pripomenutia </string>
-    <string name="daily_steps"> Kroky </string>
+    <string name="daily_steps"> Krokov </string>
     <string name="daily_time_label"> čas </string>
     <string name="data"> Údaje </string>
     <string name="data_account_info_loading"> Získavam informácie o účte… </string>
@@ -1140,7 +1140,7 @@ Ak nechcete zdieľať svoje informácie, môžete túto funkciu vypnúť."</stri
     <string name="share_card_key_avg_pace"> Tempo </string>
     <string name="share_card_key_consume"> Kalórie </string>
     <string name="share_card_key_groups"> Intervaly </string>
-    <string name="share_card_key_step"> Kroky </string>
+    <string name="share_card_key_step"> Krokov </string>
     <string name="share_card_key_time"> Trvanie </string>
     <string name="share_card_title_climbing"> Stúpanie %s </string>
     <string name="share_card_title_cross_hiking"> Turistika %s </string>
@@ -1398,7 +1398,7 @@ spánkový cyklus “</string>
     <string name="sporting_key_calories"> Cal </string>
     <string name="sporting_key_km"> KM </string>
     <string name="sporting_key_speed"> Tempo </string>
-    <string name="sporting_key_step"> Kroky </string>
+    <string name="sporting_key_step"> Krokov </string>
     <string name="sporting_key_time"> Trvanie </string>
     <string name="sporting_location"> Vyhľadať </string>
     <string name="sporting_title_outdoor_riding"> Cyklistika </string>
