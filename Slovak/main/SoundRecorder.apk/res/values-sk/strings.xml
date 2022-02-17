@@ -327,7 +327,7 @@ Pri použití mobilných dát sa budú účtovať poplatky od operátora."</stri
     <string name="yesterday">Včera</string>
          <string name="recognition_notification_channel">Prepisovanie</string>
          
-<string name="new_saf_permission_dialog_content">"Povolenia k nahrávaniu boli aktualizované. Povoľte Diktafónu prístup k nahrávkam hovorov.
+<string name="new_saf_permission_dialog_content">"Povolenia k nahrávaniu boli aktualizované. Povoľte Záznamníku prístup k nahrávkam hovorov.
 
 Ako udeliť povolenie
 Klepnite na \"%1$s\" a potom vyberte \"%2$s\"."</string>

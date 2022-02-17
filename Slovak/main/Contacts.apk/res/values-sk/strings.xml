@@ -1476,7 +1476,7 @@ Zvoľte jednu z nasledujúcich možností:</string>
     
     <string name="account_dual_sim">SIM %s</string>    
     
-    <string name="calllog_record_none_toast">No call recordings to show</string>
+    <string name="calllog_record_none_toast">Žiadne nahrávky hovorov na zobrazenie</string>
 <string name="new_saf_permission_dialog_content">"Povolenia ku kontaktom boli aktualizované. Povoľte kontaktom prístup k záznamom hovorov.
 
 Ako udeliť povolenie
