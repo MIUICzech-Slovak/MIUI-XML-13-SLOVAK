@@ -1523,7 +1523,7 @@ Ak chcete ďalej používať svoj telefón, musíte obnoviť jeho továrenské n
     <string name="current_use_uicc_wallet">"Používate SIM kartu %1$s Wallet"</string>
     <string name="current_zone">(súčasná)</string>
     <string name="custom_carrier_title">Upraviť názov operátora</string>
-    <string name="custom_color">Vlastný</string>
+    <string name="custom_color">Vlastné</string>
     <string name="custom_gesture_title">Vlastné gestá</string>
     <string name="custom_wifi_name_title">Upraviť názov Wi-Fi</string>
     <string name="customize_function">Dostupné gestá</string>
@@ -5125,7 +5125,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
     <string name="screen_paper_mode_set_apps_title">Vlastný čítací režim</string>
     <string name="screen_paper_mode_summary">Pri dlhodobom čítaní bude potlačená modrá farba</string>
     <string name="screen_paper_mode_time_summary">Čítací režim nastavený podľa času</string>
-    <string name="screen_paper_mode_time_title">Naplánované</string>
+    <string name="screen_paper_mode_time_title">Naplánovať</string>
     <string name="screen_paper_mode_title">Čítací režim</string>
     <string name="screen_paper_mode_turn_off">Zakázané</string>
     <string name="screen_paper_mode_turn_on">Povolené</string>
