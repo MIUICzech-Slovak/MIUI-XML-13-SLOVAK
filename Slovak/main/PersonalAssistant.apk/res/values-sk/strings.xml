@@ -1020,5 +1020,5 @@ na zobrazenie widgetov."</string>
     <string name="pa_widget_need_download_dialog_message_install">Ak chcete používať widgety, najskôr si nainštalujte \"%s\".</string>
     <string name="pa_widget_need_download_dialog_message_load">Ak chcete používať widgety, najprv načítajte \"%s\".</string>
     <string name="pa_widget_need_download_dialog_message_upgrade">Ak chcete používať widgety, najskôr aktualizujte \"%s\".</string>	
-	
+	<string name="pa_rtk_unlike_text">Odopnúť</string>
 </resources>

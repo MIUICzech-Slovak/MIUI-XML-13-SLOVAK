@@ -5460,4 +5460,9 @@ pri znížení obnovovacej frekvencie a teplotných limitov“</string>
      <string name="beauty_fun_settings_light">Jas osvetlenia</string>
      <string name="beauty_fun_video_effect">Skrášlenie pre video</string>
      <string name="beauty_settings">Nastavenia</string>	 
+	 
+    <string name="cpu_usage_process_run_time_little_time_new">Menej ako %d minútu</string>
+    <string name="first_aid_card_consume_power_summary_app">Viac ako %d aplikácií má povolený autom. spustenie. Obmedzte ich pre úsporu batérie.</string>
+    <string name="system_anti_fraud_dialog_message">Ochrana proti podvodom</string>
+    <string name="system_anti_fraud_dialog_title2">Upozornenie na podvody</string>	
 </resources>
