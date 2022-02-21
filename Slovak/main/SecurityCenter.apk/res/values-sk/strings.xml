@@ -5436,5 +5436,28 @@ Skúste zväčšiť rozlíšenie!"</string>
 pri znížení obnovovacej frekvencie a teplotných limitov“</string>
      <string name="gd_sidebar_long_press_tips">Stlačením a podržaním indikátora ho posuniete, zatiaľ čo zariadenie držíte vertikálne</string>
      <string name="gtb_guide_game_mode_tips">Vyberte preferovaný herný režim</string>
-     <string name="gtb_guide_gtb_line_xspace">Zlepšite svoju hru s úplne novým Game Turbo!</string>        
+     <string name="gtb_guide_gtb_line_xspace">Zlepšite svoju hru s úplne novým Game Turbo!</string>        .
+	 
+     <string name="beauty_fc_assistant">Asistent prednej kamery</string>
+     <string name="beauty_fc_assistant_summary">Osvetlenie a skrášlenie prednej kamery</string>
+     <string name="beauty_fc_assistant_summary_new">Zobraziť nastavenie skrášlenia a osvetlenia pri používaní prednej kamery</string>
+     <string name="beauty_fc_fill_lamp">Osvetlenie</string>
+     <string name="beauty_fc_fill_lamp_new">Osvetlenie</string>
+     <string name="beauty_fc_light">Jas osvetlenia</string>
+     <string name="beauty_fc_video_call">Skrášlenie pre videohovory</string>
+     <string name="beauty_fc_video_call_summary">Zobraziť nastavenia Skrášlenia pri videohovore</string>
+     <string name="beauty_fun_filter">Skrášlenie</string>
+     <string name="beauty_fun_light">Osvetlenie</string>
+     <string name="beauty_fun_privacy">Súkromná kamera</string>
+     <string name="beauty_fun_privacy_dialog_message">Pri používaní kamery pre rozpoznávanie tváre, bude vaša tvár automaticky vyrezaná z pozadia pre zachovanie súkromia.</string>
+     <string name="beauty_fun_privacy_dialog_tips">Táto funkcia môže znížiť úspešnosť rozpoznania tváre</string>
+     <string name="beauty_fun_privacy_ingnore">Nie ďakujem</string>
+     <string name="beauty_fun_privacy_message">Rozpoznať tvár a zamaskovať pozadie pri odomykaní tvárou</string>
+     <string name="beauty_fun_privacy_open">Zapnúť</string>
+     <string name="beauty_fun_privacy_open_tips">Súkromná kamera je zapnutá</string>
+     <string name="beauty_fun_privacy_tips">Súkromná kamera bude odteraz používaná pri odomykaní tvárou</string>
+     <string name="beauty_fun_screen_light">Osvetlenie</string>
+     <string name="beauty_fun_settings_light">Jas osvetlenia</string>
+     <string name="beauty_fun_video_effect">Skrášlenie pre video</string>
+     <string name="beauty_settings">Nastavenia</string>	 
 </resources>
