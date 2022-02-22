@@ -3618,7 +3618,6 @@ Chcete to povoliť všetkým aplikáciám, ktoré chcú vyhľadávať siete?"</s
     <string name="zen_mode_bypassing_apps_header">Aplikácie, ktoré môžu vyrušiť</string>
     <string name="zen_mode_bypassing_apps_none">Žiadne vybrané aplikácie</string>
     <string name="zen_mode_bypassing_apps_some_summary">Niektoré upozornenia</string>
-    <string name="zen_mode_bypassing_apps_subtext">{count,plural,offset:2 =0{Žiadne aplikácie nemôžu vyrušiť}=1{{app_1} môže vyrušiť}=2{{app_1} a {app_2} môžu vyrušiť}=3{{app_1}, {app_2} a {app_3} môžu vyrušiť}few{{app_1}, {app_2} a # ďalšie aplikácie môžu vyrušiť}many{{app_1}, {app_2}, and # more can interrupt}other{{app_1}, {app_2} a # ďalších aplikácií môže vyrušiť}}</string>
     <string name="zen_mode_bypassing_apps_subtext_none">Žiadne aplikácie nemôžu vyrušiť</string>
     <string name="zen_mode_bypassing_apps_summary_all">Všetky upozornenia</string>
     <string name="zen_mode_bypassing_apps_summary_some">Niektoré upozornenia</string>

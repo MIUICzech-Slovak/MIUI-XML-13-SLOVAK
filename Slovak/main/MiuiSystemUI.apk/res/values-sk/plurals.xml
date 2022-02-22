@@ -26,8 +26,8 @@
         <item quantity="one">1 prepínač nad čiarou je aktívny</item>
     </plurals>
     <plurals name="block_record_notification_more_text">
-        <item quantity="other">Skryté upozornenia od %1$s &amp; %2$d apl.</item>
-        <item quantity="one">Skryté upozornenia od %1$s &amp; 1 apl.</item>
+        <item quantity="other">Skryté upozornenia od %1$s a %2$d apl.</item>
+        <item quantity="one">Skryté upozornenia od %1$s a 1 apl.</item>
     </plurals> 
     <plurals name="fold_tips_title">
         <item quantity="other">Zbalené upozornenia: %d</item>

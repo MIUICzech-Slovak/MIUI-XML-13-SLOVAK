@@ -66,7 +66,7 @@
     <string name="app_category_games">Hry</string>
     <string name="app_category_health">Zdravie</string>
     <string name="app_category_lifestyle">Životný štýl</string>
-    <string name="app_category_music_movie">Hudba &amp; Video</string>
+    <string name="app_category_music_movie">Hudba a Video</string>
     <string name="app_category_news">Správy</string>
     <string name="app_category_photos">Fotografie</string>
     <string name="app_category_productivity">Produktivita</string>
@@ -549,10 +549,10 @@
     <string name="recents_task_screening">Vysielanie</string>
     <string name="recents_title_app_manager">Spravovať aplikácie</string>
     <string name="recents_title_game">Hry</string>
-    <string name="recents_title_garbage_cleanup">Vyčistené</string>
+    <string name="recents_title_garbage_cleanup">Vyčistiť</string>
     <string name="recents_title_garbage_deepclean">Hĺbkové čistenie</string>
     <string name="recents_title_market">Vyhľadať aplikácie</string>
-    <string name="recents_title_security_scan">Kontrola</string>
+    <string name="recents_title_security_scan">Antivírus</string>
     <string name="recents_tv_small_window_text">Plávajúce okná</string>
     <string name="recommend_app">Návrhy aplikácií</string>
     <string name="recommend_apps_default_title">Prázdne</string>

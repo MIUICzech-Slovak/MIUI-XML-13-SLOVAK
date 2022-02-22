@@ -119,8 +119,8 @@
     <string name="miui_toast_zen_dnd_to_off_T">Upozornenia už nie sú stíšené</string>
     <string name="miui_toast_zen_standard_to_off">Tichý režim je vypnutý.</string>
     <string name="miui_toast_zen_standard_to_off_when_shield_media">Režim Nerušiť je vypnutý. Zvonenia, upozornenia a média budú prehrávané.</string>
-    <string name="miui_toast_zen_to_dnd">Hovory a upozornenia budú stíšené.</string>
-    <string name="miui_toast_zen_to_dnd_T">Upozornenia budú stíšené</string>
+    <string name="miui_toast_zen_to_dnd">Hovory a upozornenia sú stíšené.</string>
+    <string name="miui_toast_zen_to_dnd_T">Upozornenia sú stíšené</string>
     <string name="miui_toast_zen_to_dnd_when_lock">Hovory a upozornenia budú stíšené keď je zariadenie uzamknuté</string>
     <string name="miui_toast_zen_to_standard">Prepnuté do Tichého režimu.</string>
     <string name="miui_toast_zen_to_standard_when_shield_media">Prepnuté do Tichého režimu. Zvonenia, upozornenia a zvuky médií sú stíšené.</string>

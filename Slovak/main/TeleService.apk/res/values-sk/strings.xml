@@ -1875,9 +1875,9 @@ Tiesňové volania sú možné len v oblastiach s pokrytím mobilnou sieťou.“
     <string name="wifi_calling_do_not_use">Nepoužívať Wi-Fi hovory</string>
     <string name="wifi_calling_do_not_use_call_assistant">Nepoužívať asistenta hovoru</string>
     <string name="wifi_calling_select_call_assistant">Vybrať asistenta hovoru</string>
-    <string name="wifi_calling_select_call_assistant_summary">Choose an app or service to manage the networks used for calls</string>
-    <string name="wifi_calling_use_call_assistant">Use call assistant</string>
-    <string name="wifi_calling_use_call_assistant_summary">Let apps or services manage networks used for calls</string>
+    <string name="wifi_calling_select_call_assistant_summary">Vyberte aplikáciu alebo službu pre spravovanie sietí určených pre hovory</string>
+    <string name="wifi_calling_use_call_assistant">Použiť asistent hovorov</string>
+    <string name="wifi_calling_use_call_assistant_summary">Ponechať aplikácie alebo služby spravovať siete pre hovory</string>
     <string name="wifi_connected_no_internet">Pripojené, žiadny internet</string>
     <string name="wifi_disabled_by_recommendation_provider">Nepripojené z dôvodu siete nízkej kvality</string>
     <string name="wifi_disabled_generic">Zakázané</string>
@@ -1912,4 +1912,30 @@ Tiesňové volania sú možné len v oblastiach s pokrytím mobilnou sieťou.“
 <string name="HIPS_Perm_External_Storage_Desc">Pristupujte k súborom a fotografiám</string>
      <string name="HIPS_Perm_Read_Contact">Kontakty</string>
      <string name="HIPS_Perm_Read_Contact_Desc">Prístup ku kontaktom</string>        
+	 
+    <string name="wifi_call_accept">Prijať</string>
+     <string name="wifi_call_available_message">Odteraz môžete uskutočniť hovory cez Wi-Fi sieť.</string>
+     <string name="wifi_call_available_title">Povolenie Wi-Fi Hovorov</string>
+     <string name="wifi_call_cancel">Viac info</string>
+     <string name="wifi_call_help">Pomoc</string>
+     <string name="wifi_call_help_message_1">"Volanie cez Wi-Fi je služba poskytovaná spoločnosťou Orange, ktorá vám umožňuje uskutočňovať a prijímať hovory cez Wi-Fi. Túto funkciu možno použiť v oblastiach so slabým pokrytím mobilnou sieťou..
+
+Ak chcete používať volanie cez Wi-Fi, zapnite ho v časti Nastavenia > Wi-Fi hovor..
+
+Na aktiváciu služby vám Orange pošle potvrdzujúcu správu hneď, ako bude služba dostupná. Potom sa budete môcť pripojiť k sieti Wi-Fi a uskutočňovať hovory.
+
+Hovory uskutočnené cez Wi-Fi budú spoplatnené podľa podmienok vášho paušálu.
+
+Vždy, keď je táto funkcia dostupná, v hornej časti obrazovky sa zobrazí nasledujúca ikona."</string>
+     <string name="wifi_call_help_message_2">"Ak sa rozhodnete uprednostňovať siete Wi-Fi, budú sa predvolene používať na telefonovanie. V prípade, že nie ste pripojení k sieti Wi-Fi alebo je slabý signál, na uskutočňovanie hovorov sa použijú mobilné siete.
+
+Ak sa rozhodnete uprednostňovať mobilné siete, budú sa predvolene používať na telefonovanie. V prípade, že nie je pokrytie mobilnou sieťou alebo je slabý signál, použijú sa namiesto toho siete Wi-Fi."</string>
+     <string name="wifi_call_help_title">Pomoc s Wi-Fi hovormi</string>
+     <string name="wifi_call_notification_message">Táto služba je poskytovaná Orange. Aktivácia tejto služby môže trvať aj niekoľko hodín. Po aktivácií dostanete informačnú SMS.</string>
+     <string name="wifi_call_preferred_summary">Ak sa rozhodnete uprednostňovať mobilné siete, mobilné siete sa budú predvolene používať na hovory. V prípade, že nie je signál mobilnej siete alebo je veľmi slabý, použije sa namiesto toho sieť Wi-Fi.</string>
+     <string name="wifi_call_setting_vodafone_de">Wi-Fi hovor</string>
+     <string name="wifi_call_setting_vodafone_uk">Wi-Fi hovor</string>
+     <string name="wifi_call_welcome_settings">Wi-Fi hovory</string>
+     <string name="wifi_calling_settings_title">Wi-Fi hovory</string>
+	 
 </resources>

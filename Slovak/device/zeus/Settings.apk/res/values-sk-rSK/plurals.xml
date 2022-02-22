@@ -453,7 +453,7 @@
         <item quantity="other">%d sietí a odberov</item>
         <item quantity="one">1 sieť a odber</item>
         <item quantity="few">%d siete a odbery</item>
-        <item quantity="many">%d networks &amp; subscriptions</item>
+        <item quantity="many">%d networks a subscriptions</item>
      </plurals>
      <plurals name="wifi_saved_passpoint_access_points_summary">
         <item quantity="other">%d odberov</item>

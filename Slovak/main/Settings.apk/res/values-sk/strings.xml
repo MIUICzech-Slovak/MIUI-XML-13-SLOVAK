@@ -588,7 +588,7 @@ Správca môže sledovať a spravovať nastavenia, prístup, aplikácie a údaje
     <string name="auto_restore_summary">Pri opätovnej inštalácii aplikácie obnoviť zálohované nastavenia a ďalšie dáta</string>
     <string name="auto_restore_title">Automatické obnovenie</string>
     <string name="auto_rule">Naplánované pravidlá</string>
-    <string name="auto_silent">Naplánované</string>
+    <string name="auto_silent">Naplánovať</string>
     <string name="auto_startup_application_manage">Pri štarte</string>
     <string name="auto_startup_count">%d aplikácií sa spustí pri štarte</string>
     <string name="auto_upload_debug_log_summary">Diagnostické dáta môžu obsahovať informácie o používaní vášho zariadenia, operačnom systéme a aplikácií. Tieto dáta budú použité pre analýzu vášho problému v systéme.</string>
@@ -1273,7 +1273,7 @@ Nikdy ste neboli pripojený k %2$s."</string>
     <string name="choose_unlock_fingerprint_msg">Pred zadaním odtlačku prsta nastavte zámok obrazovky.</string>
     <string name="choose_voice_input_title">Výber hlasového vstupu</string>
     <string name="classic_mode_summary">Prepnúť na teplejšie farby pre obmedzenie modrého svetla</string>
-    <string name="classic_mode_title">Klasický</string>
+    <string name="classic_mode_title">Klasická</string>
     <string name="cleaner">Čistič</string>
     <string name="clear_activities">Vymazať predvolené nastavenie</string>
     <string name="clear_activities_summary">Povoliť túto aplikáciu ako predvolenú</string>
@@ -1468,7 +1468,7 @@ Nikdy ste neboli pripojený k %2$s."</string>
     <string name="credentials_unlock" />
     <string name="credentials_unlock_hint">Zadajte heslo pre úložisko poverení.</string>
     <string name="credentials_wrong_password">Nesprávne heslo.</string>
-    <string name="crisp_text">Vysoká frekvencia pridá čistotu detailom v každej situácií</string>
+    <string name="crisp_text">Vysoká frekvencia pridá čistotu detailom v každej situácii</string>
     <string name="critical_feedback">Kritická odozva</string>
     <string name="crypt_keeper_button_text">Šifrovať telefón</string>
     <string name="crypt_keeper_conditions">Šifrovanie môže trvať viac ako hodinu. Musíte začať s plne nabitou batériou a pripojenou nabíjačkou počas celého procesu. Ak tento proces prerušíte, prídete o svoje dáta.</string>
@@ -4979,7 +4979,7 @@ Táto funkcia získa vašu MAC adresu Wi-Fi siete iba na počiatočnú registrá
     <string name="right_shoulder_key">Vpravo</string>
     <string name="ring_volume_option_title">Hlasitosť zvonenia</string>
     <string name="ring_volume_title">Hlasitosť zvonenia</string>
-    <string name="ringer_mode_setting_summary">Stíši prichádzajúce hovory a oznámenia</string>
+    <string name="ringer_mode_setting_summary">Stíšiť prichádzajúce hovory a oznámenia</string>
     <string name="ringer_mode_setting_title">Tichý režim</string>
     <string name="ringtone_mute">Žiadne</string>
     <string name="ringtone_slot_setting_title">Nastavenia jednej SIM</string>
@@ -5035,7 +5035,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
     <string name="scan_list_label">Nájdené:</string>
     <string name="scanning_status_text_wifi_off_ble_off">Wi-Fi a Bluetooth vyhľadávanie je vypnuté</string>
     <string name="scanning_status_text_wifi_on_ble_on">Wi-Fi a Bluetooth vyhľadávanie je zapnuté</string>
-    <string name="scheduled_style">Naplánované</string>
+    <string name="scheduled_style">Naplánovať</string>
     <string name="screen">Displej</string>
     <string name="screen_brightness">Jas obrazovky</string>
     <string name="screen_button">Tlačidlá na displeji</string>
@@ -5701,7 +5701,7 @@ Chcete teraz odvolať súhlas s %s?</string>
     <string name="sound_category_system_title">Systém</string>
     <string name="sound_effects_enable_title">Zvuky pri dotyku</string>
     <string name="sound_haptic_settings">Zvuky a dotyky</string>
-    <string name="sound_mode">Tichý režim &amp; Nerušiť</string>
+    <string name="sound_mode">Tichý režim a Nerušiť</string>
     <string name="sound_settings">Zvuky</string>
     <string name="sound_settings_tab_haptic">Dotyky</string>
     <string name="sound_settings_tab_sound">Zvuky</string>
@@ -7487,7 +7487,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
     <string name="zen_mode_selected_messages">Vybrané správy</string>
     <string name="zen_mode_settings_title">Vyrušenia</string>
     <string name="zen_mode_start_time">Čas začiatku</string>
-    <string name="zen_mode_summary">Stíši prichádzajúce hovory, oznámenia, médiá a vypne vibrácie</string>
+    <string name="zen_mode_summary">Stíšiť prichádzajúce hovory, oznámenia, médiá a vypne vibrácie</string>
     <string name="zen_mode_summary2">Stíšiť hovory a upozornenia, vypnúť vibrácie</string>
     <string name="zen_mode_summary_alarms_only_by_time">Zmena na možnosť Iba budíky platná do %1$s</string>
     <string name="zen_mode_summary_alarms_only_indefinite">Zmena na možnosť Iba budíky platná natrvalo</string>

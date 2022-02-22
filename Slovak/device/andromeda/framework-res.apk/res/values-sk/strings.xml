@@ -550,7 +550,7 @@ Naozaj chcete túto stránku opustiť?"</string>
     <string name="keyguard_password_enter_pin_prompt">Nový kód PIN</string>
     <string name="keyguard_password_enter_puk_code">Zadajte kód PUK a nový kód PIN</string>
     <string name="keyguard_password_enter_puk_prompt">Kód PUK</string>
-    <string name="keyguard_password_entry_touch_hint">&lt;font size="17"&gt;Klepnut&amp;#237;m zadajte heslo&lt;/font&gt;</string>
+    <string name="keyguard_password_entry_touch_hint">Dotykom zadajte heslo</string>
     <string name="keyguard_password_wrong_pin_code">Nesprávny kód PIN.</string>
     <string name="kg_enter_confirm_pin_hint">Potvrďte požadovaný kód PIN</string>
     <string name="kg_failed_attempts_almost_at_login">"%1$d-krát ste nesprávne nakreslili svoj bezpečnostný vzor. Po %2$d ďalších neúspešných pokusoch sa zobrazí výzva na odomknutie telefónu pomocou e-mailového účtu.

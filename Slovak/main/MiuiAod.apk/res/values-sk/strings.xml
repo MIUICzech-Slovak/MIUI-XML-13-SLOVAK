@@ -203,7 +203,7 @@ d. MMMM"</string>
     <string name="saturday_shortest">S</string>
     <string name="scheduled_mode_dialog_msg">Položky budú zobrazené na vašom Always-on displeji počas tohto obdobia: %s.</string>
     <string name="scheduled_mode_msg">Aktívne obdobie: %s</string>
-    <string name="scheduled_style">Naplánované</string>
+    <string name="scheduled_style">Naplánovať</string>
     <string name="scheduled_style_summary">Nastaviť vlastný čas</string>
     <string name="scope_des">Každý kaleidoskop obsahuje 5 rôznych vzorov ktoré sa zobrazia pri každom rozsvietení displeja.</string>
     <string name="scope_icon">Štýl kaleidoskopu</string>

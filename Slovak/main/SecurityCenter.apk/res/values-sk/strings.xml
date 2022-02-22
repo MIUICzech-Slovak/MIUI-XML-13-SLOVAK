@@ -3808,7 +3808,7 @@ Počas dátového prenosu sa text a obrázky komprimujú na serveri a tým sa ur
     <string name="privacy_summary">Naučte sa o ochrane súkromia v MIUI 12</string>
     <string name="privacy_thumbnail_blur_category_financial">Financie</string>
     <string name="privacy_thumbnail_blur_category_other">Ostatné</string>
-    <string name="privacy_thumbnail_blur_category_photography">Foto &amp; video</string>
+    <string name="privacy_thumbnail_blur_category_photography">Foto a video</string>
     <string name="privacy_thumbnail_blur_category_tip">Odporúčané</string>
     <string name="privacy_thumbnail_blur_search_empty">Nič sa nenašlo</string>
     <string name="privacy_thumbnail_blur_title">Rozmazanie náhľadov</string>

@@ -120,7 +120,7 @@ Poznámka: Staršie Mi Televízie nemusia podporovať prenášanie naskrz rôzny
 Ak obidve zariadenia nie je možné pripojiť k rovnakej sieti, zapnite na vašom externom monitore Miracast. Pomenovanie funkcie Miracast sa môže líšiť."</string>
     <string name="help_page_text_08">Krok 2: Spustenie prenosu</string>
     <string name="help_page_text_09">Ťuknite na \"Prenos\" v Notifikačnej roletke vášho telefónu. Pre stabilnejší prenos spustite Wi-Fi a Bluetooth.</string>
-    <string name="help_page_text_10">Ak chcete prenášať položky z Galérie alebo Mi Videa, môžete nato použiť vstavané aplikácie v týchto aplikáciách.</string>
+    <string name="help_page_text_10">Ak chcete prenášať položky z Galérie alebo Mi Videa, môžete na to použiť vstavané aplikácie v týchto aplikáciách.</string>
     <string name="help_page_text_11">Krok 3: Vyberte zariadenie</string>
     <string name="help_page_text_12">Vyberte externé zariadenie zo zoznamu dostupných zariadení pre spustenie prenosu.</string>
     <string name="help_page_text_13">Nedá sa pripojiť k externému zariadeniu?</string>
@@ -339,4 +339,6 @@ Pred použitím tejto funkcie si prečítajte a vyjadrite súhlas s našimi zmlu
      <string name="invisible_mode_dialog_content_audio_relay">Vysielanie nie je možné preniesť, keď ste v režime inkognito. Najskôr vypnite režim inkognito.</string>
      <string name="invisible_mode_dialog_pos">Vypnúť</string>
      <string name="invisible_mode_dialog_title">Ste inkognito</string>    
+	 
+     <string name="help_page_text_09_global">Stlačte tlačidlo \"Vysielať\" v roletke. Povoľte Wi-fi a Bluetooth pre stabilnejšie pripojenie.</string>	 
 </resources>
