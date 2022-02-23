@@ -4731,7 +4731,7 @@ neoprávneného používania vašich aplikácií"</string>
     <string name="system_permission_declare_agree">Súhlasím</string>
     <string name="system_permission_declare_analytics_declare">"Pozývame vás, aby ste sa zaregistrovali do nášho Programu používateľskej skúsenosti. Táto aplikácia sa musí pripojiť k internetu a používať nasledujúce povolenia alebo funkcie na zhromažďovanie štatistík s cieľom zlepšiť služby, ktoré vám poskytujeme. zbierajte tu údaje iba na štatistické účely a na základe údajov, ktoré zhromažďujeme, vás nemôžeme osobne identifikovať.“</string>
     <string name="system_permission_declare_disagree">Nesúhlasím</string>
-    <string name="system_permission_declare_double_link">Prečítajte si a odsúhlaste naše Podmienky používania a Ochranu súkromia pre používaním tejto funkcie.</string>
+    <string name="system_permission_declare_double_link">Prečítajte si a odsúhlaste naše Podmienky používania a Ochranu súkromia pred používaním tejto funkcie.</string>
     <string formatted="false" name="system_permission_declare_main_purpose">Vitajte v %1s! Táto aplikácia vám umožní využívať tieto funkcie: %2s.</string>
     <string name="system_permission_declare_meanwhile_double_link" />
     <string name="system_permission_declare_meanwhile_privacy_policy" />

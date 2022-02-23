@@ -325,4 +325,11 @@
     <string name="xspace_resolver_activity_title">Vybrať apl.</string>
     <string name="android_ringtone_silent">Žiadne</string>
      <string name="android_ringtone_unknown">Neznáme zvonenie</string>
+     
+     <string name="bells">Zvony</string>
+     <string name="birdcicada_preview">Vtáky a svetlušky</string>
+     <string name="waterdrop_preview">Kvapky</string>
+     <string name="windchime">Zvonkohra</string>
+     <string name="fireflies">Svetlušky</string>
+                    
 </resources>

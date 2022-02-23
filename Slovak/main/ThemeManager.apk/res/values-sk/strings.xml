@@ -115,10 +115,10 @@
     <string name="component_backup_preference_title">Zálohovať tému</string>
     <string name="component_category_finest_title">VŠEOBECNÉ</string>
     <string name="component_category_more_title">ROZŠÍRENÉ</string>
-    <string name="component_title_ringtone">Zvonenie</string>
+    <string name="component_title_ringtone">Zvonenia</string>
     <string name="component_title_settings_video_wallpaper">Tapety s efektami</string>
     <string name="component_title_video_wallpaper">Filmy na tapety</string>
-    <string name="component_title_wallpaper">Tapeta</string>
+    <string name="component_title_wallpaper">Tapety</string>
     <string name="concentration_old_period">Viac</string>
     <string name="copy">Kopírovať</string>
     <string name="count_down_tip">zostáva %ds</string>

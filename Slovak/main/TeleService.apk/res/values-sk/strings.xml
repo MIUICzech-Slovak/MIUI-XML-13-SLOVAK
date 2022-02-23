@@ -278,7 +278,7 @@ Vzorkovacia frekvencia"</string>
     <string name="call_recording_notification_title">Oznámenie o nahrávaní</string>
     <string name="call_recording_notification_title_error">Nahrávanie hovoru zlyhalo</string>
     <string name="call_recording_notification_toggle_title">Upozornenie nahrávania hovorov</string>
-    <string name="call_recording_setting">Nahrávanie hovoru</string>
+    <string name="call_recording_setting">Nahrávanie hovorov</string>
     <string name="call_remove_exception_numbers_confirm">%d čísel bude vymazaných.</string>
     <string name="call_settings">Nastavenie hovorov</string>
     <string name="call_settings_admin_user_only">Nastavenia hovorov môže zmeniť iba používateľ s povoleniami správcu.</string>

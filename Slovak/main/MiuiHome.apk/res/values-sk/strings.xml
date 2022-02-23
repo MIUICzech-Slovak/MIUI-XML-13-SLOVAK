@@ -335,7 +335,7 @@
     <string name="memory_clear_result_mega">%1$sMB vyčistené</string>
     <string name="menu_add">Pridať</string>
     <string name="menu_auto_fill">Automaticky vyplniť</string>
-    <string name="menu_auto_fill_of_uninstall">Zaplniť miesto po odinštalovanej aplikácií</string>
+    <string name="menu_auto_fill_of_uninstall">Zaplniť miesto po odinštalovanej aplikácii</string>
     <string name="menu_back_desktop">Späť na plochu</string>
     <string name="menu_cell_setting">Mriežka obrazovky</string>
     <string name="menu_customize">Nastavenia</string>

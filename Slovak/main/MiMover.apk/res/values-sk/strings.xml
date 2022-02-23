@@ -186,7 +186,7 @@ Vaše osobné informácie budeme chrániť v súlade s platnými zákonmi, naria
     <string name="launcher">Rozloženie domovskej obrazovky</string>
     <string name="less_than_1_minute">Menej ako 1 minúta</string>
     <string name="loading_data">Malý moment…</string>
-    <string name="location_permission_request">Pre pripojenie k ostatným zariadeniam na blízku</string>
+    <string name="location_permission_request">Pre pripojenie k ostatným zariadeniam nablízku</string>
     <string name="login">Prihlásiť sa</string>
     <string name="login_failed">Nepodarilo sa prihlásiť, skúste to znovu.</string>
     <string name="logining">Prihlasovanie…</string>
@@ -675,7 +675,7 @@ Ak ich chcete obnoviť, prihláste sa do svojho účtu Mi."</string>
      <string name="select_mi_title">Xiaomi</string>
      <string name="select_old_device_title">Vyberte starý model zariadenia</string>
      <string name="sender">Odoslať</string>
-     <string name="sender_finish_bottom_tips">„Pred vymazaním údajov na tomto zariadení sa uistite, že ste si zálohovali všetky dôležité položky.“</string>
+     <string name="sender_finish_bottom_tips">Pred vymazaním údajov na tomto zariadení sa uistite, že ste si zálohovali všetky dôležité položky.</string>
      <string name="sender_finish_title">Úspešne prenesené</string>
      <string name="sender_scanning_code">Umiestnite obrázok do rámčeka</string>
      <string name="sender_scanning_connecting">Pripája sa k novému zariadeniu…</string>
@@ -686,7 +686,7 @@ Ak ich chcete obnoviť, prihláste sa do svojho účtu Mi."</string>
      <string name="set_new_device_title">Nastavuje sa nové zariadenie…</string>
      <string name="set_new_device_wlan">Nastavte Wi-Fi</string>
      <string name="skip_transfer">Preskočiť</string>
-     <string name="soft_ap_create_failed_apple">"Nepodarilo sa vygenerovať QR kód"</string>
+     <string name="soft_ap_create_failed_apple">Nepodarilo sa vygenerovať QR kód</string>
      <string name="sync_data_to_mi_cloud_content1">%d. Klepnite na položku \"Synchronizovať teraz\" na karte \"Kontakty\".</string>
      <string name="sync_data_to_mi_cloud_content2">%d. Klepnite na \"Zálohovať teraz\" na karte \"Fotografie\".</string>
      <string name="sync_data_to_mi_cloud_summary">Otvorte Xiaomi Cloud na svojom iPhone a postupujte podľa týchto krokov na synchronizáciu údajov. Po dokončení synchronizácie klepnite na tlačidlo nižšie.</string>
@@ -698,8 +698,8 @@ Ak ich chcete obnoviť, prihláste sa do svojho účtu Mi."</string>
      <string name="trans_apple_button_cancel_negative">"Nerušiť"</string>
      <string name="trans_apple_button_cancel_positive">Zrušiť prevod</string>
      <string name="trans_apple_button_reconnect">Znova sa pripojte</string>
-     <string name="trans_apple_hint">"Neopúšťajte túto stránku ani nepoužívajte Wi-Fi, kým sa prenos nedokončí."</string>
-     <string name="trans_apple_hint_1_content">„Stiahnite si Mi Mover z obchodu App Store alebo naskenujte tento QR kód pomocou aplikácie Fotoaparát na vašom iPhone.“</string>
+     <string name="trans_apple_hint">Neopúšťajte túto stránku ani nepoužívajte Wi-Fi, kým sa prenos nedokončí.</string>
+     <string name="trans_apple_hint_1_content">Stiahnite si Mi Mover z obchodu App Store alebo naskenujte tento QR kód pomocou aplikácie Fotoaparát na vašom iPhone.</string>
      <string name="trans_apple_hint_1_title">%d. Nainštalujte Mi Mover</string>
      <string name="trans_apple_hint_2_content">Otvorte na svojom iPhone Mi Mover, klepnite na \"Klepnutím odošlete položky\" a naskenujte QR kód.</string>
      <string name="trans_apple_hint_2_title">%d. Pripojte zariadenia</string>

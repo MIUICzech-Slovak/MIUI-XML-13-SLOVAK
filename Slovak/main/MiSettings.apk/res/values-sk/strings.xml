@@ -571,7 +571,7 @@ Pre správne fungovanie, táto aplikácia vyžaduje pripojenie na internet a nas
      <string name="copy">Kopírovať</string>
      <string name="customize_radio_btn_summary">Uprednostniť vybratú obnovovaciu frekvenciu</string>
      <string name="customize_radio_btn_title">Vlastné</string>
-     <string name="dart_frog_info">Jeho svetlomodrá koža a jedovaté žľazy sú obrannými mechanizmami pred potenciálnymi predátormi.</string>
+     <string name="dart_frog_info">Jej svetlomodrá koža a jedovaté žľazy sú obrannými mechanizmami pred potenciálnymi predátormi.</string>
      <string name="dc_light_hint_unnormal_other">Režim slabého svetla proti blikaniu môže ovplyvniť obnovovaciu frekvenciu a spôsob zobrazenia niektorých položiek.</string>
      <string name="expand_button_title">Rozšírené</string>
      <string name="focus_mode_custom_time">Vlastné trvanie</string>
@@ -644,7 +644,7 @@ Pre správne fungovanie, táto aplikácia vyžaduje pripojenie na internet a nas
      <string name="vampire_finch">Upírka zemná</string>
      <string name="whipbird_info">Bihovce východné pochádzajú z východného pobrežia Austrálie.</string>
      <string name="wild_boar">Diviak</string>
-     <string name="willow_grouse_info">Snehuľa kapcavá je väčšinu svojho života bylinožravý a obýva predovšetkým subalpínske a subarktické biotopy.</string>
+     <string name="willow_grouse_info">Snehuľa kapcavá je väčšinu svojho života bylinožravá a obýva predovšetkým subalpínske a subarktické biotopy.</string>
      <string name="wolf">Vlk</string>
      <string name="yellow_necked_spurfowl">Frankolínec žltokrký</string>
      <string name="yellow_throated_marten">Kuna žltohrdlá</string>

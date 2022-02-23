@@ -827,4 +827,9 @@ Veľkosť delta aktualizácie: %2$s"</string>
     <string name="year" />
     <string name="yesterday">Včera</string>
      <string name="dont_allow">Nesúhlasím</string>    
+     
+<string name="loan_enter_amount">Zadajte sumu</string>
+      <string name="loan_enter_amount_interest">Zadajte sumu a úrokovú sadzbu</string>
+      <string name="loan_enter_interest">Zadajte úrokovú sadzbu</string>
+      <string name="loan_invalid_loan_tenure">Splatnosť úveru musí byť väčšia ako nula</string>     
 </resources>

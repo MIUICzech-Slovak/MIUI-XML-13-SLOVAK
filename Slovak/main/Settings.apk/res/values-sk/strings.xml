@@ -917,7 +917,7 @@ Nikdy ste neboli pripojený k %2$s."</string>
     <string name="bluetooth_message_access_notification_content">Nepovolené Bluetooth zariadenie, sa snaží o prístup k vašim správam.</string>
     <string name="bluetooth_message_move_out_of_blacklist">Odblokovať %1$s?</string>
     <string name="bluetooth_mi_fast_connect">MiLink</string>
-    <string name="bluetooth_mi_fast_connect_summary">Pripojiť k Bluetooth zariadeniam na blízku</string>
+    <string name="bluetooth_mi_fast_connect_summary">Pripojiť k Bluetooth zariadeniam nablízku</string>
     <string name="bluetooth_move_out_of_blacklist">Odblokovať zariadenie</string>
     <string name="bluetooth_name_not_set">Názov nie je nastavený, použiť názov účtu</string>
     <string name="bluetooth_no_devices_found">V okolí nie sú žiadne zariadenia Bluetooth.</string>
