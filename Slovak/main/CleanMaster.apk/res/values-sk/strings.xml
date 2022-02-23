@@ -879,4 +879,39 @@
     <string name="white_list_title">Ignorované</string>
     <string name="year_month_day_format">dd. MMM, yyyy</string>
     <string name="yesterday">Včera</string>
+    
+<string name="app_cleaned">Úspešne vymazané</string>
+    <string name="app_reset">Obnoviť</string>
+    <string name="app_specific_clean">Čistenie aplikácií</string>
+    <string name="app_unload">Odinštalovať</string>
+    <string name="cancel_select_all">Odznačiť</string>    
+<string name="clean_ing">Čistenie...</string>    
+<string name="clean_item_tip_data_app">Vymazať dáta pre %s</string>
+    <string name="clean_item_tip_reset_app">Obnoviť %s</string>
+    <string name="clean_item_tip_unload_app">Odinštalovať %s</string>
+<string name="clear_app_data">Vymazať</string>
+    <string name="continue_check">Vybrať</string>
+    <string name="continue_to_do">Pokračovať</string>
+    <string name="data_selected">Vybraté položky</string>
+    <string name="delete_slected_data">Obnoviť</string>
+    <string name="is_Scanning">Kontrola...</string>    
+<string name="item_content_app_reset">%s obsadené</string>
+    <string name="jump_to_next">Preskočiť</string>
+    <string name="next_step">Ďalej</string>
+    <string name="not_selected_tips">Najprv vyberte aplikácie.</string>
+<string name="reset_app_dialog_summary">Chystáte sa resetovať aplikácie, ktoré ste vybrali. Všetky ich údaje aplikácií (vrátane stavu prihlásenia, nastavení, obrázkov vo vyrovnávacej pamäti, videí, súborov a rozhovorov) budú natrvalo odstránené.</string>
+<string name="reset_app_dialog_title">Obnovenie aplikácií</string>
+    <string name="reset_selected">Obnoviť %s</string>
+    <string name="select_all">Všetko</string>
+    <string name="start_clean">Štart</string>
+<string name="tips_app_reset_dialog">Resetovaním sa maximálne uvoľní úložný priestor bez odinštalovania aplikácie. Všetky dáta aplikácie budú odstránené.</string>
+            
+<string name="tips_app_reset_result_page">Resetovaním aplikácií vymažete všetky ich dáta a vrátite ich do pôvodného stavu</string>
+    <string name="tips_app_reset_top">Resetovaním sa aplikácie vrátia do pôvodného stavu a vymažú sa všetky ich dáta</string>
+    <string name="tips_app_specific_clean_result_page">Uvoľnite úložný priestor</string>
+    <string name="tips_data_page">Skúste vymazať dáta aplikácie, aby ste uvoľnili úložisko</string>
+    <string name="tips_reset_page">Skúste resetovať aplikácie, aby ste vymazali všetky ich dáta a uvoľnili úložisko</string>
+    <string name="tips_unload_page">Skúste odinštalovať aplikácie, ktoré ste %d dní nepoužili</string>
+    <string name="to_reset_app">Obnoviť</string>
+    <string name="updating_tips">Načítavanie...</string>            
 </resources>

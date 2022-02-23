@@ -256,4 +256,25 @@
         <item quantity="other">Posledných %d dní</item>
         <item quantity="one">Posledný %d deň</item>
     </plurals>    
+    
+    <plurals name="clean_app_data_selected_app">
+        <item quantity="other">Vybrané aplikácie: %d</item>
+        <item quantity="one">Vybrané aplikácie: %d</item>
+    </plurals>
+    <plurals name="dc_item_summary_app_reset">
+        <item quantity="other">%d aplikácií obsadilo veľa úložného priestoru</item>
+        <item quantity="one">%d aplikácia obsadila veľa úložného priestoru</item>
+    </plurals>
+    <plurals name="reset_app_selected_app">
+        <item quantity="other">Vybrané aplikácie: %d</item>
+        <item quantity="one">Vybrané aplikácie: %d</item>
+    </plurals>
+    <plurals name="select_app">
+        <item quantity="other">Vybrané aplikácie: %d</item>
+        <item quantity="one">Vybrané aplikácie: %d</item>
+    </plurals>
+    <plurals name="unload_app_selected_app">
+        <item quantity="other">Vybrané aplikácie: %d</item>
+        <item quantity="one">Vybrané aplikácie: %d</item>
+    </plurals>                
 </resources>
