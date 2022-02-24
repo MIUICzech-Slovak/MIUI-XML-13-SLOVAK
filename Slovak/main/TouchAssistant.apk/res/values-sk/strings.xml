@@ -12,7 +12,7 @@
     <string name="edge_mode_custom_summary">Prispôsobiť veľkosť miest prebudenia pri hranách displeja</string>
     <string name="edge_mode_custom_title">Vlastné</string>
     <string name="edge_mode_default_title">Predvolené</string>
-    <string name="enable_touch_assistant">Povoliť Dotykového Asistenta</string>
+    <string name="enable_touch_assistant">Povoliť Dotykového asistenta</string>
     <string name="enabled_for_pad_hint">Ak je povolené v nastaveniach zobrazenie na ležato</string>
     <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">d. MMMM</string>
@@ -33,7 +33,7 @@
     <string name="handy_mode_default_to_close_whether_open">Ovládanie jednou rukou je deaktivované. Chcete ho povoliť?</string>
     <string name="hide_touch_assistant">Automaticky skryť</string>
     <string name="hide_touch_assistant_intro">Skryť asistenta v niektorých aplikáciách.</string>
-    <string name="hide_when_fullscreen">Skryť vo fullscreen</string>
+    <string name="hide_when_fullscreen">Skryť v režime celej obrazovky</string>
     <string name="hide_when_fullscreen_intro">Skryť ovládanie ak je spustená aplikácia v režime na celú obrazovku.</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Odznačiť</string>
     <string name="miuix_appcompat_action_mode_select_all">Všetko</string>

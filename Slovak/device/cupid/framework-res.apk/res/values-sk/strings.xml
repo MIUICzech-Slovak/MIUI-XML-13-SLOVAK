@@ -156,8 +156,8 @@
     <string name="accessibility_enable_service_encryption_warning">Ak zapnete službu %1$s, vaše zariadenie nezvýši úroveň šifrovania údajov zámkou obrazovky.</string>
     <string name="accessibility_enable_service_title">Chcete povoliť službe %1$s úplnú kontrolu nad zariadením?</string>
     <string name="accessibility_freeform_caption">Popis aplikácie %1$s.</string>
-    <string name="accessibility_gesture_3finger_instructional_text">Funkcie prepnete potiahnutím troma prstami nahor a pridržaním.</string>
-    <string name="accessibility_gesture_3finger_prompt_text">Vyberte funkciu aktivovanú daným gestom dostupnosti (potiahnutím troma prstami z dolnej časti obrazovky nahor):</string>
+    <string name="accessibility_gesture_3finger_instructional_text">Funkcie prepnete potiahnutím tromi prstami nahor a pridržaním.</string>
+    <string name="accessibility_gesture_3finger_prompt_text">Vyberte funkciu aktivovanú daným gestom dostupnosti (potiahnutím tromi prstami z dolnej časti obrazovky nahor):</string>
     <string name="accessibility_gesture_instructional_text">Funkcie prepnete potiahnutím dvoma prstami nahor a pridržaním.</string>
     <string name="accessibility_gesture_prompt_text">Vyberte funkciu, ktorú chcete používať s daným gestom dostupnosti (potiahnutím dvoma prstami z dolnej časti obrazovky nahor):</string>
     <string name="accessibility_magnification_chooser_text">Zväčšenie</string>

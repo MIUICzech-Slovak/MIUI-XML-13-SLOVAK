@@ -221,8 +221,8 @@
     <string name="screen_rotation_freeze_message">Rotácia obrazovky je uzamknutá</string>
     <string name="screenshot_gesture_detect_alert_button">Choďte do nastavení screenshotu</string>
     <string name="screenshot_gesture_detect_alert_dont_again">Viac nezobrazovať</string>
-    <string name="screenshot_gesture_detect_alert_msg">Povoliť zhotovenie screenshotu posunutím troma prstami?</string>
-    <string name="screenshot_gesture_detect_alert_title">Screenshot troma prstami</string>
+    <string name="screenshot_gesture_detect_alert_msg">Povoliť zhotovenie screenshotu posunutím tromi prstami?</string>
+    <string name="screenshot_gesture_detect_alert_title">Screenshot tromi prstami</string>
     <string name="security_permission_network_failed_text">Nebolo možné pripojiť sa k sieti. Skúste to znova neskôr.</string>
     <string name="security_share_text">Ochrana súkromia</string>
     <string name="select">Vybrať</string>

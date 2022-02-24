@@ -121,15 +121,15 @@ Medzi funkciami môžete prepínať podržaním tlačidla prístupnosti."</strin
     <string name="accessibility_shortcut_edit_dialog_summary_software_gesture">"Potiahnutie nahor dvoma prstami zo spodnej časti obrazovky.
 
 Medzi funkciami môžete prepínať potiahnutím dvoma prstami nahor a podržaním."</string>
-    <string name="accessibility_shortcut_edit_dialog_summary_software_gesture_talkback">"Potiahnutie nahor troma prstami zo spodnej časti obrazovky.
+    <string name="accessibility_shortcut_edit_dialog_summary_software_gesture_talkback">"Potiahnutie nahor tromi prstami zo spodnej časti obrazovky.
 
-Medzi funkciami môžete prepínať potiahnutím troma prstami nahor a podržaním."</string>
+Medzi funkciami môžete prepínať potiahnutím tromi prstami nahor a podržaním."</string>
     <string name="accessibility_shortcut_edit_dialog_summary_triple_tap">Rýchlo trikrát poklepte na obrazovku. Táto skratka môže vaše zariadenie spomaliť.</string>
     <string name="accessibility_shortcut_edit_dialog_title_advance">Rozšírené</string>
     <string name="accessibility_shortcut_edit_dialog_title_hardware">Držať tlačidlá hlasitosti</string>
     <string name="accessibility_shortcut_edit_dialog_title_software">Klepnite na tlačidlo prístupnosti</string>
     <string name="accessibility_shortcut_edit_dialog_title_software_gesture">Potiahnutie dvoma prstami nahor</string>
-    <string name="accessibility_shortcut_edit_dialog_title_software_gesture_talkback">Potiahnutie troma prstami nahor</string>
+    <string name="accessibility_shortcut_edit_dialog_title_software_gesture_talkback">Potiahnutie tromi prstami nahor</string>
     <string name="accessibility_shortcut_edit_dialog_title_triple_tap">Trojité poklepanie obrazovky</string>
     <string name="accessibility_shortcut_edit_summary_software">Tlačidlo prístupnosti</string>
     <string name="accessibility_shortcut_hardware_keyword">Podržte tlačidlá hlasitosti</string>
@@ -174,12 +174,12 @@ Medzi funkciami môžete prepínať potiahnutím nahor dvoma prstami a podržan�
     <string name="accessibility_tutorial_dialog_message_gesture_settings">"Pre použitie tejto funkcie potiahnite nahor dvoma prstami zo spodnej časti obrazovky.
 
 Medzi funkciami môžete prepínať potiahnutím nahor dvoma prstami a podržaním."</string>
-    <string name="accessibility_tutorial_dialog_message_gesture_settings_talkback">"Pre použitie tejto funkcie potiahnite nahor troma prstami zo spodnej časti obrazovky.
+    <string name="accessibility_tutorial_dialog_message_gesture_settings_talkback">"Pre použitie tejto funkcie potiahnite nahor tromi prstami zo spodnej časti obrazovky.
 
-Medzi funkciami môžete prepínať potiahnutím nahor troma prstami a podržaním."</string>
-    <string name="accessibility_tutorial_dialog_message_gesture_talkback">"Pre použitie tejto funkcie potiahnite nahor troma prstami zo spodnej časti obrazovky.
+Medzi funkciami môžete prepínať potiahnutím nahor tromi prstami a podržaním."</string>
+    <string name="accessibility_tutorial_dialog_message_gesture_talkback">"Pre použitie tejto funkcie potiahnite nahor tromi prstami zo spodnej časti obrazovky.
 
-Medzi funkciami môžete prepínať potiahnutím nahor troma prstami a podržaním."</string>
+Medzi funkciami môžete prepínať potiahnutím nahor tromi prstami a podržaním."</string>
     <string name="accessibility_tutorial_dialog_message_triple">Zväčšenie spustíte a zastavíte trojitým klepnutím kdekoľvek na obrazovke.</string>
     <string name="accessibility_tutorial_dialog_message_volume">Pre použitie tejto funkcie stlačte a podržte obe tlačidlá hlasitosti.</string>
     <string name="accessibility_tutorial_dialog_title_button">K otvoreniu použite tlačidlo Dostupnosť</string>
@@ -5202,7 +5202,7 @@ Ako funkciu použiť:
     <string name="screenshot">Screenshot</string>
     <string name="screenshot_label">Screenshot</string>
     <string name="screenshot_three_gesture">Troma prstami nadol pre screenshot</string>
-    <string name="screenshot_three_gesture_summary">Ostatné gestá troma prstami budú deaktivované</string>
+    <string name="screenshot_three_gesture_summary">Ostatné gestá tromi prstami budú deaktivované</string>
     <string name="sd_card_settings_label">USB úložisko</string>
     <string name="sd_card_storage">USB úložisko</string>
     <string name="sd_data">SD karta</string>
@@ -6183,7 +6183,7 @@ Zvážte použitie rýchlejšieho zariadenia (^1) s lepšou výkonnosťou."</str
     <string name="the_way_of_wakeup_voice_assistant_summary">Stlačte a podržte tlačidlo zapínania 0.5s pre spustenie Google Asistenta</string>
     <string name="theme_settings_title">Témy</string>
     <string name="thememanager_not_found">Nebolo možné otvoriť Témy. Uistite sa, že aplikácia je nainštalovaná.</string>
-    <string name="three_gesture_down">Potiahnutie troma prstami</string>
+    <string name="three_gesture_down">Potiahnutie tromi prstami</string>
     <string name="three_gesture_long_press">Stlačte a podržte s %d prstami</string>
     <string name="thursday">Štvrtok</string>
     <string name="thursday_short">Štv</string>

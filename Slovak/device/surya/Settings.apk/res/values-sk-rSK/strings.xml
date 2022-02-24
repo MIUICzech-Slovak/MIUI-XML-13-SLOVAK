@@ -116,15 +116,15 @@ Nem&amp;#244;&amp;#382;ete pribl&amp;#237;&amp;#382;i&amp;#357; kl&amp;#225;vesn
     <string name="accessibility_tutorial_dialog_message_button">"Túto službu zapnete alebo vypnete klepnutím na tlačidlo dostupnosti %s v dolnej časti obrazovky.
 
 Služby prepnete pridržaním tlačidla dostupnosti."</string>
-    <string name="accessibility_tutorial_dialog_message_gesture_settings_with_talkback">"Službu dostupnosti zapnete alebo vypnete potiahnutím troma prstami z dolnej časti obrazovky smerom nahor.
+    <string name="accessibility_tutorial_dialog_message_gesture_settings_with_talkback">"Službu dostupnosti zapnete alebo vypnete potiahnutím tromi prstami z dolnej časti obrazovky smerom nahor.
 
-Služby prepnete potiahnutím troma prstami smerom nahor a pridržaním."</string>
+Služby prepnete potiahnutím tromi prstami smerom nahor a pridržaním."</string>
     <string name="accessibility_tutorial_dialog_message_gesture_settings_without_talkback">"Službu dostupnosti zapnete alebo vypnete potiahnutím dvoma prstami z dolnej časti obrazovky smerom nahor.
 
 Služby prepnete potiahnutím dvoma prstami smerom nahor a pridržaním."</string>
-    <string name="accessibility_tutorial_dialog_message_gesture_with_talkback">"Túto službu zapnete alebo vypnete potiahnutím troma prstami z dolnej časti obrazovky smerom nahor.
+    <string name="accessibility_tutorial_dialog_message_gesture_with_talkback">"Túto službu zapnete alebo vypnete potiahnutím tromi prstami z dolnej časti obrazovky smerom nahor.
 
-Služby prepnete potiahnutím troma prstami smerom nahor a pridržaním."</string>
+Služby prepnete potiahnutím tromi prstami smerom nahor a pridržaním."</string>
     <string name="accessibility_tutorial_dialog_message_gesture_without_talkback">"Túto službu zapnete alebo vypnete potiahnutím dvoma prstami z dolnej časti obrazovky smerom nahor.
 
 Služby prepnete potiahnutím dvoma prstami smerom nahor a pridržaním."</string>
@@ -1057,7 +1057,7 @@ Zdalo sa, že sa v meste nenachádzajú žiadne kone ani iné zvieratá. Muži 
     <string name="keywords_sounds">zvukový signál reproduktora, reproduktor, hlasitosť, vypnúť zvuk, stíšenie, zvuk, hudba</string>
     <string name="keywords_storage_files">Stiahnuť</string>
     <string name="keywords_storage_settings">pamäť, vyrovnávacia pamäť, údaje, odstrániť, vymazať, voľné, miesto</string>
-    <string name="keywords_system_navigation">navigácia v systéme, navigácia dvoma tlačidlami, navigácia troma tlačidlami, navigácia gestami</string>
+    <string name="keywords_system_navigation">navigácia v systéme, navigácia dvoma tlačidlami, navigácia tromi tlačidlami, navigácia gestami</string>
     <string name="keywords_system_update_settings">inovovať, android</string>
     <string name="keywords_systemui_theme">tmavý motív</string>
     <string name="keywords_time_format">Používať 24-hodinový formát</string>
@@ -1081,7 +1081,7 @@ Zdalo sa, že sa v meste nenachádzajú žiadne kone ani iné zvieratá. Muži 
     <string name="launch_wifi_text">Zobraziť podrobnosti</string>
     <string name="learn_more">Ďalšie informácie</string>
     <string name="legacy_navigation_summary">Prejdenie späť, prejdenie na plochu a prepínanie aplikácií pomocou tlačidiel v dolnej časti obrazovky.</string>
-    <string name="legacy_navigation_title">Navigácia troma tlačidlami</string>
+    <string name="legacy_navigation_title">Navigácia tromi tlačidlami</string>
     <string name="live_caption_summary">Automaticky pridávať titulky k médiám</string>
     <string name="live_caption_title">Okamžité titulky</string>
     <string name="load_networks_progress">Hľadá sa…</string>

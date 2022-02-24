@@ -1631,7 +1631,7 @@ Zdalo sa, že sa v meste nenachádzajú žiadne kone ani iné zvieratá. Muži 
     <string name="keywords_storage_settings">pamäť, vyrovnávacia pamäť, údaje, odstrániť, vymazať, voľné, miesto</string>
     <string name="keywords_styles">ikona, zvýraznenie, farba</string>
     <string name="keywords_switch_access">motorické, prepínač, ručne, AT, asistenčná technológia, ochrnutie, ALS, prehľadávanie, postupné prehľadávanie</string>
-    <string name="keywords_system_navigation">navigácia v systéme, navigácia dvoma tlačidlami, navigácia troma tlačidlami, navigácia gestami, potiahnutie</string>
+    <string name="keywords_system_navigation">navigácia v systéme, navigácia dvoma tlačidlami, navigácia tromi tlačidlami, navigácia gestami, potiahnutie</string>
     <string name="keywords_system_update_settings">inovovať, android</string>
     <string name="keywords_systemui_theme">tmavý motív</string>
     <string name="keywords_talkback">čítačka obrazovky, čítanie obsahu, VoiceOver, hlasová asistencia, nevidiaci, slabozrakosť, prevod textu na reč, hovorená spätná väzba</string>
@@ -1664,7 +1664,7 @@ Zdalo sa, že sa v meste nenachádzajú žiadne kone ani iné zvieratá. Muži 
     <string name="launch_wifi_text">Zobraziť podrobnosti</string>
     <string name="learn_more">Ďalšie informácie</string>
     <string name="legacy_navigation_summary">Na návrat späť, zobrazenie plochy a prepínanie aplikácií slúžia tlačidlá dole na obrazovke.</string>
-    <string name="legacy_navigation_title">Navigácia troma tlačidlami</string>
+    <string name="legacy_navigation_title">Navigácia tromi tlačidlami</string>
     <string name="live_caption_summary">Automatické titulkovanie médií</string>
     <string name="live_caption_title">Živý prepis</string>
     <string name="load_networks_progress">Hľadá sa…</string>

@@ -41,8 +41,8 @@
     <string name="accessibility_binding_label">Dostupnosť</string>
     <string name="accessibility_button_instructional_text">Služby prepnete pridržaním tlačidla dostupnosti.</string>
     <string name="accessibility_button_prompt_text">Vyberte službu, ktorú chcete používať po klepnutí na tlačidlo dostupnosti:</string>
-    <string name="accessibility_gesture_3finger_instructional_text">Služby prepnete potiahnutím troma prstami nahor a pridržaním.</string>
-    <string name="accessibility_gesture_3finger_prompt_text">Vyberte službu aktivovanú daným gestom dostupnosti (potiahnutie troma prstami z dolnej časti obrazovky nahor):</string>
+    <string name="accessibility_gesture_3finger_instructional_text">Služby prepnete potiahnutím tromi prstami nahor a pridržaním.</string>
+    <string name="accessibility_gesture_3finger_prompt_text">Vyberte službu aktivovanú daným gestom dostupnosti (potiahnutie tromi prstami z dolnej časti obrazovky nahor):</string>
     <string name="accessibility_gesture_instructional_text">Služby prepnete potiahnutím dvoma prstami smerom nahor a pridržaním.</string>
     <string name="accessibility_gesture_prompt_text">Vyberte službu, ktorú chcete používať s daným gestom dostupnosti (potiahnutím dvoma prstami z dolnej časti obrazovky smerom nahor):</string>
     <string name="accessibility_magnification_chooser_text">Priblíženie</string>
