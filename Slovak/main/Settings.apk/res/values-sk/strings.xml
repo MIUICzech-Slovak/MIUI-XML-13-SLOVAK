@@ -78,7 +78,7 @@ Ak má zariadenie viacero používateľov, pomocou tejto skratky je možné na u
     <string name="accessibility_magnification_enable_mode_title">Povoliť zväčšenie</string>
     <string name="accessibility_menu_description">"Ponuka dostupnosti spustí na obrazovke telefónu veľkú ponuku, pomocou ktorej bude telefón možné ovládať. Môžete ovládať gestá, hardvérové tlačidlá, navigáciu a ďalšie.
 
-Ak chcete použiť túto funkciu, zapnite ponuku dostupnosti a potom klepnite na tlačidlo Dostupnosť v dolnej časti obrazovky."</string>
+Ak chcete použiť túto funkciu, zapnite ponuku dostupnosti a potom klepnite na tlačidlo Dostupnosti v dolnej časti obrazovky."</string>
     <string name="accessibility_menu_item_settings">Nastavenie</string>
     <string name="accessibility_menu_service_name">Ponuka dostupnosti</string>
     <string name="accessibility_menu_summary">Ovládanie telefónu prostredníctvom veľkej ponuky</string>
@@ -113,11 +113,11 @@ Poznámka: Priblíženie trojitým klepnutím funguje všade okrem klávesnice a
     <string name="accessibility_settings_tabs_physical">Fyzické</string>
     <string name="accessibility_settings_tabs_visual">Zrak</string>
     <string name="accessibility_settings_title">Nastavenie Uľahčenia prístupu</string>
-    <string name="accessibility_shortcut_description">Povoliť zapnutie funkcie skratky na zamknutej obrazovke.  Na niekoľko sekúnd podržte obe tlačidla hlasitosti.</string>
+    <string name="accessibility_shortcut_description">Povoliť zapnutie funkcie skratky na zamknutej obrazovke.  Na niekoľko sekúnd podržte obe tlačidlá hlasitosti.</string>
     <string name="accessibility_shortcut_edit_dialog_summary_hardware">Stlačte a podržte obe tlačidlá hlasitosti</string>
-    <string name="accessibility_shortcut_edit_dialog_summary_software">"Klepnite na tlačidlo prístupnosti %s v spodnej časti obrazovky.
+    <string name="accessibility_shortcut_edit_dialog_summary_software">"Klepnite na tlačidlo dostupnosti %s v spodnej časti obrazovky.
 
-Medzi funkciami môžete prepínať podržaním tlačidla prístupnosti."</string>
+Medzi funkciami môžete prepínať podržaním tlačidla dostupnosti."</string>
     <string name="accessibility_shortcut_edit_dialog_summary_software_gesture">"Potiahnutie nahor dvoma prstami zo spodnej časti obrazovky.
 
 Medzi funkciami môžete prepínať potiahnutím dvoma prstami nahor a podržaním."</string>
@@ -127,11 +127,11 @@ Medzi funkciami môžete prepínať potiahnutím tromi prstami nahor a podržan�
     <string name="accessibility_shortcut_edit_dialog_summary_triple_tap">Rýchlo trikrát poklepte na obrazovku. Táto skratka môže vaše zariadenie spomaliť.</string>
     <string name="accessibility_shortcut_edit_dialog_title_advance">Rozšírené</string>
     <string name="accessibility_shortcut_edit_dialog_title_hardware">Držať tlačidlá hlasitosti</string>
-    <string name="accessibility_shortcut_edit_dialog_title_software">Klepnite na tlačidlo prístupnosti</string>
+    <string name="accessibility_shortcut_edit_dialog_title_software">Klepnite na tlačidlo dostupnosti</string>
     <string name="accessibility_shortcut_edit_dialog_title_software_gesture">Potiahnutie dvoma prstami nahor</string>
     <string name="accessibility_shortcut_edit_dialog_title_software_gesture_talkback">Potiahnutie tromi prstami nahor</string>
     <string name="accessibility_shortcut_edit_dialog_title_triple_tap">Trojité poklepanie obrazovky</string>
-    <string name="accessibility_shortcut_edit_summary_software">Tlačidlo prístupnosti</string>
+    <string name="accessibility_shortcut_edit_summary_software">Tlačidlo dostupnosti</string>
     <string name="accessibility_shortcut_hardware_keyword">Podržte tlačidlá hlasitosti</string>
     <string name="accessibility_shortcut_service_on_lock_screen_title">Skratky na zamknutej obrazovke</string>
     <string name="accessibility_shortcut_service_title">Skratky</string>
@@ -139,7 +139,7 @@ Medzi funkciami môžete prepínať potiahnutím tromi prstami nahor a podržan�
     <string name="accessibility_shortcut_title">%1$s - skratka</string>
     <string name="accessibility_shortcut_triple_tap_keyword">Trojité poklepanie obrazovky</string>
     <string name="accessibility_shortcut_type_hardware">Držať tlačidlá hlasitosti</string>
-    <string name="accessibility_shortcut_type_software">Tlačidlo prístupnosti</string>
+    <string name="accessibility_shortcut_type_software">Tlačidlo dostupnosti</string>
     <string name="accessibility_shortcut_type_software_gesture">Potiahnutie nahor dvoma prstami</string>
     <string name="accessibility_shortcut_type_triple_tap">Trojité poklepanie obrazovky</string>
     <string name="accessibility_summary_shortcut_disabled">Vypnuté</string>
@@ -182,7 +182,7 @@ Medzi funkciami môžete prepínať potiahnutím nahor tromi prstami a podržan�
 Medzi funkciami môžete prepínať potiahnutím nahor tromi prstami a podržaním."</string>
     <string name="accessibility_tutorial_dialog_message_triple">Zväčšenie spustíte a zastavíte trojitým klepnutím kdekoľvek na obrazovke.</string>
     <string name="accessibility_tutorial_dialog_message_volume">Pre použitie tejto funkcie stlačte a podržte obe tlačidlá hlasitosti.</string>
-    <string name="accessibility_tutorial_dialog_title_button">K otvoreniu použite tlačidlo Dostupnosť</string>
+    <string name="accessibility_tutorial_dialog_title_button">K otvoreniu použite tlačidlo Dostupnosti</string>
     <string name="accessibility_tutorial_dialog_title_gesture">K otvoreniu použite gestá</string>
     <string name="accessibility_tutorial_dialog_title_gesture_settings">Použite nové gesto dostupnosti</string>
     <string name="accessibility_tutorial_dialog_title_triple">Trojité poklepanie obrazovky pre otvorenie</string>
@@ -1830,7 +1830,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
     <string name="dialog_restrict_negative">Zakázať</string>
     <string name="dialog_restrict_positive">Zrušiť</string>
     <string name="dialog_speaker_auto_clean_button">Rozumiem</string>
-    <string name="dialog_speaker_auto_clean_content">Vymazanie bude trvať 30s. Nezatvárajte túto stránku. Zvýšte hlasitosť pre čo najlepší efekt.</string>
+    <string name="dialog_speaker_auto_clean_content">Vyčistenie bude trvať 30s. Nezatvárajte túto stránku. Zvýšte hlasitosť pre čo najlepší efekt.</string>
     <string name="dialog_speaker_auto_clean_title">Upozornenie</string>
     <string name="dialog_title_color_calibration">Možnosti nastavenia farieb</string>
     <string name="dialog_title_font_size">Veľkosť písma</string>
@@ -7560,4 +7560,9 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
      <string name="forget_password_dialog_title">Vymazať údaje</string>
      <string name="forgot_password_text">Môžu vám pomôcť obnoviť kód PIN, vzor alebo heslo</string>
      <string name="forgot_password_title">Kontaktujte svojho správcu IT</string>    
+	 
+    <string name="auto_clean_summary_new">Prehrať a %d-sekundový zvuk pre vyčistenie reproduktoru.</string>
+    <string name="dialog_speaker_auto_clean_content_new">Vyčistenie bude trvať 30s. Zvýšte hlasitosť pre čo najlepší efekt.</string>
+    <string name="dialog_speaker_auto_clean_title_new">Vyčistiť reproduktor</string>
+	 
 </resources>

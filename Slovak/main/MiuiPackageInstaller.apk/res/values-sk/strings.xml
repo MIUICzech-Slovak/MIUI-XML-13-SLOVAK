@@ -699,7 +699,7 @@ Prípadne môžete vypnúť zjednodušený režim a skúsiť to znova."</string>
     <string name="permission_action_prompt">Opýtať sa</string>
     <string name="permission_action_reject">Zamietnuť</string>
     <string name="permission_group_title_charges_related">Telefón</string>
-    <string name="permission_group_title_media_related">Média</string>
+    <string name="permission_group_title_media_related">Médiá</string>
     <string name="permission_group_title_others">Ostatné</string>
     <string name="permission_group_title_privacy_related">Súkromie</string>
     <string name="permission_group_title_settings_related">Nastavenia</string>
