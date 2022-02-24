@@ -1338,4 +1338,8 @@ ale obsah ktorý hľadáte nie je dostupný vo vašej krajine."</string>
 Dotykom vypnete."</string>
      <string name="local_mode_open">Režim offline</string>
 
+    <string name="application_notify_title">Upozornenie</string>
+    <string name="configure_success_not_enable_aod">Nastavené. Zapnite Always-on displej pre použitie témy.</string>
+    <string name="super_wallpaper_dialog_content">Úspora batérie deaktivuje dynamickú tapetu.</string>
+    <string name="video_wallpaper_apply_warning">Táto tapeta bude použitá pre plochu aj zamknutú obrazovku. Nastaviť teraz?</string>	
 </resources>
