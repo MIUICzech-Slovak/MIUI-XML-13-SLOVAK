@@ -262,7 +262,7 @@ Nemeňte alebo nepremenúvajte záložné súbory."</string>
     <string name="local_app_name">Záloha</string>
     <string name="local_back_up_detail_description">"Poznámka:
 1. Pre zamedzenie straty dát, skopírujte lokálnu zálohu do vášho PC.
-2. Vždy pred obnovou továrnych nastavení zariadenia, skopírujte lokálnu zálohu do vášho PC.
+2. Vždy pred obnovou továrenských nastavení zariadenia, skopírujte lokálnu zálohu do vášho PC.
 3. Kde sú uložené lokálne zálohy? %1$s"</string>
     <string name="local_backup_select_activity">Vytvoriť zálohu</string>
     <string name="local_backup_window_title">Lokálna záloha</string>

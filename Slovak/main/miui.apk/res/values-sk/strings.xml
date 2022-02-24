@@ -11,7 +11,7 @@
     <string name="activate_fail_notification_title">Znovu aktivovať synchr.</string>
     <string name="activating">Aktivácia...</string>
     <string name="address">Adresa</string>
-    <string name="after_reset_need_restore_system_app">Vyzerá to, že ste urobili obnovu továrnych nastavení. Pripojte sa k sieti a obnovte nastavenia.</string>
+    <string name="after_reset_need_restore_system_app">Vyzerá to, že ste urobili obnovu továrenských nastavení. Pripojte sa k sieti a obnovte nastavenia.</string>
     <string name="afternoon">PM</string>
     <string name="am">AM</string>
     <string name="birthday">Narodeniny</string>
@@ -88,7 +88,7 @@
     <string name="chinese_symbol_animals_sheep" />
     <string name="chinese_symbol_animals_snake" />
     <string name="chinese_symbol_animals_tiger" />
-    <string name="click_to_restore">Obnovte položky systému po obnovení továrnych nastavení.</string>
+    <string name="click_to_restore">Obnovte položky systému po obnovení továrenských nastavení.</string>
     <string name="close">Zatvoriť</string>
     <string name="com_android_email">Email</string>
     <string name="com_mi_liveassistant">Live streaming assistant</string>
@@ -318,7 +318,7 @@
     <string name="tuesday_short">Uto</string>
     <string name="tuesday_shortest">U</string>
     <string name="user_agreement">Podmienky používania</string>
-    <string name="user_experience_program">Program skúseností používateľov</string>
+    <string name="user_experience_program">Program používateľských skúseností</string>
     <string name="user_manual">Návod</string>
     <string name="wait_for_wlan_china">Čakať na Wi-Fi</string>
     <string name="web_sso_login_fail">Musíte sa znova prihlásiť</string>

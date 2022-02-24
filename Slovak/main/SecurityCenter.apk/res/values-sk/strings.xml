@@ -2874,7 +2874,7 @@ Tento proces skracuje životnosť batérie."</string>
     <string name="packages_subtitle">Zahrnuté balíčky</string>
     <string name="passwordIncorrect">Zadané meno alebo heslo nie je správne</string>
     <string name="password_forget_pattern_confirm">Rozumiem</string>
-    <string name="password_forget_pattern_message">Z bezpečnostných dôvodov, môžete obnoviť vaše heslo až po obnovení továrnych nastavení. Dotykom obnovíte továrne nastavenia.</string>
+    <string name="password_forget_pattern_message">Z bezpečnostných dôvodov, môžete obnoviť vaše heslo až po obnovení továrenských nastavení. Dotykom obnovíte továrne nastavenia.</string>
     <string name="password_forget_pattern_message_none">Aplikácie nie sú uzamknuté. Môžete obnoviť vaše heslo.</string>
     <string name="password_forget_pattern_reset">Obnoviť</string>
     <string name="password_forget_pattern_title">Upozornenie</string>

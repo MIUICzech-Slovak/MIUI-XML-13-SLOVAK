@@ -184,8 +184,8 @@
         <item quantity="one">Zakázať pripojenie pre %s aplikáciu</item>
     </plurals>
     <plurals name="show_reset_countdown">
-        <item quantity="other">Dokončite %1$d kroky k obnoveniu továrnych nastavení</item>
-        <item quantity="one">Dokončite %1$d krok k obnoveniu továrnych nastavení</item>
+        <item quantity="other">Dokončite %1$d kroky k obnoveniu továrenských nastavení</item>
+        <item quantity="one">Dokončite %1$d krok k obnoveniu továrenských nastavení</item>
     </plurals>	
     <plurals name="miui_sos_emergency_contacts_quantity">
         <item quantity="other">%d pridané</item>

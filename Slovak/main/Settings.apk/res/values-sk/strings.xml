@@ -31,7 +31,7 @@ Ak vyberiete nepoužívať prispôsobené reklamy, ich počet sa nezníži ale n
     <string name="access_point_names">Názvy prístupových bodov</string>
     <string name="accessibility_autoclick_custom_title">Vlastné</string>
     <string name="accessibility_autoclick_default_title">Vyp</string>
-    <string name="accessibility_autoclick_description">Ak používate myšku, môžete nastaviť automatickú akciu po zastavení kurzora v určitý čas.</string>
+    <string name="accessibility_autoclick_description">Ak používate myš, môžete nastaviť automatickú akciu po zastavení kurzora v určitý čas.</string>
     <string name="accessibility_autoclick_long_summary">1s</string>
     <string name="accessibility_autoclick_long_title">Dlhé</string>
     <string name="accessibility_autoclick_longer_desc">Dlhší</string>
@@ -626,7 +626,7 @@ Správca môže sledovať a spravovať nastavenia, prístup, aplikácie a údaje
     <string name="backup_data_summary">Zálohovať dáta aplikácií, heslá sietí Wi-Fi a ďalšie nastavenie na serveroch Google</string>
     <string name="backup_data_title">Zálohovanie mojich dát</string>
     <string name="backup_difference_content">"Lokálne zálohy:
-Lokálne zálohy môžu obsahovať viac dát aplikácií a položiek. Súbory zálohy sú uložené v MIUI-backup-AllBackup a musia byť skopírované do vášho PC po skončení zálohovania aby ste ich nestratili pri obnove továrnych nastavení.
+Lokálne zálohy môžu obsahovať viac dát aplikácií a položiek. Súbory zálohy sú uložené v MIUI-backup-AllBackup a musia byť skopírované do vášho PC po skončení zálohovania aby ste ich nestratili pri obnove továrenských nastavení.
 
 Cloudová zálohy:
 Zálohy sú uložené v MiCloude. Tento spôsob je rýchlejší ale nie je možné zálohovať dáta aplikácií do MiCloud.
@@ -1040,7 +1040,7 @@ Nikdy ste neboli pripojený k %2$s."</string>
     <string name="bluetooth_unlock_state_label">"Stav: "</string>
     <string name="bluetooth_unlock_state_ok">Odomknuté</string>
     <string name="bluetooth_unlock_state_too_far">Nie je v dosahu</string>
-    <string name="bluetooth_unlock_title">Odomknúť pomocou bluetooth zariadenia</string>
+    <string name="bluetooth_unlock_title">Odomknutie Bluetooth zariadením</string>
     <string name="bluetooth_unlock_turned_off">Vypnuté</string>
     <string name="bluetooth_unlock_turned_on">Zapnuté</string>
     <string name="bluetooth_unlock_unsupport">Nepodporovaná verzia</string>
@@ -1406,9 +1406,9 @@ Nikdy ste neboli pripojený k %2$s."</string>
     <string name="confirm_fingerprint">Overte váš odtlačok prsta</string>
     <string name="confirm_fingerprint_icon_content_description">Pokračujte priložením prsta.</string>
     <string name="confirm_fingerprint_msg">Položte váš prst na snímač odtlačkov prstov</string>
-    <string name="confirm_frp_credential_message">Vaše zariadenie bolo obnovené do továrnych nastavení, môžete ho odomknúť s vašim heslom.</string>
+    <string name="confirm_frp_credential_message">Vaše zariadenie bolo obnovené do továrenských nastavení, môžete ho odomknúť s vašim heslom.</string>
     <string name="confirm_frp_credential_skip_txt">POUŽIŤ GOOGLE ÚČET</string>
-    <string name="confirm_frp_credential_title">Ochrana továrnych nastavení</string>
+    <string name="confirm_frp_credential_title">Ochrana továrenských nastavení</string>
     <string name="confirm_install_and_connect">Nainštalovať a pripojiť</string>
     <string name="confirm_lock_pattern_header_text">Zadajte váš vzor</string>
     <string name="confirm_new_backup_pw_prompt">Sem znovu zadajte aktuálne heslo pre úplné zálohy.</string>
@@ -2259,7 +2259,7 @@ Umožňuje to ochrániť údaje v stratených alebo ukradnutých zariadeniach."<
     <string name="face_data_manage_unlock_title">Odomknúť pomocou tváre</string>
     <string name="face_data_siggesstion_next">Ďalej</string>
     <string name="face_data_siggesstion_next_time">Ďalej (%ds)</string>
-    <string name="face_data_suggesstion_first">Bezpečnostné varovanie: Odomykanie tváre je menej bezpečné ako PIN, heslo alebo vzor. Vaše zariadenie môže byť odomknuté pomocou fotografie alebo ľuďmi ktorí sa vám podobajú.</string>
+    <string name="face_data_suggesstion_first">Bezpečnostné varovanie: Odomykanie tvárou je menej bezpečné ako PIN, heslo alebo vzor. Vaše zariadenie môže byť odomknuté pomocou fotografie alebo ľuďmi ktorí sa vám podobajú.</string>
     <string name="face_data_suggesstion_first_cn">Aby ste mohli používať odomykanie tvárou, potrebujeme zhromaždiť údaje o vašej tvári. Údaje o tvári budú uložené lokálne na tomto zariadení. Ak ho chcete odstrániť, vyhľadajte v nastaveniach \ "Odomknutie tvárou \" a potom vyberte Odomknutie tvárou&gt; Údaje o tvári.
 Odomknutie tvárou je menej bezpečné ako PIN, heslo alebo vzor. Vaše zariadenie môže byť odomknuté s vašou fotografiou, rovnako ako s ľuďmi alebo predmetmi podobného vzhľadu.</string>
     <string name="face_data_suggesstion_second">Nezakrývajte si tvár.</string>
@@ -2757,7 +2757,7 @@ Keď zapnete automatické zálohovanie, údaje zariadenia a aplikácií sa budú
     <string name="how_backup_content">"Existujú 3 rôzne typy zálohovania: lokálne, MiCloud a USB.
 
 Lokálne zálohy:
-Lokálne zálohy môžu obsahovať viac dát aplikácií a položiek. Súbory zálohy sú uložené v MIUI-backup-AllBackup a musia byť skopírované do vášho PC po skončení zálohovania aby ste ich nestratili pri obnove továrnych nastavení.
+Lokálne zálohy môžu obsahovať viac dát aplikácií a položiek. Súbory zálohy sú uložené v MIUI-backup-AllBackup a musia byť skopírované do vášho PC po skončení zálohovania aby ste ich nestratili pri obnove továrenských nastavení.
 
 MiCloud zálohy:
 Zálohy sú uložené v MiCloude. Tento spôsob je rýchlejší ale nie je možné zálohovať dáta aplikácií do MiCloud..
@@ -2945,7 +2945,7 @@ Nakopírujte zálohy z USB naspäť do zložky (MIUI-backup-AllBackup) v telefó
     <string name="keyboard_layout_dialog_switch_hint">Prepnete podržaním medzerníka</string>
     <string name="keyboard_layout_dialog_title">Zvoliť rozloženie kláves</string>
     <string name="keyboard_layout_picker_title">Rozloženie kláves</string>
-    <string name="keyboard_mouse_touch">Klávesnica, myška, a track-pad</string>
+    <string name="keyboard_mouse_touch">Klávesnica, myš, a track-pad</string>
     <string name="keyboard_settings_category">Metódy vstupu</string>
     <string name="keyboard_settings_title">Klávesnica Android</string>
     <string name="keyboard_skin_follow_system_enable">Prepnúť do tmavého režimu spolu so systémom</string>
@@ -3372,7 +3372,7 @@ Nakopírujte zálohy z USB naspäť do zložky (MIUI-backup-AllBackup) v telefó
     <string name="mashup_sound_australia">Austrália</string>
     <string name="master_clear_accounts">Aktuálne ste prihlásení do nasledujúcich účtov:</string>
     <string name="master_clear_all">"Naozaj chcete obnoviť výrobné nastavenia? Operáciu nie je možné vrátiť späť"</string>
-    <string name="master_clear_apply_step_1">Obnovenie do továrnych nastavení vymaže všetky vaše dáta vrátane fotografií, hudby, poznámok. Uistite sa, že máte zálohované všetky vaše dôležité dáta.</string>
+    <string name="master_clear_apply_step_1">Obnovenie do továrenských nastavení vymaže všetky vaše dáta vrátane fotografií, hudby, poznámok. Uistite sa, že máte zálohované všetky vaše dôležité dáta.</string>
     <string name="master_clear_apply_step_2">Uistite sa, že máte zálohované všetky vaše dôležité dáta. Všetky dáta budú vymazané z tohto zariadenia.</string>
     <string name="master_clear_apply_title">Upozornenie</string>
     <string name="master_clear_button_text">Resetovať telefón</string>
@@ -3384,7 +3384,7 @@ Nakopírujte zálohy z USB naspäť do zložky (MIUI-backup-AllBackup) v telefó
     <string name="master_clear_failed">Pokus o obnovenie sa nepodaril, pretože služba System Clear nie je dostupná.</string>
     <string name="master_clear_final_button_text">Odstrániť všetko</string>
     <string name="master_clear_final_desc">Chcete zmazať všetky osobné informácie a stiahnuté aplikácie? Túto akciu nie je možné vrátiť späť!.</string>
-    <string name="master_clear_gesture_explanation">Ak chcete potvrdiť obnovenie továrnych dát, musíte nakresliť bezpečnostné gesto.</string>
+    <string name="master_clear_gesture_explanation">Ak chcete potvrdiť obnovenie továrenských dát, musíte nakresliť bezpečnostné gesto.</string>
     <string name="master_clear_gesture_prompt">Urobte gesto odomknutia</string>
     <string name="master_clear_not_available">Obnovenie továrenských nastavení nie je dostupné pre tohto používateľa</string>
     <string name="master_clear_other_users_present">"
@@ -3398,7 +3398,7 @@ Na tomto zariadení sú prítomní ďalší používatelia.
     <string name="master_clear_progress_title">Prebieha vymazávanie</string>
     <string name="master_clear_summary">Vymaže všetky dáta v telefóne!</string>
     <string name="master_clear_title">Obnovenie predvolených dát</string>
-    <string name="master_clear_title_new">Vymazať všetky dáta (obnova továrnych nastavení)</string>
+    <string name="master_clear_title_new">Vymazať všetky dáta (obnova továrenských nastavení)</string>
     <string name="max_aspect_settings_all_app_display_loading">Načítavanie...</string>
     <string name="max_cpu10_info">"10 jadier "</string>
     <string name="max_cpu2_info">"2 jadrá "</string>
@@ -4661,7 +4661,7 @@ Táto funkcia získa vašu MAC adresu Wi-Fi siete iba na počiatočnú registrá
     <string name="privacy_delete_space_dlg_message">Pre zmenu hesla Druhého profilu, mali by ste vymazať Druhý profil a vytvoriť ho znova.</string>
     <string name="privacy_dlg_button_cancel">Zrušiť</string>
     <string name="privacy_factory_reset_dlg_button_text">Reset</string>
-    <string name="privacy_factory_reset_dlg_message">Ak zabudnete vaše heslo, budete musieť urobiť obnovenie do továrnych nasatvení a nastaviť nové heslo..</string>
+    <string name="privacy_factory_reset_dlg_message">Ak zabudnete vaše heslo, budete musieť urobiť obnovenie do továrenských nasatvení a nastaviť nové heslo..</string>
     <string name="privacy_factory_reset_dlg_title">Zálohujte svoje dáta</string>
     <string name="privacy_failed_need_to_unlock_nofingerprint">Zadajte heslo pred použitím nového odtlačku prsta</string>
     <string name="privacy_file">Súbory</string>
@@ -6199,7 +6199,7 @@ Zvážte použitie rýchlejšieho zariadenia (^1) s lepšou výkonnosťou."</str
     <string name="time_zone_auto_stub">Vyberte Časovú zónu</string>
     <string name="timed_titlei">Naplánované pravidlo %d</string>
     <string name="timezone_settings">Časová zóna</string>
-    <string name="tip_remove_data">Obnovenie továrnych nastavení vymaže tieto položky z vášho zariadenia</string>
+    <string name="tip_remove_data">Obnovenie továrenských nastavení vymaže tieto položky z vášho zariadenia</string>
     <string name="title_color_calibration">Úprava farieb</string>
     <string name="title_dolby_control">Dolby Digital Plus</string>
     <string name="title_font">Písmo</string>
@@ -6668,7 +6668,7 @@ Ktorýkoľvek používateľ môže akceptovať aktualizované povolenia aplikác
     <string name="user_exit_guest_confirm_title">Odstrániť hosťa?</string>
     <string name="user_exit_guest_dialog_remove">Odstrániť</string>
     <string name="user_exit_guest_title">Odstrániť hosťa</string>
-    <string name="user_experience_open_url">Dozvedieť sa viac o Programe používateľskej skúsenosti</string>
+    <string name="user_experience_open_url">Dozvedieť sa viac o Programe používateľských skúseností</string>
     <string name="user_experience_program">Zasielanie štatistík</string>
     <string name="user_experience_program_summary">Pomôžte vylepšiť MIUI odosielaním anonymných dát o používaní zariadenia</string>
     <string name="user_experience_program_title">Zasielanie štatistík</string>
@@ -7541,4 +7541,23 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
     <string name="miheadset_voice_control_summary">Keď je táto funkcia zapnutá, môžete Mi AI povedať, aby navigovalo vaše zariadenie alebo ovládalo prehrávanie zvuku pomocou hlasových príkazov</string>
     <string name="virtual_surround_sound_switch_summary">"Zvýšte hĺbku zvuku pre prehrávanie zvuku a videa v slúchadlách (táto funkcia nebude fungovať, keď sa prehráva zvuk %.1f)"</string>
     <string name="virtual_surround_sound_switch_title">Virtuálny pohlcujúci zvuk</string>    
+    
+    
+<string name="force_allow_on_external">Vynútiť povolenie aplikáciám zapisovať na externé úložisko</string>
+     <string name="force_allow_on_external_summary">Umožní zapisovať do externého úložiska ľubovoľnej aplikácii</string>
+     <string name="force_bold_text">Tučný text</string>
+     <string name="force_desktop_mode">Vynútiť režim pracovnej plochy</string>
+     <string name="force_desktop_mode_summary">Vynútiť experimentálny režim pracovnej plochy na sekundárnych displejoch</string>
+     <string name="force_high_refresh_rate_desc">Najvyššia obnovovacia frekvencia pre lepšiu odozvu na dotyk a kvalita animácie. Zvyšuje spotrebu batérie.</string>
+     <string name="force_high_refresh_rate_toggle">Vynútiť maximálnu obnovovaciu frekvenciu</string>
+     <string name="force_resizable_activities">Vynútiť zmenu veľkosti aktivít</string>
+     <string name="force_resizable_activities_summary">Umožniť meniť veľkosť všetkých aktivít pre viacero okien.</string>
+     <string name="forget_password_dialog_button_text">Späť</string>
+     <string name="forget_password_dialog_content_four">2. Vyberte položku [Wipe data] a počkajte, kým sa zariadenie reštartuje.</string>
+     <string name="forget_password_dialog_content_one">Ak zabudnete svoje heslo, nebudete ho môcť obnoviť. Svoje heslo však môžete obnoviť po vymazaní všetkých dát zariadenia (vrátane fotografií, kontaktov atď.). Pred tým si zálohujte všetky dôležité údaje.</string>
+     <string name="forget_password_dialog_content_three">1. Vypnite svoje zariadenie. Stlačte súčasne tlačidlo [Napájanie] a tlačidlo [Hlasitosť+] a podržte ich, kým neuvidíte ikonu *.</string>
+     <string name="forget_password_dialog_content_two">Údaje vymažete podľa týchto krokov:</string>
+     <string name="forget_password_dialog_title">Vymazať údaje</string>
+     <string name="forgot_password_text">Môžu vám pomôcť obnoviť kód PIN, vzor alebo heslo</string>
+     <string name="forgot_password_title">Kontaktujte svojho správcu IT</string>    
 </resources>
