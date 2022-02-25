@@ -1345,7 +1345,7 @@ For more info check the message you received from your service provider"</string
     <string name="deep_save_memory_clean_summary">Vyčistiť cache ak je zariadenie uzamknuté a zabrániť tak aplikáciám využívať batériu</string>
     <string name="deep_save_ontime_boot_shutdown_summary">Nastaviť čas kedy sa má zariadenie zapnúť a vypnúť</string>
     <string name="deepclean_cache_header_left">Cache: %d</string>
-    <string name="default_condition_summary">Napr. \"Batéria je nižšia ako %s\"</string>
+    <string name="default_condition_summary">Napr. \"Batéria je nižšia ako 30%%\"</string>
     <string name="default_condition_title">Pridať podmienku</string>
     <string name="default_condition_title_continue">Pridať podmienku</string>
     <string name="default_result_summary">Napr. \"Vypnúť režim v lietadle\"</string>
@@ -1526,7 +1526,7 @@ For more info check the message you received from your service provider"</string
     <string name="exit">Ukončiť</string>
     <string name="exit_dialog_exit">Odísť</string>
     <string name="exit_dialog_garbage_clean_message">Množstvo nepotrebných súborov vo vašom zariadení presiahlo %s. Chcete ho vyčistiť?</string>
-    <string name="exit_dialog_garbage_clean_message_new" />
+    <string name="exit_dialog_garbage_clean_message_new">Čistič môže uvoľniť až %s miesta na úložisku. Vyčistiť teraz?</string>
     <string name="exit_dialog_garbage_clean_positive_button">Vyčistiť</string>
     <string name="exit_dialog_garbage_clean_title">Vyčistiť odpad</string>
     <string name="exit_dialog_homepage_optimise_message">Vaše skóre je menej ako 80 bodov. Chcete ho optimalizovať?</string>
@@ -4903,14 +4903,14 @@ Rešpektujeme a chránime vaše súkromie."</string>
     <string name="title_condition_bluetooth_device">Pripojiť k zariadeniu Bluetooth</string>
     <string name="title_condition_bluetooth_disconnect_device">Odpojiť od zariadenia Bluetooth</string>
     <string name="title_condition_charge">Nabíja sa</string>
-    <string name="title_condition_connect_wlan">Pripojiť sa k sieti Wi-Fi</string>
-    <string name="title_condition_disconnect_wlan">Vypnúť Wi-Fi</string>
+    <string name="title_condition_connect_wlan">Pripojí sa k Wi-Fi</string>
+    <string name="title_condition_disconnect_wlan">Odpojí sa od Wi-Fi</string>
     <string name="title_condition_headset">Slúchadlá</string>
     <string name="title_condition_hotspot">Prenosný hotspot</string>
-    <string name="title_condition_incall">Zavolajte</string>
+    <string name="title_condition_incall">Zavolať</string>
     <string name="title_condition_leave">Zanechajte miesto</string>
     <string name="title_condition_leave_activity">Opustiť aplikáciu</string>
-    <string name="title_condition_location">Umiestnenie</string>
+    <string name="title_condition_location">Poloha</string>
     <string name="title_condition_lock_screen">Uzamknúť obrazovku</string>
     <string name="title_condition_meeting">Stretnutie</string>
     <string name="title_condition_message">Správa</string>
