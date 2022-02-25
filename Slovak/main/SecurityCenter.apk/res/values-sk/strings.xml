@@ -62,7 +62,7 @@
     <string name="STRANGER_BLOCK">Čierna listina</string>
     <string name="Setting_lock">Nastavenia</string>
     <string name="Settings_title_anti_spam">Nastavenie Antispamu</string>
-    <string name="Settings_title_anti_virus">Nastavenie AntiVírusu</string>
+    <string name="Settings_title_anti_virus">Nastavenie Antivírusu</string>
     <string name="Settings_title_anti_virus_kddi">Nastavenia kontroly zabezpečenia</string>
     <string name="Settings_title_garbage_cleanup">Nastavenie Čistenia</string>
     <string name="Settings_title_network_assistants">Nastavenie Spotreby dát</string>
@@ -119,7 +119,7 @@ alebo zadajte heslo"</string>
     <string name="activity_no_task">Zatiaľ tu nie sú žiadne úlohy</string>
     <string name="activity_task_center">Centrum úloh</string>
     <string name="activity_title_antispam">AntiSpam</string>
-    <string name="activity_title_antivirus">AntiVírus</string>
+    <string name="activity_title_antivirus">Antivírus</string>
     <string name="activity_title_antivirus_kddi">Kontrola zabezpečenia</string>
     <string name="activity_title_apps_manager">Aplikácie</string>
     <string name="activity_title_auto_start_manager">Správa autom. spustenia</string>
@@ -194,7 +194,7 @@ alebo zadajte heslo"</string>
     <string name="alert_back_milink_hangup_tips_content">Vysielanie nebude prerušené počas ukončenia hovoru.</string>
     <string name="alert_back_milink_hangup_tips_content_vb">Vysielanie sa nepreruší keď je zhasnutý displej a aplikácia pracuje na pozadí. Displej môžete opäť rozsvietiť pomocou tlačidla zapínania.</string>
     <string name="all_address_choose_hint">Všetky regióny</string>
-    <string name="allow_all">Povoliť všetko</string>
+    <string name="allow_all">Povoliť všetky</string>
     <string name="anim_gamebooster_text">Načítavanie...</string>
     <string name="anti_disturb_msg_detail">Vypnúť všetky upozornenia okrem prich. hovorov</string>
     <string name="anti_disturb_msg_title">Režim Nerušiť</string>
@@ -911,7 +911,7 @@ alebo zadajte heslo"</string>
     <string name="auto_task_show_notification_before_exit">Upozornenia pred dokončením</string>
     <string name="auto_task_temp_no_exit">Zrušiť</string>
     <string name="auto_task_temp_no_need">Zrušiť</string>
-    <string name="auto_task_voice_dialog_alarm_title">Budíky</string>
+    <string name="auto_task_voice_dialog_alarm_title">Budík</string>
     <string name="auto_task_voice_dialog_call_title">Hovory, upozornenia, pripomienky</string>
     <string name="auto_task_voice_dialog_media_title">Hudba, hry, médiá</string>
     <string name="back">Späť</string>
@@ -1202,7 +1202,7 @@ alebo zadajte heslo"</string>
     <string name="clean_master_icon_recall_toast_text">Odkaz bol pridaný</string>
     <string name="cleaned">Vyčistené</string>
     <string name="clear_bigfiles">Vymažte veľké súbory, duplikáty fotografií, a ostatné zbytočné súbory.</string>
-    <string name="clear_garbage">Vyčistite odpad pre uvoľnenie miesta</string>
+    <string name="clear_garbage">Vyčistiť odpad pre uvoľnenie miesta</string>
     <string name="clear_immediately">Vyčistiť</string>
     <string name="close">Zatvoriť</string>
     <string name="close_callwait">Zakázať</string>
@@ -1415,7 +1415,7 @@ For more info check the message you received from your service provider"</string
     <string name="dialog_title_stop_virus_scan">Zastaviť skenovanie</string>
     <string name="disable_air_mode">Vypnite režim Lietadlo</string>
     <string name="disable_sensitive_permissions">Citlivé povolenia obmedzené</string>
-    <string name="disable_sensitive_permissions_detail">Vaša klávesnica nebude môcť používať povolenia súvisiace s ochranou súkromia (napr. prístup k kontaktom alebo k informáciám o polohe).</string>
+    <string name="disable_sensitive_permissions_detail">Vaša klávesnica nebude môcť používať povolenia súvisiace s ochranou súkromia (napr. prístup ku kontaktom alebo k informáciám o polohe).</string>
     <string name="dlg_add_blacklist">Pridať toto číslo na čiernu listinu?</string>
     <string name="dlg_add_blacklist_title">Pridať do čiernej listiny</string>
     <string name="dlg_add_blacklist_warn_conflict_content">%1$s %2$s už existuje vo výnimkách. Chcete pokračovať?</string>
@@ -2743,7 +2743,7 @@ Niekedy tieto čísla môžu byť užitočné. Blokujte len čísla z ktorých u
     <string name="oaid_apps_title">Spravovať virtuálne ID</string>
     <string name="oaid_reset_content_tip">Ak deaktivujete virtuálne ID, niektoré aplikácie nemusia fungovať správne.</string>
     <string name="oaid_reset_final_tip">Deaktivovať virtuálne ID?</string>
-    <string name="oaid_tips_content">Virtuálne IDs (OAID) môže byť použité pre sledovanie vášho správania a prispôsobenie reklám. Môžete vybrať ktoré aplikácie budú mať povolenie pre prístup k virtuálnemu ID.</string>
+    <string name="oaid_tips_content">Virtuálne ID (OAID) môže byť použité pre sledovanie vášho správania a prispôsobenie reklám. Môžete vybrať ktoré aplikácie budú mať povolenie pre prístup k virtuálnemu ID.</string>
     <string name="offline_voice_input">Hlasový vstup offline</string>
     <string name="offline_voice_input_detail">Na hlasové zadávanie nebudete potrebovať internet.</string>
     <string name="ok">OK</string>
@@ -3663,7 +3663,7 @@ Počas dátového prenosu sa text a obrázky komprimujú na serveri a tým sa ur
     <string name="privacy_empty_record">Žiadna aplikácia</string>
     <string name="privacy_empty_storage">Žiadna aplikácia</string>
     <string name="privacy_global_guide_permission_guide_text">Zobraziť upozornenie ak aplikácie nahrajú zvuk alebo použijú fotoaparát</string>
-    <string name="privacy_guide_permission_guide_text">Môžete dostávať upozornenia v lište ak aplikácie získajú prístup k polohe, nahrajú zvuk, alebo zhotoví fotografie.</string>
+    <string name="privacy_guide_permission_guide_text">Môžete dostávať upozornenia v lište ak aplikácie získajú prístup k polohe, nahrajú zvuk, alebo zhotovia fotografie.</string>
     <string name="privacy_guide_permission_use_text">MIUI bude počítať a zobrazí číslo koľkokrát aplikácia použije citlivé povolenia, vrátane polohy, kontaktov, histórie hovorov, a prístup k úložisku.</string>
     <string name="privacy_hide_other_permissions">Skryť ostatné povolenia</string>
     <string name="privacy_informed_title">Štatistiky</string>
@@ -3900,7 +3900,7 @@ Počas dátového prenosu sa text a obrázky komprimujú na serveri a tým sa ur
     <string name="required_permissions">Vyžadované povolenia</string>
     <string name="required_permissions_desc">Tieto povolenia sú vyžadované pre správne fungovanie základných funkcií aplikácií.</string>
     <string name="resource_antispam">AntiSpam</string>
-    <string name="resource_antivirus">AntiVírus</string>
+    <string name="resource_antivirus">Antivírus</string>
     <string name="resource_app_permissions">Práva aplikácií</string>
     <string name="resource_applicationlock">Zámok aplikácií</string>
     <string name="resource_auto_restart">Autoštart aplikácií</string>

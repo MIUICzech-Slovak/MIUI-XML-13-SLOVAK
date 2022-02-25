@@ -30,7 +30,7 @@ Ak vyberiete nepoužívať prispôsobené reklamy, ich počet sa nezníži ale n
     <string name="access_control_reset_by_account">Pre odblokovanie sa prihláste na váš Mi účet</string>
     <string name="access_point_names">Názvy prístupových bodov</string>
     <string name="accessibility_autoclick_custom_title">Vlastné</string>
-    <string name="accessibility_autoclick_default_title">Vyp</string>
+    <string name="accessibility_autoclick_default_title">Vypnuté</string>
     <string name="accessibility_autoclick_description">Ak používate myš, môžete nastaviť automatickú akciu po zastavení kurzora v určitý čas.</string>
     <string name="accessibility_autoclick_long_summary">1s</string>
     <string name="accessibility_autoclick_long_title">Dlhé</string>
@@ -59,7 +59,7 @@ Ak vyberiete nepoužívať prispôsobené reklamy, ich počet sa nezníži ale n
     <string name="accessibility_display_title">Displej</string>
     <string name="accessibility_enable">Povoliť prístup</string>
     <string name="accessibility_feature_or_input_method_not_allowed">Nie je povolené vašou organizáciou</string>
-    <string name="accessibility_feature_state_off">Vyp</string>
+    <string name="accessibility_feature_state_off">Vypnuté</string>
     <string name="accessibility_feature_state_on">Zap</string>
     <string name="accessibility_global_gesture_preference_description">"Ak je táto funkcia zapnutá, môžete rýchlo v dvoch krokoch povoliť funkcie zjednodušenia ovládania:
 
@@ -68,7 +68,7 @@ Krok 1: Stlačte tlačidlo zapnutia a podržte ho, dokým nezaznie zvukový sign
 Krok 2: Dotknite sa obrazovky dvoma prstami a podržte ju, dokým nezaznie zvuk potvrdenia.
 
 Ak má zariadenie viacero používateľov, pomocou tejto skratky je možné na uzamknutej obrazovke dočasne povoliť zjednodušenie ovládania, dokým sa zariadenie neodomkne."</string>
-    <string name="accessibility_global_gesture_preference_summary_off">Vyp</string>
+    <string name="accessibility_global_gesture_preference_summary_off">Vypnuté</string>
     <string name="accessibility_global_gesture_preference_summary_on">Zap</string>
     <string name="accessibility_global_gesture_preference_title">Skratka zjednodušeného ovládania</string>
     <string name="accessibility_haptic">Uľahčenie prístupu</string>
@@ -145,7 +145,7 @@ Medzi funkciami môžete prepínať potiahnutím tromi prstami nahor a podržan�
     <string name="accessibility_summary_shortcut_disabled">Vypnuté</string>
     <string name="accessibility_summary_shortcut_enabled">Skratky zapnuté</string>
     <string name="accessibility_summary_source">Poskytuje %s</string>
-    <string name="accessibility_summary_state_disabled">Vyp</string>
+    <string name="accessibility_summary_state_disabled">Vypnuté</string>
     <string name="accessibility_summary_state_enabled">Zap</string>
     <string name="accessibility_summary_state_stopped">Nefunguje. Stlačte pre info.</string>
     <string name="accessibility_sync_disabled">Synchronizácia vypnutá</string>
@@ -380,7 +380,7 @@ Správca môže sledovať a spravovať nastavenia, prístup, aplikácie a údaje
     <string name="aod_mode_time_summary">Naplánujte čas kedy sa má vaše zariadenie prepnúť do Always on režimu</string>
     <string name="aod_mode_time_title">Naplánovať čas</string>
     <string name="aod_mode_title">Always-on displej</string>
-    <string name="aod_mode_turn_off">Vyp</string>
+    <string name="aod_mode_turn_off">Vypnuté</string>
     <string name="aod_mode_turn_on">Zap</string>
     <string name="aod_name_wanxiang">Ambientný displej</string>
     <string name="aod_notification_style">Efekt upozornenia</string>
@@ -1331,7 +1331,7 @@ Nikdy ste neboli pripojený k %2$s."</string>
     <string name="color_game_led_charging_summary">Bude vypnutá po plnom nabití batérie</string>
     <string name="color_game_led_color_title">Farba</string>
     <string name="color_game_led_end_time">Koniec</string>
-    <string name="color_game_led_feature_off">Vyp</string>
+    <string name="color_game_led_feature_off">Vypnuté</string>
     <string name="color_game_led_feature_on">Zap</string>
     <string name="color_game_led_freq_entries">Každých %ds</string>
     <string name="color_game_led_freq_title">Frekvencia blikania</string>
@@ -2331,7 +2331,7 @@ Odomknutie tvárou je menej bezpečné ako PIN, heslo alebo vzor. Vaše zariaden
     <string name="filter_work_apps">Pracovné</string>
     <string name="filter_write_settings_apps">Môže upravovať nastavenia systému</string>
     <string name="find_my_device">Vyhľadať moje zariadenie</string>
-    <string name="find_my_device_disable">Vyp</string>
+    <string name="find_my_device_disable">Vypnuté</string>
     <string name="find_my_device_enable">Zap</string>
     <string name="find_my_device_summary">Musíte sa prihlásiť do Mi účtu</string>
     <string name="finger_add_user_info_dialog_cancel">Zrušiť</string>
@@ -2822,7 +2822,7 @@ Nakopírujte zálohy z USB naspäť do zložky (MIUI-backup-AllBackup) v telefó
     <string name="input_device_category">Vstupné zariadenie</string>
     <string name="input_hint_prefix">Zadajte %1$s</string>
     <string name="input_method">Klávesnica</string>
-    <string name="input_method_bottom_close">Vyp</string>
+    <string name="input_method_bottom_close">Vypnuté</string>
     <string name="input_method_bottom_open">Zap</string>
     <string name="input_method_clipboard_settings">Nastavenie schránky</string>
     <string name="input_method_cloud_data_title">Schránka v cloude</string>
@@ -3089,7 +3089,7 @@ Nakopírujte zálohy z USB naspäť do zložky (MIUI-backup-AllBackup) v telefó
     <string name="list_empty_text">Prázdne</string>
     <string name="loading">Načítavanie...</string>
     <string name="loading_notification_apps">Načítavanie aplikácií...</string>
-    <string name="local_auto_backup_off">Vyp</string>
+    <string name="local_auto_backup_off">Vypnuté</string>
     <string name="local_auto_backup_on">Zap</string>
     <string name="local_auto_backup_section_title">Auto. zálohy</string>
     <string name="local_backup_password_summary_change">Túto možnosť vyberte, ak chcete zmeniť alebo odobrať heslo pre úplné zálohy v počítači.</string>
@@ -3105,7 +3105,7 @@ Nakopírujte zálohy z USB naspäť do zložky (MIUI-backup-AllBackup) v telefó
     <string name="local_backup_usestatus_title">Lokálne zálohy sú vypnuté</string>
     <string name="locale_default">Predvolené</string>
     <string name="locale_settings">Lokalita</string>
-    <string name="location_access_off">Vyp</string>
+    <string name="location_access_off">Vypnuté</string>
     <string name="location_access_on">Zap</string>
     <string name="location_access_summary">Umožniť aplikáciám, ktoré o to požiadali, používať údaje o polohe</string>
     <string name="location_access_title">Prístup k údajom o mojej polohe</string>
@@ -3506,7 +3506,7 @@ Na tomto zariadení sú prítomní ďalší používatelia.
     <string name="miheadset_LeftEar">Ľavé</string>
     <string name="miheadset_RightEar">Pravé</string>
     <string name="miheadset_active">Silné</string>
-    <string name="miheadset_ancClosed">Vyp</string>
+    <string name="miheadset_ancClosed">Vypnuté</string>
     <string name="miheadset_ancHigh">Vysoké</string>
     <string name="miheadset_ancLow">Nízke</string>
     <string name="miheadset_ancMedium">Stredné</string>
@@ -3521,7 +3521,7 @@ Na tomto zariadení sú prítomní ďalší používatelia.
     <string name="miheadset_call_assist">Asistent</string>
     <string name="miheadset_cancel_device">Zrušiť</string>
     <string name="miheadset_checkUpdate">Skontrolovať aktualizácie</string>
-    <string name="miheadset_closeAnc">Vyp</string>
+    <string name="miheadset_closeAnc">Vypnuté</string>
     <string name="miheadset_connectHeadsetForFw">Pripojte slúchadlá pre zobrazenie verzie firmware</string>
     <string name="miheadset_connect_play_music">Spustiť prehrávanie automaticky po pripojení slúchadiel</string>
     <string name="miheadset_connect_toast_tips">Najskôr pripojte slúchadlá</string>
@@ -3548,7 +3548,7 @@ Na tomto zariadení sú prítomní ďalší používatelia.
     <string name="miheadset_in_ear_check_summary">Automaticky pozastaviť prehrávanie po zložení slúchadiel</string>
     <string name="miheadset_key_config_ANC_list_title">Kontrola hluku</string>
     <string name="miheadset_key_config_call_ai">Hlasový asistent</string>
-    <string name="miheadset_key_config_close">Vyp</string>
+    <string name="miheadset_key_config_close">Vypnuté</string>
     <string name="miheadset_key_config_close_summary">Vypnúť potlačenie okolitého hluku</string>
     <string name="miheadset_key_config_gesture_control">Gestá</string>
     <string name="miheadset_key_config_next_music">Ďalšia skladba</string>
@@ -3640,7 +3640,7 @@ Pokračujte pre prístup k ďalším nastaveniam."</string>
     <string name="miui_lab_drive_mode_desc">Use voice controls &amp; listen to WeChat messages</string>
     <string name="miui_lab_drive_mode_title">Car mode</string>
     <string name="miui_lab_feature_applied">Aplikované</string>
-    <string name="miui_lab_feature_off">Vyp</string>
+    <string name="miui_lab_feature_off">Vypnuté</string>
     <string name="miui_lab_feature_on">Zap</string>
     <string name="miui_lab_features">MIUI Lab funkcie</string>
     <string name="miui_lab_gallery_search_desc">Vyhľadávanie obrázkov</string>
@@ -3702,7 +3702,7 @@ Pokračujte pre prístup k ďalším nastaveniam."</string>
     <string name="miui_sos_menu_edit">Upraviť</string>
     <string name="miui_sos_msg_call_log_prefix">Tu je moja história hovorov za poslednú hodinu:</string>
     <string name="miui_sos_pa_title">Núdzová poloha</string>
-    <string name="miui_sos_pa_turn_off">Vyp</string>
+    <string name="miui_sos_pa_turn_off">Vypnuté</string>
     <string name="miui_sos_pa_turn_on">Zap</string>
     <string name="miui_sos_play_voice">Prehrať SOS správu</string>
     <string name="miui_sos_remind_add">Pridať</string>
@@ -3852,7 +3852,7 @@ Vyberte váš operačný systém:"</string>
 %1$s sa zobrazí ako USB úložisko."</string>
     <string name="msd_pc_system_install_summary_xp">1. Spustite setup.exe</string>
     <string name="msg_wlan_signal_found">Našiel sa Wi-Fi AP %s, chcete sa pripojiť k tejto sieti? Použitie tejto siete dočasne preruší dátové pripojenie.</string>
-    <string name="msim_sim_radio_off">Vyp</string>
+    <string name="msim_sim_radio_off">Vypnuté</string>
     <string name="mtp_connection_failed">Nie je možné preniesť súbory do PC. Skontrolujte možné príčiny.</string>
     <string name="mtp_connection_failed_title">USB pripojenie</string>
     <string name="mtp_connection_not_remind">Viac nezobrazovať</string>
@@ -3904,7 +3904,7 @@ Vyberte váš operačný systém:"</string>
     <string name="music_dolby_effects">Dolby efekt</string>
     <string name="music_dolby_eq_enter_alert_msg">Ekvalizér je možné použiť len v režime Dolby. Chcete povoliť?</string>
     <string name="music_dolby_eq_enter_alert_title">Povoliť režim Dolby</string>
-    <string name="music_dolby_ieq_flat">Vyp</string>
+    <string name="music_dolby_ieq_flat">Vypnuté</string>
     <string name="music_dolby_ieq_focused">Sústredený</string>
     <string name="music_dolby_ieq_open">Otvorený</string>
     <string name="music_dolby_ieq_rich">Bohatý</string>
@@ -4106,7 +4106,7 @@ Vyberte váš operačný systém:"</string>
     <string name="normal_date_format">Regionálne (%s)</string>
     <string name="normal_info">Všetky zvuky sú povolené</string>
     <string name="normal_smartcover_title">Nepriehľadný predný kryt</string>
-    <string name="not_enabled">Vyp</string>
+    <string name="not_enabled">Vypnuté</string>
     <string name="not_installed">Nenainštalované</string>
     <string name="notch_and_status_bar_settings">Výrez a lišta upozornení</string>
     <string name="notch_force_black_desc">Ak je zapnuté, oblasť výrezu bude čierna</string>
@@ -4179,7 +4179,7 @@ Vyberte váš operačný systém:"</string>
     <string name="oem_radio_info_label">Informácie a nastaveniach špecifických pre výrobcu OEM</string>
     <string name="oem_unlock_enable">Povoliť odomknutie OEM</string>
     <string name="oem_unlock_enable_summary">Povoliť odomknutie zariadenia OEM</string>
-    <string name="off">Vyp</string>
+    <string name="off">Vypnuté</string>
     <string name="ok_rules">Ukončiť</string>
     <string name="okay">OK</string>
     <string name="oldman_app_label">Jednoduchý režim</string>
@@ -4218,7 +4218,7 @@ Vyberte váš operačný systém:"</string>
     <string name="optimization_open">Aktivovať</string>
     <string name="ota_disable_automatic_update_summary">Aktualizovať po reštarte zariadenia</string>
     <string name="otg_button">OTG</string>
-    <string name="otg_closed">Vyp</string>
+    <string name="otg_closed">Vypnuté</string>
     <string name="otg_opened">Zap</string>
     <string name="otg_settings">OTG</string>
     <string name="otg_tip">"USB OTG umožňuje pripojenie USB príslušenstva ako klávesnica, myš, atď...
@@ -5079,7 +5079,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
     <string name="screen_enhance_engine_sr_pic_summary_video_only">Zväčšiť rozlíšenie na 1440p.</string>
     <string name="screen_enhance_engine_sr_title">Super rozlíšenie</string>
     <string name="screen_enhance_engine_title">AI spracovanie obrazu</string>
-    <string name="screen_enhance_status_disable">Vyp</string>
+    <string name="screen_enhance_status_disable">Vypnuté</string>
     <string name="screen_enhance_status_enable">Zap</string>
     <string name="screen_fps_summary_power_save">Používanie fixnej hodnoty spotrebuje menej energie</string>
     <string name="screen_fps_summary_smooth">Niektoré aplikácie automaticky zvýšia hodnotu pre zlepšenie kvality zobrazenia</string>
@@ -5184,7 +5184,7 @@ Ako funkciu použiť:
     <string name="screen_resolution_ultrahigh_format">Ultra (%1$s)</string>
     <string name="screen_saturation">Sýtosť farieb</string>
     <string name="screen_settings">Zámok obrazovky</string>
-    <string name="screen_shot">Zhotoviť Screenshot</string>
+    <string name="screen_shot">Zhotoviť screenshot</string>
     <string name="screen_timeout">Vypnutie displeja</string>
     <string name="screen_timeout_subtitle">Zobrazenie statického obsahu po dlhšiu dobu môže spôsobiť, že farby budú nerovnomerné</string>
     <string name="screen_timeout_summary">Po %1$s nečinnosti</string>
@@ -6092,7 +6092,7 @@ Zvážte použitie rýchlejšieho zariadenia (^1) s lepšou výkonnosťou."</str
     <string name="switchNetworkToast">Pripojenie k mobilnej sieti môže navýšiť vaše poplatky</string>
     <string name="switch_access_service_on">Prepnúť prístup</string>
     <string name="switch_bootup_sound">Prehrať zvuk pri spustení zariadenia</string>
-    <string name="switch_off_text">Vyp</string>
+    <string name="switch_off_text">Vypnuté</string>
     <string name="switch_on_text">Zap</string>
     <string name="switch_orientation_desc">Orientácia obrazovky</string>
     <string name="switch_power_sound">Prehrať zvuk pri pripojení nabíjačky</string>
@@ -6184,7 +6184,7 @@ Zvážte použitie rýchlejšieho zariadenia (^1) s lepšou výkonnosťou."</str
     <string name="theme_settings_title">Témy</string>
     <string name="thememanager_not_found">Nebolo možné otvoriť Témy. Uistite sa, že aplikácia je nainštalovaná.</string>
     <string name="three_gesture_down">Potiahnutie tromi prstami</string>
-    <string name="three_gesture_long_press">Stlačte a podržte s %d prstami</string>
+    <string name="three_gesture_long_press">Stlačte a podržte %d prstami</string>
     <string name="thursday">Štvrtok</string>
     <string name="thursday_short">Štv</string>
     <string name="thursday_shortest">Š</string>
@@ -6333,7 +6333,7 @@ Zvážte použitie rýchlejšieho zariadenia (^1) s lepšou výkonnosťou."</str
     <string name="turn_on_keyguard_password_alert_forget_title">Ak ho zabudnete, nebude možné ho obnoviť.</string>
     <string name="turn_on_radio">Zapnúť rádio</string>
     <string name="turn_on_security_lock">Pridať bezpečnostné heslo</string>
-    <string name="turn_on_torch">Spustiť Svietidlo</string>
+    <string name="turn_on_torch">Spustiť svietidlo</string>
     <string name="turn_update_keyguard_password_wait_dialog">Zmena hesla</string>
     <string name="twohours">1 hodina</string>
     <string name="uicc_eject">Odpojiť UICC úložisko</string>
@@ -6729,12 +6729,12 @@ Ktorýkoľvek používateľ môže akceptovať aktualizované povolenia aplikác
     <string name="virtual_sim_description">SIM virtuálneho operátora</string>
     <string name="virtual_sim_search_title">Virtuálna SIM</string>
     <string name="virtual_sim_title">Roaming dátovej siete</string>
-    <string name="virus_scan">AntiVírus</string>
+    <string name="virus_scan">Antivírus</string>
     <string name="virus_scan_app_continue">Pokračovať v skenovaní</string>
     <string name="virus_scan_app_find_risk">Podozrivých: %d, odporúča sa okamžite odinštalovať!</string>
     <string name="virus_scan_app_finish">Zatvoriť</string>
     <string name="virus_scan_app_force_stop">Skenovanie pozastavené!</string>
-    <string name="virus_scan_app_is_stop_scan">Chcete zastaviť AntiVírus?</string>
+    <string name="virus_scan_app_is_stop_scan">Chcete zastaviť Antivírus?</string>
     <string name="virus_scan_app_multi_engines">Vyberte nástroj, čas skenovania môže byť dlhší</string>
     <string name="virus_scan_app_no_risk">Žiadna podozrivá aplikácia sa nenašla.</string>
     <string name="virus_scan_app_passed">Skenovanie úspešne dokončené.</string>
@@ -6753,14 +6753,14 @@ Ktorýkoľvek používateľ môže akceptovať aktualizované povolenia aplikác
     <string name="virus_scanner_manual_update">Aktualizované: %s</string>
     <string name="virus_scanner_provider">Zabezpečuje %s</string>
     <string name="virus_scanner_scan">Skenovať</string>
-    <string name="virus_scanner_scanning">AntiVírus</string>
+    <string name="virus_scanner_scanning">Antivírus</string>
     <string name="virus_scanner_select_Cancel">Zrušiť</string>
     <string name="virus_scanner_select_OK">OK</string>
     <string name="virus_scanner_select_lib">Databáza Vírusov</string>
     <string name="virus_scanner_select_multi">Vybratie viac ako jednej databázy vírusov, bude vyžadovať reinštaláciu</string>
     <string name="virus_scanner_select_single">Zvoľte databázu vírusov</string>
     <string name="virus_scanner_select_trust_lib">Zvoľte Knižnicu vírusov</string>
-    <string name="virus_scanner_title">AntiVírus</string>
+    <string name="virus_scanner_title">Antivírus</string>
     <string name="virus_scanner_update_lib">Skontrolovať Databázu vírusov</string>
     <string name="visibility_override_title">Na zamknutej obrazovke</string>
     <string name="voice_category">Reč</string>
@@ -6775,13 +6775,13 @@ Ktorýkoľvek používateľ môže akceptovať aktualizované povolenia aplikác
     <string name="voice_search_settings_title">Hlasové vyhľadávanie</string>
     <string name="voice_service_preference_section_title">Služby hlasového vstupu</string>
     <string name="voip_assistant_settings">VoIP asistent</string>
-    <string name="voip_assistant_settings_off">Vyp</string>
+    <string name="voip_assistant_settings_off">Vypnuté</string>
     <string name="voip_assistant_settings_on">Zap</string>
     <string name="volte_provisioned_flag_off">Vypnite poskytovaný príznak VoLTE</string>
     <string name="volte_provisioned_flag_on">Zapnite poskytovaný príznak VoLTE</string>
     <string name="volume_adjustment">Upraviť hlasitosť</string>
-    <string name="volume_alarm_description">Budíky</string>
-    <string name="volume_alarm_mute">Stlmiť budíky</string>
+    <string name="volume_alarm_description">Budík</string>
+    <string name="volume_alarm_mute">Stlmiť budík</string>
     <string name="volume_bluetooth_description">Bluetooth</string>
     <string name="volume_category_title">Hlasitosť</string>
     <string name="volume_hifi_description">Nastavenie Hi-Fi</string>
@@ -6829,7 +6829,7 @@ Ktorýkoľvek používateľ môže akceptovať aktualizované povolenia aplikác
     <string name="vpn_no_selected">Vyberte VPN</string>
     <string name="vpn_no_server_cert">(prijaté zo serveru)</string>
     <string name="vpn_not_used">(nepoužívané)</string>
-    <string name="vpn_off">Vyp</string>
+    <string name="vpn_off">Vypnuté</string>
     <string name="vpn_on">Zap</string>
     <string name="vpn_password">Heslo</string>
     <string name="vpn_routes">Presmerovávacie trasy</string>
@@ -6858,7 +6858,7 @@ Ktorýkoľvek používateľ môže akceptovať aktualizované povolenia aplikác
     <string name="wakeup_for_keyguard_notification_title">Rozsvietiť displej</string>
     <string name="wallpaper_attributions">Tapety</string>
     <string name="wallpaper_desktop">Domáca obrazovka</string>
-    <string name="wallpaper_live">Živá tapeta</string>
+    <string name="wallpaper_live">Dynamická tapeta</string>
     <string name="wallpaper_lockscreen">Zamykacia obrazovka</string>
     <string name="wallpaper_settings_fragment_title">Vybrať tapetu z</string>
     <string name="wallpaper_settings_title">Tapeta</string>
@@ -6909,7 +6909,7 @@ Chcete zapnúť Wi-Fi?"</string>
     <string name="wifi_ap_choose_2G">Pásmo 2,4 GHz</string>
     <string name="wifi_ap_choose_5G">Pásmo 5 GHz</string>
     <string name="wifi_ap_hidden_ssid">Skryť SSID</string>
-    <string name="wifi_ap_ssid_off">Vyp</string>
+    <string name="wifi_ap_ssid_off">Vypnuté</string>
     <string name="wifi_ap_ssid_on">Zap</string>
     <string name="wifi_api_test">Wi-Fi API</string>
     <string name="wifi_assist">Wi-Fi asistent</string>
@@ -6933,7 +6933,7 @@ sl. Wi‑Fi Assistant"</string>
     <string name="wifi_assistant_keep_connection">Ostať pripojený</string>
     <string name="wifi_assistant_keep_wifi_connection">Nie</string>
     <string name="wifi_assistant_no_thanks">NIE, ĎAKUJEM</string>
-    <string name="wifi_assistant_off">Vyp</string>
+    <string name="wifi_assistant_off">Vypnuté</string>
     <string name="wifi_assistant_ok">OK</string>
     <string name="wifi_assistant_on">Zap</string>
     <string name="wifi_assistant_open_app">SPUSTIŤ APLIKÁCIU</string>
@@ -7078,7 +7078,7 @@ sl. Wi‑Fi Assistant"</string>
     <string name="wifi_link_turbo_customize_summary">Vyberte aplikácie ktoré budú používať Wi-Fi asistenta podľa vašich nastavení</string>
     <string name="wifi_link_turbo_list">Aplikácie</string>
     <string name="wifi_link_turbo_no_app">Žiadne aplikácie.</string>
-    <string name="wifi_link_turbo_off">Vyp</string>
+    <string name="wifi_link_turbo_off">Vypnuté</string>
     <string name="wifi_link_turbo_on">Zap</string>
     <string name="wifi_link_turbo_recommendation">Odporúčané aplikácie</string>
     <string name="wifi_link_turbo_recommendation_summary">Dostávať odporúčania na základe štatistík používania dát</string>
@@ -7297,7 +7297,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
     <string name="wifi_traffic_priority">Wi-Fi režim rýchlosti</string>
     <string name="wifi_traffic_priority_extreme">Extrémny režim</string>
     <string name="wifi_traffic_priority_extreme_summary">Prideliť čo najväčšiu časť pásma aplikáciám v popredí. Procesy na pozadí sa nemusia pripojiť k internetu.</string>
-    <string name="wifi_traffic_priority_off">Vyp</string>
+    <string name="wifi_traffic_priority_off">Vypnuté</string>
     <string name="wifi_traffic_priority_on">Zap</string>
     <string name="wifi_traffic_priority_regular">Normálny režim</string>
     <string name="wifi_traffic_priority_regular_summary">Zdieľať pásmo medzi aplikáciami v popredí a na pozadí</string>
@@ -7357,7 +7357,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
     <string name="window_animation_scale_title">Mierka animácie okna</string>
     <string name="wireless_connected">Pripojené</string>
     <string name="wireless_networks_settings_title">Bezdrôtové pripojenie a siete</string>
-    <string name="wireless_off">Vyp</string>
+    <string name="wireless_off">Vypnuté</string>
     <string name="wireless_on">Zap</string>
     <string name="wizard_back">Späť</string>
     <string name="wizard_finish">Dokončiť</string>
@@ -7391,7 +7391,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
     <string name="xiaomi_cloud_service_description_contact">kontakty a</string>
     <string name="xiaomi_cloud_service_description_format">MiCloud synchronizuje vaše %s fotografie a zálohuje vaše aplikácie a nastavenia.</string>
     <string name="xiaomi_cloud_service_description_without_contacts">Cloud synchronizuje vaše fotografie, aplikácie a nastavenia.</string>
-    <string name="xiaomi_cloud_service_disabled">Vyp</string>
+    <string name="xiaomi_cloud_service_disabled">Vypnuté</string>
     <string name="xiaomi_cloud_service_unknown">Neznáme</string>
     <string name="xiaomi_hp_location">Presná poloha</string>
     <string name="xiaomi_hp_location_description">Informácie o presnej polohe umožňujú lepšiu navigáciu</string>
@@ -7413,7 +7413,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
     <string name="zen_mode_add_rule">Pridať pravidlo</string>
     <string name="zen_mode_alarm_info">Budíky sú vždy považované za prioritné vyrušenia</string>
     <string name="zen_mode_alarm_use">Zvuky</string>
-    <string name="zen_mode_alarms">Budíky</string>
+    <string name="zen_mode_alarms">Budík</string>
     <string name="zen_mode_always">Vždy</string>
     <string name="zen_mode_auto_rule">Naplánovať režim Nerušiť</string>
     <string name="zen_mode_automatic_rule_settings_page_title">Plán</string>
@@ -7561,8 +7561,10 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
      <string name="forgot_password_text">Môžu vám pomôcť obnoviť kód PIN, vzor alebo heslo</string>
      <string name="forgot_password_title">Kontaktujte svojho správcu IT</string>    
 	 
-    <string name="auto_clean_summary_new">Prehrať a %d-sekundový zvuk pre vyčistenie reproduktoru.</string>
+    <string name="auto_clean_summary_new">Prehrať %d-sekundový zvuk pre vyčistenie reproduktoru.</string>
     <string name="dialog_speaker_auto_clean_content_new">Vyčistenie bude trvať 30s. Zvýšte hlasitosť pre čo najlepší efekt.</string>
     <string name="dialog_speaker_auto_clean_title_new">Vyčistiť reproduktor</string>
+    <string name="progress_dialog_speaker_auto_clean_title">Čistenie reproduktoru…</string>
+    <string name="progress_dialog_speaker_auto_clean_button">Ukončiť</string>
 	 
 </resources>

@@ -357,14 +357,14 @@
     <string name="incompatible_dialog_title">Problém s kompatibilitou</string>
     <string name="install_failed">Nepodarilo sa nainštalovať</string>
     <string name="is_setting_wallpaper_message">Nastavenie tapety...</string>
-    <string name="item_resource_audio_optional_alarm_ring">Budíky</string>
+    <string name="item_resource_audio_optional_alarm_ring">Budík</string>
     <string name="item_resource_audio_optional_color_ring">Tón spätného volania</string>
     <string name="item_resource_audio_optional_notification_ring">Upozornenia</string>
     <string name="item_resource_audio_optional_phone_ring">Tón zvonenia</string>
     <string name="item_view_role_description">Tab</string>
     <string name="lab">Experimentálne</string>
     <string name="like_list">Obľúbené</string>
-    <string name="live_wallpaper">Živá tapeta</string>
+    <string name="live_wallpaper">Dynamická tapeta</string>
     <string name="load_from_local_photos">Galéria</string>
     <string name="loading">Načítavanie...</string>
     <string name="loading_picture">Načítava sa obrázok…</string>
@@ -558,7 +558,7 @@ dd.MM"</string>
     <string name="ota_recovery_theme_notity_title">Obnovte svoj motív</string>
     <string name="password_toggle_content_description">Zobraziť heslo</string>
     <string name="personalize">Prispôsobenie</string>
-    <string name="personalize_alarm_ringtone_title">Budíky</string>
+    <string name="personalize_alarm_ringtone_title">Budík</string>
     <string name="personalize_aod_title">AOD</string>
     <string name="personalize_call_ringtone_title">Zvonenia</string>
     <string name="personalize_charge_style_title">Nabíjanie</string>

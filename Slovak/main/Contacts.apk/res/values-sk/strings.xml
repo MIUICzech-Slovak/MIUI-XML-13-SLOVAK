@@ -1183,7 +1183,7 @@ Synchronizujte ich teraz."</string>
     <string name="return_call_dialing">Vytáčanie</string>
     <string name="return_call_incoming">Prichádzajúci hovor</string>
     <string name="ringLabelsGroup">Tón zvonenia</string>
-    <string name="saf_permission_dialog_content">Android predvolene nepovoľuje aplikácií Kontakty a Telefón prístup k nahrávkam hovorov. Povoľte tejto aplikácii prístup k nahrávkam hovorov.</string>
+    <string name="saf_permission_dialog_content">Android predvolene nepovoľuje aplikácii Kontakty a Telefón prístup k nahrávkam hovorov. Povoľte tejto aplikácii prístup k nahrávkam hovorov.</string>
     <string name="saf_permission_dialog_grant_permission_immediately">Povoliť</string>
     <string name="saf_permission_dialog_later">Neskôr</string>
     <string name="saf_permission_dialog_title">Povoliť prístup k nahrávkam hovorov</string>

@@ -22,12 +22,12 @@
     <string name="alarm_in_silent_mode_title">Budík v tichom režime</string>
     <string name="alarm_klaxon_service_desc">Služba prehrávania zvuku budíkov nastavených v aplikácii Hodiny.</string>
     <string name="alarm_label_hint">Zadajte názov</string>
-    <string name="alarm_list_title">Budíky</string>
+    <string name="alarm_list_title">Budík</string>
     <string name="alarm_notify_snooze_label">%s (odložené)</string>
     <string name="alarm_notify_text">Odložiť, alebo zavrieť budík</string>
     <string name="alarm_repeat">Opakovať</string>
     <string name="alarm_ringtone">Zvonenie budíka</string>
-    <string name="alarm_ringtone_picker">Budíky</string>
+    <string name="alarm_ringtone_picker">Zvuky budíkov</string>
     <string name="alarm_screen">Štýl budíka</string>
     <string name="alarm_settings">Nastavenie budíkov</string>
     <string name="alarm_settings_category_title">Nastavenie budíka</string>
@@ -350,7 +350,7 @@
     <string name="ringtone_dew">Ranná rosa</string>
     <string name="ringtone_digital_timer">Časovač</string>
     <string name="ringtone_dream">Sen</string>
-    <string name="ringtone_firefly">Fireflies</string>
+    <string name="ringtone_firefly">Svetlušky</string>
     <string name="ringtone_more">Ostatné</string>
     <string name="ringtone_other">Viac zvonení</string>
     <string name="ringtone_weather">Podľa počasia</string>

@@ -271,11 +271,11 @@ ID zariadenia musí byť platný IMEI alebo MAC adresa. Bez platného ID nebudú
     <string name="xmsf_activate_info">XMSF info</string>
     <string name="yesterday">Včera</string>
     
-<string name="activate_popup_desc_2_intl_sim_cards_msg_with_charge_hint">Ak chcete aktivovať \"%2$s\", %1$d Odošle sa medzinárodná platená SMS. Váš operátor vám bude tieto SMS účtovať.</string>
-     <string name="activate_popup_desc_2_sim_cards_msg_with_charge_hint">Ak chcete aktivovať \"%2$s\", %1$d budú odoslané domáce platené SMS. Váš operátor vám bude tieto SMS účtovať.</string>
-     <string name="activate_popup_desc_intl_sim_card_msg_with_charge_hint">Ak chcete aktivovať \"%2$s\", %1$d Odošle sa medzinárodná platená SMS. Váš operátor vám túto SMS naúčtuje.</string>
-     <string name="activate_popup_desc_mixed_sim_cards_msg_with_charge_hint">Ak chcete aktivovať \"%3$s\", %1$d domáce platené SMS a %2$d medzinárodné platené SMS budú odoslané. Váš operátor vám bude tieto SMS účtovať.</string>
-     <string name="activate_popup_desc_sim_card_msg_with_charge_hint">Aktivácia \"%2$s\", %1$d platená SMS sa odošle. Váš operátor vám túto SMS naúčtuje.</string>
+<string name="activate_popup_desc_2_intl_sim_cards_msg_with_charge_hint">Ak chcete aktivovať \"%2$s\". Odošle sa %1$d medzinárodná platená SMS. Váš operátor vám bude tieto SMS účtovať.</string>
+     <string name="activate_popup_desc_2_sim_cards_msg_with_charge_hint">Ak chcete aktivovať \"%2$s\". Budú odoslané %1$d domáce platené SMS. Váš operátor vám bude tieto SMS účtovať.</string>
+     <string name="activate_popup_desc_intl_sim_card_msg_with_charge_hint">Ak chcete aktivovať \"%2$s\". Odošle sa %1$d medzinárodná platená SMS. Váš operátor vám túto SMS naúčtuje.</string>
+     <string name="activate_popup_desc_mixed_sim_cards_msg_with_charge_hint">Ak chcete aktivovať \"%3$s\". %1$d domáce platené SMS a %2$d medzinárodné platené SMS budú odoslané. Váš operátor vám bude tieto SMS účtovať.</string>
+     <string name="activate_popup_desc_sim_card_msg_with_charge_hint">Aktivácia \"%2$s\". Odošle sa %1$d platená SMS. Váš operátor vám túto SMS naúčtuje.</string>
      <string name="checking_client">Kontrola aktivačného prostredia</string>
      <string name="error_checking_client">Počas aktivácie sa vyskytla chyba</string>
      <string name="error_network_io">Vyskytla sa chyba siete</string>

@@ -659,8 +659,8 @@
     <string name="toggle_select_title">Zvoliť prepínač</string>
     <string name="toggle_title">Prepínač</string>
     <string name="tomorrow">Zajtra</string>
-    <string name="transformation_type_classic">Klasický</string>
-    <string name="transformation_type_classic_no_overshoot">Klasický</string>
+    <string name="transformation_type_classic">Klasická</string>
+    <string name="transformation_type_classic_no_overshoot">Klasická</string>
     <string name="transformation_type_crossfade">Prelínanie</string>
     <string name="transformation_type_cube">3D kocka</string>
     <string name="transformation_type_falldown">2D rotácia</string>

@@ -758,7 +758,7 @@
     <string name="tips_low_storage_dialog_ok">Vyčistiť</string>
     <string name="tips_low_storage_dialog_ok_storage">Uvoľniť miesto</string>
     <string name="tips_low_storage_dialog_title">Dochádza vám voľne miesto</string>
-    <string name="tips_of_app_manage">Odinštalujte nepoužívané aplikácie a ušetrite tak miesto na úložisku</string>
+    <string name="tips_of_app_manage">Odinštalovať nepoužívané aplikácie a ušetrite tak miesto na úložisku</string>
     <string name="tips_of_auto_launch_manage">Zakázať málo používaným aplikáciám automaticky sa spustiť na pozadí</string>
     <string name="tips_of_cloud_service">Prihláste sa svojim Mi účtom pre využívanie viac služieb</string>
     <string name="tips_of_connect">Pripojte sa k internetu pre využívanie viac funkcií Optimalizácie</string>
@@ -769,7 +769,7 @@
     <string name="tips_of_package_set">Nastavte si limit mobilných dát</string>
     <string name="tips_of_traffic_notification">Zobrazte si spotrebu mobilných dát v roletke</string>
     <string name="tips_of_traffic_pack_threshold">"Buy more data when you're about to reach your traffic limit"</string>
-    <string name="tips_of_virus_scan">Skontrolujte svoje zariadenie na prítomnosť vírusov pre vašu bezpečnosť</string>
+    <string name="tips_of_virus_scan">Skontrolovať svoje zariadenie na prítomnosť vírusov pre vašu bezpečnosť</string>
     <string name="title_auto_cleaner">Automaticky vyčistiť?</string>
     <string name="title_delete_cache">Vymazať cache</string>
     <string name="title_delete_clipboard">Obsah schránky</string>

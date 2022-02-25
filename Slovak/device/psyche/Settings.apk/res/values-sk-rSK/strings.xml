@@ -241,7 +241,7 @@ Tlačidlo dostupnosti pláva na obrazovke nad ostatnými aplikáciami. Klepnite 
     <string name="alarm_template_far">o %1$s</string>
     <string name="alarms_and_reminders_footer_title">"Povoľte tejto aplikácii nastavovať budíky a plánovať akcie s časovým obmedzením. Aplikácii to umožní pracovať na pozadí, čo môže zvýšiť spotrebu batérie.
 
-Ak je toto povolenie vypnuté, súčasné budíky a udalosti s časovým obmedzením naplánované touto aplikáciu nebudú fungovať."</string>
+Ak je toto povolenie vypnuté, súčasné budíky a udalosti s časovým obmedzením naplánované touto aplikáciou nebudú fungovať."</string>
     <string name="alarms_and_reminders_label">Budíky a pripomenutia</string>
     <string name="alarms_and_reminders_switch_title">Povoliť nastavovanie budíkov a pripomenutí</string>
     <string name="alarms_and_reminders_title">Budíky a pripomenutia</string>
