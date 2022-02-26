@@ -87,7 +87,7 @@
     <string name="clock_bg_button_setting_title">Farba pozadia</string>
     <string name="close">Zatvoriť</string>
     <string name="close_alarm">Zavrieť budík</string>
-    <string name="close_alarm_new">Zastaviť</string>
+    <string name="close_alarm_new">Ukončiť</string>
     <string name="common_settings">Časté nastavenia</string>
     <string name="common_timer_selector">Vybrať časovač</string>
     <string name="confirm">Potvrdiť</string>
