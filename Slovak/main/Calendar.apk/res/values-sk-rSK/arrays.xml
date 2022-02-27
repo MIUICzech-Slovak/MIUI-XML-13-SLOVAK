@@ -29,43 +29,6 @@
         <item>nov</item>
         <item>dec</item>
     </string-array>
-    <string-array name="repeat_monthly_on_day_count_values">
-        <item>prvý Pondelok</item>
-        <item>prvý Utorok</item>
-        <item>prvá Streda</item>
-        <item>prvý Štvrtok</item>
-        <item>prvý Piatok</item>
-        <item>prvá Sobota</item>
-        <item>prvá Nedeľa</item>
-        <item>druhý Pondelok</item>
-        <item>druhý Utorok</item>
-        <item>druhá Streda</item>
-        <item>druhý Štvrtok</item>
-        <item>druhý Piatok</item>
-        <item>druhá Sobota</item>
-        <item>druhá Nedeľa</item>
-        <item>tretí Pondelok</item>
-        <item>tretí Utorok</item>
-        <item>tretia Streda</item>
-        <item>tretí Štvrtok</item>
-        <item>tretí Piatok</item>
-        <item>tretia Sobota</item>
-        <item>tretia Nedeľa</item>
-        <item>štvrtý Pondelok</item>
-        <item>štvrtý Utorok</item>
-        <item>štvrtá Streda</item>
-        <item>štvrtý Štvrtok</item>
-        <item>štvrtý Piatok</item>
-        <item>štvrtá Sobota</item>
-        <item>štvrtá Nedeľa</item>
-        <item>posledný Pondelok</item>
-        <item>posledný Utorok</item>
-        <item>posledná Streda</item>
-        <item>posledný Štvrtok</item>
-        <item>posledný Piatok</item>
-        <item>posledná Sobota</item>
-        <item>posledná Nedeľa</item>
-    </string-array>
     <string-array name="year_view_week_header_name">
         <item>N</item>
         <item>P</item>
