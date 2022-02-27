@@ -538,7 +538,7 @@
       <string name="permission_related">Povolenia</string>
       <string name="privacy_settings_title">Ochrana osobných údajov</string>
       <string name="query_privacy_policy">Zobraziť Ochranu osobných údajov</string>
-      <string name="read_external_storage_permission_desc">Na nastavenie vlastných vyzváňacích tónov</string>
+      <string name="read_external_storage_permission_desc">Pre nastavenie vlastných vyzváňacích tónov</string>
       <string name="read_internal_storage">Prístup k úložisku</string>
       
 <string name="show_life_post_desc">„Ak túto funkciu vypnete, ranné správy sa nebudú zobrazovať“</string>

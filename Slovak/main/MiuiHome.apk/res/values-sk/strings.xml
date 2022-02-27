@@ -549,7 +549,7 @@
     <string name="recents_task_screening">Vysielanie</string>
     <string name="recents_title_app_manager">Spravovať aplikácie</string>
     <string name="recents_title_game">Hry</string>
-    <string name="recents_title_garbage_cleanup">Vyčistiť</string>
+    <string name="recents_title_garbage_cleanup">Čistič</string>
     <string name="recents_title_garbage_deepclean">Hĺbkové čistenie</string>
     <string name="recents_title_market">Vyhľadať aplikácie</string>
     <string name="recents_title_security_scan">Antivírus</string>
