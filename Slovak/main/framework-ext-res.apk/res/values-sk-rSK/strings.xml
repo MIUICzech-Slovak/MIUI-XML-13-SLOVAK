@@ -166,7 +166,7 @@
     <string name="nearby_share">Zdieľanie nablízku</string>
     <string name="notification_channel_hotspot">Hotspot upozornenie</string>
     <string name="onehour">30 minút</string>
-    <string name="open_close_tip_action">Rozumiem</string>
+    <string name="open_close_tip_action">OK</string>
     <string name="open_close_tip_content">Pre zatvorenie plávajúceho okna,stlačte a podržte lištu a potiahnite nahor</string>
     <string name="other_ime">Ostatné klávesnice</string>
     <string name="package_delete_confirm_step_1">Vymazať %s?</string>
