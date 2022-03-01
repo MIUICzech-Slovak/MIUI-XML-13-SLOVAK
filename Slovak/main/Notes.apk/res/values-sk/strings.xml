@@ -629,4 +629,22 @@ http://www.miuios.cz/rom
     <string name="widget_under_privacy_mode">Režim Súkromie, nie je možné zobraziť obsah poznámky</string>
     <string name="yesterday">Včera</string>
     <string name="permission_data_shared_desc">Vyhlásenie o zdieľaní údajov tretej strany</string>
+	
+<string name="alert_message_edit_anyway_new">Táto poznámka obsahuje nepodporovaný obsah. Úprava môže spôsobiť zmeny formátu alebo stratu údajov.</string>
+    <string name="error_unsupport_content_format">Táto poznámka obsahuje nepodporovaný obsah. Aktualizujte na verziu %1$s alebo novšiu.</string>
+    <string name="setting_big_screen_layout_columns">Bočný panel</string>
+    <string name="setting_big_screen_layout_flat">Dlaždice</string>
+    <string name="setting_big_screen_layout_title">Rozloženie na veľkej obrazovke</string>
+    <string name="setting_layout">Rozloženie</string>
+    <string name="setting_micloud_sync_title">Synchronizácia s cloudom</string>
+    <string name="setting_note_list_layout_title">Rozloženie</string>
+    <string name="warn_cannot_add_new_bullet">Nie je možné pridať nový zoznam s odrážkami, pretože poznámka je príliš dlhá</string>
+    <string name="warn_cannot_add_new_checkbox">Nie je možné pridať nové začiarkavacie políčko, pretože poznámka je príliš dlhá</string>
+    <string name="warn_cannot_add_new_doodle">Nové sviatočné logo nie je možné pridať, pretože poznámka je príliš dlhá</string>
+    <string name="warn_cannot_add_new_element">Novú položku nie je možné pridať, pretože poznámka je príliš dlhá</string>
+    <string name="warn_cannot_add_new_link_card">Nie je možné pridať nový odkaz, pretože poznámka je príliš dlhá</string>
+    <string name="warn_cannot_add_new_picture">Nie je možné pridať nový obrázok, pretože poznámka je príliš dlhá</string>
+    <string name="warn_cannot_add_new_style">Nie je možné pridať nový formát, pretože poznámka je príliš dlhá</string>
+    <string name="warn_disable_edit_in_browse_mode">Poznámky nemôžete upravovať v režime iba na čítanie</string>
+    <string name="warn_enter_browse_mode">Ste v režime iba na čítanie</string>
 </resources>

@@ -1040,4 +1040,16 @@ Pokus: %s."</string>
     <string name="zero_sms_feedback_message">Nahlásené správy sú odoslané na náš server pre ďalšiu analýzu.</string>
     <string name="zero_sms_feedback_success">Nahlásené</string>
     <string name="zero_sms_feedback_title">Nahlásiť</string>
+	
+    <string name="mms_mi_message_main_purpose">Vitajte v Mi Správach! Pre aktiváciu bude odoslaná platená SMS.</string>
+    <string name="mms_mi_message_request_notice">Chceme vám dať čo najviac z Mi Správ.</string>
+    <string name="mms_mx_privacy_policy">Ochrana súkromia Mi Správ</string>
+    <string name="mms_smart_msg_main_purpose">Inteligentné správy môžu rozpoznať odosielateľa a podozrivé správy.</string>
+    <string name="mms_smart_msg_privacy_policy">Ochrana súkromia Inteligentných správ</string>
+    <string name="mms_user_agreement">Podmienky používania</string>
+    <string name="system_permission_declare_mi_message">Vitajte v Mi Správach!</string>
+    <string name="system_permission_declare_rcs">Vitajte v 5G Správach!</string>
+    <string name="system_permission_declare_smart_message">Vitajte v Inteligentných Správach!</string>
+    <string name="system_permission_declare_user_agree">Súhlasím</string>	
+    <string name="system_permission_user_privacy">Prečítajte si nasledujúce Podmienky používania.</string>	
 </resources>

@@ -8,7 +8,7 @@ Reklamný identifikátor je permanentné ID vášho zariadenia. Výrobcovia ho p
 Ak vyberiete nepoužívať prispôsobené reklamy, ich počet sa nezníži ale nebudú cielené priamo na vás."</string>
     <string name="abc_slice_more">Viac</string>
     <string name="about_ad_service_instructions_for_global">Informácie o reklamných službách a ochrane osobných údajov v systémových aplikáciách MIUI</string>
-    <string name="about_phone_enter_xiaomi_net">Learn more</string>
+    <string name="about_phone_enter_xiaomi_net">Zistiť viac</string>
     <string name="about_settings">Info o telefóne</string>
     <string name="about_settings_summary">Zobrazí právne informácie, stav a verziu softwaru</string>
     <string name="ac_enable_summary">Pre otvorenie aplikácií bude požadované heslo</string>
@@ -560,7 +560,7 @@ Správca môže sledovať a spravovať nastavenia, prístup, aplikácie a údaje
     <string name="auto_caps_summary">Prvé písmeno vo vete je automaticky veľké</string>
     <string name="auto_clean_description">"O tejto funkcii:
 1. Spustite túto funkciu raz alebo dvakrát ak je reproduktor zanesený prachom.
-2. Ak je reproduktor zablokovaný, spustite čistenie 2-5 krát a zatraste zariadením."</string>
+2. Ak je reproduktor zablokovaný, spustite čistenie %1$d-%2$d-krát a zatraste zariadením."</string>
     <string name="auto_clean_description_pad">"O tejto funkcii
 - Spustite túto funkciu raz alebo dvakrát, ak zistíte, že váš reproduktor je mierne blokovaný prachom.
 - Ak je reproduktor silne zablokovaný, spustite túto funkciu %1$d-%2$d-krát, pričom zatraste zariadením tak, aby reproduktor smeroval nadol.“</string>
@@ -7566,5 +7566,50 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
     <string name="dialog_speaker_auto_clean_title_new">Vyčistiť reproduktor</string>
     <string name="progress_dialog_speaker_auto_clean_title">Čistenie reproduktoru…</string>
     <string name="progress_dialog_speaker_auto_clean_button">Ukončiť</string>
-	 
+
+    <string name="animation_off">Animácie vypnuté</string>
+    <string name="at_most_one_process">Najviac %d proces</string>
+<string name="bluetooth_a2dp_codec_ldac_playback_quality_titles_1">Optimalizované pre kvalitu zvuku (%1$dkbps/%2$dkbps)</string>
+     <string name="bluetooth_a2dp_codec_ldac_playback_quality_titles_2">Vyvážená kvalita zvuku a pripojenia (%1$dkbps/%2$dkbps)</string>
+     <string name="bluetooth_a2dp_codec_ldac_playback_quality_titles_3">Optimalizované pre kvalitu pripojenia (%1$dkbps/%2$dkbps)</string>
+     <string name="bluetooth_a2dp_codec_ldac_playback_quality_titles_4">Najlepší efekt (Adaptívna bitová rýchlosť)</string>
+<string name="force_msaa_new">Vynútiť %dx MSAA</string>
+     <string name="force_msaa_summary_new">Povoliť %2$dx MSAA v OpenGL ES %1$.1f</string>
+     <string name="max_number_of_processes">Najviac %d procesov</string>
+     <string name="no_background_processes">Žiadne procesy na pozadí</string>
+     <string name="standard_limit">Štandardný limit</string>
+    <string name="standard_limit">Standard limit</string>
+    <string name="string_after_int_minute">Po %d min.</string>
+    <string name="string_after_int_minutes">Po %d min.</string>
+    <string name="string_after_int_seconds">Po %ds</string>
+    <string name="string_always">Vždy</string>
+    <string name="string_bits_per_sample">%d bits/sample</string>
+<string name="string_bluetooth_a2dp_codec_lhdc_latency_titles_1">Krátke oneskorenie (%1$d~%2$dms)</string>
+     <string name="string_bluetooth_a2dp_codec_lhdc_latency_titles_2">Stredné oneskorenie (%1$d~%2$dms)</string>
+     <string name="string_bluetooth_a2dp_codec_lhdc_latency_titles_3">Dlhé oneskorenie (%1$d~%2$dms)</string>
+<string name="string_bluetooth_a2dp_codec_lhdc_playback_quality_titles_1">Optimalizované pre nízke oneskorenie (%dkbps)</string>
+     <string name="string_bluetooth_a2dp_codec_lhdc_playback_quality_titles_2">Optimalizované pre kvalitu pripojenia (%dkbps)</string>
+     <string name="string_bluetooth_a2dp_codec_lhdc_playback_quality_titles_3">Vyvážená kvalita zvuku a pripojenia (%1$d/%2$dkbps)</string>
+     <string name="string_bluetooth_a2dp_codec_lhdc_playback_quality_titles_4">Optimalizované pre kvalitu zvuku (%dkbps)</string>
+     <string name="string_bluetooth_a2dp_codec_lhdc_playback_quality_titles_5">Maximálne úsilie (automatická bitová rýchlosť)</string>
+    <string name="string_float_inches">%f inches</string>
+    <string name="string_float_seconds">%f s</string>
+    <string name="string_immediately">Okamžite</string>
+    <string name="string_int_hour">%dh</string>
+    <string name="string_int_hours">%dh</string>
+    <string name="string_int_minute">%dmin</string>
+    <string name="string_int_minutes">%dmin</string>
+    <string name="string_int_second">%ds</string>
+    <string name="string_int_seconds">%ds</string>
+    <string name="string_never">Nikdy</string>
+    <string name="string_scale_float">Mierka animácií %.1fx</string>
+    <string name="string_scale_int">Mierka animácií %dx</string>
+    <string name="string_unlimited">Neobmedzené</string>
+    <string name="time_format_entries_1">%d-h 1:00 PM</string>
+    <string name="time_format_entries_2">%d-h 13:00</string>
+    <string name="time_format_entries_3">Auto (podľa jazyka)</string>
+<string name="use_system_preference">Použiť systémové nastavenia (Predvolené)</string>	
+
+    <string name="wifi_region_title">Wi-Fi región</string>
+    <string name="wifi_region_summary">Nastaviť kanály pre Wi-Fi (pripojte sa znova pre použitie)</string>
 </resources>
