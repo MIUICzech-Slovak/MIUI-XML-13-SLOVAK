@@ -1342,4 +1342,8 @@ Dotykom vypnete."</string>
     <string name="configure_success_not_enable_aod">Nastavené. Zapnite Always-on displej pre použitie témy.</string>
     <string name="super_wallpaper_dialog_content">Úspora batérie deaktivuje dynamickú tapetu.</string>
     <string name="video_wallpaper_apply_warning">Táto tapeta bude použitá pre plochu aj zamknutú obrazovku. Nastaviť teraz?</string>	
+	
+    <string name="exo_download_paused">Sťahovania pozastavené</string>
+    <string name="exo_download_paused_for_network">Sťahovania čakajú na sieť</string>
+    <string name="exo_download_paused_for_wifi">Sťahovania čakajú na Wi-Fi</string>	
 </resources>

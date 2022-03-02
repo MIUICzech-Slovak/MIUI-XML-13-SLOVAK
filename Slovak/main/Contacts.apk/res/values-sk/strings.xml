@@ -1483,5 +1483,6 @@ Ako udeliť povolenie
 Klepnite na \"%1$s\" a potom vyberte \"%2$s\"."</string>
      <string name="new_saf_permission_dialog_grant_permission_immediately">Ďalej</string>
      <string name="new_saf_permission_dialog_title">Vyžadujú sa povolenia</string>   
-<string name="this_folder">Použiť tento priečinok</string>          
+<string name="this_folder">Použiť tento priečinok</string>        
+<string name="call_record_auto_unknown_number">Neznáme číslo</string>  
 </resources>

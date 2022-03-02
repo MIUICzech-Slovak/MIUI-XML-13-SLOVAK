@@ -7610,5 +7610,6 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
 <string name="use_system_preference">Použiť systémové nastavenia (Predvolené)</string>	
 
     <string name="wifi_region_title">Wi-Fi región</string>
-    <string name="wifi_region_summary">Nastaviť kanály pre Wi-Fi (reštartujte Wi-Fi pre použitie)</string>
+    <string name="wifi_region_summary">Nastaviť kanály Wi-Fi (reštartujte Wi-Fi pre použitie)</string>
+	<string name="choose_sim_item_summary_unknown">Neznáme číslo</string>
 </resources>
