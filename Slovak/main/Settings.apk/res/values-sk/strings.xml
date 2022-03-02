@@ -7578,7 +7578,6 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
      <string name="max_number_of_processes">Najviac %d procesov</string>
      <string name="no_background_processes">Žiadne procesy na pozadí</string>
      <string name="standard_limit">Štandardný limit</string>
-    <string name="standard_limit">Standard limit</string>
     <string name="string_after_int_minute">Po %d min.</string>
     <string name="string_after_int_minutes">Po %d min.</string>
     <string name="string_after_int_seconds">Po %ds</string>
@@ -7611,5 +7610,5 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
 <string name="use_system_preference">Použiť systémové nastavenia (Predvolené)</string>	
 
     <string name="wifi_region_title">Wi-Fi región</string>
-    <string name="wifi_region_summary">Nastaviť kanály pre Wi-Fi (pripojte sa znova pre použitie)</string>
+    <string name="wifi_region_summary">Nastaviť kanály pre Wi-Fi (reštartujte Wi-Fi pre použitie)</string>
 </resources>

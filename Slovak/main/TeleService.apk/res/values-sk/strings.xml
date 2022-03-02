@@ -1941,7 +1941,5 @@ Ak sa rozhodnete uprednostňovať mobilné siete, budú sa predvolene používa�
      <string name="mtn_simlock_emergency">Núdzový stav</string>
      <string name="mtn_simlock_text_tip">Vložená SIM karta nespĺňa požiadavku. Pred použitím telefónu je potrebné vložiť SIM kartu, ktorú vyžaduje zmluva. Podrobnosti vám poskytne váš operátor.</string>
      <string name="sim_can_not_read">Slot na kartu %d dokáže čítať iba SIM kartu operátora MTN</string>
-     <string name="xcap_setting_summary">Blokovanie hovorov, hlasová schránka, presmerovanie hovorov a čakajúci hovor</string>
-     <string name="xcap_setting_title">Nastavenia služby hovorov</string>	
-	
+
 </resources>
