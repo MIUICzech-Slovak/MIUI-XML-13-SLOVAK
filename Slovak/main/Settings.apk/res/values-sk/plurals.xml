@@ -193,7 +193,7 @@
     </plurals>	
     <plurals name="aod_dual_togother_city">
         <item quantity="other">" %1$s Hodín %2$s"</item>
- 	<item quantity="other">" %1$s Hodina %2$s"</item>
+ 	<item quantity="one">" %1$s Hodina %2$s"</item>
     </plurals>	
     <plurals name="usage_state_device_explain_today">
         <item quantity="other">Odomknuté %d krát</item>
