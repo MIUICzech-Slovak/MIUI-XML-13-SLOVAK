@@ -17,6 +17,8 @@
     <string name="dolby_dax_profile_dynamic">Dynamický</string>
     <string name="dolby_dax_setting">Dolby efekty</string>
     <string name="dolby_dax_title">Surround sound</string>
+    <string name="effect_virtual_surround">Virtuálny pohlcujúci zvuk</string>
+    <string name="effect_virtual_surround_summary">"Zvýšte hĺbku zvuku pre prehrávanie zvuku a videa v slúchadlách (táto funkcia nebude fungovať, keď sa prehráva zvuk %.1f)"</string>
     <string name="end_wireless_transmission">Zastaviť</string>
     <string name="eq_auto">Vlastný</string>
     <string name="eq_blues">Blues</string>
@@ -388,7 +390,4 @@
     <string name="wireless_transmission_definition">Prenášať zvuk z mikrofónu do externého Bluetooth zariadenia</string>
     <string name="wireless_transmission_prompt">Pre prenos zvuku musíte povoliť Bluetooth. Chcete ho zapnúť?</string>
     <string name="yesterday">Včera</string>
-    
-<string name="effect_virtual_surround">Virtuálny pohlcujúci zvuk</string>
-     <string name="effect_virtual_surround_summary">"Zvýšte hĺbku zvuku pre prehrávanie zvuku a videa v slúchadlách (táto funkcia nebude fungovať, keď sa prehráva zvuk %.1f)"</string>    
 </resources>

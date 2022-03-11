@@ -33,6 +33,7 @@
     <string name="atrace_saved">Uložené</string>
     <string name="background">Aplikácia je na pozadí</string>
     <string name="base_info">Info</string>
+    <string name="clear_temperature">Konečná teplota</string>
     <string name="cloud_addr_info">HideMode cloud info</string>
     <string name="cloud_china_addr">Update china server data</string>
     <string name="cloud_international_addr">Update international server data</string>
@@ -322,7 +323,9 @@
     <string name="scenario_policies_warmcontrol">Kontrola prehrievania</string>
     <string name="screen_off">Displej Vyp.</string>
     <string name="screen_off_10_min">Displej vypnutý viac ako 10 minút</string>
+    <string name="screen_off_current">Displej vypnutý DC</string>
     <string name="screen_on">Displej Zap.</string>
+    <string name="screen_on_current">Displej zapnutý DC</string>
     <string name="search_events">Vyhľadať udalosť</string>
     <string name="search_history">História</string>
     <string name="search_result_text">Nič sa nenašlo</string>
@@ -362,6 +365,7 @@
     <string name="time_picker_label_minute">M</string>
     <string name="today">Dnes</string>
     <string name="tomorrow">Zajtra</string>
+    <string name="trig_temperature">Začiatočná teplota</string>
     <string name="tuesday">Utorok</string>
     <string name="tuesday_short">Uto</string>
     <string name="tuesday_shortest">U</string>
@@ -375,9 +379,4 @@
     <string name="wednesday_short">Str</string>
     <string name="wednesday_shortest">S</string>
     <string name="yesterday">Včera</string>
-	
-	<string name="clear_temperature">Konečná teplota</string>
-	<string name="screen_off_current">Displej vypnutý DC</string>
-	<string name="screen_on_current">Displej zapnutý DC</string>
-    <string name="trig_temperature">Začiatočná teplota</string>			
 </resources>

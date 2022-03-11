@@ -50,6 +50,10 @@
     <string name="grain_rain" />
     <string name="great_cold" />
     <string name="great_heat" />
+    <string name="group_name_contacts">Kontakty</string>
+    <string name="group_name_coworkers">Kolegovia</string>
+    <string name="group_name_family">Rodina</string>
+    <string name="group_name_friends">Priatelia</string>
     <string name="heavy_snow" />
     <string name="hksar_establishment_day" />
     <string name="hoar_frost_falls" />
@@ -154,9 +158,4 @@ dd.MM"</string>
     <string name="yellow_page_sms_send_failed">Odosielanie SMS správy zlyhalo.</string>
     <string name="yellow_page_sms_sending">Odosielanie...</string>
     <string name="yellow_page_unable_send_sms">Nie je možné odoslať SMS správu.</string>
-    
-     <string name="group_name_contacts">Kontakty</string>
-     <string name="group_name_coworkers">Kolegovia</string>
-     <string name="group_name_family">Rodina</string>
-     <string name="group_name_friends">Priatelia</string>    
 </resources>

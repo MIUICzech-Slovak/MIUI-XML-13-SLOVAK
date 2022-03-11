@@ -16,6 +16,12 @@
     <string name="bluetooth_preference_found_devices">Dostupné zariadenia</string>
     <string name="bluetooth_preference_scan_title">Vyhľadať zariadenie</string>
     <string name="bluetooth_search_for_devices">Hľadanie zariadení</string>
+    <string name="config_net_device_connect">Pripojiť</string>
+    <string name="config_net_device_find">Pripojiť zariadenie</string>
+    <string name="config_net_not_my_device">Zrušiť</string>
+    <string name="confignet_app_download">Inštalovať</string>
+    <string name="confignet_cancel">Zrušiť</string>
+    <string name="confignet_download_title">Ak chcete pokračovať, nainštalujte Mi Fitness</string>
     <string name="copy">Kopírovať</string>
     <string name="device_picker">Bluetooth zariadenie</string>
     <string name="disconnect">Odpojiť</string>
@@ -227,11 +233,4 @@ Rýchlejšie pripojenie."</string>
     <string name="wednesday_short">Str</string>
     <string name="wednesday_shortest">S</string>
     <string name="yesterday">Včera</string>
-    
-<string name="config_net_device_connect">Pripojiť</string>
-     <string name="config_net_device_find">Pripojiť zariadenie</string>
-     <string name="config_net_not_my_device">Zrušiť</string>
-     <string name="confignet_app_download">Inštalovať</string>
-     <string name="confignet_cancel">Zrušiť</string>
-     <string name="confignet_download_title">Ak chcete pokračovať, nainštalujte Mi Fitness</string>    
 </resources>

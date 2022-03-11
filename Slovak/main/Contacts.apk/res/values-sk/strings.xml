@@ -4,6 +4,7 @@
     <string name="accessibility_contact_detail">Podrobnosti</string>
     <string name="account_container_title">V tomto účte</string>
     <string name="account_default">Telefón</string>
+    <string name="account_dual_sim">SIM %s</string>
     <string name="account_phone">Len v Telefóne, nesynchr.</string>
     <string name="account_sim">SIM karta</string>
     <string name="account_sim2">SIM karta %d</string>
@@ -87,6 +88,41 @@
     <string name="call_other_fax">Volať fax</string>
     <string name="call_pager">Volať pager</string>
     <string name="call_radio">Volať rádiostanicu</string>
+    <string name="call_record_add_numbers">Pridať telefónne čísla</string>
+    <string name="call_record_auto_always">Všetky hovory</string>
+    <string name="call_record_auto_scenario_title">Nahrané hovory</string>
+    <string name="call_record_auto_summary">Automaticky nahrávať hovory</string>
+    <string name="call_record_auto_title">Nahrávať automaticky</string>
+    <string name="call_record_auto_unknown_number">Neznáme číslo</string>
+    <string name="call_record_auto_whitelist">Vybrané telefónne čísla</string>
+    <string name="call_record_content_search">Hlasové vyhľadávanie hovorov</string>
+    <string name="call_record_content_search_summary">Automaticky zaznamenávať a prepisovať hovory, aby ste mohli nájsť hovory, počas ktorých boli spomenuté určité slová</string>
+    <string name="call_record_content_summary">"Aby bolo chránené vaše súkromie, budú zvukové záznamy vašich hovorov spolu s prepísaným textom zašifrované a uložené miestne vo vašom zariadení. Iné aplikácie nebudú mať k týmto položkám prístup."</string>
+    <string name="call_record_content_title">Prepis nahrávok hovorov</string>
+    <string name="call_record_content_type">Uložené nahrávky</string>
+    <string name="call_record_content_type_audio">Iba zvuk</string>
+    <string name="call_record_content_type_audio_text">Zvuk a text</string>
+    <string name="call_record_content_type_text">Iba text</string>
+    <string name="call_record_history">Nahrávky hovorov</string>
+    <string name="call_record_password">Heslo ochrany súkromia</string>
+    <string name="call_record_password_closed">Vypnuté</string>
+    <string name="call_record_password_opened">Zapnuté</string>
+    <string name="call_record_password_summary">Chraňte nahrávky hovorov pomocou ďalšieho hesla</string>
+    <string name="call_record_setting_miui">Nahrávanie hovoru</string>
+    <string name="call_record_storage_list">Nahrávky hovorov</string>
+    <string name="call_record_text_auto_delete">Automatické mazanie nahrávok hovorov</string>
+    <string name="call_record_text_auto_delete_half_year">Po %d mesiacoch</string>
+    <string name="call_record_text_auto_delete_never">Nikdy</string>
+    <string name="call_record_text_auto_delete_one_month">Po %d mesiaci</string>
+    <string name="call_record_user_notice_all_purpose">Nájdite hovory, počas ktorých boli spomenuté určité slová</string>
+    <string name="call_record_user_notice_permission_desc_microphone">Na nahrávanie hovorov</string>
+    <string name="call_record_user_notice_permission_desc_storage">Pre ukladanie nahrávok</string>
+    <string name="call_record_user_notice_title">Hlasové vyhľadávanie</string>
+    <string name="call_record_whitelist_custom">Vybrané hovory</string>
+    <string name="call_recording_notification_summary">Dostávať upozornenia po nahratí hovoru</string>
+    <string name="call_recording_notification_title">Upozorňovať na nahrané hovory</string>
+    <string name="call_recording_notification_title_error">"Hovor sa nepodarilo nahrať"</string>
+    <string name="call_recording_setting">Nahrávky hovorov</string>
     <string name="call_settings">Nastavenia</string>
     <string name="call_sim1_description">SIM 1</string>
     <string name="call_sim1_menu_title">Volať cez SIM1</string>
@@ -103,6 +139,7 @@
     <string name="calllog_menu_blacklist">Pridať na čiernu listinu</string>
     <string name="calllog_menu_edit_before_call">Upraviť pred volaním</string>
     <string name="calllog_menu_send_sms">Poslať SMS</string>
+    <string name="calllog_record_none_toast">Žiadne nahrávky hovorov na zobrazenie</string>
     <string name="callrecordview_item_newcontact">Nový kontakt</string>
     <string name="callrecordview_item_op_time_minutes_seconds">%1$d m %2$d s</string>
     <string name="callrecordview_item_op_time_missed">Nezdvihnuté</string>
@@ -895,6 +932,12 @@ Chyba: \"%s\""</string>
     <string name="name_phonetic_middle">Prostredné meno foneticky</string>
     <string name="name_prefix">Pred menom</string>
     <string name="name_suffix">Za menom</string>
+    <string name="new_saf_permission_dialog_content">"Povolenia ku kontaktom boli aktualizované. Povoľte kontaktom prístup k záznamom hovorov.
+
+Ako udeliť povolenie
+Klepnite na \"%1$s\" a potom vyberte \"%2$s\"."</string>
+    <string name="new_saf_permission_dialog_grant_permission_immediately">Ďalej</string>
+    <string name="new_saf_permission_dialog_title">Vyžadujú sa povolenia</string>
     <string name="next">Ďalej</string>
     <string name="next_birthday">Ďalšie narodeniny: %s</string>
     <string name="nfc_vcard_file_name">Kontakt získaný cez NFC</string>
@@ -1355,6 +1398,7 @@ Synchronizujte ich teraz."</string>
     <string name="theme_dialog_confirm_button">Rozumiem</string>
     <string name="theme_dialog_confirm_content">Táto verzia Kontaktov nepodporuje aktuálny nastavený vzhľad.</string>
     <string name="theme_dialog_confirm_title">Nie je možné použiť tému</string>
+    <string name="this_folder">Použiť tento priečinok</string>
     <string name="thursday">Štvrtok</string>
     <string name="thursday_short">Štv</string>
     <string name="thursday_shortest">Š</string>
@@ -1472,51 +1516,4 @@ Zvoľte jednu z nasledujúcich možností:</string>
     <string name="yellowpage_user_profile">Profil</string>
     <string name="yesterday">Včera</string>
     <string name="zero_items_selected">Nič nie je vybrané</string>
-    
-    <string name="account_dual_sim">SIM %s</string>    
-    
-    <string name="calllog_record_none_toast">Žiadne nahrávky hovorov na zobrazenie</string>
-<string name="new_saf_permission_dialog_content">"Povolenia ku kontaktom boli aktualizované. Povoľte kontaktom prístup k záznamom hovorov.
-
-Ako udeliť povolenie
-Klepnite na \"%1$s\" a potom vyberte \"%2$s\"."</string>
-     <string name="new_saf_permission_dialog_grant_permission_immediately">Ďalej</string>
-     <string name="new_saf_permission_dialog_title">Vyžadujú sa povolenia</string>   
-<string name="this_folder">Použiť tento priečinok</string>        
-<string name="call_record_auto_unknown_number">Neznáme číslo</string> 
-    
-<string name="call_record_add_numbers">Pridať telefónne čísla</string>
-     <string name="call_record_auto_always">Všetky hovory</string>
-     <string name="call_record_auto_scenario_title">Nahrané hovory</string>
-     <string name="call_record_auto_summary">Automaticky nahrávať hovory</string>
-     <string name="call_record_auto_title">Nahrávať automaticky</string>
-     <string name="call_record_auto_whitelist">Vybrané telefónne čísla</string>
-     <string name="call_record_content_search">Hlasové vyhľadávanie hovorov</string>
-     <string name="call_record_content_search_summary">Automaticky zaznamenávať a prepisovať hovory, aby ste mohli nájsť hovory, počas ktorých boli spomenuté určité slová</string>
-     <string name="call_record_content_summary">"Aby bolo chránené vaše súkromie, budú zvukové záznamy vašich hovorov spolu s prepísaným textom zašifrované a uložené miestne vo vašom zariadení. Iné aplikácie nebudú mať k týmto položkám prístup."</string>
-     <string name="call_record_content_title">Prepis nahrávok hovorov</string>
-     <string name="call_record_content_type">Uložené nahrávky</string>
-     <string name="call_record_content_type_audio">Iba zvuk</string>
-     <string name="call_record_content_type_audio_text">Zvuk a text</string>
-     <string name="call_record_content_type_text">Iba text</string>
-     <string name="call_record_history">Nahrávky hovorov</string>
-     <string name="call_record_password">Heslo ochrany súkromia</string>
-     <string name="call_record_password_closed">Vypnuté</string>
-     <string name="call_record_password_opened">Zapnuté</string>
-     <string name="call_record_password_summary">Chraňte nahrávky hovorov pomocou ďalšieho hesla</string>
-     <string name="call_record_setting_miui">Nahrávanie hovoru</string>
-     <string name="call_record_storage_list">Nahrávky hovorov</string>
-     <string name="call_record_text_auto_delete">Automatické mazanie nahrávok hovorov</string>
-     <string name="call_record_text_auto_delete_half_year">Po %d mesiacoch</string>
-     <string name="call_record_text_auto_delete_never">Nikdy</string>
-     <string name="call_record_text_auto_delete_one_month">Po %d mesiaci</string>
-     <string name="call_record_user_notice_all_purpose">Nájdite hovory, počas ktorých boli spomenuté určité slová</string>
-     <string name="call_record_user_notice_permission_desc_microphone">Na nahrávanie hovorov</string>
-     <string name="call_record_user_notice_permission_desc_storage">Pre ukladanie nahrávok</string>
-     <string name="call_record_user_notice_title">Hlasové vyhľadávanie</string>
-     <string name="call_record_whitelist_custom">Vybrané hovory</string>
-     <string name="call_recording_notification_summary">Dostávať upozornenia po nahratí hovoru</string>
-     <string name="call_recording_notification_title">Upozorňovať na nahrané hovory</string>
-     <string name="call_recording_notification_title_error">"Hovor sa nepodarilo nahrať"</string>
-     <string name="call_recording_setting">Nahrávky hovorov</string>    
 </resources>

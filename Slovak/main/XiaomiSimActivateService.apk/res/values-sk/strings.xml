@@ -46,8 +46,10 @@
     <string name="activate_popup_confirm_failed_server">Znova</string>
     <string name="activate_popup_desc_2_intl_sim_cards">2 medzinárodne SMS budú odoslané pre aktiváciu vašej SIM karty a funkcií ako %s</string>
     <string name="activate_popup_desc_2_intl_sim_cards_msg">Pre aktiváciu %2$s, %1$d bude odoslaná medzinárodná SMS.</string>
+    <string name="activate_popup_desc_2_intl_sim_cards_msg_with_charge_hint">Ak chcete aktivovať \"%2$s\". Odošle sa %1$d medzinárodná platená SMS. Váš operátor vám bude tieto SMS účtovať.</string>
     <string name="activate_popup_desc_2_sim_cards">2 medzinárodne SMS budú odoslané pre aktiváciu vašich 2 SIM kariet a funkcií ako %s</string>
     <string name="activate_popup_desc_2_sim_cards_msg">Pre aktiváciu %2$s, %1$d bude odoslaná bežná SMS.</string>
+    <string name="activate_popup_desc_2_sim_cards_msg_with_charge_hint">Ak chcete aktivovať \"%2$s\". Budú odoslané %1$d domáce platené SMS. Váš operátor vám bude tieto SMS účtovať.</string>
     <string name="activate_popup_desc_all_gateway_failed_query_info">"Nie je možné rozpoznať vaše telefónne číslo. Uistite sa, že vaša SIM karta je aktivovaná.
 Zadajte vaše telefónne číslo novej SIM karty pre aktiváciu %s"</string>
     <string name="activate_popup_desc_all_gateway_failed_send_sms">"Nebolo možné odoslať aktivačnú SMS správu. Uistite sa, že vaša SIM karta je aktivovaná.
@@ -67,9 +69,11 @@ Zadajte vaše telefónne číslo novej SIM karty pre aktiváciu %s"</string>
     <string name="activate_popup_desc_find_device_postfix_msg_one_sim">%1$s. Pre aktiváciu \"%2$s\", zadajte telefónne číslo. Ak zmeníte SIM kartu, bude znova odoslaná aktivačná SMS.</string>
     <string name="activate_popup_desc_intl_sim_card">Medzinárodná SMS bude odoslaná pre aktiváciu vašej SIM karty a funkcií ako %s</string>
     <string name="activate_popup_desc_intl_sim_card_msg">Pre aktiváciu %2$s, %1$d bude odoslaná medzinárodná SMS.</string>
+    <string name="activate_popup_desc_intl_sim_card_msg_with_charge_hint">Ak chcete aktivovať \"%2$s\". Odošle sa %1$d medzinárodná platená SMS. Váš operátor vám túto SMS naúčtuje.</string>
     <string name="activate_popup_desc_mi_account_user_manual">%1$s. </string>
     <string name="activate_popup_desc_mixed_sim_cards">SMS a medzinárodná SMS budú odoslané pre aktiváciu vašich 2 SIM kariet a funkcií ako %s</string>
     <string name="activate_popup_desc_mixed_sim_cards_msg">Pre aktiváciu %3$s, bude odoslaná %1$d bežná a %2$d medzinárodná SMS.</string>
+    <string name="activate_popup_desc_mixed_sim_cards_msg_with_charge_hint">Ak chcete aktivovať \"%3$s\". %1$d domáce platené SMS a %2$d medzinárodné platené SMS budú odoslané. Váš operátor vám bude tieto SMS účtovať.</string>
     <string name="activate_popup_desc_new_2_intl_sim_cards">Vaše SIM karty sú zmenené. 2 medzinárodne SMS budú odoslané pre aktiváciu vašich 2 SIM kariet a funkcií ako %s</string>
     <string name="activate_popup_desc_new_2_sim_cards">Vaše SIM karty sú zmenené. 2 SMS budú odoslané pre aktiváciu vašich 2 SIM kariet a funkcií ako %s</string>
     <string name="activate_popup_desc_new_intl_sim_card">Vaša SIM karta je zmenená. Medzinárodná SMS bude odoslaná pre aktiváciu vašej SIM karty a funkcií ako %s</string>
@@ -84,6 +88,7 @@ Zadajte vaše telefónne číslo novej SIM karty pre aktiváciu %s"</string>
     <string name="activate_popup_desc_sim_card_downlink_msg">Pre aktiváciu %2$s, zadajte telefónne číslo SIM %1$d.</string>
     <string name="activate_popup_desc_sim_card_downlink_msg_one_sim">Pre aktiváciu %s, zadajte vaše telefónne číslo.</string>
     <string name="activate_popup_desc_sim_card_msg">Pre aktiváciu %2$s, bude odoslaná %1$d bežná SMS.</string>
+    <string name="activate_popup_desc_sim_card_msg_with_charge_hint">Aktivácia \"%2$s\". Odošle sa %1$d platená SMS. Váš operátor vám túto SMS naúčtuje.</string>
     <string name="activate_popup_desc_voip_privacy">Ochrane súkromia</string>
     <string name="activate_popup_desc_voip_privacy_prefix">". MIUI VOIP je poskytované weihui, prečítajte si o "</string>
     <string name="activate_popup_desc_voip_privacy_prefix_msg">%1$s. Pre aktiváciu %3$s, zadajte telefónne číslo SIM %2$d.</string>
@@ -144,13 +149,18 @@ Zadajte vaše telefónne číslo novej SIM karty pre aktiváciu %s"</string>
     <string name="activate_status_title_registering_xiaomi_account_sim">Vytváranie Mi účtu cez SIM %d…</string>
     <string name="agree">Súhlasím</string>
     <string name="app_name">Aktivácia SIM karty</string>
+    <string name="checking_client">Kontrola aktivačného prostredia</string>
+    <string name="error_checking_client">Počas aktivácie sa vyskytla chyba</string>
     <string name="error_checking_client_tip">Nebolo možné skontrolovať aktiváciu. Skúste to znova.</string>
     <string name="error_device_id_message">"Chybné ID zariadenia: %s
 ID zariadenia musí byť platný IMEI alebo MAC adresa. Bez platného ID nebudú dostupné niektoré služby a funkcie."</string>
     <string name="error_device_id_title">Nie je možné získať číslo IMEI</string>
+    <string name="error_network_io">Vyskytla sa chyba siete</string>
     <string name="error_network_io_tip">Skontrolujte nastavenie siete</string>
     <string name="error_no_get_send_sms_permission">Najskôr povoľte SIM %d odoslať SMS.</string>
     <string name="error_no_get_send_sms_permission_one_sim">Najskôr povoľte odosielanie SMS.</string>
+    <string name="error_no_send_sms_permission">Služba aktivácie SIM karty Xiaomi potrebuje povolenie na odosielanie SMS</string>
+    <string name="error_sim_not_in_service">Nie je možné aktivovať SIM kartu. Uistite sa, že máte dostatočný zostatok.</string>
     <string name="error_sim_not_in_service_tip">SIM %d sa nemôže pripojiť k sieti. Skontrolujte SIM kartu.</string>
     <string name="error_sim_not_in_service_tip_one_sim">Nebolo možné pripojiť sa k sieti. Skontrolujte SIM kartu.</string>
     <string name="explain_activate_feature_server_title">Aktivovať %s</string>
@@ -264,22 +274,11 @@ ID zariadenia musí byť platný IMEI alebo MAC adresa. Bez platného ID nebudú
     <string name="tuesday">Utorok</string>
     <string name="tuesday_short">Uto</string>
     <string name="tuesday_shortest">U</string>
+    <string name="waiting_sim_in_service">Čaká sa na aktiváciu SIM karty</string>
     <string name="wednesday">Streda</string>
     <string name="wednesday_short">Str</string>
     <string name="wednesday_shortest">S</string>
     <string name="xiaomi_cloud_service">MiCloud</string>
     <string name="xmsf_activate_info">XMSF info</string>
     <string name="yesterday">Včera</string>
-    
-<string name="activate_popup_desc_2_intl_sim_cards_msg_with_charge_hint">Ak chcete aktivovať \"%2$s\". Odošle sa %1$d medzinárodná platená SMS. Váš operátor vám bude tieto SMS účtovať.</string>
-     <string name="activate_popup_desc_2_sim_cards_msg_with_charge_hint">Ak chcete aktivovať \"%2$s\". Budú odoslané %1$d domáce platené SMS. Váš operátor vám bude tieto SMS účtovať.</string>
-     <string name="activate_popup_desc_intl_sim_card_msg_with_charge_hint">Ak chcete aktivovať \"%2$s\". Odošle sa %1$d medzinárodná platená SMS. Váš operátor vám túto SMS naúčtuje.</string>
-     <string name="activate_popup_desc_mixed_sim_cards_msg_with_charge_hint">Ak chcete aktivovať \"%3$s\". %1$d domáce platené SMS a %2$d medzinárodné platené SMS budú odoslané. Váš operátor vám bude tieto SMS účtovať.</string>
-     <string name="activate_popup_desc_sim_card_msg_with_charge_hint">Aktivácia \"%2$s\". Odošle sa %1$d platená SMS. Váš operátor vám túto SMS naúčtuje.</string>
-     <string name="checking_client">Kontrola aktivačného prostredia</string>
-     <string name="error_checking_client">Počas aktivácie sa vyskytla chyba</string>
-     <string name="error_network_io">Vyskytla sa chyba siete</string>
-     <string name="error_no_send_sms_permission">Služba aktivácie SIM karty Xiaomi potrebuje povolenie na odosielanie SMS</string>
-     <string name="error_sim_not_in_service">Nie je možné aktivovať SIM kartu. Uistite sa, že máte dostatočný zostatok.</string>
-     <string name="waiting_sim_in_service">Čaká sa na aktiváciu SIM karty</string>    
 </resources>

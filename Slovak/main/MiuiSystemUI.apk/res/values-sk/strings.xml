@@ -2231,6 +2231,7 @@ Máte tiež aktívne pripojenie k sieti VPN, ktorá môže sledovať vašu akti
     <string name="settings_toggle_position_divider_list">Prepínače nad čiarou sú aktívne</string>
     <string name="settings_toggle_position_divider_page">%1$d prepínačov nad čiarou je aktívnych</string>
     <string name="settings_toggle_position_reset">Obnoviť predvolené nastavenia</string>
+    <string name="settingslib_learn_more_text">Ďalšie informácie</string>
     <string name="share">Zdieľať</string>
     <string name="show_all_anrs">Zobrazovať všetky ANR</string>
     <string name="show_all_anrs_summary">Zobrazovať dialóg „Aplikácia neodpovedá“ aj pre aplikácie na pozadí</string>
@@ -2703,7 +2704,4 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
     <string name="zen_priority_introduction">Nebudú vás vyrušovať zvuky ani vibrácie, iba budíky, pripomenutia, udalosti a volajúci, ktorých určíte. Budete naďalej počuť všetko, čo sa rozhodnete prehrať, ako napríklad hudbu, videá a hry.</string>
     <string name="zen_silence_introduction">Zablokujú sa tým VŠETKY zvuky a vibrácie vrátane zvukov budíkov, hudby, videí a hier.</string>
     <string name="zen_silence_introduction_voice">Zablokujú sa VŠETKY zvuky a vibrácie vrátane budíkov, hudby, videí a hier. Stále však budete môcť telefonovať.</string>
-
-   <string name="settingslib_learn_more_text">Ďalšie informácie</string>
-   
 </resources>

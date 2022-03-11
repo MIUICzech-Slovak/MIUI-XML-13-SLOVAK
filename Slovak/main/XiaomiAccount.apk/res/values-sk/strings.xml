@@ -362,6 +362,7 @@
     <string name="multi_user_not_show_sync_activity_title">Nezapínajte synchr. s MiCloud</string>
     <string name="my_device_title">Súčasné zariadenie</string>
     <string name="my_favorite">Moje obľúbené</string>
+    <string name="no_account_or_forget_password">Vytvoriť účet alebo ste zabudli heslo?</string>
     <string name="no_install">Nie je nainštalované</string>
     <string name="no_network_btn">Obnoviť</string>
     <string name="no_network_title">Nie je možné sa pripojiť k sieti.</string>
@@ -788,6 +789,4 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
     <string name="wipe_data_dialog_msg_separator">, </string>
     <string name="wipe_data_dialog_title">Niektoré položky neboli synchronizované.</string>
     <string name="yesterday">Včera</string>
-	
-    <string name="no_account_or_forget_password">Vytvoriť účet alebo ste zabudli heslo?</string>	
 </resources>

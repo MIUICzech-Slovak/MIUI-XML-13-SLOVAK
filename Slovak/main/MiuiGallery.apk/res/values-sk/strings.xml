@@ -127,7 +127,9 @@
     <string name="album_rubbish_page_title">Odpad</string>
     <string name="album_rubbish_tip_title">Pravdepodobne zostatkové albumy</string>
     <string name="album_scanner">Skener</string>
+    <string name="album_screen_record">Záznamy obrazovky</string>
     <string name="album_screen_recorder">Nahrávanie plochy</string>
+    <string name="album_screenshot_and_screen_recorder_name">Screenshoty a záznamy</string>
     <string name="album_screenshot_name">Screenshot</string>
     <string name="album_share_cant_move_to_rubbish_tip">Nie je možné presunúť zdieľané albumy do koša</string>
     <string name="album_share_exit_confirm">Chcete opustiť tento album?</string>
@@ -172,6 +174,11 @@
     <string name="already_create_baby_album">Detský album už existuje v MiCloud.</string>
     <string name="already_share">Zdieľané</string>
     <string name="and">" a "</string>
+    <string name="annual_babies_title">Rastú tak rýchlo</string>
+    <string name="annual_group_people_title">Spolu</string>
+    <string name="annual_pets_title">Labka v labke</string>
+    <string name="annual_year_title">Tento rok</string>
+    <string name="annula_sports_title">Posun vpred</string>
     <string name="app_is_launching">%s sa spúšťa…</string>
     <string name="app_is_launching_common">Spúšťanie aplikácie…</string>
     <string name="app_name">Galéria</string>
@@ -225,6 +232,7 @@
     <string name="baby_album_sharer_recommand_face">Pridať už existujúce fotografie %1$s?</string>
     <string name="baby_album_sharers_page_title">Zdieľať s rodinou</string>
     <string name="baby_birthday">Narodeniny</string>
+    <string name="baby_birthday_title">Všetko najlepšie k narodeninám!</string>
     <string name="baby_face_desc">Detský album</string>
     <string name="baby_lock_wallpaper">Tapeta zamykacej obrazovky</string>
     <string name="baby_lock_wallpaper_cancelled">Zmenené na predvolenú tapetu zamknutej obrazovky</string>
@@ -941,6 +949,10 @@
     <string name="fmt_date_short_month_day">d MMM</string>
     <string name="fmt_date_short_year_month">MMM, yyyy</string>
     <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
+    <string name="foods_people_title">Raj chuťových pohárikov</string>
+    <string name="foods_people_travel_title">Prejeme sa %2$s s %1$s</string>
+    <string name="foods_travel_title_one">Chuť %1$s</string>
+    <string name="foods_travel_title_two">%1$s jedlo</string>
     <string name="frame_black">Čierny</string>
     <string name="frame_button">Rámček</string>
     <string name="frame_classic">Klasický</string>
@@ -987,6 +999,8 @@
     <string name="hide_nearby_photos">Skryť fotografie a videá v okolí</string>
     <string name="highlight">Jas</string>
     <string name="highlight_abbr">J</string>
+    <string name="holiday_travel_title_one">%1$s dovolenka</string>
+    <string name="holiday_travel_title_two">Späť do práce</string>
     <string name="home_menu_all_photos">Zobraziť všetko</string>
     <string name="home_menu_art_still">Umenie</string>
     <string name="home_menu_camera">Zobraziť len fotografie</string>
@@ -1076,6 +1090,14 @@
     <string name="kick_sharer_failed">Odstránenie zo zdieľaných zlyhalo</string>
     <string name="kick_sharer_successfully">Úspešne odstránené zo zdieľaných</string>
     <string name="kilobyteShort">KB</string>
+    <string name="labour_day">Sviatok práce</string>
+    <string name="last_some_day_pets_title">Labky a fúzy</string>
+    <string name="last_some_day_show_title">Premietací čas</string>
+    <string name="last_some_day_surfing_title">Primeraný vietor</string>
+    <string name="last_some_day_travel_title_four">Ahoj %1$s!</string>
+    <string name="last_some_day_travel_title_one">V %1$s</string>
+    <string name="last_some_day_travel_title_three">Skúmanie %1$s</string>
+    <string name="last_some_day_travel_title_two">Spomienky na %1$s</string>
     <string name="limit_height">Výška by mala byť &gt; 0</string>
     <string name="limit_width">Šírka by mala byť &gt; 0</string>
     <string name="load_complete">Prázdne</string>
@@ -1240,6 +1262,8 @@
     <string name="messagelist_sender_self">Ja</string>
     <string name="mi_mover_working_desc">MiMover prenáša položky...</string>
     <string name="micloud_introduce">Zálohujte fotografie a videá automaticky na váš Mi účet</string>
+    <string name="miplay_circulate_failed">"Prehrávanie sa nepodarilo preniesť. Počkajte minútu alebo dve a skúste to znova."</string>
+    <string name="miplay_circulating_msg">Prenáša sa prehrávanie...</string>
     <string name="mishare_all_devices">Všetky zariadenia</string>
     <string name="miuix_appcompat_deselect_all">Odznačiť</string>
     <string name="miuix_appcompat_select_all">Všetko</string>
@@ -1294,6 +1318,9 @@
     <string name="month_view_tip_button_text">Rozumiem</string>
     <string name="month_view_tip_sub_title">Prstami k sebe prepnete na zobrazenie mesiaca</string>
     <string name="month_view_tip_title">Zobrazenie mesiaca</string>
+    <string name="monthly_pets_title">Chlpatí priatelia</string>
+    <string name="monthly_sports_title">Plný energie</string>
+    <string name="monthly_travel_title">Cesty v %1$s</string>
     <string name="more">Viac</string>
     <string name="more_album_hint">,atď</string>
     <string name="more_album_tip">Viac albumov</string>
@@ -1358,6 +1385,7 @@
     <string name="multi_view_tip_sub_title">Poztiahnite dva prsty od seba alebo k sebe pre zmenu veľkosti zobrazenia položiek.</string>
     <string name="multi_view_tip_title">Približenie a oddialenie</string>
     <string name="must_pick_file">Vyberte fotografiu</string>
+    <string name="national_day">Národný deň</string>
     <string name="nearby_share">Zdieľanie nablízku</string>
     <string name="need_to_turn_on_network">Pripojte sa k sieti</string>
     <string name="need_to_turn_on_sync">Povoľte MiCloud</string>
@@ -1727,6 +1755,7 @@
     <string name="publish_succeeded">Album zverejnený</string>
     <string name="publishing">Zverejňovanie...</string>
     <string name="purge_or_recovery_processing">Spracovávanie...</string>
+    <string name="quarterly_pets_title">Chlpatí priatelia</string>
     <string name="recent_album_empty_title">Nepridali ste žiadne nové fotografie</string>
     <string name="recipient_editor_count_format">%d</string>
     <string name="recommanded_face_abandon_tip">Odobrané z doporučených</string>
@@ -1828,6 +1857,7 @@
     <string name="scope_storage_dialog_cancel_btn">Zrušiť</string>
     <string name="scope_storage_dialog_confirm_btn">Ďalej</string>
     <string name="scope_storage_dialog_description">Povolenia galérie boli aktualizované. Povoľte galérii prístup k tomuto priečinku, aby ste si mohli prezerať jeho obsah.</string>
+    <string name="scope_storage_dialog_guide_content">Stlačte \"%1$s\" a potom \"%2$s\".</string>
     <string name="scope_storage_dialog_guide_title">Ako udeliť povolenie</string>
     <string name="scope_storage_dialog_title">Vyžadujú sa povolenia</string>
     <string name="scope_storage_operation_btn_1">Uložiť</string>
@@ -1847,6 +1877,7 @@
     <string name="screen_save_dialog_btn_cancel">Zrušiť</string>
     <string name="screen_save_dialog_btn_delete">Vymazať screenshot</string>
     <string name="screen_save_dialog_btn_save">Uložiť</string>
+    <string name="sea_title">Vlny</string>
     <string name="search_album_jump_failed">Počkajte kým sa dokončí zálohovanie na MiCloud a skúste to znova</string>
     <string name="search_backup_full_screen">Povoľte synchr. na MiCloud pre presnejšie vyhľadávanie objektov a ľudí</string>
     <string name="search_backup_now">Povoliť</string>
@@ -1976,6 +2007,7 @@
     <string name="share_album">Zdieľať album</string>
     <string name="share_album_needs_auto_upload_tip">Share album cannot disable autoBackup</string>
     <string name="share_album_qr_code">QR kód albumu</string>
+    <string name="share_and_delete_screenshot">Vymazať po zdieľaní</string>
     <string name="share_app_is_launching">{0,choice,0#Spúšťanie aplikácie...|1#%s sa spúšťa...}</string>
     <string name="share_by_email_start">Pokus o zdieľanie %1$s na pozadí</string>
     <string name="share_by_email_successfully">Zdieľanie %1$s cez E-mail úspešné</string>
@@ -2044,6 +2076,7 @@
     <string name="slim_tip_msg">Albumy budú zmenšené automaticky po pripojení na Wi-Fi. Fotografie a videá v plnom rozlíšení stiahnete kliknutím na \"Stiahnuť\" v menu.</string>
     <string name="slim_tip_title">Zmenšenie</string>
     <string name="slimming">Zmenšenie...</string>
+    <string name="solar_valentines_day_title">Sviatok svätého Valentína</string>
     <string name="sort">Zoradiť</string>
     <string name="special_type_eye_repair">Opravené zatvorené oči pomocou AI</string>
     <string name="special_type_hdr">HDR</string>
@@ -2435,38 +2468,4 @@
     <string name="yuzhitiaojie">Upravenie hrúbky</string>
     <string name="zi_ding_yi_wenben">Vlastná veľkosť</string>
     <string name="zman_title">Bezpečné zdieľanie</string>
-    
-<string name="album_screen_record">Záznamy obrazovky</string>
-    <string name="annual_babies_title">Rastú tak rýchlo</string>
-    <string name="annual_group_people_title">Spolu</string>
-    <string name="annual_pets_title">Labka v labke</string>
-    <string name="annual_year_title">Tento rok</string>
-    <string name="annula_sports_title">Posun vpred</string>
-<string name="baby_birthday_title">Všetko najlepšie k narodeninám!</string>
-    <string name="foods_people_title">Raj chuťových pohárikov</string>
-    <string name="foods_people_travel_title">Prejeme sa %2$s s %1$s</string>
-    <string name="foods_travel_title_one">Chuť %1$s</string>
-    <string name="foods_travel_title_two">%1$s jedlo</string>
-    <string name="holiday_travel_title_one">%1$s dovolenka</string>
-    <string name="holiday_travel_title_two">Späť do práce</string>
-    <string name="labour_day">Sviatok práce</string>
-    <string name="last_some_day_pets_title">Labky a fúzy</string>
-    <string name="last_some_day_show_title">Premietací čas</string>
-    <string name="last_some_day_surfing_title">Primeraný vietor</string>
-    <string name="last_some_day_travel_title_four">Ahoj %1$s!</string>
-    <string name="last_some_day_travel_title_one">V %1$s</string>
-    <string name="last_some_day_travel_title_three">Skúmanie %1$s</string>
-    <string name="last_some_day_travel_title_two">Spomienky na %1$s</string>
-    <string name="miplay_circulate_failed">"Prehrávanie sa nepodarilo preniesť. Počkajte minútu alebo dve a skúste to znova."</string>
-    <string name="miplay_circulating_msg">Prenáša sa prehrávanie...</string>
-    <string name="monthly_pets_title">Chlpatí priatelia</string>
-    <string name="monthly_sports_title">Plný energie</string>
-    <string name="monthly_travel_title">Cesty v %1$s</string>
-<string name="national_day">Národný deň</string>
-<string name="quarterly_pets_title">Chlpatí priatelia</string>
-<string name="sea_title">Vlny</string>
-<string name="solar_valentines_day_title">Sviatok svätého Valentína</string>     
-        <string name="album_screenshot_and_screen_recorder_name">Screenshoty a záznamy</string>
-  <string name="share_and_delete_screenshot">Vymazať po zdieľaní</string>
-  <string name="scope_storage_dialog_guide_content">Stlačte \"%1$s\" a potom \"%2$s\".</string>
 </resources>

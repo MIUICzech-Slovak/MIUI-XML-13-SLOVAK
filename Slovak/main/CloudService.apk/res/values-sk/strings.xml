@@ -811,6 +811,9 @@ Odoslané ID vášho zariadenia na server Mi bude šifrované."</string>
     <string name="pay_info_dialog_confirm_to_pay">Zaplatiť %s</string>
     <string name="pay_info_dialog_mibi_balance_prefix">Použiť Mi kredity: %s</string>
     <string name="pay_info_dialog_title">Vyberte spôsob platby</string>
+    <string name="permission_status_allow">Povolené</string>
+    <string name="permission_status_deny">Nepovolené</string>
+    <string name="permission_status_loading">Pristupuje sa k stavu zariadenia…</string>
     <string name="phone_number_may_required_dspt_provision">"Táto služba môže vyžadovať vaše telefónne číslo. "</string>
     <string name="phone_number_required_dspt_provision">"Táto služba vyžaduje vaše telefónne číslo. "</string>
     <string name="photo">Fotografií</string>
@@ -921,6 +924,18 @@ Pre vyhľadanie vášho zariadenia
 Prečítajte si a odsúhlaste naše Podmienky používania a Ochranu súkromia.
 "</string>
     <string name="privacy_policy">Podmienky súkromia</string>
+    <string name="privacy_runtime_perm_calendar_desc">Na synchronizáciu udalostí kalendára</string>
+    <string name="privacy_runtime_perm_calendar_title">Prístup ku kalendáru</string>
+    <string name="privacy_runtime_perm_call_log_desc">Na synchronizáciu záznamov hovorov</string>
+    <string name="privacy_runtime_perm_call_log_title">Prístup k záznamom hovorov a ich úprava</string>
+    <string name="privacy_runtime_perm_contacts_desc">Na synchronizáciu kontaktov</string>
+    <string name="privacy_runtime_perm_contacts_title">Prístup ku kontaktom a ich úprava</string>
+    <string name="privacy_runtime_perm_external_storage_desc">Na synchronizáciu profilových fotografií kontaktu a príloh správ</string>
+    <string name="privacy_runtime_perm_external_storage_title">Prístup k úložisku</string>
+    <string name="privacy_runtime_perm_phone_state_desc">Pre prístup k telefónnemu číslu a stavu zariadenia</string>
+    <string name="privacy_runtime_perm_phone_state_title">Prístup k informáciám o zariadení</string>
+    <string name="privacy_runtime_perm_sms_desc">Na synchronizáciu správ</string>
+    <string name="privacy_runtime_perm_sms_title">Prístup k správam</string>
     <string name="provision_back">Späť</string>
     <string name="provision_next">Ďalej</string>
     <string name="provision_skip_underline">Preskočiť</string>
@@ -1111,21 +1126,4 @@ Prečítajte si a odsúhlaste naše Podmienky používania a Ochranu súkromia.
     <string name="xiaomi_cloud_service_subtitle">Všetky dôležité položky na jednom mieste</string>
     <string name="xmpp_server_addr" />
     <string name="yesterday">Včera</string>
-    
-<string name="permission_status_allow">Povolené</string>
-     <string name="permission_status_deny">Nepovolené</string>
-     <string name="permission_status_loading">Pristupuje sa k stavu zariadenia…</string>
-<string name="privacy_runtime_perm_calendar_desc">Na synchronizáciu udalostí kalendára</string>
-    <string name="privacy_runtime_perm_calendar_title">Prístup ku kalendáru</string>
-    <string name="privacy_runtime_perm_call_log_desc">Na synchronizáciu záznamov hovorov</string>
-    <string name="privacy_runtime_perm_call_log_title">Prístup k záznamom hovorov a ich úprava</string>
-    <string name="privacy_runtime_perm_contacts_desc">Na synchronizáciu kontaktov</string>
-    <string name="privacy_runtime_perm_contacts_title">Prístup ku kontaktom a ich úprava</string>
-    <string name="privacy_runtime_perm_external_storage_desc">Na synchronizáciu profilových fotografií kontaktu a príloh správ</string>
-    <string name="privacy_runtime_perm_external_storage_title">Prístup k úložisku</string>
-    <string name="privacy_runtime_perm_phone_state_desc">Pre prístup k telefónnemu číslu a stavu zariadenia</string>
-    <string name="privacy_runtime_perm_phone_state_title">Prístup k informáciám o zariadení</string>
-    <string name="privacy_runtime_perm_sms_desc">Na synchronizáciu správ</string>
-    <string name="privacy_runtime_perm_sms_title">Prístup k správam</string>
-            
 </resources>

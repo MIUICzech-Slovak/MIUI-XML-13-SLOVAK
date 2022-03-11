@@ -20,6 +20,7 @@
     <string name="friday">Piatok</string>
     <string name="friday_short">Pia</string>
     <string name="friday_shortest">Pia</string>
+    <string name="long_screenshot_error">Nepodarilo sa vytvoriť screenshot. Skúste to znova.</string>
     <string name="long_screenshot_guide_text">"Dotykom zhotovíte
 dlhý screenshot"</string>
     <string name="long_screenshot_out_of_memory_error">Obrázok je príliš veľký</string>
@@ -122,5 +123,4 @@ dlhý screenshot"</string>
     <string name="wednesday_short">Str</string>
     <string name="wednesday_shortest">S</string>
     <string name="yesterday">Včera</string>
-    <string name="long_screenshot_error">Nepodarilo sa vytvoriť screenshot. Skúste to znova.</string>
 </resources>

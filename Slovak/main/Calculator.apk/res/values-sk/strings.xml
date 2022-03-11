@@ -107,6 +107,7 @@
     <string name="digit8">8</string>
     <string name="digit9">9</string>
     <string name="divDesc">deleno</string>
+    <string name="dont_allow">Nesúhlasím</string>
     <string name="dotDesc">čiarka</string>
     <string name="e">e</string>
     <string name="eDesc">Eulerovo číslo</string>
@@ -241,8 +242,12 @@
     <string name="loan_edittext_hint_fund_combined">Úverový fond (×10K)</string>
     <string name="loan_edittext_title_commercial_combined">Komerčné (×10K)</string>
     <string name="loan_edittext_title_fund_combined">Úverový fond (×10K)</string>
+    <string name="loan_enter_amount">Zadajte sumu</string>
+    <string name="loan_enter_amount_interest">Zadajte sumu a úrokovú sadzbu</string>
+    <string name="loan_enter_interest">Zadajte úrokovú sadzbu</string>
     <string name="loan_first_pay_date">Prvá platba</string>
     <string name="loan_interest_rate">Úrok</string>
+    <string name="loan_invalid_loan_tenure">Splatnosť úveru musí byť väčšia ako nula</string>
     <string name="loan_pay_years">Doba splácania</string>
     <string name="loan_payback_way">Splátka</string>
     <string name="loan_repayment_detail_loading">Načítava sa detailné splatenie…</string>
@@ -826,10 +831,4 @@ Veľkosť delta aktualizácie: %2$s"</string>
     <string name="xiaomi_update_dialog_title">Aktualizácia aplikácie %1$s!</string>
     <string name="year" />
     <string name="yesterday">Včera</string>
-     <string name="dont_allow">Nesúhlasím</string>    
-     
-<string name="loan_enter_amount">Zadajte sumu</string>
-      <string name="loan_enter_amount_interest">Zadajte sumu a úrokovú sadzbu</string>
-      <string name="loan_enter_interest">Zadajte úrokovú sadzbu</string>
-      <string name="loan_invalid_loan_tenure">Splatnosť úveru musí byť väčšia ako nula</string>     
 </resources>

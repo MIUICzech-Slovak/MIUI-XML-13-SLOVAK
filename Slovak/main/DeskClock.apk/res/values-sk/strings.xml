@@ -337,11 +337,23 @@
     <string name="other_category_title">Ostatné</string>
     <string name="other_settings">Ďalšie nastavenia</string>
     <string name="pause">Pauza</string>
+    <string name="permission_desc">Podrobnosti povolení</string>
+    <string name="permission_granted">Udelené</string>
+    <string name="permission_rejected">Neudelené</string>
+    <string name="permission_related">Povolenia</string>
     <string name="personal_recommend">Odporúčaný obsah</string>
     <string name="preference_copied">\"%1$s\" skopírované do schránky.</string>
     <string name="privacy_policy">Ochrana súkromia</string>
     <string name="privacy_policy_title">Ochrana súkromia</string>
+    <string name="privacy_settings_title">Ochrana osobných údajov</string>
+    <string name="query_privacy_policy">Zobraziť Ochranu osobných údajov</string>
     <string name="reach_upper_limit">Nie je možné pridať viac časovačov</string>
+    <string name="read_external_storage_permission_desc">Pre nastavenie vlastných vyzváňacích tónov</string>
+    <string name="read_internal_storage">Prístup k úložisku</string>
+    <string name="read_phone_state">Prístup k informáciám o zariadení</string>
+    <string name="read_phone_state_desc">Prístup k stavu hovoru, keď zvoní budík</string>
+    <string name="read_phone_state_desc_when_request">Pre prístup k stavu hovoru na automatické pozastavenie budíkov pri prijímaní hovorov</string>
+    <string name="remark_hint">Zadajte názov</string>
     <string name="remind_ringtone">Vyzváňací tón</string>
     <string name="repeat_count">Krát</string>
     <string name="reset">Zmaž</string>
@@ -375,6 +387,8 @@
     <string name="shortcut_new_alarm">Budík</string>
     <string name="shortcut_start_timer">Odpočet</string>
     <string name="shortcut_stop_watch">Stopky</string>
+    <string name="show_life_post_desc">„Ak túto funkciu vypnete, ranné správy sa nebudú zobrazovať“</string>
+    <string name="show_life_post_lable">Zobraziť rannú správu</string>
     <string name="shut_down_keep_screen">Displej sa zhasne</string>
     <string name="shutdown_alarm_alert_enable_summary">Budík vypnutia bude spustený aspoň 10 minút po vypnutí zariadenia</string>
     <string name="shutdown_alarm_alert_enable_summary_new">Vypnutie budíkov ak je vaše zariadenie vypnuté. Iba budíky ktoré sú nastavené aspoň %d minút po vypnutí zariadenia budú vypnuté.</string>
@@ -387,6 +401,7 @@
     <string name="sleep_analysis">Štatistiky</string>
     <string name="sleep_analysis_chart_date_format">dd.MM</string>
     <string name="sleep_date_provider_text">Údaje o spánku poskytuje aplikácia Zdravie</string>
+    <string name="sleep_date_provider_text_new">Údaje o spánku poskytuje Mi Fitness</string>
     <string name="sleep_duration">"Trvanie spánku: "</string>
     <string name="sleep_duration_avg_text_diff">Priemerné trvanie spánku (%1$s-%2$s)</string>
     <string name="sleep_duration_desc">Spali ste %1$s %2$s</string>
@@ -400,6 +415,7 @@
     <string name="sleep_record">Sledovať spánok</string>
     <string name="sleep_record_desc">Povoľte pre sledovanie spánku</string>
     <string name="sleep_record_desc_detailed">Sledovanie spánku poskytuje aplikácia Zdravie. Povoľte autoštart a deaktivujte šetrenie batérie pre aplikáciu Zdravie pre jej správne fungovanie.</string>
+    <string name="sleep_record_desc_detailed_new">Sledovanie spánku poskytuje funkcia Mi Fitness Sleep. Ak túto funkciu zapnete, Mi Fitness bude automaticky zhromažďovať a zobrazovať údaje o vašom spánku na základe používania telefónu, aktivity a nastaveného času večierky a vstávania. Ak chcete presnejšie sledovať spánok, povoľte automatické spustenie Mi Fitness.</string>
     <string name="sleep_record_no_data">Vaše údaje o spánku budú zobrazené po nazbieraní dát</string>
     <string name="sleep_remind">Upozornenie na spánok</string>
     <string name="sleep_time">Je čas ísť spať</string>
@@ -495,6 +511,8 @@
     <string name="upcoming_alarm_hint">Môžete ho zrušiť</string>
     <string name="update_health_app">Aktualizujte aplikáciu Zdravie</string>
     <string name="update_health_app_desc">Sledovanie spánku poskytuje aplikácia Zdravie.</string>
+    <string name="update_health_app_desc_new">Funkciu sledovania spánku poskytuje Mi Fitness. Aktualizujte Mi Fitness na najnovšiu verziu, aby ste získali prístup k súvisiacim funkciám.</string>
+    <string name="update_health_app_new">Aktualizujte Mi Fitness</string>
     <string name="update_it">Aktualizovať</string>
     <string name="update_notification_info">Aktualizácia dát na pozadí...</string>
     <string name="usage_start">Začiatok</string>
@@ -531,24 +549,4 @@
     <string name="worldcolock_timezone_gap">Hodina</string>
     <string name="worldcolock_timezone_local">Rovnaký čas ako u vás</string>
     <string name="yesterday">Včera</string>
-
-<string name="permission_desc">Podrobnosti povolení</string>
-      <string name="permission_granted">Udelené</string>
-      <string name="permission_rejected">Neudelené</string>
-      <string name="permission_related">Povolenia</string>
-      <string name="privacy_settings_title">Ochrana osobných údajov</string>
-      <string name="query_privacy_policy">Zobraziť Ochranu osobných údajov</string>
-      <string name="read_external_storage_permission_desc">Pre nastavenie vlastných vyzváňacích tónov</string>
-      <string name="read_internal_storage">Prístup k úložisku</string>
-      
-<string name="show_life_post_desc">„Ak túto funkciu vypnete, ranné správy sa nebudú zobrazovať“</string>
-     <string name="show_life_post_lable">Zobraziť rannú správu</string>
-     <string name="sleep_date_provider_text_new">Údaje o spánku poskytuje Mi Fitness</string>
-<string name="sleep_record_desc_detailed_new">Sledovanie spánku poskytuje funkcia Mi Fitness Sleep. Ak túto funkciu zapnete, Mi Fitness bude automaticky zhromažďovať a zobrazovať údaje o vašom spánku na základe používania telefónu, aktivity a nastaveného času večierky a vstávania. Ak chcete presnejšie sledovať spánok, povoľte automatické spustenie Mi Fitness.</string>
-     <string name="update_health_app_desc_new">Funkciu sledovania spánku poskytuje Mi Fitness. Aktualizujte Mi Fitness na najnovšiu verziu, aby ste získali prístup k súvisiacim funkciám.</string>
-     <string name="update_health_app_new">Aktualizujte Mi Fitness</string>    
-<string name="read_phone_state">Prístup k informáciám o zariadení</string>
-     <string name="read_phone_state_desc">Prístup k stavu hovoru, keď zvoní budík</string>
-     <string name="read_phone_state_desc_when_request">Pre prístup k stavu hovoru na automatické pozastavenie budíkov pri prijímaní hovorov</string>
-     <string name="remark_hint">Zadajte názov</string>       
 </resources>
