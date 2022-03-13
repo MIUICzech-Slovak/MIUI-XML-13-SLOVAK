@@ -67,29 +67,6 @@
         <item>So</item>
         <item>Ne</item>
     </string-array>
-    <string-array name="device_settings_face_fun">
-        <item>@string/device_settings_common_null</item>
-        <item>Srdcový tep</item>
-        <item>Miera stresu</item>
-        <item>Spánok</item>
-        <item>Energia</item>
-        <item>Kroky</item>
-        <item>Kalória</item>
-        <item>Státie</item>
-        <item>Batéria</item>
-        <item>Dátum</item>
-        <item>Počasie</item>
-        <item>Tlak vzduchu</item>
-        <item>Prevýšenie</item>
-        <item>Časovač</item>
-        <item>Budík</item>
-        <item>Kvalita ovzdušia</item>
-        <item>Vlhkosť</item>
-        <item>Cvičenie</item>
-        <item>UV index</item>
-        <item>Východ a západ slnka</item>
-        <item>Vietor</item>
-    </string-array>
     <string-array name="device_settings_reminder_period_array">
         <item>Jednorázová udalosť</item>
         <item>Denne</item>
@@ -102,29 +79,6 @@
         <item>Veľmi blízko</item>
         <item>Blízko</item>
         <item>Ďaleko</item>
-    </string-array>
-    <string-array name="face_fun">
-        <item>@string/face_common_null</item>
-        <item>Srdcový tep</item>
-        <item>Miera stresu</item>
-        <item>Spánok</item>
-        <item>Energia</item>
-        <item>Kroky</item>
-        <item>Kalória</item>
-        <item>Státie</item>
-        <item>Batéria</item>
-        <item>Dátum</item>
-        <item>Počasie</item>
-        <item>Tlak vzduchu</item>
-        <item>Prevýšenie</item>
-        <item>Časovač</item>
-        <item>Budík</item>
-        <item>Kvalita ovzdušia</item>
-        <item>Vlhkosť</item>
-        <item>Cvičenie</item>
-        <item>UV index</item>
-        <item>Východ a západ slnka</item>
-        <item>Vietor</item>
     </string-array>
     <string-array name="health_blood_pressure_repeat_mode_mild_abnormal_array">
         <item>Po, St, Pi</item>
