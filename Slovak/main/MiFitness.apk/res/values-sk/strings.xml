@@ -2530,7 +2530,7 @@ Začnite znova."</string>
     <string name="main_common_open">OK</string>
     <string name="main_go_now">Otvoriť</string>
     <string name="main_goto_common_app">Pripojte zariadenie</string>
-    <string name="main_goto_common_app_desc">&lt;Data>Pre pripojenie zariadenia otvorte Xiaomi Wear.&lt;br>&lt;a href=\"%1$s\">Viac informácií&lt;/a>&lt;/Data></ string>
+    <string name="main_goto_common_app_desc">&lt;Data>Pre pripojenie zariadenia otvorte Xiaomi Wear.&lt;br>&lt;a href=\"%1$s\">Viac informácií&lt;/a>&lt;/Data></string>
     <string name="main_open_sport_health_cloud_sync">Zapnúť synchronizáciu?</string>
     <string name="main_open_sport_health_cloud_sync_des">Synchronizujte svoje údaje o cvičení a fitness naprieč všetkými vašimi zariadeniami.</string>
     <string name="main_sync_dialog_desc1">Posilnite svoje telo a získavajte ocenenia</string>
