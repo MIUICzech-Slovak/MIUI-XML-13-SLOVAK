@@ -3212,6 +3212,7 @@ Bez tohto kroku nie je možné platby zariadením vykonať."</string>
     <string name="sns_access_token_expired_warning">Platnosť relácie vypršala. Prihláste sa znovu pre opätovné pripojenie tohto konta.</string>
     <string name="sns_bind_limit">Príliš veľa pokusov. Skúste iné spôsoby prihlásenia.</string>
     <string name="sns_sign_in">Iné možnosti prihlásenia</string>
+    <string name="sport">Cvičenie</string>
     <string name="sport_activity_recommend">Objaviť</string>
     <string name="sport_advise0">Zacvičte si</string>
     <string name="sport_advise1">Zacvičte si vonku na čerstvom vzduchu</string>
@@ -3307,6 +3308,7 @@ Bez tohto kroku nie je možné platby zariadením vykonať."</string>
     <string name="sport_hert_rate_range_warm_up">Ľahká</string>
     <string name="sport_hert_rate_remind_desc">Využitie tejto funkcie vyžaduje zapnutie funkcie \"Nepretržité meranie\".</string>
     <string name="sport_hert_rate_remind_tip">Srdcový tep</string>
+    <string name="sport_hr">tepov/min.</string>
     <string name="sport_hr_max_remind">Hodnota upozornenia</string>
     <string name="sport_kilo_cal">kcal</string>
     <string name="sport_learn_more">Zobraziť viac</string>
@@ -3345,6 +3347,7 @@ Bez tohto kroku nie je možné platby zariadením vykonať."</string>
     <string name="sport_not_used_fitness_authorization">Požadované oprávnenia</string>
     <string name="sport_obtain_fail">Načítanie zlyhalo. Skúste to znova neskôr.</string>
     <string name="sport_open_hr_check">Zapnúť</string>
+    <string name="sport_pace">/km</string>
     <string name="sport_pace_remind_titles">Upozornenie na tempo</string>
     <string name="sport_pace_reminder_info">Upozorniť, ak je tempo nižšie ako nastavená hodnota</string>
     <string name="sport_permission_location_sportpath">Pre sledovanie cvičení dajte aplikácii prístup k informáciám o vašej polohe.</string>
@@ -4125,7 +4128,4 @@ Ak nechcete svoje zdravotné informácie sprístupniť ostatným, môžete túto
     <string name="xms_thirdapp_revoke_auth">Oprávnenia môžete zmeniť v záložke Profil > Oprávnenia zariadení.</string>
     <string name="year" />
     <string name="yesterday">Včera</string>
-    <string name="šport">Cvičenie</string>
-    <string name="šport_hr">tepov/min.</string>
-    <string name="šport_pace">/km</string>
 </resources>
