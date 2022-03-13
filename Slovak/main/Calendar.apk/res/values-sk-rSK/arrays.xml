@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string-array name="panchang_weeks">
+    <string-array name="panchang_weeks">
         <item>Nedeľa</item>
         <item>Pondelok</item>
         <item>Utorok</item>
@@ -15,7 +15,7 @@
         <item>Nedeľa</item>
         <item>Pondelok</item>
     </string-array>
-     <string-array name="repeat_choose_month">
+    <string-array name="repeat_choose_month">
         <item>jan</item>
         <item>feb</item>
         <item>mar</item>
@@ -37,5 +37,5 @@
         <item>Š</item>
         <item>P</item>
         <item>S</item>
-    </string-array>    
+    </string-array>
 </resources>

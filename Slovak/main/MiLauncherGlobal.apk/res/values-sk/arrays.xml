@@ -44,6 +44,14 @@
         <item>Predvolené</item>
         <item>Klasika</item>
     </string-array>
+    <string-array name="stock_color_schema">
+        <item>Zelená hore, červená dole</item>
+        <item>Červená hore, zelená dole</item>
+    </string-array>
+    <string-array name="stock_title_schema">
+        <item>Zvýrazniť názov</item>
+        <item>Zvýrazniť kód</item>
+    </string-array>
     <string-array name="transformation_entries">
         <item>Diapozitív</item>
         <item>Prelínanie</item>
@@ -58,13 +66,5 @@
         <item>Na stred</item>
         <item>Vľavo</item>
         <item>Vpravo</item>
-    </string-array>
-    <string-array name="stock_color_schema">
-        <item>Zelená hore, červená dole</item>
-        <item>Červená hore, zelená dole</item>
-    </string-array>
-    <string-array name="stock_title_schema">
-        <item>Zvýrazniť názov</item>
-        <item>Zvýrazniť kód</item>
     </string-array>
 </resources>

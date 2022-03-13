@@ -7,5 +7,5 @@
     <plurals name="notification_missedCallTitle_miui">
         <item quantity="other">Zmeškané hovory</item>
         <item quantity="one">Zmeškaný hovor</item>
-    </plurals>	
+    </plurals>
 </resources>

@@ -10,11 +10,11 @@
         <item>Karta</item>
     </string-array>
     <string-array name="SportTabTitle">
-	  <item> Beh </item>
-         <item> Chôdza </item>
-         <item> Cyklistika </item>
-         <item> Švihadlo </item>
-         <item> Cvičenie </item>
+        <item> Beh </item>
+        <item> Chôdza </item>
+        <item> Cyklistika </item>
+        <item> Švihadlo </item>
+        <item> Cvičenie </item>
     </string-array>
     <string-array name="arr_prompt_label">
         <item>Reasonable</item>
@@ -98,31 +98,31 @@
         <item>This feature tracks your movement and sends reminders based on the results.</item>
     </string-array>
     <string-array name="week">
-	 <item> Nedeľa </item>
-         <item> Pondelok </item>
-         <item> Utorok </item>
-         <item> Streda </item>
-         <item> Štvrtok </item>
-         <item> Piatok </item>
-         <item> Sobota </item>
+        <item> Nedeľa </item>
+        <item> Pondelok </item>
+        <item> Utorok </item>
+        <item> Streda </item>
+        <item> Štvrtok </item>
+        <item> Piatok </item>
+        <item> Sobota </item>
     </string-array>
     <string-array name="week_label">
-  	 <item> Neď </item>
-         <item> Po </item>
-         <item> Ut </item>
-         <item> St </item>
-         <item> Št </item>
-         <item> Pia </item>
-         <item> So </item>
+        <item> Neď </item>
+        <item> Po </item>
+        <item> Ut </item>
+        <item> St </item>
+        <item> Št </item>
+        <item> Pia </item>
+        <item> So </item>
     </string-array>
     <string-array name="week_short">
-  	 <item> Neď </item>
-         <item> Po </item>
-         <item> Ut </item>
-         <item> St </item>
-         <item> Št </item>
-         <item> Pia </item>
-         <item> So </item>
+        <item> Neď </item>
+        <item> Po </item>
+        <item> Ut </item>
+        <item> St </item>
+        <item> Št </item>
+        <item> Pia </item>
+        <item> So </item>
     </string-array>
     <string-array name="yes_no_array">
         <item>Nenastavené</item>

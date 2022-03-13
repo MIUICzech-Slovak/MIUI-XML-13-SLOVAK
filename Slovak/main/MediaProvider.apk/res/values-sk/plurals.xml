@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
- <plurals name="permission_delete_audio">
+    <plurals name="permission_delete_audio">
         <item quantity="other">Povoliť aplikácii ^1 odstrániť ^2 zvukové súbory?</item>
         <item quantity="one">Povoliť aplikácii ^1 odstrániť tento zvukový súbor?</item>
     </plurals>

@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- General -->
-    <string name="app_needs_update">Aplikáciu je potrebné aktualizovať</string>
-    <string name="app_not_installed">Je potrebné nainštalovať aplikáciu</string>
-    <string name="widget_apps">Aplikácie s podporou miniaplikácií</string>
-    <string name="widget_num_limit">Do Asistenta nie je možné pridať ďalšie miniaplikácie. Ak chcete pridať nové, odstráňte staršie miniaplikácie.</string>
-    <string name="widget_num_warn">Úspešne pridané. Umiestnenie príliš veľkého množstva miniaplikácií na plochu môže spomaliť vaše zariadenie.</string>
-    <!-- App names -->
     <string name="app_appvault">Asistent</string>
     <string name="app_calculator">Kalkulačka</string>
     <string name="app_calendar">Kalendár</string>
@@ -16,6 +9,8 @@
     <string name="app_health">Zdravie</string>
     <string name="app_midrop">ShareMe</string>
     <string name="app_mihome">Mi Home</string>
+    <string name="app_needs_update">Aplikáciu je potrebné aktualizovať</string>
+    <string name="app_not_installed">Je potrebné nainštalovať aplikáciu</string>
     <string name="app_notes">Poznámky</string>
     <string name="app_recorder">Záznamník</string>
     <string name="app_scanner">Skener</string>
@@ -23,10 +18,6 @@
     <string name="app_settings">Nastavenia</string>
     <string name="app_weather">Počasie</string>
     <string name="app_whatsapp">WhatsApp</string>
-    <!-- Shortcut groups -->
-    <string name="shortcuts_external">Externé skratky</string>
-    <string name="shortcuts_system">Systémové skratky</string>
-    <!-- Shortcut names -->
     <string name="auto_optimize">Optimalizovať</string>
     <string name="battery_history">Batéria</string>
     <string name="calculator_convert">Konvertor</string>
@@ -42,8 +33,10 @@
     <string name="recorder_new">Nová nahrávka</string>
     <string name="scanner_document">Dokument</string>
     <string name="scanner_qrcode">QR kód</string>
+    <string name="shortcuts_external">Externé skratky</string>
+    <string name="shortcuts_system">Systémové skratky</string>
     <string name="whatsapp_photos">Fotografie</string>
-    <!-- Widgets -->
+    <string name="widget_apps">Aplikácie s podporou miniaplikácií</string>
     <string name="widget_appvault_shortcuts">Skratky</string>
     <string name="widget_appvault_shortcuts_desc">Rýchly štart často používaných aplikácií a funkcií</string>
     <string name="widget_appvault_smart_shortcuts">Návrhy aplikácií</string>
@@ -76,6 +69,8 @@
     <string name="widget_notes_tasks_desc">Zobrazenie a otvorenie úloh</string>
     <string name="widget_notes_view">Poznámky</string>
     <string name="widget_notes_view_desc">Zobrazte a otvorte svoje poznámky</string>
+    <string name="widget_num_limit">Do Asistenta nie je možné pridať ďalšie miniaplikácie. Ak chcete pridať nové, odstráňte staršie miniaplikácie.</string>
+    <string name="widget_num_warn">Úspešne pridané. Umiestnenie príliš veľkého množstva miniaplikácií na plochu môže spomaliť vaše zariadenie.</string>
     <string name="widget_security_app_behavior">Ochrana osobných údajov</string>
     <string name="widget_security_app_behavior_desc">Zobraziť štatistiky správania aplikácie</string>
     <string name="widget_security_app_predict">Návrhy aplikácií</string>

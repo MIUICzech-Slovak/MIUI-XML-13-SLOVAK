@@ -1,19 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="drvinst_prefer">
-        <item>Super kvalita zvuku</item>
-        <item>Vysoká kvalita zvuku</item>
-        <item>Úspora energie</item>
-    </string-array>
-    <string-array name="ui_prefer">
-        <item>Začiatočník</item>
-        <item>Pokročilý</item>
-        <item>Expert</item>
-    </string-array>
-    <string-array name="compatible_mode">
-        <item>Normálny</item>
-        <item>Kompatibilný</item>
-    </string-array>
     <string-array name="colorfulmusic_coeffs">
         <item>Mierné</item>
         <item>Úroveň 1</item>
@@ -38,15 +24,19 @@
         <item>Úroveň 9</item>
         <item>Extrém</item>
     </string-array>
+    <string-array name="compatible_mode">
+        <item>Normálny</item>
+        <item>Kompatibilný</item>
+    </string-array>
     <string-array name="cure_crossfeed">
         <item>Mierné</item>
         <item>Stredné</item>
         <item>Extrém</item>
     </string-array>
-    <string-array name="playbackgain_ratio">
-        <item>Mierné</item>
-        <item>Stredné</item>
-        <item>Extrém</item>
+    <string-array name="drvinst_prefer">
+        <item>Super kvalita zvuku</item>
+        <item>Vysoká kvalita zvuku</item>
+        <item>Úspora energie</item>
     </string-array>
     <string-array name="dynamicsystem_bass">
         <item>0 Percent</item>
@@ -103,15 +93,20 @@
         <item>Neznámy typ III</item>
         <item>Neznámy typ IV</item>
     </string-array>
+    <string-array name="playbackgain_ratio">
+        <item>Mierné</item>
+        <item>Stredné</item>
+        <item>Extrém</item>
+    </string-array>
+    <string-array name="ui_prefer">
+        <item>Začiatočník</item>
+        <item>Pokročilý</item>
+        <item>Expert</item>
+    </string-array>
     <string-array name="vbass_mode">
         <item>Prirodzené Basy</item>
         <item>Čisté Basy+</item>
         <item>Subwoofer</item>
-    </string-array>
-    <string-array name="vclarity_mode">
-        <item>Prirodzené</item>
-        <item>OZone+</item>
-        <item>XHiFi</item>
     </string-array>
     <string-array name="vclarity_boost">
         <item>Predvolené</item>
@@ -124,5 +119,10 @@
         <item>13.0 dB</item>
         <item>14.0 dB</item>
         <item>14.8 dB</item>
+    </string-array>
+    <string-array name="vclarity_mode">
+        <item>Prirodzené</item>
+        <item>OZone+</item>
+        <item>XHiFi</item>
     </string-array>
 </resources>

@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="popular_language_locales">
-        <item>sk_SK</item>
-        <item>cs_CZ</item>
-        <item>en_US</item>
-        <item>en_GB</item>
-    </string-array>
     <string-array name="indian_popular_language_locales">
         <item>sk_SK</item>
         <item>cs_CZ</item>
@@ -16,5 +10,11 @@
         <item>Wi-Fi a mobilné dáta</item>
         <item>Wi-Fi</item>
         <item>Vyp.</item>
-    </string-array>	
+    </string-array>
+    <string-array name="popular_language_locales">
+        <item>sk_SK</item>
+        <item>cs_CZ</item>
+        <item>en_US</item>
+        <item>en_GB</item>
+    </string-array>
 </resources>

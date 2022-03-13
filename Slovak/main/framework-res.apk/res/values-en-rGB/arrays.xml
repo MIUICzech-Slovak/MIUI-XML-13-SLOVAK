@@ -6,6 +6,14 @@
         <item>Other</item>
         <item>Custom</item>
     </string-array>
+    <array name="fingerprint_acquired_vendor" />
+    <array name="fingerprint_error_vendor" />
+    <string-array name="imAddressTypes">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Other</item>
+        <item>Custom</item>
+    </string-array>
     <string-array name="imProtocols">
         <item>AIM</item>
         <item>Windows Live</item>
@@ -16,6 +24,13 @@
         <item>ICQ</item>
         <item>Jabber</item>
     </string-array>
+    <integer-array name="maps_starting_lat_lng">
+        <item>51500208</item>
+        <item>-126729</item>
+    </integer-array>
+    <integer-array name="maps_starting_zoom">
+        <item>5</item>
+    </integer-array>
     <string-array name="organizationTypes">
         <item>Work</item>
         <item>Other</item>
@@ -37,21 +52,6 @@
         <item>Other</item>
         <item>Custom</item>
     </string-array>
-    <integer-array name="maps_starting_lat_lng">
-        <item>51500208</item>
-        <item>-126729</item>
-    </integer-array>
-    <integer-array name="maps_starting_zoom">
-        <item>5</item>
-    </integer-array>
     <array name="wfcOperatorErrorAlertMessages" />
     <array name="wfcOperatorErrorNotificationMessages" />
-    <array name="fingerprint_acquired_vendor" />
-    <array name="fingerprint_error_vendor" />
-    <string-array name="imAddressTypes">
-        <item>Home</item>
-        <item>Work</item>
-        <item>Other</item>
-        <item>Custom</item>
-    </string-array>
 </resources>

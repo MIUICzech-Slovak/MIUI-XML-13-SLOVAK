@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="weather_indexes_uv_level">
+        <item>Nízky</item>
+        <item>Slabý</item>
+        <item>Priemerný</item>
+        <item>Veľký</item>
+        <item>Silný</item>
+    </string-array>
     <string-array name="weather_type">
         <item>Jasno</item>
         <item>Oblačno</item>
@@ -28,13 +35,6 @@
         <item>Hmla</item>
         <item>Mrznúci dážď</item>
         <item>N/A</item>
-    </string-array>
-    <string-array name="weather_indexes_uv_level">
-        <item>Nízky</item>
-        <item>Slabý</item>
-        <item>Priemerný</item>
-        <item>Veľký</item>
-        <item>Silný</item>
     </string-array>
     <string-array name="wind_direction">
         <item>Vietor S</item>

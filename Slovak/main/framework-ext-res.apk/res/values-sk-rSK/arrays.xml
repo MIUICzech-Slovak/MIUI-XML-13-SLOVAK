@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="fingerprint_acquired_vendor">
+        <item>Skúste znova</item>
+        <item></item>
+        <item></item>
+        <item>Prekryte prstom celý senzor odtlačkov prsta a pritlačte</item>
+        <item></item>
+        <item>Prekryte prstom celý senzor odtlačkov prsta a pritlačte</item>
+        <item>Vyčistite senzor odtlačku prsta a skúste to znova</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Prekryte prstom celý senzor odtlačkov prsta a pritlačte</item>
+        <item>Prekryte prstom celý senzor odtlačkov prsta a pritlačte</item>
+        <item>Príliš rýchlo! Nebolo možné rozpoznať odtlačok</item>
+        <item>Kúsok pohnite prst a skúste to znova</item>
+        <item>Zdvihnite prst a priložte ho znova na senzor</item>
+        <item>Podržte prst na senzore o trochu dlhšie</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Jemne pohnite prstom</item>
+        <item>Tento odtlačok prsta bol pridaný, použite iný prst</item>
+    </string-array>
     <string-array name="organized_languages_international">
         <item>en_GB</item>
         <item>en_US</item>
@@ -42,34 +71,4 @@
         <item>zh_CN</item>
         <item>zh_TW</item>
     </string-array>
-    <string-array name="fingerprint_acquired_vendor">
-        <item>Skúste znova</item>
-        <item></item>
-        <item></item>
-        <item>Prekryte prstom celý senzor odtlačkov prsta a pritlačte</item>
-        <item></item>
-        <item>Prekryte prstom celý senzor odtlačkov prsta a pritlačte</item>
-        <item>Vyčistite senzor odtlačku prsta a skúste to znova</item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item>Prekryte prstom celý senzor odtlačkov prsta a pritlačte</item>
-        <item>Prekryte prstom celý senzor odtlačkov prsta a pritlačte</item>
-        <item>Príliš rýchlo! Nebolo možné rozpoznať odtlačok</item>
-        <item>Kúsok pohnite prst a skúste to znova</item>
-        <item>Zdvihnite prst a priložte ho znova na senzor</item>
-        <item>Podržte prst na senzore o trochu dlhšie</item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item>Jemne pohnite prstom</item>
-        <item>Tento odtlačok prsta bol pridaný, použite iný prst</item>
-    </string-array>
-
 </resources>

@@ -6,7 +6,7 @@
         <item>Týždeň 3</item>
         <item>Týždeň %1$d</item>
     </string-array>
-     <string-array name="app_health_setting_text_array_duration">
+    <string-array name="app_health_setting_text_array_duration">
         <item>10 min</item>
         <item>20 min</item>
         <item>30 min</item>
@@ -35,7 +35,7 @@
         <item>Normálne</item>
         <item>Veľké</item>
     </string-array>
-   <string-array name="pa_home_week_days">
+    <string-array name="pa_home_week_days">
         <item>Nedeľa</item>
         <item>Pondelok</item>
         <item>Utorok</item>
@@ -44,5 +44,5 @@
         <item>Piatok</item>
         <item>Sobota</item>
         <item>Nedeľa</item>
-    </string-array>    
+    </string-array>
 </resources>

@@ -2,8 +2,8 @@
 <resources>
     <string-array name="boot_msg_text">
         <item>-==MIUIos.cz==-</item>
-		<item>-==MIUIos.cz==-</item>
-		<item>-==MIUIos.cz==-</item>
+        <item>-==MIUIos.cz==-</item>
+        <item>-==MIUIos.cz==-</item>
         <item>Prebieha inštalácia.</item>
         <item>Prebieha inštalácia..</item>
         <item>Prebieha inštalácia...</item>
@@ -23,5 +23,5 @@
         <item>upraviť zoznam hovorov</item>
         <item>fotoaparát</item>
         <item>polohe</item>
-    </string-array>	
+    </string-array>
 </resources>
