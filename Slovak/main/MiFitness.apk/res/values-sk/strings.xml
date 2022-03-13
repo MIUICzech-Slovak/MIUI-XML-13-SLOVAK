@@ -4128,4 +4128,15 @@ Ak nechcete svoje zdravotné informácie sprístupniť ostatným, môžete túto
     <string name="xms_thirdapp_revoke_auth">Oprávnenia môžete zmeniť v záložke Profil > Oprávnenia zariadení.</string>
     <string name="year" />
     <string name="yesterday">Včera</string>
+     <string name="widget_sleep_label">Spánok</string>
+     <string name="widget_sleep_no_data">Žiadne dáta</string>
+     <string name="widget_sleep_open_trace">Povoľte sledovanie spánku v Mi Fitness</string>
+     <string name="widget_sleep_target">Cieľ: %1$s</string>
+     <string name="widget_tb_rainbow_has_no_data">Žiadne dáta</string>
+     <string name="widget_tb_rainbow_has_stand">%1$d z %2$d kcal spálených. %3$d z %4$d krokov. %5$d z %6$d h pohybu.</string>
+     <string name="widget_tb_rainbow_has_strength">%1$d z %2$d kcal spálených. %3$d z %4$d krokov. %5$d z %6$d min. pohybu.</string>
+     <string name="widget_tb_sleep_multi_segment">Záznam %1$d: %2$s do %3$s.</string>
+     <string name="widget_tb_sleep_segment_info">Zaspanie: %1$s. Prebudenie: %2$s.</string>
+     <string name="widget_tb_sleep_summary">Spánok: %1$s. Cieľ: %2$s.</string>    
+    
 </resources>
