@@ -7606,4 +7606,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
     <string name="zone_auto_title">Časové pásmo podľa siete</string>
     <string name="zone_list_menu_sort_alphabetically">Zoradiť abecedne</string>
     <string name="zone_list_menu_sort_by_timezone">Zoradiť podľa časového pásma</string>
+	
+    <string name="gxzw_vibrate_summary">Vibrovať počas animácie odtlačku prsta</string>
+    <string name="gxzw_vibrate_title">Vibrovať počas odomknutia</string>	
 </resources>
