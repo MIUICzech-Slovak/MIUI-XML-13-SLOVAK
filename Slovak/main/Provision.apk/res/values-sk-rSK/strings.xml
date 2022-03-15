@@ -517,4 +517,7 @@ Pred použitím tejto funkcie musíte súhlasiť so Zásadami ochrany osobných 
     <string name="withdraw_consent">Ak svoj súhlas odvoláte, služby Dennej tapety budú deaktivované.</string>
     <string name="yesterday">Včera</string>
     <string name="zone_picker_title">Vyberte časovú zónu</string>
+	
+    <string name="sim_card_dial_card">SIM %d pre hovory</string>
+    <string name="sim_card_network_card">Dáta SIM %d</string>	
 </resources>

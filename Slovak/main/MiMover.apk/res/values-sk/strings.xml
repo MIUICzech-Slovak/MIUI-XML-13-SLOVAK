@@ -716,4 +716,10 @@ na vašom iPhone"</string>
     <string name="wednesday_short">Str</string>
     <string name="wednesday_shortest">S</string>
     <string name="yesterday">Včera</string>
+	
+    <string name="apps_cannot_be_transfered_confirm_button">Spustiť</string>
+    <string name="apps_cannot_be_transfered_next_button">Ďalej</string>
+    <string name="apps_cannot_be_transfered_summary">Tieto 64-bit aplikácie nie je možné preniesť do 32-bit zariadenia.</string>
+    <string name="apps_cannot_be_transfered_title">Nebolo možné preniesť tieto aplikácie</string>
+    <string name="refuse_accept">Nesúhlasím</string>	
 </resources>

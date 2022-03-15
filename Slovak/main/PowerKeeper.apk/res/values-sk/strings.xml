@@ -379,4 +379,6 @@
     <string name="wednesday_short">Str</string>
     <string name="wednesday_shortest">S</string>
     <string name="yesterday">Včera</string>
+	
+    <string name="high_temp_state_message_orange_es">Niektoré aplikácie nie je možné dočasne používať pre zlepšenie výkonu.</string>	
 </resources>

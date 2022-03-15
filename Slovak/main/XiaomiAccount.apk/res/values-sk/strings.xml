@@ -789,4 +789,13 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
     <string name="wipe_data_dialog_msg_separator">, </string>
     <string name="wipe_data_dialog_title">Niektoré položky neboli synchronizované.</string>
     <string name="yesterday">Včera</string>
+	
+    <string name="access_denied_info">Príliš mnoho pokusov. Skúste to neskôr.</string>
+    <string name="area_code_no_search_result">Nič sa nenašlo</string>
+    <string name="area_code_search_hint">Vyhľadajte krajinu</string>
+    <string name="network_error_info">Chyba siete. Skontrolujte nastavenie siete.</string>
+    <string name="network_timeout_info">Nebolo možné pripojiť sa k sieti.</string>
+    <string name="progressbar_title">Kontrola zabezpečenia…</string>
+    <string name="system_error_info">Systém je zaneprázdnený. Skúste to neskôr znova.</string>
+    <string name="unknown_error_info">Neznáma chyba</string>	
 </resources>

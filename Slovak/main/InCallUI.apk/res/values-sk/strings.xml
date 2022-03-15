@@ -364,4 +364,16 @@
     <string name="wednesday_shortest">S</string>
     <string name="wifi_call">VoWi-fi hovor</string>
     <string name="yesterday">Včera</string>
+	
+<string name="remind_unlock_screen_message">Odomknite zariadenie pre použitie \"%s\". Chcete odomknúť?</string>	
+
+    <string name="saf_permission_content">"Systémové povolenia boli aktualizované. Pre nahrávanie hovorov musíte najskôr povoliť povolenia.
+
+ako udeliť povolenie
+Stlačte \"%1$s\" a potom vyberte \"%2$s\"."</string>
+    <string name="saf_permission_grant_permission_immediately">Ďalej</string>
+    <string name="saf_permission_later">Neskôr</string>
+    <string name="saf_permission_refused">Nie je možné nahrať hovor kvôli chýbajúcim povoleniam</string>
+    <string name="saf_permission_title">Vyžadujú sa povolenia</string>
+    <string name="saf_permission_use_this_folder">Použiť túto zložku</string>
 </resources>
