@@ -2704,4 +2704,14 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
     <string name="zen_priority_introduction">Nebudú vás vyrušovať zvuky ani vibrácie, iba budíky, pripomenutia, udalosti a volajúci, ktorých určíte. Budete naďalej počuť všetko, čo sa rozhodnete prehrať, ako napríklad hudbu, videá a hry.</string>
     <string name="zen_silence_introduction">Zablokujú sa tým VŠETKY zvuky a vibrácie vrátane zvukov budíkov, hudby, videí a hier.</string>
     <string name="zen_silence_introduction_voice">Zablokujú sa VŠETKY zvuky a vibrácie vrátane budíkov, hudby, videí a hier. Stále však budete môcť telefonovať.</string>
+	
+<string name="privacy_dialog_title">Upozornenia na citlivé akcie</string>
+     <string name="privacy_recent_used_title">Nedávne</string>
+     <string name="privacy_using_title">Aktuálne</string>
+     <string name="recent_used_camera">Táto aplikácia použila fotoaparát</string>
+     <string name="recent_used_camera_and_microphone">Táto aplikácia nahrala zvuk a použila fotoaparát</string>
+     <string name="recent_used_microphone">Táto aplikácia nahrala zvuk</string>
+     <string name="using_camera">Táto aplikácia používa fotoaparát</string>
+     <string name="using_camera_and_microphone">Táto aplikácia nahráva zvuk a používa kameru</string>
+     <string name="using_microphone">Táto aplikácia nahráva zvuk</string>
 </resources>

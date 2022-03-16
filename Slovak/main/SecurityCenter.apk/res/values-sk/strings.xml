@@ -4997,8 +4997,8 @@ Rešpektujeme a chránime vaše súkromie."</string>
     <string name="title_flow_verify">Info o spotrebe dát od operátora</string>
     <string name="title_flow_verify_failed">Nepodarilo sa upraviť 5 dní v rade</string>
     <string name="title_flow_verify_failed_new">Nebolo možné nastaviť pre %d dní za sebou</string>
-    <string name="title_garbage_clean">Cache apl. dosiahla %s</string>
-    <string name="title_garbage_less">Cache apl. je malá</string>
+    <string name="title_garbage_clean">Cache aplikácií dosiahla %s</string>
+    <string name="title_garbage_less">Cache aplikácií je malá</string>
     <string name="title_garbage_lib">Automatická aktualizácia je vypnutá</string>
     <string name="title_install_virus_no">Kontrola inštalácií zakázaná</string>
     <string name="title_install_virus_yes">Kontrola inštalácií povolená</string>
