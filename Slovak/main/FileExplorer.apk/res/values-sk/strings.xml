@@ -616,7 +616,7 @@ and never miss the cool new ones!"</string>
     <string name="operation_del_fav">Odoberanie z obľúbených...</string>
     <string name="operation_delete">Vymazať</string>
     <string name="operation_delete_confirm_message">Vymazanie súborov</string>
-    <string name="operation_delete_confirm_message_folder">Vymazanie zložky odstráni aj všetky súbory v nej.</string>
+    <string name="operation_delete_confirm_message_folder">"Vymazanie zložky odstráni aj všetky súbory v nej. "</string>
     <string name="operation_deleting">Odstraňovanie súborov...</string>
     <string name="operation_deleting_detail">Mazanie (%1$d/%2$d)</string>
     <string name="operation_download_link">Vygenerovať link na stiahnutie</string>
