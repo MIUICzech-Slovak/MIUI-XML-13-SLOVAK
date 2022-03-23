@@ -1685,7 +1685,7 @@ For more info check the message you received from your service provider"</string
     <string name="first_aid_card_consume_power_summary2">Deaktivovať hotspot pre úsporu batérie</string>
     <string name="first_aid_card_consume_power_summary3">Deaktivovať Bluetooth pre úsporu batérie</string>
     <string name="first_aid_card_consume_power_summary4">Deaktivovať GPS pre úsporu batérie</string>
-    <string name="first_aid_card_consume_power_summary_app">Viac ako %d aplikácií má povolený autom. spustenie. Obmedzte ich pre úsporu batérie.</string>
+    <string name="first_aid_card_consume_power_summary_app">Viac ako %d aplikácií má povolené autom. spustenie. Obmedzte ich pre úsporu batérie.</string>
     <string name="first_aid_card_consume_power_title">Spotreba batérie</string>
     <string name="first_aid_card_float_window_button">Zakázať</string>
     <string name="first_aid_card_float_window_summary">%s môže byť zobrazené nesprávne. Zakážte plávajúce upozornenia.</string>
@@ -5467,4 +5467,19 @@ Skúste zväčšiť rozlíšenie!"</string>
     <string name="xspace_warning_dialog_title">Upozornenie</string>
     <string name="xunyou_server_expired">Relácia vypršala.</string>
     <string name="yesterday">Včera</string>
+	
+<string name="exit_dialog_release_memory_title_new">Zrýchlite svoje zariadenie pomocou %s</string>
+
+<string name="gb_dialog_record_way_ai_new">Nahrávky AI sú uložené v hernom boxe a tam uložené na %d dní.</string>
+<string name="gb_dialog_record_way_manual_new">Manuálne nahrávanie videí až do %d sekúnd</string>
+<string name="gb_game_video_bottom_tips_new">Vráťte sa ku kľúčovým momentom z vašich hier v hre Game Turbo. Videá budú automaticky odstránené po %d dňoch.</string>
+<string name="gtb_setting_item_summary_smart_wlan_speed_new">Zvýšte rýchlosť pripojenia o %1$s-%2$s pri pripojení k Mi/Redmi routru</string>
+    <string name="memory_clean_no_need_clean_1_new" formatted="false">"Uvoľnené %s.
+Vaše zariadenie je teraz %s rýchlejšie."</string>
+<string name="menu_item_notification_optimize_text_new">%s obsadené</string>
+    <string name="menu_summary_garbage_cleanup_new_new">%s úložného priestoru</string>
+    <string name="menu_summary_optimize_manage_1_new">Zrýchlite svoje zariadenie %s</string>
+    <string name="notification_link_optimizemanage_1011_new">%s pamäte je obsadených. Vymazať teraz.</string>
+    <string name="notification_optimize_title_new">%s pamäte je obsadených</string>
+    <string name="superpower_notification_new_title_new">Zostáva menej ako %s batérie</string>
 </resources>

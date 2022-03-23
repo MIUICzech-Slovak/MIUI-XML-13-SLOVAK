@@ -520,4 +520,9 @@ Pred použitím tejto funkcie musíte súhlasiť so Zásadami ochrany osobných 
 	
     <string name="sim_card_dial_card">SIM %d pre hovory</string>
     <string name="sim_card_network_card">Dáta SIM %d</string>	
+	
+<string name="bluetooth_usage_desc">Počiatočné nastavenie vám umožňuje nastaviť základné predvoľby pre toto zariadenie. Na úspešné nastavenie vášho zariadenia budú systémové služby Bluetooth používať nasledujúce povolenia:</string>
+     <string name="enable_or_disable_bluetooth">Zapnutie a vypnutie Bluetooth</string>
+     <string name="miui_provision">Úvodné nastavenie</string>
+     <string name="permission_enable_disable_bluetooth_summary">Na vyhľadanie zariadení v okolí za účelom pripojenia a prenosu údajov</string>
 </resources>

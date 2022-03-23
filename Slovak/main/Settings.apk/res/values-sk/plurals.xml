@@ -339,4 +339,7 @@
         <item quantity="few">Zmena na možnosť Iba budíky platná %1$d minúty (do %2$s)</item>
         <item quantity="many">Zmena na možnosť Iba budíky platná %1$d minúty (do %2$s)</item>
     </plurals>
+    <plurals name="search_application_count">
+        <item quantity="other">Vyhľadať aplikácie</item>
+    </plurals>	
 </resources>

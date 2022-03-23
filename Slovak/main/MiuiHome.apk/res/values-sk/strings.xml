@@ -703,4 +703,10 @@
     <string name="widget_quick_function">Skratky</string>
     <string name="widgets_preview_title">Pridať widget</string>
     <string name="yesterday">Včera</string>
+	
+<string name="recents_worldcirculate_text">Vyberte uvoľnením</string>
+     <string name="recnets_worldcirculate_button_text">Mi Smart Hub</string>
+     <string name="recnets_worldcirculate_display_computer_info">Aplikácia funguje na %s.</string>
+     <string name="recnets_worldcirculate_display_default_info">Dotykom ju vrátite späť sem.</string>
+     <string name="recnets_worldcirculate_display_pad_info">Aplikácia funguje na %s.</string>
 </resources>

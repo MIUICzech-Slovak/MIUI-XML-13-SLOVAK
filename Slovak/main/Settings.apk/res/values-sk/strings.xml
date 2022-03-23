@@ -7609,4 +7609,16 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
 	
     <string name="gxzw_vibrate_summary">Vibrovať počas animácie odtlačku prsta</string>
     <string name="gxzw_vibrate_title">Vibrovať počas odomknutia</string>	
+	
+<string name="adapt_embedded">K dispozícii sú paralelné okná</string>
+     <string name="application_mode_empty_text">Žiadne aplikácie</string>
+     <string name="application_mode_name">Režim zobrazenia aplikácie</string>
+     <string name="rename_words_reached_limit">Nový názov nemôže byť dlhší ako toto</string>
+     <string name="size_embedded">Paralelné okná</string>
+     <string name="size_full">Celá obrazovka</string>
+     <string name="unadapt_embedded">Paralelné okná nie sú dostupné</string>
+	 
+<string name="bt_plugin_current_version">Aktuálna verzia</string>
+     <string name="eye_gaze_summary">Zariadenie sa nezablokuje, keď zistí, že sa pozeráte na obrazovku</string>
+     <string name="eye_gaze_title">Rozpoznať pohľad</string>
 </resources>
