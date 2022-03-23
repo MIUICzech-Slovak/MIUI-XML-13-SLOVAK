@@ -235,7 +235,7 @@
     <string name="quick_settings_pcmode_turn_off_description">Po ukončení PC režimu, nebudete môcť využívať väčšiu obrazovku. Chcete ukončiť?</string>
     <string name="quick_settings_pcmode_turn_on_description">Po povolení PC režimu, budete môcť využívať väčšiu obrazovku. Chcete povoliť?</string>
     <string name="quick_settings_scanner_label">Skener</string>
-    <string name="quick_settings_wireless_label">Reverzné bezdrôtové nabíjanie</string>
+    <string name="quick_settings_wireless_label">Reverzné nabíjanie</string>
     <string name="reboot_info_auto_boot">Zariadenie sa vypne o %s</string>
     <string name="reboot_info_shutdown_alarm">Budík: %s</string>
     <string name="reset">Obnoviť</string>
