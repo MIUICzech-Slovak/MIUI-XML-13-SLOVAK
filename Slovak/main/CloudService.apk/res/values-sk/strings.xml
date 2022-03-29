@@ -470,7 +470,7 @@ do vášho Mi účtu pre znovu aktivovanie MiCloud."</string>
     <string name="micloud_main_master_sync_on">Synchr. zapnutá</string>
     <string name="micloud_main_memory_low_message">Pre synchr. vymažte niečo z MiCloud.</string>
     <string name="micloud_main_memory_low_title">Nie je dostatok voľného miesta na internom úložisku</string>
-    <string name="micloud_main_message_master_sync_off">Nastavenie autom. synchr. je v roletke.</string>
+    <string name="micloud_main_message_master_sync_off">Nastavenie auto synchr. je v roletke.</string>
     <string name="micloud_main_message_not_synced">%s nesynchr.</string>
     <string name="micloud_main_multi_user_error_message">"Prihlásili ste sa rovnakým Mi účtom ako na primárnom profile. Ak chcete zálohovať vašw dáta:
 

@@ -963,7 +963,7 @@ Pre aktiváciu tejto služby bude odoslaná bežná SMS."</string>
     <string name="title_activity_rcs_maps">Poloha</string>
     <string name="title_allow_network_access">Aktualizovať info automaticky</string>
     <string name="title_collapse_sp_messages">Spájať správy služieb</string>
-    <string name="title_hide_verification_code">Autom. skryť OTP na zamyk. obrazovke</string>
+    <string name="title_hide_verification_code">Auto skryť OTP na zamyk. obrazovke</string>
     <string name="title_show_blocked_messages">Zobraziť blokované SMS</string>
     <string name="title_show_list_avatar">Zobraziť fotografie kontaktu</string>
     <string name="title_show_photo_word">Priradiť obrázok kontaktu</string>

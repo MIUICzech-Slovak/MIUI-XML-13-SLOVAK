@@ -891,7 +891,7 @@ Zapnutie tejto funkcie ovplyvní výdrž batérie. Pokračovať?"</string>
     <string name="device_settings_heart_rate_broadcast">Zdieľať záznamy o srdcovom tepe</string>
     <string name="device_settings_heart_rate_broadcast_des">Povoliť Bluetooth zariadeniam v okolí získať údaje o vašom aktívnom srdcovom tepe</string>
     <string name="device_settings_heart_rate_broadcast_dialog">Zariadenia Bluetooth tretích strán zhromažďujú informácie z vášho nositeľného zariadenia vrátane informácií o srdcovom tepe a MAC adresy zariadenia, čo môže predstavovať bezpečnostné riziká. Zapnutie tejto funkcie ovplyvní výdrž batérie. Napriek tomu pokračovať?</string>
-    <string name="device_settings_heart_rate_intelligent_monitor">Autom.</string>
+    <string name="device_settings_heart_rate_intelligent_monitor">Auto</string>
     <string name="device_settings_heart_rate_monitor_continuous">Každú minútu</string>
     <string name="device_settings_heart_rate_setting">Srdcový tep</string>
     <string name="device_settings_heart_rate_warning_unit">tepov/min.</string>
@@ -3224,7 +3224,7 @@ Bez tohto kroku nie je možné platby zariadením vykonať."</string>
     <string name="sport_apply_location">Najprv zapnite služby určovania polohy</string>
     <string name="sport_appsort_sync_failed">Synchronizácia zlyhala</string>
     <string name="sport_arm_bag">Batoh</string>
-    <string name="sport_auto_pause">Autom. pozastaviť</string>
+    <string name="sport_auto_pause">Auto pozastaviť</string>
     <string name="sport_avoid">Neodporúčané</string>
     <string name="sport_belt_adjust_lose_connect_desc">Pripojte bežecký pás a skúste to znova.</string>
     <string name="sport_belt_adjust_lose_connect_title">"Nepodarilo sa pripojiť"</string>

@@ -749,7 +749,7 @@ Objekt bude ostrý na rozmazanom pozadí."</string>
     <string name="pref_camera_antibanding_entry_2">60 Hz</string>
     <string name="pref_camera_antibanding_entry_3">Auto</string>
     <string name="pref_camera_antibanding_title">Redukcia pruhov na displeji</string>
-    <string name="pref_camera_asd_night_title">Autom. vylepšiť nočnú fotografiu</string>
+    <string name="pref_camera_asd_night_title">Auto vylepšiť nočnú fotografiu</string>
     <string name="pref_camera_asd_popup_title">Upozorniť ak je potrebný blesk</string>
     <string name="pref_camera_audio_capture_title">Spúšť zvukom</string>
     <string name="pref_camera_auto_capture_when_stable_summary">Objekt vyberiete dotykom na dva body hranice objektu. Ak sa vybraný objekt zastaví, zhotoví sa automaticky fotografia.</string>
@@ -819,7 +819,7 @@ Objekt bude ostrý na rozmazanom pozadí."</string>
     <string name="pref_camera_dual_sat_enable_title">Povoliť duálny SAT fotoaparát</string>
     <string name="pref_camera_dynamic_frame_rate_summary">Snímková frekvencia sa automaticky zníži pri slabom osvetlení alebo vysokej teplote, aby sa zlepšila kvalita videa</string>
     <string name="pref_camera_dynamic_frame_rate_title">Upravte snímkovú frekvenciu na slabé osvetlenie</string>
-    <string name="pref_camera_dynamic_frame_rate_title_new">Autom. snímková frekvencia</string>
+    <string name="pref_camera_dynamic_frame_rate_title_new">Auto snímková frekvencia</string>
     <string name="pref_camera_eis_entry_off">Vyp</string>
     <string name="pref_camera_exposuretime_entry_0.5">2s</string>
     <string name="pref_camera_exposuretime_entry_1">1s</string>

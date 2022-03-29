@@ -223,5 +223,5 @@ dlhý screenshot"</string>
      <string name="toast_download_with_metered_network_title">Upozornenie na používanie dát</string>
      <string name="unrecognized_manufacture">Neznáme</string>
      <string name="unrecognized_model">Neznáme zariadenie</string>
-
+     <string name="operation_send">Odoslať</string>
 </resources>

@@ -19,7 +19,7 @@ Ak vyberiete nepoužívať prispôsobené reklamy, ich počet sa nezníži ale n
     <string name="ac_set_apps_title">Vybrať apl. pre uzamknutie</string>
     <string name="accelerometer_summary_off">Pri otáčaní telefónu automaticky prepínať orientáciu</string>
     <string name="accelerometer_summary_on">Pri otáčaní telefónu automaticky prepínať orientáciu</string>
-    <string name="accelerometer_title">Autom. otočenie obrazovky</string>
+    <string name="accelerometer_title">Auto otočenie obrazovky</string>
     <string name="access_control_app_entry_multiple">Otvoriť %s</string>
     <string name="access_control_app_entry_single">Otvoriť zvolenú aplikáciu</string>
     <string name="access_control_need_password">"%s je uzamknuté/ý
@@ -38,8 +38,8 @@ Ak vyberiete nepoužívať prispôsobené reklamy, ich počet sa nezníži ale n
     <string name="accessibility_autoclick_longer_desc">Dlhší</string>
     <string name="accessibility_autoclick_medium_summary">0.6s</string>
     <string name="accessibility_autoclick_medium_title">Stredné</string>
-    <string name="accessibility_autoclick_preference_title">Autom. klik</string>
-    <string name="accessibility_autoclick_seekbar_desc">Čas autom. kliknutia</string>
+    <string name="accessibility_autoclick_preference_title">Auto klik</string>
+    <string name="accessibility_autoclick_seekbar_desc">Čas auto kliknutia</string>
     <string name="accessibility_autoclick_short_summary">0.2s</string>
     <string name="accessibility_autoclick_short_title">Krátke</string>
     <string name="accessibility_autoclick_shorter_desc">Kratšie</string>
@@ -207,9 +207,9 @@ Medzi funkciami môžete prepínať potiahnutím nahor tromi prstami a podržan�
     <string name="account_list">Ostatné účty</string>
     <string name="account_other">Ostatné</string>
     <string name="account_settings">Účty</string>
-    <string name="account_settings_menu_auto_sync">Autom. synchronizácia údajov</string>
-    <string name="account_settings_menu_auto_sync_personal">Autom. synchr. osobných údajov</string>
-    <string name="account_settings_menu_auto_sync_work">Autom. synchr. pracov. údajov</string>
+    <string name="account_settings_menu_auto_sync">Auto synchronizácia údajov</string>
+    <string name="account_settings_menu_auto_sync_personal">Auto synchr. osobných údajov</string>
+    <string name="account_settings_menu_auto_sync_work">Auto synchr. pracov. údajov</string>
     <string name="account_settings_title">Google a ostatné účty</string>
     <string name="account_sync_settings_title">Synchr.</string>
     <string name="acount_data">Účty</string>
@@ -1538,7 +1538,7 @@ Ak chcete ďalej používať svoj telefón, musíte obnoviť jeho továrenské n
     <string name="customize_function">Dostupné gestá</string>
     <string name="customize_knock_gesture">Vlastné gestá</string>
     <string name="cutout_mode_always">Vždy zobraziť výrez</string>
-    <string name="cutout_mode_default">Autom.</string>
+    <string name="cutout_mode_default">Auto</string>
     <string name="cutout_mode_settings_title">Niektoré aplikácie môžu byť zobrazené nesprávne ak zmeníte zobrazovanie výrezu.</string>
     <string name="cutout_mode_title">Výrez v aplikáciách</string>
     <string name="cutout_type_desc">Povoľte pre plynulý prechod výrezu</string>
@@ -3736,7 +3736,7 @@ Pokračujte pre prístup k ďalším nastaveniam."</string>
     <string name="miui_sos_call_log_title">Odoslať históriu hovorov</string>
     <string name="miui_sos_call_warning_sim_unable">Žiaden signál. Nie je možné odoslať SMM.</string>
     <string name="miui_sos_calling_summary">Vaše zariadenie automaticky zavolá vášmu núdzovému kontaktu a prehrá núdzovú hlasovú ktorú ste nahrali. Hovor sa ukončí po prehratí správy.</string>
-    <string name="miui_sos_calling_title">Autom. hovor</string>
+    <string name="miui_sos_calling_title">Auto hovor</string>
     <string name="miui_sos_contacts_add">Núdzové kontakty</string>
     <string name="miui_sos_contacts_category">Núdzové kontakty</string>
     <string name="miui_sos_emergency_contacts">Núdzové kontakty</string>
@@ -4434,7 +4434,7 @@ Táto funkcia získa vašu MAC adresu Wi-Fi siete iba na počiatočnú registrá
     <string name="password_unlock">Zámok obrazovky</string>
     <string name="password_unlock_title">Heslá</string>
     <string name="path_about_about_settings">Nastavenia/Info o telefóne</string>
-    <string name="path_accelerometer_settings">Nastavenia/Displej/Autom. otočenie obrazovky</string>
+    <string name="path_accelerometer_settings">Nastavenia/Displej/Auto otočenie obrazovky</string>
     <string name="path_access_control_settings">Nastavenia/Ďalšie nastavenia/Zabezpečenie/Ochrana súkromia</string>
     <string name="path_accessibility_settings">Nastavenia/Ďalšie nastavenia/Uľahčenie prístupu</string>
     <string name="path_account_add">Nastavenia/Účty</string>
@@ -7253,7 +7253,7 @@ sl. Wi‑Fi Assistant"</string>
     <string name="wifi_region_summary">Nastaviť kanály Wi-Fi (reštartujte Wi-Fi pre použitie)</string>
     <string name="wifi_region_title">Wi-Fi región</string>
     <string name="wifi_remembered">Uložené</string>
-    <string name="wifi_remembered_disabled_auto_connect">Uložené. Autom. pripojenie je vypnuté.</string>
+    <string name="wifi_remembered_disabled_auto_connect">Uložené. Auto pripojenie je vypnuté.</string>
     <string name="wifi_required_info_text">Tablet potrebuje na dokončenie nastavení prístup k sieti Wi-Fi. Po nastavení môžete prepínať medzi mobilným dátovým pripojením a sieťou Wi-Fi.</string>
     <string name="wifi_rssi_threshold_check">Povoliť RSSI threshold</string>
     <string name="wifi_rssi_threshold_check_summary">Nepripájať sa na AP ak je slabé RSSI</string>

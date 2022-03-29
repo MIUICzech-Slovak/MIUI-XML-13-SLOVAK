@@ -73,8 +73,8 @@
     <string name="abnormal_consume_type_cpu">Vysoké CPU využitie</string>
     <string name="abnormal_consume_type_wakelock">Systém nemôže byť uspaný</string>
     <string name="about_autostart">Čo je to Auto-štart</string>
-    <string name="ac_enable_title">Povoliť zámok apl.</string>
-    <string name="ac_enter_applock">Zadajte Zámok apl.</string>
+    <string name="ac_enable_title">Povoliť Zámok aplikácií</string>
+    <string name="ac_enter_applock">Zadajte Zámok aplikácií</string>
     <string name="ac_firstUseApplock_subTitle">Použite zámok aplikácií pre ochranu vášho súkromia</string>
     <string name="ac_firstUseApplock_title">Vyžadovať heslo pre otvorenie aplikácií</string>
     <string name="ac_mask_all_apps">Skryť všetky apl.</string>
@@ -122,7 +122,7 @@ alebo zadajte heslo"</string>
     <string name="activity_title_antivirus">Antivírus</string>
     <string name="activity_title_antivirus_kddi">Kontrola zabezpečenia</string>
     <string name="activity_title_apps_manager">Aplikácie</string>
-    <string name="activity_title_auto_start_manager">Správa autom. spustenia</string>
+    <string name="activity_title_auto_start_manager">Správa auto spustenia</string>
     <string name="activity_title_create_shortcut">Odkaz</string>
     <string name="activity_title_deep_clean">Hlboké čistenie</string>
     <string name="activity_title_default_apps_manager">Správa predvolených apl.</string>
@@ -780,7 +780,7 @@ alebo zadajte heslo"</string>
     <string name="auto_atsk_condition_battery_level_text_up">Ak batéria je nabitá na %s</string>
     <string name="auto_back_booster">Zastaviť zrýchlenie</string>
     <string name="auto_booster_suc">Zrýchlené</string>
-    <string name="auto_clean_close">Autom. čistenie je vypnuté</string>
+    <string name="auto_clean_close">Auto čistenie je vypnuté</string>
     <string name="auto_clean_switch_off">Vyp.</string>
     <string name="auto_clean_switch_on">Zap.</string>
     <string name="auto_cleaner_open">Vyčistiť</string>
@@ -1685,7 +1685,7 @@ For more info check the message you received from your service provider"</string
     <string name="first_aid_card_consume_power_summary2">Deaktivovať hotspot pre úsporu batérie</string>
     <string name="first_aid_card_consume_power_summary3">Deaktivovať Bluetooth pre úsporu batérie</string>
     <string name="first_aid_card_consume_power_summary4">Deaktivovať GPS pre úsporu batérie</string>
-    <string name="first_aid_card_consume_power_summary_app">Viac ako %d aplikácií má povolené autom. spustenie. Obmedzte ich pre úsporu batérie.</string>
+    <string name="first_aid_card_consume_power_summary_app">Viac ako %d aplikácií má povolené auto spustenie. Obmedzte ich pre úsporu batérie.</string>
     <string name="first_aid_card_consume_power_title">Spotreba batérie</string>
     <string name="first_aid_card_float_window_button">Zakázať</string>
     <string name="first_aid_card_float_window_summary">%s môže byť zobrazené nesprávne. Zakážte plávajúce upozornenia.</string>
@@ -1977,7 +1977,7 @@ z vášho hrania hier"</string>
     <string name="gd_setting_group_custom_gtb_apps">Hry</string>
     <string name="gd_setting_group_custom_line_location">Pozícia nástrojov</string>
     <string name="gd_setting_group_custom_settings">Prispôsobenie</string>
-    <string name="gd_setting_group_custom_vtb_apps">Video apl.</string>
+    <string name="gd_setting_group_custom_vtb_apps">Video aplikácie</string>
     <string name="gd_setting_group_smart_tool_box">Inteligentné nástroje</string>
     <string name="gd_setting_group_title_switch">Scény</string>
     <string name="gd_setting_gtb">Zobraziť počas hrania hier</string>
@@ -4068,7 +4068,7 @@ Počas dátového prenosu sa text a obrázky komprimujú na serveri a tým sa ur
     <string name="section_title_clear_acc">Vyčistiť cache</string>
     <string name="section_title_security_defend">Bezpečnosť</string>
     <string name="section_title_system">Bezpečnosť systému</string>
-    <string name="security_app_lock">Zámok apl.</string>
+    <string name="security_app_lock">Zámok aplikácií</string>
     <string name="security_bottom_guide_to_pm_text">Otváranie…</string>
     <string name="security_center_auto_task">Centrum úloh</string>
     <string name="security_center_slogan">Bezpečnosť je na prvom mieste.</string>
@@ -4941,7 +4941,7 @@ Rešpektujeme a chránime vaše súkromie."</string>
     <string name="tips_of_package_set">Nastavte vaše zakúpené dáta a kontrolujte spotrebu dát</string>
     <string name="tips_of_traffic_pack_threshold">Zakúpte si dáta navyše ak sa blížite k vášmu limitu</string>
     <string name="tips_of_virus_scan">Kontrolujte vaše zariadenie na prítomnosť vírusov</string>
-    <string name="title_app_lock_disable">Zámok apl.</string>
+    <string name="title_app_lock_disable">Zámok aplikácií</string>
     <string name="title_app_update">Dostupné aktualizácie</string>
     <string name="title_auto_update">Aktualizovať automaticky</string>
     <string name="title_background_connection">Nie je možné použiť %s na pozadí?</string>
@@ -5362,7 +5362,7 @@ Skúste zväčšiť rozlíšenie!"</string>
     <string name="virus_app_type_installed">Nainštalované</string>
     <string name="virus_app_type_uninstalled">APK</string>
     <string name="virus_app_verison_text">Verzia: %s</string>
-    <string name="virus_auto_update_engine">Autom. aktualizácia: %s</string>
+    <string name="virus_auto_update_engine">Auto aktualizácia: %s</string>
     <string name="virus_clear_dialog_title">Vymazať nebezpečné aplikácie</string>
     <string name="virus_detail_app">Obsahuje vírusy</string>
     <string name="virus_detail_split_line_text"> | </string>

@@ -739,7 +739,7 @@
     <string name="permission_use_desc">Povolenia</string>
     <string name="photo_editor_adjust">Upraviť</string>
     <string name="photo_editor_beautify">Skrášlenie</string>
-    <string name="photo_editor_beautify_auto">Autom.</string>
+    <string name="photo_editor_beautify_auto">Auto</string>
     <string name="photo_editor_beauty_compare">Originál</string>
     <string name="photo_editor_common_download_failed">Plug-in nebolo možné stiahnuť. Skontrolujte sieťové nastavenia a skúste to znova.</string>
     <string name="photo_editor_common_download_finish">Plug-in úspešne stiahnutý</string>
@@ -747,7 +747,7 @@
     <string name="photo_editor_common_download_sdk_without_wifi_title">Stiahnuť plug-in</string>
     <string name="photo_editor_compare_tip">Stlačte a držte pre zobrazenie originálneho obrázku</string>
     <string name="photo_editor_crop_and_rotate">Orezať</string>
-    <string name="photo_editor_crop_auto">Autom.</string>
+    <string name="photo_editor_crop_auto">Auto</string>
     <string name="photo_editor_crop_auto_tips">Automaticky orezané</string>
     <string name="photo_editor_crop_reset">Obnoviť</string>
     <string name="photo_editor_crop_rotation_format">%d°</string>
@@ -1237,7 +1237,7 @@
     <string name="video_editor_audio_quiet">Zen</string>
     <string name="video_editor_audio_summertime">Leto</string>
     <string name="video_editor_audio_vitality">Energia</string>
-    <string name="video_editor_auto_trim">Autom. orezanie</string>
+    <string name="video_editor_auto_trim">Auto orezanie</string>
     <string name="video_editor_auto_trim_tip">Auto orezanie…</string>
     <string name="video_editor_cancel">Zrušiť</string>
     <string name="video_editor_done">Hotovo</string>
@@ -1371,7 +1371,7 @@
     <string name="vlog_caption_ai_no_detect">Nepodarilo sa vygenerovať automatické titulky</string>
     <string name="vlog_caption_ai_replace_message">Zmeniť automatické titulky vlastnými titulkami?</string>
     <string name="vlog_caption_ai_replace_title">Zmeniť titulky</string>
-    <string name="vlog_caption_auto">Autom.</string>
+    <string name="vlog_caption_auto">Auto</string>
     <string name="vlog_caption_clear">Vymazať titulky</string>
     <string name="vlog_caption_clear_sure_title">Po vymazaní už nebude možné obnoviť titulky. Napriek tomu vymazať?</string>
     <string name="vlog_caption_invalid_arguments">Nie je možné pridať, keď je interval kratší ako %1$d sek.</string>

@@ -1512,7 +1512,7 @@
     <string name="operation_video_compress">Komprimovať video</string>
     <string name="operation_watermark">Ochranný vodoznak</string>
     <string name="orientation_lock_tip">Orientácia uzamknutá</string>
-    <string name="orientation_unlock_tip">Autom. rotácia povolená</string>
+    <string name="orientation_unlock_tip">Auto rotácia povolená</string>
     <string name="origin_gif_name">Originál</string>
     <string name="origin_image_name">Originál</string>
     <string name="origin_video_name">Video</string>
