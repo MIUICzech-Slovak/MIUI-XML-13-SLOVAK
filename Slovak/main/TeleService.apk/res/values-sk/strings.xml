@@ -1939,10 +1939,4 @@ Ak sa rozhodnete uprednostňovať mobilné siete, budú sa predvolene používa�
     <string name="xdivert_summary">CFNRc Nastavenia</string>
     <string name="xdivert_title">X-Divert</string>
     <string name="yesterday">Včera</string>
-	
-<string name="enter_esim_manager">Spravovať eSIM</string>
-     <string name="esim_goto_active">Aktivovať</string>
-     <string name="esim_inactive_message">Neaktívna eSIM</string>
-     <string name="esim_inactive_notification_message">Nebola nájdená žiadna SIM karta. Dotykom aktivujete eSIM.</string>
-     <string name="esim_inactive_settings_title">Dual SIM a mobilné siete</string>
 </resources>
