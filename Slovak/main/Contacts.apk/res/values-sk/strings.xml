@@ -1516,4 +1516,7 @@ Zvoľte jednu z nasledujúcich možností:</string>
     <string name="yellowpage_user_profile">Profil</string>
     <string name="yesterday">Včera</string>
     <string name="zero_items_selected">Nič nie je vybrané</string>
+	
+    <string name="privacy_settings_blue_scan_connect">Pripojiť k zariadeniam nablízku</string>
+    <string name="toast_not_show_blue_scan_connect_perm_req">Povoľte túto funkciu pre pripojenie sa k blízkym zariadeniam cez Bluetooth, aby ste mohli importovať kontakty z iných zariadení.</string>	
 </resources>

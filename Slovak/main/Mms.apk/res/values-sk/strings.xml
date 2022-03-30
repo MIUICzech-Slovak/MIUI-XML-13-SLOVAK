@@ -1052,5 +1052,6 @@ Pokus: %s."</string>
     <string name="zero_sms_feedback_success">Nahlásené</string>
     <string name="zero_sms_feedback_title">Nahlásiť</string>
 	    <string name="menu_report">Spätná väzba</string>
-
+<string name="title_not_show_read_mms_perm_req">Vyžadujú sa povolenia</string>
+     <string name="toast_not_show_read_mms_perm_req">Ak chcete zobraziť prijaté správy, musíte aplikácii Správy udeliť povolenie na čítanie SMS a MMS. Toto povolenie môžete udeliť v Nastaveniach.</string>
 </resources>
