@@ -137,7 +137,7 @@ Ak sa rozhodnete znovu využiť naše služby, budete musieť najskôr súhlasi�
     <string name="access_misport_import_failed_partof">&lt;Data>Dokončenie prenosu zlyhalo. Skúste to znova neskôr.&lt;br/>Pre viac informácií o tom &lt;a href=\"%1$s\">čo znamená prenos dát z aplikácie Mi Fit&lt;/a> kliknite sem.&lt;/Data></string>
     <string name="access_misport_import_immediately">Preniesť</string>
     <string name="access_misport_import_title_mainpage">Prenos z aplikácie Mi Fit</string>
-    <string name="access_misport_importing_desc">&lt;Data>Prenos dát za obdobie 1 roka trvá približne 10 minút. V priebehu prenosu môžete z tejto stránky odísť.&lt;br/>Pre viac informácií o tom &lt;a href=\"%1$s\">čo znamená prenos dát z aplikácie Mi Fit&lt;/a> kliknite sem.&lt; /Data></string>
+    <string name="access_misport_importing_desc">&lt;Data>Prenos dát za obdobie 1 roka trvá približne 10 minút. V priebehu prenosu môžete z tejto stránky odísť.&lt;br/>Pre viac informácií o tom &lt;a href=\"%1$s\">čo znamená prenos dát z aplikácie Mi Fit&lt;/a> kliknite sem.&lt;/Data></string>
     <string name="access_misport_importing_process">Pre zobrazenie priebehu prenosu prejdite do záložky Profil > Preniesť z aplikácie Mi Fit.</string>
     <string name="access_misport_last_import_time">Prenesené: %1$s</string>
     <string name="access_misport_setting_item">Prenos z aplikácie Mi Fit</string>
@@ -2806,7 +2806,7 @@ Získať toto ocenenie"</string>
     <string name="nfc_common_waiting">Ešte chvíľku…</string>
     <string name="nfc_contact_us_url">&lt;Data>&lt;a href=\"%1$s\">Kontaktujte nás&lt;/a>&lt;/Data></string>
     <string name="nfc_cvc2_help_info">CVC2 sú posledné 3 číslice na zadnej strane karty</string>
-    <string name="nfc_cvc2_protocl">&lt;Data>Prečítal(a) som si a súhlasím so &lt;a href=\"%1$s\">zmluvnými podmienkami&lt;/a>.&lt;/Data></string >
+    <string name="nfc_cvc2_protocl">&lt;Data>Prečítal(a) som si a súhlasím so &lt;a href=\"%1$s\">zmluvnými podmienkami&lt;/a>.&lt;/Data></string>
     <string name="nfc_default_card_set_failure">Nastavenie zlyhalo</string>
     <string name="nfc_delete_card_confim_hint_bank">Túto kartu už nemôžete využiť na platby. Napriek tomu pokračovať?</string>
     <string name="nfc_delete_card_msg">Bude to trvať približne 2 minúty.</string>
@@ -2839,7 +2839,7 @@ Získať toto ocenenie"</string>
     <string name="nfc_master_translations_empty">Žiadne dáta</string>
     <string name="nfc_mastercard_add_number_dialog_msg">Bude to trvať približne 2 minúty.</string>
     <string name="nfc_mi_pay_not_support">Táto funkcia je iba podporovaná na telefónoch so systémom Android 6.0 a vyšší</string>
-    <string name="nfc_mi_pay_proto_new">&lt;Data>Prečítal(a) som si a súhlasím so &lt;a href=\"%1$s\">Zásadami ochrany osobných údajov %2$s&lt;/a>.&lt; /Data></string>
+    <string name="nfc_mi_pay_proto_new">&lt;Data>Prečítal(a) som si a súhlasím so &lt;a href=\"%1$s\">Zásadami ochrany osobných údajov %2$s&lt;/a>.&lt;/Data></string>
     <string name="nfc_mi_pay_user_proto_master_new">&lt;Data>Prečítal(a) som si a súhlasím so &lt;a href=\"%1$s\">Zásadami ochrany osobných údajov %2$s&lt;/a> a &lt; a href=\"%3$s\">Zmluvnými podmienkami %4$s&lt;/a>.&lt;/Data></string>
     <string name="nfc_mi_pay_user_proto_privacy">Zásady ochrany osobných údajov</string>
     <string name="nfc_mi_pay_user_proto_user">Zmluvné podmienky</string>
@@ -3376,7 +3376,7 @@ Bez tohto kroku nie je možné platby zariadením vykonať."</string>
     <string name="sport_run_distance">Vzdialenosť</string>
     <string name="sport_run_indoor">Bežecký pás</string>
     <string name="sport_run_outdoor">Vonkajší beh</string>
-    <string name="sport_screen_on">Ponechať obrazovkou zapnutú</string>
+    <string name="sport_screen_on">Ponechať displej zapnutý</string>
     <string name="sport_security_lock_detail">Insert the safety key first</string>
     <string name="sport_security_lock_title">Upozornenie</string>
     <string name="sport_see">Review</string>
@@ -4138,4 +4138,123 @@ Ak nechcete svoje zdravotné informácie sprístupniť ostatným, môžete túto
      <string name="widget_tb_sleep_segment_info">Zaspanie: %1$s. Prebudenie: %2$s.</string>
      <string name="widget_tb_sleep_summary">Spánok: %1$s. Cieľ: %2$s.</string>    
     
+	<string name="auth_failure_exception">Vymažte cache aplikácie</string>
+	<string name="cancel_text">Zrušiť</string>
+    <string name="continue_text">Pokračovať</string>
+    <string name="create_session_failed">Vytvorenie relácie zlyhalo</string>
+    <string name="device_agree_all">Súhlasím so všetkým</string>
+    <string name="device_agree_to_terms">Podmienky používania</string>
+
+    <string name="device_required_agree_collect_info">Súhlasím so &lt;a href=\"%1$s\">Zhromažďovaním osobných informácií&lt;/a> (povinné)&lt;/Data></string>
+    <string name="device_required_agree_use_location">&lt;Data>Súhlasím so &lt;a href=\"%1$s\">Zaznamenávaním mojej polohy&lt;/a> (povinné)&lt;/Data></string>
+    <string name="device_settings_contact">Obľúbené kontakty</string>
+    <string name="device_settings_contact_add">Pridať</string>
+    <string name="device_settings_contact_add_fail">Nebolo možné pridať do obľúbených kontaktov.</string>
+    <string name="device_settings_contact_delete_fail">Nebolo možné vymazať.</string>
+    <string name="device_settings_contact_edit">Upraviť</string>
+    <string name="device_settings_contact_list_fail">Nebolo možné získať informácie o kontakte.</string>
+	
+	
+<string name="device_settings_contact_list_tips1">1. Ak chcete zavolať kontaktom na svojom nositeľnom zariadení, pridajte ich medzi obľúbené kontakty.</string>
+     <string name="device_settings_contact_list_tips2">2. Môžete pridať až 10 obľúbených kontaktov.</string>
+     <string name="device_settings_contact_search">Hľadať kontakty</string>
+     <string name="device_settings_contact_select">Vyberte kontakt</string>
+     <string name="device_settings_contact_sort">Zoradiť</string>
+     <string name="device_settings_contact_sync_failt">Nepodarilo sa synchronizovať. Skúste to znova.</string>
+     <string name="device_settings_contact_sync_success">Úspešne synchronizované</string>
+     <string name="device_settings_no_contact">Zatiaľ žiadne obľúbené</string>
+     <string name="device_settings_unwear_get_status_fail">Nepodarilo sa synchronizovať údaje</string>
+<string name="fitness_advanced_aerobic_run">Pokročilý aeróbny vytrvalostný beh</string>
+     <string name="fitness_advanced_fat_burning_run">Beh na pokročilé spaľovanie tukov</string>
+     <string name="fitness_advanced_interval_run">Pokročilý intervalový beh</string>
+     <string name="fitness_advanced_run">Kombinácia behu a chôdze pre pokročilých</string>
+     <string name="fitness_basic_aerobic_run">Základný aeróbny vytrvalostný beh</string>
+     <string name="fitness_basic_fat_burning_run">Základný beh spaľovania tukov</string>
+     <string name="fitness_basic_interval_run">Beh základného intervalu</string>
+     <string name="fitness_basic_run">Základný beh a chôdza v kombinácii</string>
+     <string name="fitness_basic_slow_run">Základné behanie</string>
+     <string name="fitness_bike_motocross">BMX</string>
+     <string name="fitness_heel_to_toe_walk">Chôdza</string>
+     <string name="fitness_high_bar">Vodorovný pruh</string>
+     <string name="fitness_hunting">Poľovníctvo</string>
+	 
+<string name="fitness_miit_fat_burning_run">Beh spaľujúci tuky</string>
+     <string name="fitness_sport_walk_indoor">Prechádzajte sa vnútri</string>
+     <string name="fitness_walk_indoor">Chôdza v interiéri</string>
+     <string name="get_fitness_authorization">Momentálne Xiaomi Wear nemá oprávnenie na získavanie informácií o kondičnom cvičení a nemôže získať informácie o vašich krokoch. Po autorizácii prejdite na Xiaomi Wear – Správa povolení na používanie</string>
+    <string name="get_permission_failed">Získanie povolení zlyhalo. Povoľte ich v nastaveniach.</string>
+<string name="health_data_sport_hrm1">Zahrejte sa</string>
+     <string name="health_data_sport_hrm2">Spaľovanie tukov</string>
+     <string name="health_data_sport_hrm3">Aeróbne</string>
+     <string name="health_data_sport_hrm4">Anaeróbne</string>
+     <string name="health_data_sport_hrm5">Limity</string>
+    <string name="health_spo2_abnormal_count">Upozornenia</string>
+<string name="health_training_load_grade">Stupeň</string>
+     <string name="health_training_load_home_card_good">Dobré tréningové zaťaženie</string>
+     <string name="health_training_load_home_card_high">Tréningové zaťaženie je príliš vysoké</string>
+     <string name="health_training_load_home_card_lack">Nedostatočná tréningová záťaž</string>
+     <string name="health_training_load_home_card_over">Preťaženie tréningom</string>
+    <string name="logIn_failed">Prihlásenie zlyhalo</string>
+    <string name="logIn_success">Prihlásenie úspešné</string>
+<string name="mobile_environment_staging">Prostredie sa pripravuje, prepnite ho online</string>
+     <string name="net_data_error">Chyba údajov zo servera.</string>
+<string name="nfc_card_issue_hint_device_empty">S aktuálnym účtom sa nenachádza žiadne zariadenie, najskôr ho pripojte</string>
+     <string name="nfc_new_mifare_card_issued">Karta už v tomto zariadení existuje</string>
+<string name="nfc_status_exception">Výnimka stavu NFC</string>
+ <string name="not_used_fitness_authorization">Neoprávnený prístup k informáciám o telesnej kondícii</string>
+     <string name="notify_guide_function_open">Funkcia je povolená</string>
+     <string name="notify_guide_sync_all_subtitle">Po synchronizácii bude zariadenie zrkadliť všetky upozornenia z telefónu</string>
+     <string name="notify_guide_sync_all_title">Synchronizovať upozornenia telefónu</string>
+     <string name="notify_guide_system_set">Nastavenia systému a synchronizácia informácií</string>
+     <string name="notify_one_step_all_notification">Synchronizácia upozornení telefónu jedným kliknutím</string>
+     <string name="notify_one_step_all_notification_subtitle">Všetky upozornenia prijaté telefónom, zariadenie bude synchronizovať pripomienky upozornení</string>
+     <string name="notify_select_type_label">Podporuje sa iba jeden spôsob upozornenia</string>
+    <string name="privacy_permission_record_audio">Nahrať zvuk</string>
+    <string name="privacy_permission_record_audio_des">Na zaznamenávanie rozprávania a chrápania pri analýze spánkového cyklu</string>
+    <string name="query_se_key_status">Skontrolujte stav bezpečnostného kľúča</string>
+<string name="select_app_notification_button">Ručne vybrať upozornenie na správu</string>
+     <string name="select_app_notification_button_subtitle">Nastavte si upozornenia pre aplikácie</string>
+     <string name="select_app_notification_done">Vybraté</string>
+     <string name="select_app_notification_has_set">Nastaviť</string>
+<string name="show_info_text">Pridať bezpečnostný testovací kľúč do svojho zariadenia?</string>
+     <string name="success">Hotovo</string>
+     <string name="sync_wifi_no_permission_desc">Chcete zdieľať heslo siete Wi-Fi so svojím nositeľným zariadením?</string>
+     <string name="sync_wifi_no_permission_title">Zdieľať heslo</string>
+<string name="trail_height_fall_duration">Z kopca</string>
+     <string name="trail_height_flat_duration">Rovina</string>
+     <string name="trail_height_rise_duration">Do kopca</string>
+     <string name="trail_label_sport_check">Kalibrované</string>
+<string name="trail_map_style_common">Predvolené</string>
+     <string name="trail_map_style_no_label">Žiadne</string>
+     <string name="trail_map_style_satillite">Satelit</string>
+     <string name="trail_open_mail_points">Značky kilometrov</string>
+<string name="trail_sport_course_info_title0">Trasy</string>
+     <string name="trail_sport_course_info_title03">Vzdialenosť</string>
+     <string name="trail_sport_course_info_title04">tempo</string>
+     <string name="trail_sport_detail_max_cadence">Maximálna kadencia</string>
+    <string name="trail_sport_map_edit">Mapa</string>
+<string name="trail_sport_max_stress">Maximálny stres</string>
+    <string name="trail_sport_summary_speed">Rýchlosť (km/h)</string>
+<string name="trail_sport_summary_step_length">Krok (cm)</string>
+     <string name="trail_sport_summary_stress">Stres (body)</string>
+     <string name="trail_sport_training_effect_aerobic">Efekt aeróbneho tréningu: %1$s</string>
+     <string name="trail_sport_training_effect_anaerobic">Efekt anaeróbneho tréningu: %1$s</string>
+    <string name="trail_summary_avg_back_swing_duration">Späť (s)</string>
+    <string name="trail_summary_avg_down_swing_duration">Nadol (s)</string>
+    <string name="trail_summary_avg_hrm">BPM</string>
+    <string name="trail_summary_detail_fall_height">Klesanie (m)</string>
+    <string name="trail_summary_detail_rise_height">Stúpanie (m)</string>
+    <string name="trail_summary_golf_avg_swing_speed">Rýchlosť (m/s)</string>
+    <string name="trail_summary_row_avg_freq">SPM</string>
+    <string name="trail_summary_row_energy_working">Práca (kJ)</string>
+<string name="userinfo_">Uložiť záznamy a zobraziť zobrazenia</string>
+    <string name="userinfo_add_emergency_contact_guide">Poskytnite núdzové kontaktné informácie, aby zdravotnícky personál mohol včas kontaktovať vašich príbuzných a priateľov a požiadať o záchranu</string>
+    <string name="userinfo_contact_name">Meno kontaktu</string>
+    <string name="userinfo_edit_or_delete_emergency_contact">Upraviť alebo odstrániť núdzové kontakty</string>
+    <string name="userinfo_emergency_contact_number">Núdzové kontaktné informácie</string>
+    <string name="userinfo_emergency_contact_number_is_compulsory">Chýbajú núdzové kontaktné informácie</string>
+    <string name="userinfo_quit_editing_and_go_back">Zrušiť</string>
+    <string name="userinfo_select_avatar">Vyberte avatar</string>
+    <string name="userinfo_target_dynamic_indicators_stand_desc_first">Dlhé sedenie a pohyb poškodí vaše zdravie, pri každodennom nosení sa odporúča chodiť každú hodinu</string>
+    <string name="userinfo_target_dynamic_indicators_stand_desc_second">Vaše nositeľné zariadenie podporuje detekciu indikátora „státia“, odporúčame ho nastaviť ako indikátor vitality</string>	
 </resources>
