@@ -2069,7 +2069,7 @@ Funkcia „V pohybu\" zaznamená pokrok, ak váš rytmus prekročí 100 krokov/m
     <string name="health_pai_title_3">Každé skóre PAI je unikátne</string>
     <string name="health_pai_title_4">Udržujte sa v kondícii</string>
     <string name="health_pai_understand">Zistiť viac</string>
-    <string name="health_phone_sleep_assistant_title">Phone</string>
+    <string name="health_phone_sleep_assistant_title">Telefón</string>
     <string name="health_press_distribute">Podrobnosti</string>
     <string name="health_press_mild">Normálna</string>
     <string name="health_press_mild_huami">Normálna</string>
@@ -2164,8 +2164,8 @@ Typický rozsah: 10 – 30 %"</string>
     <string name="health_sleep_schedule">Spánok</string>
     <string name="health_sleep_segment_distribute">Rozloženie spánku</string>
     <string name="health_sleep_setting">Nastavenia</string>
-    <string name="health_sleep_settings_disabled">Off</string>
-    <string name="health_sleep_settings_enabled">On</string>
+    <string name="health_sleep_settings_disabled">Vyp.</string>
+    <string name="health_sleep_settings_enabled">Zap.</string>
     <string name="health_sleep_settings_faq">Časté otázky</string>
     <string name="health_sleep_slumber">Ľahký</string>
     <string name="health_sleep_snore">Chrápanie</string>
