@@ -356,6 +356,7 @@
     <string name="menu_new_manual">Vložiť číslo manuálne</string>
     <string name="menu_pick_from_contact">Vybrať z kontaktov</string>
     <string name="menu_preferences">Nastavenia</string>
+    <string name="menu_report">Spätná väzba</string>
     <string name="menu_send_as_common">Odoslať ako SMS</string>
     <string name="menu_sms_block">Čierna listina</string>
     <string name="menu_traffic_destination">Cieľ</string>
@@ -964,6 +965,7 @@ Pre aktiváciu tejto služby bude odoslaná bežná SMS."</string>
     <string name="title_allow_network_access">Aktualizovať info automaticky</string>
     <string name="title_collapse_sp_messages">Spájať správy služieb</string>
     <string name="title_hide_verification_code">Auto skryť OTP na zamyk. obrazovke</string>
+    <string name="title_not_show_read_mms_perm_req">Vyžadujú sa povolenia</string>
     <string name="title_show_blocked_messages">Zobraziť blokované SMS</string>
     <string name="title_show_list_avatar">Zobraziť fotografie kontaktu</string>
     <string name="title_show_photo_word">Priradiť obrázok kontaktu</string>
@@ -976,6 +978,7 @@ Pre aktiváciu tejto služby bude odoslaná bežná SMS."</string>
     <string name="to_label">"Komu "</string>
     <string name="to_send_wrapper">Bude odoslané o %s</string>
     <string name="toast_failed_to_close_priv_auth">Nebolo možné odvolať autorizáciu.</string>
+    <string name="toast_not_show_read_mms_perm_req">Ak chcete zobraziť prijaté správy, musíte aplikácii Správy udeliť povolenie na čítanie SMS a MMS. Toto povolenie môžete udeliť v Nastaveniach.</string>
     <string name="toast_pending_hangup_msg">Správa bude odoslaná po skončení hovoru</string>
     <string name="today">Dnes</string>
     <string name="tomorrow">Zajtra</string>
@@ -1051,7 +1054,4 @@ Pokus: %s."</string>
     <string name="zero_sms_feedback_message">Nahlásené správy sú odoslané na náš server pre ďalšiu analýzu.</string>
     <string name="zero_sms_feedback_success">Nahlásené</string>
     <string name="zero_sms_feedback_title">Nahlásiť</string>
-	    <string name="menu_report">Spätná väzba</string>
-<string name="title_not_show_read_mms_perm_req">Vyžadujú sa povolenia</string>
-     <string name="toast_not_show_read_mms_perm_req">Ak chcete zobraziť prijaté správy, musíte aplikácii Správy udeliť povolenie na čítanie SMS a MMS. Toto povolenie môžete udeliť v Nastaveniach.</string>
 </resources>

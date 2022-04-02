@@ -2,6 +2,7 @@
 <resources>
     <string name="about_device_info">Podrobnosti o zariadení</string>
     <string name="accept">Povoliť</string>
+    <string name="access_denied_info">Príliš mnoho pokusov. Skúste to neskôr.</string>
     <string name="access_token_expired_warning">Weibo account has expired, please rebind</string>
     <string name="access_token_invalid_warning">Weibo account is invalid, please rebind</string>
     <string name="account">Účet</string>
@@ -85,6 +86,8 @@
     <string name="agreement_and_privacy">Podmienky používania a Ochrana súkromia</string>
     <string name="alert_title_remove_account">Odstrániť účet?</string>
     <string name="app_name">Mi účet</string>
+    <string name="area_code_no_search_result">Nič sa nenašlo</string>
+    <string name="area_code_search_hint">Vyhľadajte krajinu</string>
     <string name="auth_fail_warning">Prihlásenie k účtu vypršalo, skúste to znova</string>
     <string name="authorize_title">Autorizácia</string>
     <string name="barcode_add_account_prompt">Pre pridanie účtu, znova načítajte QR kód po prihlásení sa.</string>
@@ -362,6 +365,8 @@
     <string name="multi_user_not_show_sync_activity_title">Nezapínajte synchr. s MiCloud</string>
     <string name="my_device_title">Súčasné zariadenie</string>
     <string name="my_favorite">Moje obľúbené</string>
+    <string name="network_error_info">Chyba siete. Skontrolujte nastavenie siete.</string>
+    <string name="network_timeout_info">Nebolo možné pripojiť sa k sieti.</string>
     <string name="no_account_or_forget_password">Vytvoriť účet alebo ste zabudli heslo?</string>
     <string name="no_install">Nie je nainštalované</string>
     <string name="no_network_btn">Obnoviť</string>
@@ -652,6 +657,7 @@ Skontrolujte aj SPAM."</string>
     <string name="privacy_policy_reject_confirm_title">Nie je možné používať Mi účet</string>
     <string name="privacy_policy_update_msg">Podmienky používania pre Mi účet boli aktualizované. Prečítajte si ich a odsúhlaste.</string>
     <string name="privacy_policy_update_title">Aktualizovaná Ochrana súkromia</string>
+    <string name="progressbar_title">Kontrola zabezpečenia…</string>
     <string name="provision_back">Späť</string>
     <string name="provision_next">Ďalej</string>
     <string name="provision_skip_underline">Preskočiť</string>
@@ -728,6 +734,7 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
     <string name="system_ad_summary">Povolením tejto funkcie sa budú zobrazovať reklamy v systémových aplikáciách!</string>
     <string name="system_ad_switch">Reklamy v systémových aplikáciách</string>
     <string name="system_ad_switch_failed">zlyhalo</string>
+    <string name="system_error_info">Systém je zaneprázdnený. Skúste to neskôr znova.</string>
     <string name="third_party_login">Ďalšie účty</string>
     <string name="thursday">Štvrtok</string>
     <string name="thursday_short">Štv</string>
@@ -754,6 +761,7 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
     <string name="two_factor_auth_summary">Ak sa budete chcieť prihlásiť na novom zariadení, budete upozornený na inom pripojenom zariadení. Budete musieť potvrdiť pokus o prihlásenie.</string>
     <string name="unbind_sns_description">Po odpojení, sa už neprihlásite do Mi účtu cez %s</string>
     <string name="unbind_weibo_description">After unbinding, you will not sync your contacts, and also not log in your Mi Account using Sina Weibo</string>
+    <string name="unknown_error_info">Neznáma chyba</string>
     <string name="unlock_help_notice">"Pomoc:
  1. Ak ste zabudli heslo, môžete ho obnoviť na id.mi.com.
  2. Ak nemôžete odomknúť vaše zariadenie, choďte na i.mi.com a deaktivujte Vyhľadávanie zariadenia.
@@ -789,13 +797,4 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
     <string name="wipe_data_dialog_msg_separator">, </string>
     <string name="wipe_data_dialog_title">Niektoré položky neboli synchronizované.</string>
     <string name="yesterday">Včera</string>
-	
-    <string name="access_denied_info">Príliš mnoho pokusov. Skúste to neskôr.</string>
-    <string name="area_code_no_search_result">Nič sa nenašlo</string>
-    <string name="area_code_search_hint">Vyhľadajte krajinu</string>
-    <string name="network_error_info">Chyba siete. Skontrolujte nastavenie siete.</string>
-    <string name="network_timeout_info">Nebolo možné pripojiť sa k sieti.</string>
-    <string name="progressbar_title">Kontrola zabezpečenia…</string>
-    <string name="system_error_info">Systém je zaneprázdnený. Skúste to neskôr znova.</string>
-    <string name="unknown_error_info">Neznáma chyba</string>	
 </resources>

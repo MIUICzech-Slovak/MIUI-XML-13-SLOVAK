@@ -24,6 +24,7 @@
     <string name="back">Späť</string>
     <string name="backup_introduction">Túto aplikáciu môžete použiť na zálohovanie a obnovenie položiek na vašom zariadení.</string>
     <string name="bluetooth_introduction">Bluetooth systém používa na bezdrôtovú komunikáciu. Aby mohol Bluetooth normálne fungovať, potrebuje nasledujúce povolenia:</string>
+    <string name="bluetooth_usage_desc">Počiatočné nastavenie vám umožňuje nastaviť základné predvoľby pre toto zariadenie. Na úspešné nastavenie vášho zariadenia budú systémové služby Bluetooth používať nasledujúce povolenia:</string>
     <string name="boot_video_replay">Znova</string>
     <string name="boot_video_skip">Preskočiť</string>
     <string name="calculator_introduction">Túto aplikáciu môžete používať pre výpočty, prepočet jednotiek a mien a približný výpočet hypotekárnych splátok.</string>
@@ -73,6 +74,7 @@
     <string name="enable_accessibility_dialog_message">Povolili ste TalkBack podržaním dvoch prstov na displeji po dobu 10s. TalkBack pomáha nevidiacim užívateľom. Ak ste ho aktivovali omylom, stlačte tlačidlo zrušiť a 2x poklepte po displeji.</string>
     <string name="enable_accessibility_dialog_negative_btn">Zrušiť</string>
     <string name="enable_accessibility_dialog_positive_btn">OK</string>
+    <string name="enable_or_disable_bluetooth">Zapnutie a vypnutie Bluetooth</string>
     <string name="expand_button_title">Rozšírené</string>
     <string name="fast_application_introduction">Framework Rýchlych aplikácií vám umožňuje vytváranie a poskytovanie služieb v rýchlych aplikáciách.</string>
     <string name="fast_pairing_introduction">Mi Link využíva funkcie MIUI Bluetooth, aby ste sa mohli rýchlo pripojiť k zariadeniam Bluetooth v okolí.</string>
@@ -122,6 +124,7 @@
     <string name="location_location">Agentúry záchrannej služby môžu na požiadanie získať vašu aktuálnu polohu</string>
     <string name="lockscreen_introduction">Denná tapeta vám každý deň umožňuje dostávať najnovšie tapety na Zamknutú obrazovku.</string>
     <string name="miui_privacy_policy_no_network">Žiadne internetové pripojenie. Zásady ochrany osobných údajov zobraziť na %s.</string>
+    <string name="miui_provision">Úvodné nastavenie</string>
     <string name="miui_terms_no_network">Nie ste pripojený k internetu. Zobraziť Podmienky používania v %s.</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Odznačiť</string>
     <string name="miuix_appcompat_action_mode_select_all">Všetko</string>
@@ -246,6 +249,7 @@ Vypnúť prispôsobené reklamy napriek tomu?"</string>
     <string name="permission_direct_call">Vykonávanie hovorov:</string>
     <string name="permission_direct_call_introduction">Pre pridávanie položiek do Zoznamu blokovaných</string>
     <string name="permission_download_introduction">Pre ukladanie stiahnutých položiek do medzipamäti a ich ukladanie do vášho zariadenia</string>
+    <string name="permission_enable_disable_bluetooth_summary">Na vyhľadanie zariadení v okolí za účelom pripojenia a prenosu údajov</string>
     <string name="permission_fast_pairing">Aby bolo možné nájsť zariadenia v okolí, Mi Link sa musí pripojiť k internetu a vyžaduje nasledujúce povolenia:</string>
     <string name="permission_imei_service">Pre prístup k IMEI za účelom poskytovania služieb prepojených s vašim zariadením</string>
     <string name="permission_interaction_introduction">Pre ukladanie fotografií a videí na zariadenie</string>
@@ -405,9 +409,11 @@ Zobraziť Zásady ochrany osobných údajov pre vybranú klávesnicu."</string>
     <string name="sim_card_detection_mobile_not_available">SIM karta sa nepripojila do siete</string>
     <string name="sim_card_detection_sb_esim">Aktivovať eSIM</string>
     <string name="sim_card_detection_sb_nonactivated">Neaktivované</string>
+    <string name="sim_card_dial_card">SIM %d pre hovory</string>
     <string name="sim_card_dial_card1">SIM 1 na hovory</string>
     <string name="sim_card_dial_card2">SIM 2 na hovory</string>
     <string name="sim_card_do_not_select_dial_card">Vybrať SIM pri hovore</string>
+    <string name="sim_card_network_card">Dáta SIM %d</string>
     <string name="sim_card_network_card1">Dátová SIM 1</string>
     <string name="sim_card_network_card2">Dátová SIM 2</string>
     <string name="sim_dectection_next">Pokračovať</string>
@@ -517,12 +523,4 @@ Pred použitím tejto funkcie musíte súhlasiť so Zásadami ochrany osobných 
     <string name="withdraw_consent">Ak svoj súhlas odvoláte, služby Dennej tapety budú deaktivované.</string>
     <string name="yesterday">Včera</string>
     <string name="zone_picker_title">Vyberte časovú zónu</string>
-	
-    <string name="sim_card_dial_card">SIM %d pre hovory</string>
-    <string name="sim_card_network_card">Dáta SIM %d</string>	
-	
-<string name="bluetooth_usage_desc">Počiatočné nastavenie vám umožňuje nastaviť základné predvoľby pre toto zariadenie. Na úspešné nastavenie vášho zariadenia budú systémové služby Bluetooth používať nasledujúce povolenia:</string>
-     <string name="enable_or_disable_bluetooth">Zapnutie a vypnutie Bluetooth</string>
-     <string name="miui_provision">Úvodné nastavenie</string>
-     <string name="permission_enable_disable_bluetooth_summary">Na vyhľadanie zariadení v okolí za účelom pripojenia a prenosu údajov</string>
 </resources>

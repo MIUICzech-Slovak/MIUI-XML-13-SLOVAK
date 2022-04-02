@@ -213,6 +213,9 @@
         <item quantity="few">%1$d udelené povolenia z %2$d</item>
         <item quantity="many">%1$d udeleného povolenia z %2$d</item>
     </plurals>
+    <plurals name="search_application_count">
+        <item quantity="other">Vyhľadať aplikácie</item>
+    </plurals>
     <plurals name="security_settings_fingerprint_preference_summary">
         <item quantity="other">Nastavenie %1$d odtlačkov</item>
         <item quantity="one">Nastavenie %1$d odtlačku</item>
@@ -339,7 +342,4 @@
         <item quantity="few">Zmena na možnosť Iba budíky platná %1$d minúty (do %2$s)</item>
         <item quantity="many">Zmena na možnosť Iba budíky platná %1$d minúty (do %2$s)</item>
     </plurals>
-    <plurals name="search_application_count">
-        <item quantity="other">Vyhľadať aplikácie</item>
-    </plurals>	
 </resources>

@@ -1575,6 +1575,7 @@ For more info check the message you received from your service provider"</string
     <string name="exit_dialog_garbage_clean_positive_button">Vyčistiť</string>
     <string name="exit_dialog_garbage_clean_title">Vyčistiť odpad</string>
     <string name="exit_dialog_homepage_optimise_message">Vaše skóre je menej ako 80 bodov. Chcete ho optimalizovať?</string>
+    <string name="exit_dialog_release_memory_title_new">Zrýchlite svoje zariadenie pomocou %s</string>
     <string name="exit_dialog_release_storage_message">Viac ako 80% úložiska je obsadené. Uvoľnite miesto odinštalovaním nepotrebných aplikácií.</string>
     <string name="exit_dialog_release_storage_message_new">Je obsadených viac ako %s úložiska vo vašom zariadení. Uvolnite miesto odinštalovaním nepotrebných aplikácií.</string>
     <string name="exit_dialog_release_storage_positive_button">Uvoľniť miesto</string>
@@ -1891,8 +1892,10 @@ For more info check the message you received from your service provider"</string
     <string name="gb_description_image_button_reject">Odmietnuť</string>
     <string name="gb_description_image_button_video_answer">Video hovor</string>
     <string name="gb_dialog_record_way_ai">AI nahrávky sú uložené v gamebox a uchované 7 dní.</string>
+    <string name="gb_dialog_record_way_ai_new">Nahrávky AI sú uložené v hernom boxe a tam uložené na %d dní.</string>
     <string name="gb_dialog_record_way_finish">Hotovo</string>
     <string name="gb_dialog_record_way_manual">Nahrať videá do 30s manuálne</string>
+    <string name="gb_dialog_record_way_manual_new">Manuálne nahrávanie videí až do %d sekúnd</string>
     <string name="gb_dialog_record_way_setting_tips">Poznámka: Nahrávanie videí z hier vyžaduje vyšší výkon zariadenia a môže viesť k zásekom hry.</string>
     <string name="gb_dialog_record_way_title">Vyberte režim nahrávania</string>
     <string name="gb_first_guide_function_shiled_title">Deaktivovať funkcie systému ak je povolený Game Turbo</string>
@@ -1912,6 +1915,7 @@ For more info check the message you received from your service provider"</string
     <string name="gb_first_window_title">Zrýchlenie hier</string>
     <string name="gb_game_end_toast">Znova si prezrite kľúčové momenty z hier</string>
     <string name="gb_game_video_bottom_tips">Prezrite si nahrávky v gamebox. Videá sú uložené po dobu 7 dní.</string>
+    <string name="gb_game_video_bottom_tips_new">Vráťte sa ku kľúčovým momentom z vašich hier v hre Game Turbo. Videá budú automaticky odstránené po %d dňoch.</string>
     <string name="gb_game_video_item_tag">Kľúčové momenty</string>
     <string name="gb_game_video_page_delete_success">Vymazané</string>
     <string name="gb_game_video_page_null">Nahrať kľúčové momenty z hier</string>
@@ -2062,6 +2066,7 @@ z vášho hrania hier"</string>
     <string name="gtb_guide_small_window_app_desc">Použite iné aplikácie počas hrania</string>
     <string name="gtb_guide_small_window_app_title">Plávajúce okná</string>
     <string formatted="false" name="gtb_setting_item_summary_smart_wlan_speed">Zvýšiť rýchlosť pripojenia o 10%-20% ak ste pripojený k Mi/Redmi routru</string>
+    <string name="gtb_setting_item_summary_smart_wlan_speed_new">Zvýšte rýchlosť pripojenia o %1$s-%2$s pri pripojení k Mi/Redmi routru</string>
     <string name="gtb_setting_item_title_brightness">Automaticky znížiť jas displeja</string>
     <string name="gtb_setting_item_title_smart_wlan_speed">Mi Wi-Fi zrýchlenie</string>
     <string name="gtb_spring_festival_back_game">Späť do hry</string>
@@ -2414,6 +2419,8 @@ Niekedy tieto čísla môžu byť užitočné. Blokujte len čísla z ktorých u
     <string name="memory_clean_memory_size_tip">Cache</string>
     <string name="memory_clean_no_need_clean">Všetko je v poriadku</string>
     <string formatted="false" name="memory_clean_no_need_clean_1">Vyčistené %s. Vaše zariadenie je teraz o %d%% rýchlejšie.</string>
+    <string name="memory_clean_no_need_clean_1_new" formatted="false">"Uvoľnené %s.
+Vaše zariadenie je teraz %s rýchlejšie."</string>
     <string name="memory_clean_no_running_process">Žiadne úlohy na vyčistenie</string>
     <string name="memory_clean_running_process_title">Sledovanie apl. (%d)</string>
     <string name="memory_cleaned_memory_info">Dostupná pamäť</string>
@@ -2447,6 +2454,7 @@ Niekedy tieto čísla môžu byť užitočné. Blokujte len čísla z ktorých u
     <string name="menu_item_notification_antispam_text_normal">Spam</string>
     <string name="menu_item_notification_garbage_text">%s</string>
     <string name="menu_item_notification_garbage_text_error">Chyba</string>
+    <string name="menu_item_notification_optimize_text_new">%s obsadené</string>
     <string name="menu_item_notification_power_text">Výkon</string>
     <string name="menu_item_notification_title">Zobraziť v roletke</string>
     <string name="menu_item_settings_title">Nastavenia</string>
@@ -2478,12 +2486,14 @@ Niekedy tieto čísla môžu byť užitočné. Blokujte len čísla z ktorých u
     <string name="menu_summary_garbage_cleanup_3">Vyčistiť odpad</string>
     <string name="menu_summary_garbage_cleanup_ex">Vyčistiť %s</string>
     <string name="menu_summary_garbage_cleanup_new">%d%% z úložiska</string>
+    <string name="menu_summary_garbage_cleanup_new_new">%s úložného priestoru</string>
     <string name="menu_summary_networkassistants">Správa mobilných dát</string>
     <string name="menu_summary_networkassistants_2">Limit prekročený</string>
     <string name="menu_summary_networkassistants_3">Dostatok dát</string>
     <string name="menu_summary_networkassistants_4">Dochádzajú vám dáta</string>
     <string name="menu_summary_optimize_manage">Vyčistiť pamäť</string>
     <string name="menu_summary_optimize_manage_1">Zrýchlite vaše zariadenie o %d%%</string>
+    <string name="menu_summary_optimize_manage_1_new">Zrýchlite svoje zariadenie %s</string>
     <string name="menu_summary_power_manager">Šetrenie batérie predlžuje používanie zariadenia</string>
     <string name="menu_summary_power_manager_1">Batéria je plne nabitá</string>
     <string name="menu_summary_power_manager_2">Ostáva: %s</string>
@@ -2732,6 +2742,7 @@ Niekedy tieto čísla môžu byť užitočné. Blokujte len čísla z ktorých u
     <string name="notification_link_cleaner_2004">Ostáva menej ako %s úložiska. Uvoľnite miesto na úložisku.</string>
     <string name="notification_link_cleaner_2005">Vyčistite RAM pre zrýchlenie zariadenia</string>
     <string name="notification_link_optimizemanage_1011">%d%% RAM je zaplnených. Vyčistite ju.</string>
+    <string name="notification_link_optimizemanage_1011_new">%s pamäte je obsadených. Vymazať teraz.</string>
     <string name="notification_low_battery_action_btn">Povoliť</string>
     <string name="notification_low_battery_need_charge">Nabite batériu</string>
     <string name="notification_low_battery_open_save_mode">Povoliť Šetrenie batérie</string>
@@ -2750,6 +2761,7 @@ Niekedy tieto čísla môžu byť užitočné. Blokujte len čísla z ktorých u
     <string name="notification_optimize_button_text">Vyčistiť</string>
     <string name="notification_optimize_message">Vyčistite RAM pre zrýchlenie</string>
     <string name="notification_optimize_title">%d%% RAM je obsadených</string>
+    <string name="notification_optimize_title_new">%s pamäte je obsadených</string>
     <string name="notification_power_consume_issue_summary">Vysoká spotreba energie</string>
     <string name="notification_power_consume_suggest_summary">Opraviť problémy pre úsporu batérie</string>
     <string name="notification_quick_charging_title">Rýchle nabíjanie</string>
@@ -4731,6 +4743,7 @@ Formátovanie vymaže všetky súbory na ^2. Zálohujte ich na iný ^3 alebo zar
     <string name="superpower_dialog_title">Ultra šetriaci režim</string>
     <string name="superpower_notification_hint_enter">Povoliť</string>
     <string name="superpower_notification_new_title">Ostáva menej ako %d%% batérie</string>
+    <string name="superpower_notification_new_title_new">Zostáva menej ako %s batérie</string>
     <string name="superpower_notification_summary">Povoliť Ultra šetriaci režim</string>
     <string name="superpower_notification_time_12">dd. MMMM, EEEE</string>
     <string name="superpower_notification_time_24">dd. MMMM, EEEE</string>
@@ -5467,19 +5480,4 @@ Skúste zväčšiť rozlíšenie!"</string>
     <string name="xspace_warning_dialog_title">Upozornenie</string>
     <string name="xunyou_server_expired">Relácia vypršala.</string>
     <string name="yesterday">Včera</string>
-	
-<string name="exit_dialog_release_memory_title_new">Zrýchlite svoje zariadenie pomocou %s</string>
-
-<string name="gb_dialog_record_way_ai_new">Nahrávky AI sú uložené v hernom boxe a tam uložené na %d dní.</string>
-<string name="gb_dialog_record_way_manual_new">Manuálne nahrávanie videí až do %d sekúnd</string>
-<string name="gb_game_video_bottom_tips_new">Vráťte sa ku kľúčovým momentom z vašich hier v hre Game Turbo. Videá budú automaticky odstránené po %d dňoch.</string>
-<string name="gtb_setting_item_summary_smart_wlan_speed_new">Zvýšte rýchlosť pripojenia o %1$s-%2$s pri pripojení k Mi/Redmi routru</string>
-    <string name="memory_clean_no_need_clean_1_new" formatted="false">"Uvoľnené %s.
-Vaše zariadenie je teraz %s rýchlejšie."</string>
-<string name="menu_item_notification_optimize_text_new">%s obsadené</string>
-    <string name="menu_summary_garbage_cleanup_new_new">%s úložného priestoru</string>
-    <string name="menu_summary_optimize_manage_1_new">Zrýchlite svoje zariadenie %s</string>
-    <string name="notification_link_optimizemanage_1011_new">%s pamäte je obsadených. Vymazať teraz.</string>
-    <string name="notification_optimize_title_new">%s pamäte je obsadených</string>
-    <string name="superpower_notification_new_title_new">Zostáva menej ako %s batérie</string>
 </resources>

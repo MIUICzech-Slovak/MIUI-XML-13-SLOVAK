@@ -554,6 +554,11 @@
     <string name="recents_title_market">Vyhľadať aplikácie</string>
     <string name="recents_title_security_scan">Antivírus</string>
     <string name="recents_tv_small_window_text">Plávajúce okná</string>
+    <string name="recents_worldcirculate_text">Vyberte uvoľnením</string>
+    <string name="recnets_worldcirculate_button_text">Mi Smart Hub</string>
+    <string name="recnets_worldcirculate_display_computer_info">Aplikácia funguje na %s.</string>
+    <string name="recnets_worldcirculate_display_default_info">Dotykom ju vrátite späť sem.</string>
+    <string name="recnets_worldcirculate_display_pad_info">Aplikácia funguje na %s.</string>
     <string name="recommend_app">Návrhy aplikácií</string>
     <string name="recommend_apps_default_title">Prázdne</string>
     <string name="recommend_apps_no_data">Žiadne dáta</string>
@@ -703,10 +708,4 @@
     <string name="widget_quick_function">Skratky</string>
     <string name="widgets_preview_title">Pridať widget</string>
     <string name="yesterday">Včera</string>
-	
-<string name="recents_worldcirculate_text">Vyberte uvoľnením</string>
-     <string name="recnets_worldcirculate_button_text">Mi Smart Hub</string>
-     <string name="recnets_worldcirculate_display_computer_info">Aplikácia funguje na %s.</string>
-     <string name="recnets_worldcirculate_display_default_info">Dotykom ju vrátite späť sem.</string>
-     <string name="recnets_worldcirculate_display_pad_info">Aplikácia funguje na %s.</string>
 </resources>

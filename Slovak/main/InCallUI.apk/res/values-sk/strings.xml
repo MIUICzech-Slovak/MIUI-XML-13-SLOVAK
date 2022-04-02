@@ -7,6 +7,10 @@
     <string name="antispam_notification_title">Neznáme číslo</string>
     <string name="antispam_provider">Označené %s</string>
     <string name="areacode_set_default">Nastaviť ako predvolené</string>
+    <string name="bluetooth_permission_content">Povolenia systému boli aktualizované. Povoľte tejto aplikácii prístup k názvom vašich zariadení Bluetooth, aby ste ich mohli zobraziť.</string>
+    <string name="bluetooth_permission_grant_immediately">Povoliť</string>
+    <string name="bluetooth_permission_later">Teraz nie</string>
+    <string name="bluetooth_permission_title">Vyžadujú sa povolenia</string>
     <string name="callFailed_cb_enabled">Pokiaľ je zapnuté blokovanie hovorov, nemožno vykonať odchádzajúce hovory.</string>
     <string name="callFailed_congestion">Sieť je zaneprázdnená</string>
     <string name="callFailed_dialToDial">DIAL request modified to DIAL with different number.</string>
@@ -317,7 +321,17 @@
     <string name="relay_network_error">Chyba siete</string>
     <string name="relay_network_error_msg">Na tomto zariadení nie je možné prijímať hovory pre chybu siete.</string>
     <string name="remind_unlock_message">Vaše zariadenie je uzamknuté. \"%s\" bude dostupné až po odblokovaní vašeho zariadenia. Odblokovať?</string>
+    <string name="remind_unlock_screen_message">Odomknite zariadenie pre použitie \"%s\". Chcete odomknúť?</string>
     <string name="respond_via_sms_custom_message">Vlastná správa...</string>
+    <string name="saf_permission_content">"Systémové povolenia boli aktualizované. Pre nahrávanie hovorov musíte najskôr povoliť povolenia.
+
+ako udeliť povolenie
+Stlačte \"%1$s\" a potom vyberte \"%2$s\"."</string>
+    <string name="saf_permission_grant_permission_immediately">Ďalej</string>
+    <string name="saf_permission_later">Neskôr</string>
+    <string name="saf_permission_refused">Nie je možné nahrať hovor kvôli chýbajúcim povoleniam</string>
+    <string name="saf_permission_title">Vyžadujú sa povolenia</string>
+    <string name="saf_permission_use_this_folder">Použiť túto zložku</string>
     <string name="saturday">Sobota</string>
     <string name="saturday_short">Sob</string>
     <string name="saturday_shortest">S</string>
@@ -364,21 +378,4 @@
     <string name="wednesday_shortest">S</string>
     <string name="wifi_call">VoWi-fi hovor</string>
     <string name="yesterday">Včera</string>
-	
-<string name="remind_unlock_screen_message">Odomknite zariadenie pre použitie \"%s\". Chcete odomknúť?</string>	
-
-    <string name="saf_permission_content">"Systémové povolenia boli aktualizované. Pre nahrávanie hovorov musíte najskôr povoliť povolenia.
-
-ako udeliť povolenie
-Stlačte \"%1$s\" a potom vyberte \"%2$s\"."</string>
-    <string name="saf_permission_grant_permission_immediately">Ďalej</string>
-    <string name="saf_permission_later">Neskôr</string>
-    <string name="saf_permission_refused">Nie je možné nahrať hovor kvôli chýbajúcim povoleniam</string>
-    <string name="saf_permission_title">Vyžadujú sa povolenia</string>
-    <string name="saf_permission_use_this_folder">Použiť túto zložku</string>
-	
-<string name="bluetooth_permission_content">Povolenia systému boli aktualizované. Povoľte tejto aplikácii prístup k názvom vašich zariadení Bluetooth, aby ste ich mohli zobraziť.</string>
-     <string name="bluetooth_permission_grant_immediately">Povoliť</string>
-     <string name="bluetooth_permission_later">Teraz nie</string>
-     <string name="bluetooth_permission_title">Vyžadujú sa povolenia</string>
 </resources>
