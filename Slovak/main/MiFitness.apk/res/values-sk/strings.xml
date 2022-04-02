@@ -4142,11 +4142,7 @@ Ak nechcete svoje zdravotné informácie sprístupniť ostatným, môžete túto
 	<string name="cancel_text">Zrušiť</string>
     <string name="continue_text">Pokračovať</string>
     <string name="create_session_failed">Vytvorenie relácie zlyhalo</string>
-    <string name="device_agree_all">Súhlasím so všetkým</string>
-    <string name="device_agree_to_terms">Podmienky používania</string>
 
-    <string name="device_required_agree_collect_info">Súhlasím so &lt;a href=\"%1$s\">Zhromažďovaním osobných informácií&lt;/a> (povinné)&lt;/Data></string>
-    <string name="device_required_agree_use_location">&lt;Data>Súhlasím so &lt;a href=\"%1$s\">Zaznamenávaním mojej polohy&lt;/a> (povinné)&lt;/Data></string>
     <string name="device_settings_contact">Obľúbené kontakty</string>
     <string name="device_settings_contact_add">Pridať</string>
     <string name="device_settings_contact_add_fail">Nebolo možné pridať do obľúbených kontaktov.</string>
