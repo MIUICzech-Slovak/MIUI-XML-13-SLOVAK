@@ -177,7 +177,7 @@ Zatvorte túto stránku a skúste to znova."</string>
     <string name="pad_settings_feature_characteristics_summary_3">Stačí priblížiť zariadenie k predtým pripojenému počítaču, aby sa znova automaticky pripojilo.</string>
     <string name="pad_settings_feature_dnd_summary">"Zobraziť upozornenia mobilného zariadenia na počítači"</string>
     <string name="pad_settings_feature_dnd_summary_phone">"Zobraziť upozornenia mobilného zariadenia na počítači"</string>
-    <string name="pad_settings_feature_dnd_title">DND</string>
+    <string name="pad_settings_feature_dnd_title">Nerušiť</string>
     <string name="pad_settings_feature_intro">O tejto funkcii</string>
     <string name="pad_settings_handoff_app_summary">Pokračujte v úlohách v tej istej aplikácii na druhom zariadení</string>
     <string name="pad_settings_handoff_app_title">Aplikácie</string>

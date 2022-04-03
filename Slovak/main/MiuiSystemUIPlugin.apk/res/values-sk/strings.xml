@@ -126,8 +126,8 @@
     <string name="miplay_headset_lc3_hint">Vypnite LC3 pre možnosť prepnutia zvukového výstupu do tohto zariadenia</string>
     <string name="miplay_service_timeout_toast">Pripojenie zlyhalo. Skúste to znova.</string>
     <string name="miplay_song_title_empty">Žiadna skladba</string>
-    <string name="miui_dnd_count_down">DND časovač</string>
-    <string name="miui_dnd_count_down_time">"DND časovač
+    <string name="miui_dnd_count_down">Nerušiť časovač</string>
+    <string name="miui_dnd_count_down_time">"Nerušiť časovač
 %s"</string>
     <string name="miui_guide_dialog_button_negative_text">Nastavenia</string>
     <string name="miui_guide_dialog_button_positive_text">Rozumiem</string>

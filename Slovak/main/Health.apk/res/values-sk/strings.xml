@@ -1102,7 +1102,7 @@ Ak nechcete zdieľať svoje informácie, môžete túto funkciu vypnúť."</stri
     <string name="search_menu_title"> Hľadať </string>
     <string name="sedentary_detail_title"> Príliš dlhé sedenie je škodlivé </string>
     <string name="sedentary_enhance_remind"> Rovnako vibrujte </string>
-    <string name="sedentary_enhance_remind_content"> Táto funkcia funguje, keď je funkcia DND vypnutá </string>
+    <string name="sedentary_enhance_remind_content"> Táto funkcia funguje, keď je funkcia Nerušiť vypnutá </string>
     <string name="sedentary_harm_known"> Mám to </string>
     <string name="sedentary_popular_science"> "* Dlhé sedenie alebo nehýbanie sa vám nie je dobré. Pokiaľ nespíte, snažte sa hýbať aspoň 2 minúty každú hodinu. Pamätajte, že sa to neodporúča stále viac ako 6 hodín denne. “</string>
     <string name="sedentary_reminder_channel_name"> Pripomenúť, že chcete presunúť </string>

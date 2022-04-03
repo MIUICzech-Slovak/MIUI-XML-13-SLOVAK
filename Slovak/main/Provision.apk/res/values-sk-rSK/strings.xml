@@ -523,4 +523,8 @@ Pred použitím tejto funkcie musíte súhlasiť so Zásadami ochrany osobných 
     <string name="withdraw_consent">Ak svoj súhlas odvoláte, služby Dennej tapety budú deaktivované.</string>
     <string name="yesterday">Včera</string>
     <string name="zone_picker_title">Vyberte časovú zónu</string>
+    
+<string name="other_settings_quality_service">Oprávnenie MIUI Daemon</string>
+     <string name="other_settings_quality_service_summary">MIUI Daemon sa používa na zlepšenie stability a výkonu systému. Aby táto služba mohla normálne fungovať, potrebuje oprávnenie na prístup a ukladanie položiek do úložiska zariadenia.</string>
+     <string name="permission_MIUIDaemon_introduction">MIUI Daemon umožňuje prenášať dáta z vášho zariadenia, keď je poškodená jeho obrazovka.</string>    
 </resources>

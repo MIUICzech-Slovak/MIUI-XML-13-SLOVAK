@@ -1921,7 +1921,7 @@ Máte tiež aktívne pripojenie k sieti VPN, ktorá môže sledovať vašu akti
     <string name="quick_controls_subtitle">Pridajte ovládacie prvky pre svoje pripojené zariadenia</string>
     <string name="quick_controls_title">Ovládanie zariadenia</string>
     <string name="quick_settings">Rýchle nastavenia</string>
-    <string name="quick_settings_autobrightness_label">Auto. jas</string>
+    <string name="quick_settings_autobrightness_label">Auto jas</string>
     <string name="quick_settings_batterysaver_label">Šetrenie batérie</string>
     <string name="quick_settings_bluetooth_detail_empty_text">Žiadne spárované zariadenia nie sú dostupné</string>
     <string name="quick_settings_bluetooth_label">Bluetooth</string>

@@ -1089,7 +1089,7 @@ ale obsah ktorý hľadáte nie je dostupný vo vašej krajine."</string>
     <string name="theme_component_title_aod">AOD</string>
     <string name="theme_component_title_audio_effect">Audio efekty</string>
     <string name="theme_component_title_boot_animation">Boot animácia</string>
-    <string name="theme_component_title_boot_audio">Boot Audio</string>
+    <string name="theme_component_title_boot_audio">Boot audio</string>
     <string name="theme_component_title_clock">Hodiny</string>
     <string name="theme_component_title_contact">Číselník</string>
     <string name="theme_component_title_font">Písma</string>

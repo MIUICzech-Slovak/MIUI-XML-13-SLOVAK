@@ -429,7 +429,7 @@
     <string name="hints_quick_scanning">Kontrola...</string>
     <string name="hints_residual_header_left">Zostatky</string>
     <string name="hints_scan_has_finish">Čistenie dokončené</string>
-    <string name="hints_scanfinish">Žiaden odpad, skúste hĺbkové čistenie</string>
+    <string name="hints_scanfinish">Žiaden odpad</string>
     <string name="hints_storage_clean_size">Uvoľnené %s na internom úložisku</string>
     <string name="hints_storage_free">Voľné</string>
     <string name="hints_storage_free_size">Celkom %1$s, %2$s dostupné</string>
