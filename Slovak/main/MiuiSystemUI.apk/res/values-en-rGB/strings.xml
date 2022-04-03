@@ -791,7 +791,7 @@ If you resume, charges may apply for data usage."</string>
     <string name="disabled_by_admin_summary_text">Controlled by admin</string>
     <string name="disconnect_vpn">Disconnect VPN</string>
     <string name="dnd_is_off">Do Not Disturb is off</string>
-    <string name="dnd_notification_warnings_title">Nerušiť is on. Notifications are silenced and vibration is turned off.</string>
+    <string name="dnd_notification_warnings_title">DND is on. Notifications are silenced and vibration is turned off.</string>
     <string name="dnd_suppressing_shade_text">Notifications paused by Do Not Disturb</string>
     <string name="do_disclosure_generic">This device belongs to your organisation</string>
     <string name="do_disclosure_with_name">This device belongs to %s</string>
@@ -2005,7 +2005,7 @@ If you have questions, contact %2$s."</string>
     <string name="quick_settings_notifications_label">Notifications</string>
     <string name="quick_settings_papermode_label">Reading mode</string>
     <string name="quick_settings_powermode_label">Performance mode</string>
-    <string name="quick_settings_quietmode_label">Nerušiť</string>
+    <string name="quick_settings_quietmode_label">DND</string>
     <string name="quick_settings_reset_confirmation_button">Hide</string>
     <string name="quick_settings_reset_confirmation_message">It will reappear the next time you turn it on in settings.</string>
     <string name="quick_settings_reset_confirmation_title">Hide %1$s?</string>
@@ -2646,7 +2646,7 @@ Wi‑Fi Address (BSSID)
     <string name="zen_mode_warnings_all_time_content">Notifications and calls will be silenced</string>
     <string name="zen_mode_warnings_keyguard_content">Notifications and calls will be silenced when device is locked</string>
     <string name="zen_mode_warnings_quit_immediately">Turn off</string>
-    <string name="zen_mode_warnings_title">Nerušiť is on</string>
+    <string name="zen_mode_warnings_title">DND is on</string>
     <string name="zen_priority_customize_button">Customise</string>
     <string name="zen_priority_introduction">"You won't be disturbed by sounds and vibrations, except from alarms, reminders, events and callers you specify. You'll still hear anything you choose to play including music, videos and games."</string>
     <string name="zen_silence_introduction">This blocks ALL sounds and vibrations, including from alarms, music, videos and games.</string>
