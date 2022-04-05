@@ -939,8 +939,8 @@ Prípadne môžete vypnúť zjednodušený režim a skúsiť to znova."</string>
     <string name="user_guest">Hosť</string>
     <string name="user_is_not_allowed_dlg_text">Aktuálny používateľ nemá na odinštalovanie povolenie.</string>
     <string name="user_is_not_allowed_dlg_title">Nie je povolené</string>
-    <string name="v7_preference_off">VYP.</string>
-    <string name="v7_preference_on">ZAP.</string>
+    <string name="v7_preference_off">Vypnuté</string>
+    <string name="v7_preference_on">Zapnuté</string>
     <string name="verify_account_title">Overte vašu identitu</string>
     <string name="verify_apps_over_usb_summary">Kontrolovať škodlivosť aplikácií nainštalovaných pomocou nástroja ADB alebo ADT</string>
     <string name="verify_apps_over_usb_title">Overovať aplikácie z USB</string>

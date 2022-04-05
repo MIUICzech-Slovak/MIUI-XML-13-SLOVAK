@@ -263,8 +263,8 @@
     <string name="tethering_hardware_offload">Hardvérová akcelerácia tetheringu</string>
     <string name="tethering_hardware_offload_summary">Ak je k dispozícii hardvérová akcelerácia tetheringu, používať ju</string>
     <string name="time_unit_just_now">Teraz</string>
-    <string name="v7_preference_off">VYP.</string>
-    <string name="v7_preference_on">ZAP.</string>
+    <string name="v7_preference_off">Vypnuté</string>
+    <string name="v7_preference_on">Zapnuté</string>
     <string name="video_calling_settings_title">Videohovory prostredníctvom operátora</string>
     <string name="wifi_ap_unable_to_handle_new_sta">Prístupový bod je dočasne plný</string>
     <string name="wifi_calling_settings_title">Volanie cez Wi‑Fi</string>

@@ -8,8 +8,8 @@
     <string name="abc_action_mode_done">Hotovo</string>
     <string name="abc_activity_chooser_view_see_all">Zobraziť všetko</string>
     <string name="abc_activitychooserview_choose_application">Zvoľte aplikáciu</string>
-    <string name="abc_capital_off">VYP.</string>
-    <string name="abc_capital_on">ZAP.</string>
+    <string name="abc_capital_off">Vypnuté</string>
+    <string name="abc_capital_on">Zapnuté</string>
     <string name="abc_search_hint">Vyhľadať…</string>
     <string name="abc_searchview_description_clear">Vymazať dopyt</string>
     <string name="abc_searchview_description_query">Vyhľadávací dopyt</string>
@@ -490,9 +490,9 @@ Uistite sa, že %1$s reaguje."</string>
     <string name="notification_str2">sa chystá začať</string>
     <string name="notification_title">Pripomenútie</string>
     <string name="num_keys">Číselné tlačidlá</string>
-    <string name="off">Vyp.</string>
+    <string name="off">Vypnuté</string>
     <string name="office">Kancelária</string>
-    <string name="on">Zap.</string>
+    <string name="on">Zapnuté</string>
     <string name="open">Zapnuté</string>
     <string name="open_close">Zapnúť</string>
     <string name="operator">Operátor</string>
@@ -515,8 +515,8 @@ Uistite sa, že %1$s reaguje."</string>
     <string name="popup_installed_app_title">Vyberte aplikáciu, ktorú chcete otvoriť na TV</string>
     <string name="popup_select_device">Vyberte Wi-Fi diaľkové</string>
     <string name="power">Zapínanie</string>
-    <string name="power_off">Vyp.</string>
-    <string name="power_on">Zap.</string>
+    <string name="power_off">Vypnuté</string>
+    <string name="power_on">Zapnuté</string>
     <string name="press_to_continue_match">Pokračovať</string>
     <string name="press_to_match">Spustiť</string>
     <string name="prev_remote">Predchádzajúce diaľkové</string>

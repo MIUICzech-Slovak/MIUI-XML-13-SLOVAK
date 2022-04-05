@@ -781,8 +781,8 @@ alebo zadajte heslo"</string>
     <string name="auto_back_booster">Zastaviť zrýchlenie</string>
     <string name="auto_booster_suc">Zrýchlené</string>
     <string name="auto_clean_close">Auto čistenie je vypnuté</string>
-    <string name="auto_clean_switch_off">Vyp.</string>
-    <string name="auto_clean_switch_on">Zap.</string>
+    <string name="auto_clean_switch_off">Vypnuté</string>
+    <string name="auto_clean_switch_on">Zapnuté</string>
     <string name="auto_cleaner_open">Vyčistiť</string>
     <string name="auto_data_back_booster">Zrýchlenie hier je deaktivované.</string>
     <string name="auto_data_booster_suc">Zrýchlenie hier je aktivované. Prepnuté na režim celej obrazovky.</string>
@@ -3876,7 +3876,7 @@ Počas dátového prenosu sa text a obrázky komprimujú na serveri a tým sa ur
     <string name="privacy_thumbnail_blur_search_empty">Nič sa nenašlo</string>
     <string name="privacy_thumbnail_blur_title">Rozmazanie náhľadov</string>
     <string name="privacy_thumbnail_blur_top_tip">Vyberte aplikácie ktoré budú mať rozmazaný náhľad v nedávnych aplikáciách</string>
-    <string name="privacy_type_open">Zap.</string>
+    <string name="privacy_type_open">Zapnuté</string>
     <string name="privacy_using_camera">Používanie fotoaparátu</string>
     <string name="privacy_using_location">Prístup k polohe</string>
     <string name="privacy_using_record">Nahrávanie zvuku</string>

@@ -391,7 +391,7 @@ skenované dokumenty automaticky"</string>
     <string name="face_beauty_age_alias_male_45_60">Muž 45-60</string>
     <string name="face_beauty_age_alias_male_60_m">Muž 60+</string>
     <string name="face_beauty_age_alias_male_8_17">Muž 8-17</string>
-    <string name="face_beauty_close">Vyp.</string>
+    <string name="face_beauty_close">Vypnuté</string>
     <string name="face_beauty_intelligent_level_0">0</string>
     <string name="face_beauty_intelligent_level_1">+1</string>
     <string name="face_beauty_intelligent_level_2">+2</string>
@@ -766,7 +766,7 @@ Objekt bude ostrý na rozmazanom pozadí."</string>
     <string name="pref_camera_auxiliary_focus_peak">Zvýraznenie zaostrenia</string>
     <string name="pref_camera_auxiliary_title">Pomocný</string>
     <string name="pref_camera_beautify_entry_auto">Auto</string>
-    <string name="pref_camera_beautify_entry_close">Vyp.</string>
+    <string name="pref_camera_beautify_entry_close">Vypnuté</string>
     <string name="pref_camera_beautify_entry_high">Vysoké</string>
     <string name="pref_camera_beautify_entry_low">Nízke</string>
     <string name="pref_camera_beautify_entry_normal">Stredné</string>
@@ -1113,8 +1113,8 @@ Objekt bude ostrý na rozmazanom pozadí."</string>
     <string name="pref_multi_camera_dual_video_front">Predná kamera</string>
     <string name="pref_multi_camera_dual_video_remote">Nahrávanie pomocou dvoch telefónov</string>
     <string name="pref_n_s_a">Nastavenia zvuku</string>
-    <string name="pref_n_s_o_l">Zap.</string>
-    <string name="pref_n_s_o_m">Vyp.</string>
+    <string name="pref_n_s_o_l">Zapnuté</string>
+    <string name="pref_n_s_o_m">Vypnuté</string>
     <string name="pref_new_slow_motion_video_quality_240_720only">Môžete nahrať len 720p videá v 240fps</string>
     <string name="pref_new_slow_motion_video_quality_960_720only">Môžete nahrať len 720p videá v 960fps</string>
     <string name="pref_p_d_e">Pro funkcie</string>

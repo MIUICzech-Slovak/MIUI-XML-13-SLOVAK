@@ -115,8 +115,8 @@
     <string name="tethering_hardware_offload">Hardvérová akcelerácia tetheringu</string>
     <string name="tethering_hardware_offload_summary">Ak je k dispozícii hardvérová akcelerácia tetheringu, používať ju</string>
     <string name="time_unit_just_now">Teraz</string>
-    <string name="v7_preference_off">VYP.</string>
-    <string name="v7_preference_on">ZAP.</string>
+    <string name="v7_preference_off">Vypnuté</string>
+    <string name="v7_preference_on">Zapnuté</string>
     <string name="wifi_ap_unable_to_handle_new_sta">Prístupový bod je dočasne plný</string>
     <string name="wifi_cant_connect">Nedá sa pripojiť</string>
     <string name="wifi_cant_connect_to_ap">K sieti %1$s sa nedá pripojiť</string>

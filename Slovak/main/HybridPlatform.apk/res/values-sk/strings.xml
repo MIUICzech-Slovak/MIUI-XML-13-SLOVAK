@@ -8,8 +8,8 @@
     <string name="abc_action_mode_done">Hotovo</string>
     <string name="abc_activity_chooser_view_see_all">Zobraziť všetko</string>
     <string name="abc_activitychooserview_choose_application">Zvoľte aplikáciu</string>
-    <string name="abc_capital_off">VYP.</string>
-    <string name="abc_capital_on">ZAP.</string>
+    <string name="abc_capital_off">Vypnuté</string>
+    <string name="abc_capital_on">Zapnuté</string>
     <string name="abc_search_hint">Vyhľadať…</string>
     <string name="abc_searchview_description_clear">Vymazať dopyt</string>
     <string name="abc_searchview_description_query">Vyhľadávací dopyt</string>

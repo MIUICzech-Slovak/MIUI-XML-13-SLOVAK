@@ -1493,8 +1493,8 @@ Z tohto profilu sa tiež odstránia vaše uložené odtlačky prstov a nebudet
     <string name="user_installed_services_category_title">Stiahnuté služby</string>
     <string name="user_lockscreen_settings">Nastavenia uzamknutej obrazovky</string>
     <string name="users_summary">Prihlásený používateľ %1$s</string>
-    <string name="v7_preference_off">VYP.</string>
-    <string name="v7_preference_on">ZAP.</string>
+    <string name="v7_preference_off">Vypnuté</string>
+    <string name="v7_preference_on">Zapnuté</string>
     <string name="vibrate_on_touch_summary">Hmatová odozva pre klepnutie, klávesnicu a ďalšie akcie</string>
     <string name="vision_settings_description">Zariadenie môžete prispôsobiť, aby zodpovedalo vašim potrebám. Tieto funkcie dostupnosti môžete neskôr zmeniť v Nastaveniach.</string>
     <string name="vision_settings_suggestion_title">Zmeniť veľkosť písma</string>

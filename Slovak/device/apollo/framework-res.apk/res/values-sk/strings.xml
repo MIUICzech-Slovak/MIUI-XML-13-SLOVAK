@@ -169,8 +169,8 @@
     <string name="accessibility_service_warning_description">Úplná kontrola je vhodná pre aplikácie, ktoré vám pomáhajú s dostupnosťou, ale nie pre väčšinu aplikácií.</string>
     <string name="accessibility_shortcut_disabling_service">Pridržali ste tlačidlá hlasitosti. Služba %1$s je vypnutá.</string>
     <string name="accessibility_shortcut_enabling_service">Pridržali ste tlačidlá hlasitosti. Služba %1$s je zapnutá.</string>
-    <string name="accessibility_shortcut_menu_item_status_off">VYP.</string>
-    <string name="accessibility_shortcut_menu_item_status_on">ZAP.</string>
+    <string name="accessibility_shortcut_menu_item_status_off">Vypnuté</string>
+    <string name="accessibility_shortcut_menu_item_status_on">Zapnuté</string>
     <string name="accessibility_shortcut_multiple_service_list">"\u0009• %1$s
 "</string>
     <string name="accessibility_shortcut_multiple_service_warning">"Pridržaním oboch tlačidiel hlasitosti na niekoľko sekúnd zapnete funkcie dostupnosti. Môže sa tým zmeniť spôsob fungovania vášho zariadenia.

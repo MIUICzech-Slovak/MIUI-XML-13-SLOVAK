@@ -6,8 +6,8 @@
     <string name="abc_action_mode_done">Hotovo</string>
     <string name="abc_activity_chooser_view_see_all">Zobraziť všetky</string>
     <string name="abc_activitychooserview_choose_application">Vybrať aplikáciu</string>
-    <string name="abc_capital_off">VYP.</string>
-    <string name="abc_capital_on">ZAP.</string>
+    <string name="abc_capital_off">Vypnuté</string>
+    <string name="abc_capital_on">Zapnuté</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
     <string name="abc_menu_delete_shortcut_label">odstrániť</string>
@@ -2028,8 +2028,8 @@ Z tohto profilu sa tiež odstránia vaše uložené odtlačky prstov a nebudet
     <string name="user_lockscreen_settings">Nastavenia uzamknutej obrazovky</string>
     <string name="user_settings_footer_text">Zdieľajte telefón tak, že pridáte nových používateľov. Jednotliví používatelia majú v telefóne osobný priestor pre vlastné plochy, účty, aplikácie, nastavenia a ďalšie položky.</string>
     <string name="users_summary">Prihlásený používateľ %1$s</string>
-    <string name="v7_preference_off">VYP.</string>
-    <string name="v7_preference_on">ZAP.</string>
+    <string name="v7_preference_off">Vypnuté</string>
+    <string name="v7_preference_on">Zapnuté</string>
     <string name="vibrate_on_touch_summary">Hmatová odozva pre klepnutie, klávesnicu a ďalšie akcie</string>
     <string name="video_calling_settings_title">Videohovory prostredníctvom operátora</string>
     <string name="virtual_keyboards_for_work_title">Virtuálna klávesnica pre prácu</string>

@@ -272,8 +272,8 @@ Nemeňte alebo nepremenúvajte záložné súbory."</string>
     <string name="local_button_restore_data">Obnoviť do tohto zariadenia</string>
     <string name="local_button_restore_now">Obnoviť</string>
     <string name="local_click_to_jump">Dotykom zobrazíte</string>
-    <string name="local_config_off">Vyp.</string>
-    <string name="local_config_on">Zap.</string>
+    <string name="local_config_off">Vypnuté</string>
+    <string name="local_config_on">Zapnuté</string>
     <string name="local_home_title">Zálohovať lokálne</string>
     <string name="local_main_auto_backup_title">Zálohovať automaticky</string>
     <string name="local_main_backup">Lokálne zálohy</string>

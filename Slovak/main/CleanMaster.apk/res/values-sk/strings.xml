@@ -59,8 +59,8 @@
     <string name="auto_clean_operation_clean_and_alert">Upozorniť a vyčistiť</string>
     <string name="auto_clean_operation_dialog_title">Spôsob čistenia</string>
     <string name="auto_clean_operation_just_clean">Len vyčistiť</string>
-    <string name="auto_clean_switch_off">Vyp.</string>
-    <string name="auto_clean_switch_on">Zap.</string>
+    <string name="auto_clean_switch_off">Vypnuté</string>
+    <string name="auto_clean_switch_on">Zapnuté</string>
     <string name="auto_clean_time_every_day">Každý deň</string>
     <string name="auto_clean_time_fifteen_day">Každých 15 dní</string>
     <string name="auto_clean_time_seven_day">Každých 7 dní</string>

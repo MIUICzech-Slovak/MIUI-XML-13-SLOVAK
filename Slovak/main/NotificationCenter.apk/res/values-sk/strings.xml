@@ -149,8 +149,8 @@
 Nahláste tento problém &gt;"</string>
     <string name="notification_style_android">Android</string>
     <string name="notification_style_miui">MIUI</string>
-    <string name="off">Vyp.</string>
-    <string name="on">Zap.</string>
+    <string name="off">Vypnuté</string>
+    <string name="on">Zapnuté</string>
     <string name="rule_keyguard_display">Formát</string>
     <string name="saturday">Sobota</string>
     <string name="saturday_short">Sob</string>

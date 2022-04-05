@@ -133,8 +133,8 @@ sa dotknete štítkom telefónu"</string>
     <string name="pwd_alert">Nastaviť heslo</string>
     <string name="pwd_pref">Zabrániť prepísaniu NFC štítku</string>
     <string name="pwd_pref_desc">Ak je táto funkcia povolená, pri prepisovaní NFC štítku je nutné zadať heslo</string>
-    <string name="pwd_prot_off">VYP.</string>
-    <string name="pwd_prot_on">ZAP.</string>
+    <string name="pwd_prot_off">Vypnuté</string>
+    <string name="pwd_prot_on">Zapnuté</string>
     <string name="read_a_tag">Načítať štítok</string>
     <string name="reading">Načítavanie...</string>
     <string name="remote_app">Na stiahnutie</string>

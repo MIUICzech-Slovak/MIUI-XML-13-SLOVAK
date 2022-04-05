@@ -6,7 +6,7 @@
         <item>3</item>
         <item>4</item>
         <item>5</item>
-        <item>Vyp.</item>
+        <item>Vypnuté</item>
     </string-array>
     <string-array name="alarm_in_furture">
         <item>Budík o menej než minútu</item>

@@ -6,8 +6,8 @@
     <string name="abc_action_mode_done">Hotovo</string>
     <string name="abc_activity_chooser_view_see_all">Zobraziť všetky</string>
     <string name="abc_activitychooserview_choose_application">Vybrať aplikáciu</string>
-    <string name="abc_capital_off">VYP.</string>
-    <string name="abc_capital_on">ZAP.</string>
+    <string name="abc_capital_off">Vypnuté</string>
+    <string name="abc_capital_on">Zapnuté</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
     <string name="abc_menu_delete_shortcut_label">odstrániť</string>
@@ -653,7 +653,7 @@ Ak sa rozhodnete znovu využiť naše služby, budete musieť najskôr súhlasi�
     <string name="device_searching_nearby">Hľadanie</string>
     <string name="device_searching_tips">Majte zariadenie v blízkosti vášho telefónu.</string>
     <string name="device_security_setting">Zabezpečenie</string>
-    <string name="device_settings__common_unopen">Vyp.</string>
+    <string name="device_settings__common_unopen">Vypnuté</string>
     <string name="device_settings_about_device">O zariadení</string>
     <string name="device_settings_add_item_tip">Môžete pridať až 30 cvičení</string>
     <string name="device_settings_add_new_battry_alert">Dlhé vibrácie zariadenia znížia výdrž batérie</string>
@@ -831,7 +831,7 @@ Zapnutie tejto funkcie ovplyvní výdrž batérie. Pokračovať?"</string>
     <string name="device_settings_detection_heart_rate_warning_des">Upozorniť, ak ste sa posledných 10 minút nehýbali a váš srdcový tep prekročí nastavenú hodnotu</string>
     <string name="device_settings_detection_heart_rate_warning_des2">Upozorniť, ak ste sa posledných 10 minút nehýbali a váš srdcový tep prekročí nastavenú hodnotu</string>
     <string name="device_settings_detection_hr_disable_tips">Pre zmenu frekvencie vypnite funkciu \"Upozornenie na nepravidelný tep\".</string>
-    <string name="device_settings_detection_manual">Vyp.</string>
+    <string name="device_settings_detection_manual">Vypnuté</string>
     <string name="device_settings_detection_mode">Pokročilé sledovanie</string>
     <string name="device_settings_detection_mode_auto">Srdcový tep</string>
     <string name="device_settings_detection_mode_auto_des">Pre získanie dát z celého dňa využite funkciu \"Celodenné automatické meranie\"</string>
@@ -859,10 +859,10 @@ Zapnutie tejto funkcie ovplyvní výdrž batérie. Pokračovať?"</string>
     <string name="device_settings_device_user_agreement">Zmluvné podmienky</string>
     <string name="device_settings_device_version">Verzia</string>
     <string name="device_settings_dialog_title">Požadované oprávnenia</string>
-    <string name="device_settings_disabled">Vyp.</string>
+    <string name="device_settings_disabled">Vypnuté</string>
     <string name="device_settings_display_as_grid">Mriežka</string>
     <string name="device_settings_display_as_list">Zoznam</string>
-    <string name="device_settings_dont_remind">Vyp.</string>
+    <string name="device_settings_dont_remind">Vypnuté</string>
     <string name="device_settings_down_button_customize">Sekundárne tlačidlo</string>
     <string name="device_settings_down_button_customize_info">Pre začatie cvičenia jednoducho stlačte sekundárne tlačidlo</string>
     <string name="device_settings_dump_device_log">Zhromažďovať protokoly</string>
@@ -881,7 +881,7 @@ Zapnutie tejto funkcie ovplyvní výdrž batérie. Pokračovať?"</string>
     <string name="device_settings_enable_sleep_trace_description">Zaznamenávať údaje o vašom spánku na základe využitia vášho telefónu, štatistiky aktivít a nastaveného času zaspania a prebudenia.</string>
     <string name="device_settings_enable_sleep_trace_guide">Váš telefón nebude môcť sledovať priebeh vášho spánku, vrátane spánkových cyklov, chrápania a rozprávania zo spánku.</string>
     <string name="device_settings_enable_snore_sleepwords_detection">Detect snoring and talking</string>
-    <string name="device_settings_enabled">Zap.</string>
+    <string name="device_settings_enabled">Zapnuté</string>
     <string name="device_settings_endurance_light_des">Plne nabitá batéria vydrží 8 až 12 dní. Jej životnosť však závisí od štýlu využívania.</string>
     <string name="device_settings_endurance_light_level">Nepatrný</string>
     <string name="device_settings_endurance_moderate_level">Stredná</string>
@@ -961,7 +961,7 @@ Bez tohto kroku nie je možné platby zariadením vykonať."</string>
     <string name="device_settings_night_end_time">Koniec</string>
     <string name="device_settings_night_model">Nočný režim</string>
     <string name="device_settings_night_model_afternone">odp.</string>
-    <string name="device_settings_night_model_close">Vyp.</string>
+    <string name="device_settings_night_model_close">Vypnuté</string>
     <string name="device_settings_night_model_custom_open">Vlastné</string>
     <string name="device_settings_night_model_morning">dop.</string>
     <string name="device_settings_night_model_night">odp.</string>
@@ -1047,7 +1047,7 @@ Dáta z vášho zariadenia budú zmazané v priebehu 7 dní."</string>
     <string name="device_settings_spo2_monitor_dialog_des">Meranie odporúčame vykonávať počas sedenia</string>
     <string name="device_settings_spo2_monitor_dialog_title">Meranie hladiny kyslíka v krvi</string>
     <string name="device_settings_spo2_monitor_mode_all_day">Celý deň</string>
-    <string name="device_settings_spo2_monitor_mode_off">Vyp.</string>
+    <string name="device_settings_spo2_monitor_mode_off">Vypnuté</string>
     <string name="device_settings_spo2_monitor_mode_sleep">Počas spánku</string>
     <string name="device_settings_spo2_monitor_title">Meranie hladiny kyslíka v krvi</string>
     <string name="device_settings_spo2_setting">Hladina kyslíka v krvi</string>
@@ -1159,7 +1159,7 @@ Dáta z vášho zariadenia budú zmazané v priebehu 7 dní."</string>
     <string name="device_settings_world_clock_select_world">Vyberte položky</string>
     <string name="device_settings_world_clock_setting_fail">Nastavenie zlyhalo</string>
     <string name="device_settings_world_clock_setting_success">Úspešne nastavené</string>
-    <string name="device_settings_wrist_bright_close">Vyp.</string>
+    <string name="device_settings_wrist_bright_close">Vypnuté</string>
     <string name="device_settings_wrist_bright_custom">Vlastné</string>
     <string name="device_settings_wrist_bright_custom_time">Vlastné</string>
     <string name="device_settings_wrist_bright_day_all">Celý deň</string>
@@ -2206,8 +2206,8 @@ Typický rozsah: 10 – 30 %"</string>
     <string name="health_sleep_schedule">Spánok</string>
     <string name="health_sleep_segment_distribute">Rozloženie spánku</string>
     <string name="health_sleep_setting">Nastavenia</string>
-    <string name="health_sleep_settings_disabled">Vyp.</string>
-    <string name="health_sleep_settings_enabled">Zap.</string>
+    <string name="health_sleep_settings_disabled">Vypnuté</string>
+    <string name="health_sleep_settings_enabled">Zapnuté</string>
     <string name="health_sleep_settings_faq">Časté otázky</string>
     <string name="health_sleep_slumber">Ľahký</string>
     <string name="health_sleep_snore">Chrápanie</string>
@@ -3010,9 +3010,9 @@ Bez tohto kroku nie je možné platby zariadením vykonať."</string>
     <string name="notify_message_remind_cancel">Späť</string>
     <string name="notify_message_remind_continue_to_open">Nastavenia</string>
     <string name="notify_message_remind_finish">Hotovo</string>
-    <string name="notify_message_remind_has_open">Zap.</string>
+    <string name="notify_message_remind_has_open">Zapnuté</string>
     <string name="notify_message_remind_ignore">Zrušiť</string>
-    <string name="notify_message_remind_no_open">Vyp.</string>
+    <string name="notify_message_remind_no_open">Vypnuté</string>
     <string name="notify_message_remind_not_allow">Nepovolené</string>
     <string name="notify_message_remind_subtitle">Zapnite na preposielanie oznámení z vášho telefónu do vášho nositeľného zariadenia</string>
     <string name="notify_message_remind_title">Oznámenie aplikácie</string>
@@ -3248,7 +3248,7 @@ Bez tohto kroku nie je možné platby zariadením vykonať."</string>
     <string name="settingitem_alarm_work_day">Pracovné dni</string>
     <string name="settingitem_common_comma">,</string>
     <string name="settingitem_common_custom">Vlastné</string>
-    <string name="settingitem_common_unopen">Vyp.</string>
+    <string name="settingitem_common_unopen">Vypnuté</string>
     <string name="share_download">Uložiť</string>
     <string name="share_errcode_cancel">Zrušené</string>
     <string name="share_errcode_deny">Zdieľanie zlyhalo</string>
@@ -3303,10 +3303,10 @@ Bez tohto kroku nie je možné platby zariadením vykonať."</string>
     <string name="sport_bg_permissions">Oprávnenie spustenia na pozadí</string>
     <string name="sport_break_link">Zariadenie je odpojené</string>
     <string name="sport_cal">kcal</string>
-    <string name="sport_close">Vyp.</string>
+    <string name="sport_close">Vypnuté</string>
     <string name="sport_comma">,</string>
     <string name="sport_common_cancel">Zrušiť</string>
-    <string name="sport_common_close">Vyp.</string>
+    <string name="sport_common_close">Vypnuté</string>
     <string name="sport_common_confirm">OK</string>
     <string name="sport_common_download_succeed">Úspešne stiahnuté</string>
     <string name="sport_common_error">Došlo k chybe systému. Skúste to znova neskôr.</string>
@@ -3337,7 +3337,7 @@ Bez tohto kroku nie je možné platby zariadením vykonať."</string>
     <string name="sport_device_status_sync_success">Úspešne synchronizované</string>
     <string name="sport_disconnect">Disconnect</string>
     <string name="sport_distance">Vzdialenosť</string>
-    <string name="sport_dont_remind">Vyp.</string>
+    <string name="sport_dont_remind">Vypnuté</string>
     <string name="sport_duration">Čas</string>
     <string name="sport_earlier">Predtým</string>
     <string name="sport_equipment_abnormal_detail">Contact customer support</string>
@@ -4191,8 +4191,8 @@ Ak nechcete svoje zdravotné informácie sprístupniť ostatným, môžete túto
     <string name="userinfo_xiaomi_account">Xiaomi účet:</string>
     <string name="userinfo_year">Rok</string>
     <string name="userinfo_yes">Áno</string>
-    <string name="v7_preference_off">VYP.</string>
-    <string name="v7_preference_on">ZAP.</string>
+    <string name="v7_preference_off">Vypnuté</string>
+    <string name="v7_preference_on">Zapnuté</string>
     <string name="v_code_title">Zadajte overovací kód</string>
     <string name="web_continue">Pokračovať</string>
     <string name="web_not_find_app">Nájdenie aplikácie zlyhalo.</string>
