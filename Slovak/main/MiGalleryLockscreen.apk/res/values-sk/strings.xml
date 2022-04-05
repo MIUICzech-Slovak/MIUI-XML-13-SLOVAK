@@ -779,8 +779,8 @@ To môže spôsobiť dodatočné poplatky."</string>
     <string name="sst_shield_tag_title">Blokované položky</string>
     <string name="sst_show_lockscreen_entry_desc">Zobraziť odkaz na uzamknutej obrazovke</string>
     <string name="sst_show_lockscreen_entry_title">Skratka na uzamknutej obrazovke</string>
-    <string name="sst_sliding_checkbox_checked">Zap</string>
-    <string name="sst_sliding_checkbox_unchecked">Vyp</string>
+    <string name="sst_sliding_checkbox_checked">Zapnuté</string>
+    <string name="sst_sliding_checkbox_unchecked">Vypnuté</string>
     <string name="sst_sti_desc">Nastavte interval pre zmenu tapety</string>
     <string name="sst_sti_title">Interval pre zmenu tapety</string>
     <string name="sst_subscribe_title">Kategórie</string>

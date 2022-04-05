@@ -121,7 +121,7 @@
     <string name="click_to_login">Prihlásiť sa</string>
     <string name="click_to_retry">Kliknite znova</string>
     <string name="click_to_shrink">Zbaliť</string>
-    <string name="close">Vyp</string>
+    <string name="close">Vypnuté</string>
     <string name="comment_bad">Tak-tak</string>
     <string name="comment_good">Páči sa mi</string>
     <string name="commit_done">Odoslané</string>
@@ -493,7 +493,7 @@ Uistite sa, že %1$s reaguje."</string>
     <string name="off">Vyp.</string>
     <string name="office">Kancelária</string>
     <string name="on">Zap.</string>
-    <string name="open">Zap</string>
+    <string name="open">Zapnuté</string>
     <string name="open_close">Zapnúť</string>
     <string name="operator">Operátor</string>
     <string name="oscillation">Oscilácia</string>

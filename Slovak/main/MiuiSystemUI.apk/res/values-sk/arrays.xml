@@ -11,7 +11,7 @@
         <item>Nezobrazovať túto ikonu</item>
     </string-array>
     <string-array name="miui_volume_timer_segments_title">
-        <item>Vyp</item>
+        <item>Vypnuté</item>
         <item>30 minút</item>
         <item>1 hodinu</item>
         <item>2 hodiny</item>

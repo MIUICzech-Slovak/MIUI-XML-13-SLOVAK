@@ -25,8 +25,8 @@
     <string name="action_menu_current_version">Súčasná verzia</string>
     <string name="action_menu_download">Stiahnuť</string>
     <string name="action_menu_request_desktop_site">Ako na PC</string>
-    <string name="action_menu_request_desktop_site_off">Vyp</string>
-    <string name="action_menu_request_desktop_site_on">Zap</string>
+    <string name="action_menu_request_desktop_site_off">Vypnuté</string>
+    <string name="action_menu_request_desktop_site_on">Zapnuté</string>
     <string name="action_menu_text_add_bookmark">Pridať záložku</string>
     <string name="action_menu_text_bandwidth">Úspora dát</string>
     <string name="action_menu_text_bandwidth_off">Úspora dát</string>
@@ -185,7 +185,7 @@
     <string name="cloud_sync_closed_toast">Synchr. Cloudu je deaktivovaná</string>
     <string name="cloud_sync_failed_toast">Aktualizácia zlyhala</string>
     <string name="cloud_tab">Záložka Cloudu</string>
-    <string name="cloud_tabs_sync_off">Synchr. vyp</string>
+    <string name="cloud_tabs_sync_off">Synchr. Vypnuté</string>
     <string name="cloud_time_tips">Naposledy synchr.</string>
     <string name="cloud_up_to_loading_tips">Pustite pre sycnhr.</string>
     <string name="color_picker_button_black">Čierna</string>
@@ -466,7 +466,7 @@ Chcete opustiť túto web stránku?"</string>
     <string name="menu_addtodesk">Odoslať na plochu</string>
     <string name="menu_exit_nightmode">Ukončiť</string>
     <string name="menu_hv_swap">Režim na výšku/šírku</string>
-    <string name="menu_nightmode">nočný režim zap/vyp</string>
+    <string name="menu_nightmode">nočný režim zap/Vypnuté</string>
     <string name="menu_preferences">Nastavenia</string>
     <string name="menu_theme_setting">Nastavenie vzhľadu</string>
     <string name="menu_title_clear_all">Vymazať všetko</string>

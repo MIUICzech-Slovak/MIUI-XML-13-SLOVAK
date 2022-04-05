@@ -495,8 +495,8 @@ Môžete nastaviť novú zámku obrazovky pre svoje zariadenie aj pracovný prof
     <string name="user_credentials_summary">Zobrazenie a úprava uložených poverení</string>
     <string name="user_lockscreen_settings">Nastavenia uzamknutej obrazovky</string>
     <string name="user_summary">Prihlásený/-á ako %1$s</string>
-    <string name="v7_preference_off">VYP</string>
-    <string name="v7_preference_on">ZAP</string>
+    <string name="v7_preference_off">Vypnuté</string>
+    <string name="v7_preference_on">Zapnuté</string>
     <string name="virtual_keyboard_category">Virtuálna klávesnica</string>
     <string name="vision_settings_description">Zariadenie môžete prispôsobiť, aby zodpovedalo vašim potrebám. Tieto funkcie dostupnosti môžete neskôr zmeniť v Nastaveniach.</string>
     <string name="vision_settings_title">Nastavenia viditeľnosti</string>

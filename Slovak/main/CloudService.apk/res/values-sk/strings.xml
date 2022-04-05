@@ -58,8 +58,8 @@ Naposledy: %2$s"</string>
     <string name="cloud_back_up_title">Zálohovať zariadenie</string>
     <string name="cloud_backup_dialog_title">Zálohovať do MiCloud</string>
     <string name="cloud_find_device">Nájsť zariadenie</string>
-    <string name="cloud_find_device_off">Vyp</string>
-    <string name="cloud_find_device_on">Zap</string>
+    <string name="cloud_find_device_off">Vypnuté</string>
+    <string name="cloud_find_device_on">Zapnuté</string>
     <string name="cloud_lab_title">Cloud Lab</string>
     <string name="cloud_restore_title">Obnoviť zo zálohy</string>
     <string name="cloud_service_open_authorization">Vitajte v Xiaomi Cloud! Xiaomi Cloud môžete použiť na synchronizáciu poznámok, fotografií a videí, nahrávok a ďalších položiek zo systémových aplikácií naprieč všetkými pripojenými zariadeniami. Zálohy rozloženia domovskej obrazovky sa budú ukladať aj v Xiaomi Cloud. Všetky synchronizované položky si budete môcť pozrieť na i.mi.com.</string>
@@ -1013,7 +1013,7 @@ Prečítajte si a odsúhlaste naše Podmienky používania a Ochranu súkromia.
     <string name="sunday_shortest">N</string>
     <string name="switch_orientation_desc">Orientácia obrazovky</string>
     <string name="sync_detail_summary_master_sync_off">Synchr. je vypnutá</string>
-    <string name="sync_detail_summary_off">Vyp</string>
+    <string name="sync_detail_summary_off">Vypnuté</string>
     <string name="sync_detail_text">Podrobnosti synchr.</string>
     <string name="sync_dspt">Povoliť synchr.</string>
     <string name="sync_dspt_entrance_provision">Synchr. vaše fotografie, kontakty, SMS a históriu hovorov. Pre prístup k zálohovaným údajom navštívte %s.</string>
@@ -1040,10 +1040,10 @@ Prečítajte si a odsúhlaste naše Podmienky používania a Ochranu súkromia.
     <string name="sync_item_title">Synchr. položky</string>
     <string name="sync_normal_summary">Niektoré položky zo zoznamu nemohli byť synchronizované</string>
     <string name="sync_normal_title">Synchr. nebola dokončená</string>
-    <string name="sync_off">Vyp</string>
+    <string name="sync_off">Vypnuté</string>
     <string name="sync_off_confirm_content">Po vypnutí správcu hesiel nebudete môcť synchronizovať nové hesla.</string>
     <string name="sync_off_confirm_title">Upozornenie</string>
-    <string name="sync_on">Zap</string>
+    <string name="sync_on">Zapnuté</string>
     <string name="sync_page_autofill_login">Prihláste sa k Mi účtu pre používanie Správcu hesiel</string>
     <string name="sync_page_autofill_title">Správca hesiel</string>
     <string name="sync_page_route_message">Správca hesiel umožňuje šifrovať uložené heslá v cloude. Chcete ho povoliť?</string>

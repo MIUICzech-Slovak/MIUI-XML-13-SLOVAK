@@ -111,8 +111,8 @@
     <string name="community_cta_dialog_title">Vyžadujú sa povolenia</string>
     <string name="community_entrance_summary">Nájdite v komunite Mi obsah súvisiaci s témou. Túto funkciu podporujú vybrané témy.</string>
     <string name="community_entrance_title">Miniaplikácia hodín Mi Community</string>
-    <string name="community_message_trigger_disabled">Vyp</string>
-    <string name="community_message_trigger_triggered">Zap</string>
+    <string name="community_message_trigger_disabled">Vypnuté</string>
+    <string name="community_message_trigger_triggered">Zapnuté</string>
     <string name="component_backup_preference_title">Zálohovať tému</string>
     <string name="component_category_finest_title">VŠEOBECNÉ</string>
     <string name="component_category_more_title">ROZŠÍRENÉ</string>
@@ -1188,8 +1188,8 @@ ale obsah ktorý hľadáte nie je dostupný vo vašej krajine."</string>
     <string name="transparent_wallpaper_apply_success">Nastavené. Môžete to zmeniť v Témy - Profil - Beta funkcie.</string>
     <string name="transparent_wallpaper_auto_start_pref_summary">Po reštartovaní zariadenia naďalej používajte priehľadné tapety</string>
     <string name="transparent_wallpaper_auto_start_pref_title">Automatické spustenie</string>
-    <string name="transparent_wallpaper_disable">Vyp</string>
-    <string name="transparent_wallpaper_enable">Zap</string>
+    <string name="transparent_wallpaper_disable">Vypnuté</string>
+    <string name="transparent_wallpaper_enable">Zapnuté</string>
     <string name="transparent_wallpaper_enable_success">Povolené</string>
     <string name="transparent_wallpaper_filter_pref_summary">Priehľadné pozadia nebudú zobrazené v zakázaných aplikáciách</string>
     <string name="transparent_wallpaper_filter_pref_title">Vyberte aplikácie v ktorých nechcete zobraziť tapetu</string>

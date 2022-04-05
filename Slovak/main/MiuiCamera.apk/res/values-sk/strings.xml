@@ -761,7 +761,7 @@ Objekt bude ostrý na rozmazanom pozadí."</string>
     <string name="pref_camera_autoexposure_entry_frameaverage">Matrica</string>
     <string name="pref_camera_autoexposure_entry_spotmetering">Bod</string>
     <string name="pref_camera_autoexposure_title">Režim Auto Expozície</string>
-    <string name="pref_camera_auxiliary_close">Vyp</string>
+    <string name="pref_camera_auxiliary_close">Vypnuté</string>
     <string name="pref_camera_auxiliary_exposure_feedback">Overenie expozície</string>
     <string name="pref_camera_auxiliary_focus_peak">Zvýraznenie zaostrenia</string>
     <string name="pref_camera_auxiliary_title">Pomocný</string>
@@ -812,7 +812,7 @@ Objekt bude ostrý na rozmazanom pozadí."</string>
     <string name="pref_camera_delay_capture_entry_3s">3s</string>
     <string name="pref_camera_delay_capture_entry_5s">5s</string>
     <string name="pref_camera_delay_capture_entry_audio">Zvukom</string>
-    <string name="pref_camera_delay_capture_entry_off">Vyp</string>
+    <string name="pref_camera_delay_capture_entry_off">Vypnuté</string>
     <string name="pref_camera_delay_capture_title">Časovač</string>
     <string name="pref_camera_device_watermark_title">Vodoznak</string>
     <string name="pref_camera_dual_enable_title">Povoliť duálny fotoaparát</string>
@@ -820,7 +820,7 @@ Objekt bude ostrý na rozmazanom pozadí."</string>
     <string name="pref_camera_dynamic_frame_rate_summary">Snímková frekvencia sa automaticky zníži pri slabom osvetlení alebo vysokej teplote, aby sa zlepšila kvalita videa</string>
     <string name="pref_camera_dynamic_frame_rate_title">Upravte snímkovú frekvenciu na slabé osvetlenie</string>
     <string name="pref_camera_dynamic_frame_rate_title_new">Auto snímková frekvencia</string>
-    <string name="pref_camera_eis_entry_off">Vyp</string>
+    <string name="pref_camera_eis_entry_off">Vypnuté</string>
     <string name="pref_camera_exposuretime_entry_0.5">2s</string>
     <string name="pref_camera_exposuretime_entry_1">1s</string>
     <string name="pref_camera_exposuretime_entry_1000">1/1000s</string>
@@ -855,8 +855,8 @@ Objekt bude ostrý na rozmazanom pozadí."</string>
     <string name="pref_camera_fisheye_title">Rybie oko</string>
     <string name="pref_camera_flashmode_entry_auto">Auto</string>
     <string name="pref_camera_flashmode_entry_back_soft_light">Jemné svetlo</string>
-    <string name="pref_camera_flashmode_entry_off">Vyp</string>
-    <string name="pref_camera_flashmode_entry_on">Zap</string>
+    <string name="pref_camera_flashmode_entry_off">Vypnuté</string>
+    <string name="pref_camera_flashmode_entry_on">Zapnuté</string>
     <string name="pref_camera_flashmode_entry_torch">Svietidlo</string>
     <string name="pref_camera_flashmode_title">Režim blesku</string>
     <string name="pref_camera_focus_shoot_summary">Dotykom zaostríte, potom odfotíte.</string>
@@ -869,8 +869,8 @@ Objekt bude ostrý na rozmazanom pozadí."</string>
     <string name="pref_camera_focusmode_title">Režim ostrenia</string>
     <string name="pref_camera_front_ai_scene_entry_off">Vypnúť</string>
     <string name="pref_camera_front_ai_scene_entry_on">AI scéna</string>
-    <string name="pref_camera_front_bokeh_entry_off">Vyp</string>
-    <string name="pref_camera_front_bokeh_entry_on">Zap</string>
+    <string name="pref_camera_front_bokeh_entry_off">Vypnuté</string>
+    <string name="pref_camera_front_bokeh_entry_on">Zapnuté</string>
     <string name="pref_camera_gradienter_title">Vodováha</string>
     <string name="pref_camera_groupshot_mode_title">Skupina</string>
     <string name="pref_camera_hand_night_title">Nočný režim</string>
@@ -933,8 +933,8 @@ Objekt bude ostrý na rozmazanom pozadí."</string>
     <string name="pref_camera_optimized_flash_enable_title">Optimalizovať blesk</string>
     <string name="pref_camera_panoramamode_title">Panoráma</string>
     <string name="pref_camera_parallel_process_enable_title">Povoliť paralelné spracovanie</string>
-    <string name="pref_camera_peak_entry_off">Vyp</string>
-    <string name="pref_camera_peak_entry_on">Zap</string>
+    <string name="pref_camera_peak_entry_off">Vypnuté</string>
+    <string name="pref_camera_peak_entry_on">Zapnuté</string>
     <string name="pref_camera_peak_title">Peaking Focus</string>
     <string name="pref_camera_picture_format_entry_jpeg">JPEG</string>
     <string name="pref_camera_picture_format_entry_raw">RAW</string>
@@ -1089,8 +1089,8 @@ Objekt bude ostrý na rozmazanom pozadí."</string>
     <string name="pref_face_beauty_title">Úprava pleti</string>
     <string name="pref_fingerprint_capture_title">Spúšť odtlačkom prsta</string>
     <string name="pref_front_mirror_entry_auto">Auto (len ak je rozpoznaná tvár)</string>
-    <string name="pref_front_mirror_entry_off">Vyp</string>
-    <string name="pref_front_mirror_entry_on">Zap</string>
+    <string name="pref_front_mirror_entry_off">Vypnuté</string>
+    <string name="pref_front_mirror_entry_on">Zapnuté</string>
     <string name="pref_front_mirror_label_auto">Auto</string>
     <string name="pref_front_mirror_title">Zrkadliť prednú kameru</string>
     <string name="pref_google_lens_summary">Automaticky identifikovať objekty</string>
@@ -1118,8 +1118,8 @@ Objekt bude ostrý na rozmazanom pozadí."</string>
     <string name="pref_new_slow_motion_video_quality_240_720only">Môžete nahrať len 720p videá v 240fps</string>
     <string name="pref_new_slow_motion_video_quality_960_720only">Môžete nahrať len 720p videá v 960fps</string>
     <string name="pref_p_d_e">Pro funkcie</string>
-    <string name="pref_photo_assistance_tips_off">Vyp</string>
-    <string name="pref_photo_assistance_tips_on">Zap</string>
+    <string name="pref_photo_assistance_tips_off">Vypnuté</string>
+    <string name="pref_photo_assistance_tips_on">Zapnuté</string>
     <string name="pref_pic_flaw_tip_summary">Dostávať upozornenia ak niekto na fotografii má zatvorené oči</string>
     <string name="pref_pic_flaw_tip_title">Upozorniť na chyby</string>
     <string name="pref_priority_storage_title">Uložiť na SD kartu</string>
@@ -1194,10 +1194,10 @@ Objekt bude ostrý na rozmazanom pozadí."</string>
     <string name="pref_video_time_lapse_frame_interval_entry_90">3 sekundy (90 krát)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_900">30 sekúnd (900 krát)</string>
     <string name="pref_video_time_lapse_frame_interval_title">Časozberné video (Time Lapse)</string>
-    <string name="pref_watermark_off">Vyp</string>
-    <string name="pref_watermark_on">Zap</string>
+    <string name="pref_watermark_off">Vypnuté</string>
+    <string name="pref_watermark_on">Zapnuté</string>
     <string name="pref_watermark_style_entry_dualcamera">Duálny fotoaparát</string>
-    <string name="pref_watermark_style_entry_off">Vyp</string>
+    <string name="pref_watermark_style_entry_off">Vypnuté</string>
     <string name="pref_watermark_style_entry_timestamp">Časový vodoznak</string>
     <string name="pref_watermark_style_title">Pridať vodoznak do fotografie</string>
     <string name="pref_watermark_title">Vodoznak</string>

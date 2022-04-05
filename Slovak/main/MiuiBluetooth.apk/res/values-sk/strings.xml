@@ -227,8 +227,8 @@ Rýchlejšie pripojenie."</string>
     <string name="unbind_device_alert_content">Bluetooth zariadenie %1$s nie je pripojené. Jeho odpojenie môže zvýšiť výkon vášho zariadenia.</string>
     <string name="unbind_device_alert_ok">OK</string>
     <string name="unbind_device_alert_title">Odpojiť zariadenie</string>
-    <string name="v7_preference_off">VYP</string>
-    <string name="v7_preference_on">ZAP</string>
+    <string name="v7_preference_off">Vypnuté</string>
+    <string name="v7_preference_on">Zapnuté</string>
     <string name="wednesday">Streda</string>
     <string name="wednesday_short">Str</string>
     <string name="wednesday_shortest">S</string>

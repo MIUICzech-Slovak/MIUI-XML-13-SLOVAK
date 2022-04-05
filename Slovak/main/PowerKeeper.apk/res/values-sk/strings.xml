@@ -60,7 +60,7 @@
     <string name="dark_mode_summary">Prepnite sa do tmavých farieb pre úsporu batérie</string>
     <string name="disable_hide_mode">Deaktivovať MIUI Úsporu batérie</string>
     <string name="disable_hide_mode_warning">Deaktivácia MIUI Úspory batérie môže zvýšiť spotrebu batérie</string>
-    <string name="disabled">Vyp</string>
+    <string name="disabled">Vypnuté</string>
     <string name="empty_title_apps_container_list">Žiadne aplikácie</string>
     <string name="enable_hide_mode">Povoliť MIUI Úsporu batérie</string>
     <string name="enable_sleep_mode">Povolenie režimu spánku pre optimalizáciu spotreby v noci</string>

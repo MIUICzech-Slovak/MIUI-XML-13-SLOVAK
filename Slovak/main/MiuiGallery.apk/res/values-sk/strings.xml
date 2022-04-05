@@ -213,8 +213,8 @@
     <string name="auto_download_title">Vyberte kvalitu fotografií</string>
     <string name="auto_update_face">Pridať foto. automaticky</string>
     <string name="auto_update_face_summary">Automaticky rozpoznať a pridať do detského albumu</string>
-    <string name="auto_update_off">Vyp</string>
-    <string name="auto_update_on">Zap</string>
+    <string name="auto_update_off">Vypnuté</string>
+    <string name="auto_update_on">Zapnuté</string>
     <string name="auto_upload_before_share_message">Tento album musí byť najprv zálohovaný na MiCloud pred zdieľaním</string>
     <string name="auto_upload_before_share_title">Pomoc</string>
     <string name="auto_upload_disable_tip">Synchr. s MiCloud je zakázaná</string>
@@ -439,8 +439,8 @@
     <string name="cloud_backup_enable_title">Synchr.</string>
     <string name="cloud_backup_open_button">Povoliť</string>
     <string name="cloud_backup_space">Cloudové úložisko</string>
-    <string name="cloud_backup_status_disable">Vyp</string>
-    <string name="cloud_backup_status_eneble">Zap</string>
+    <string name="cloud_backup_status_disable">Vypnuté</string>
+    <string name="cloud_backup_status_eneble">Zapnuté</string>
     <string name="cloud_backup_title">Synchr. s MiCloud</string>
     <string name="cloud_bacup_disable_button">Vypnúť synchr.</string>
     <string name="cloud_bacup_disable_processing">Spracovávanie...</string>

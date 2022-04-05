@@ -136,8 +136,8 @@
     <string name="miui_ringer_count_down_time">%s</string>
     <string name="miui_ringer_standard">Ticho</string>
     <string name="miui_ringer_standard_description">Stíšiť zvonenia pre prichádzajúce hovory a upozornenia</string>
-    <string name="miui_ringer_status_close">Vyp</string>
-    <string name="miui_ringer_status_open">Zap</string>
+    <string name="miui_ringer_status_close">Vypnuté</string>
+    <string name="miui_ringer_status_open">Zapnuté</string>
     <string name="miui_ringer_total">Režim Nerušiť</string>
     <string name="miui_ringer_total_description">Stíšiť zvuky a vypnúť vibrácie pre všetko okrem budíka</string>
     <string name="miui_screen_rotation_freeze_message">Zamknutá orientácia obrazovky v režime na šírku</string>

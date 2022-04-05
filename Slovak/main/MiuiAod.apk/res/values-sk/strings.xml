@@ -187,8 +187,8 @@ d. MMMM"</string>
     <string name="notification_anim_star">Hviezda</string>
     <string name="notification_nothing">Žiadne</string>
     <string name="notification_screen_on">Rozsvietiť displej</string>
-    <string name="off">Vyp</string>
-    <string name="on">Zap</string>
+    <string name="off">Vypnuté</string>
+    <string name="on">Zapnuté</string>
     <string name="only_show_bg_description">Nezobrazovať čas, dátum a ostatné položky</string>
     <string name="only_show_bg_title">Zobraziť len pozadie</string>
     <string name="open_aod_mode">Povoliť</string>

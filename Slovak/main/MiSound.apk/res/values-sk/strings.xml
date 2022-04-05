@@ -220,12 +220,12 @@
     <string name="music_headset_effect_settings">Zvukové efekty</string>
     <string name="music_headset_function">Funkcia tlačidiel</string>
     <string name="music_headset_improve_sound">Prispôsobiť zvuk slúchadlám</string>
-    <string name="music_headset_is_open">Zap</string>
+    <string name="music_headset_is_open">Zapnuté</string>
     <string name="music_headset_mode_music">Prehrávanie - naspäť/ďalej</string>
     <string name="music_headset_mode_settings">Tlačidlá na slúchadlách</string>
     <string name="music_headset_mode_volume">Hlasitosť - hore/dole</string>
     <string name="music_headset_no_contected">Nie sú pripojené slúchadlá</string>
-    <string name="music_headset_not_open">Vyp</string>
+    <string name="music_headset_not_open">Vypnuté</string>
     <string name="music_headset_open">Prispôsobiť zvuk slúchadlám</string>
     <string name="music_headset_optimization">Optimalizácia zvuku</string>
     <string name="music_headset_scenario_intelligent">Inteligentne</string>

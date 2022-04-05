@@ -238,7 +238,7 @@
     <string name="clear">Clear</string>
     <string name="clock_alarm">Budík</string>
     <string name="clock_parent">Hodiny</string>
-    <string name="closed">Vyp</string>
+    <string name="closed">Vypnuté</string>
     <string name="commute">Map suggestions</string>
     <string name="commute_open">Show the card for map suggestions</string>
     <string name="commute_setting_brief">Get route and traffic suggestions before you leave.</string>
@@ -550,7 +550,7 @@ Pred pokračovaním si prečítajte a vyjadrite súhlas s novou verziou %s."</st
     <string name="notification_title">Pridané do záložiek</string>
     <string name="notification_title_fail">"Couldn't add payment"</string>
     <string name="notification_title_success">Added payment successfully</string>
-    <string name="opened">Zap</string>
+    <string name="opened">Zapnuté</string>
     <string name="pa_accessibility_home_search">Hľadajte, začnite dvojitým klepnutím</string>
     <string name="pa_accessibility_home_widget_drag">Presunutie položky</string>
     <string name="pa_accessibility_home_widget_drag_move">Presunúť do riadka %1$d, pozície %2$d</string>

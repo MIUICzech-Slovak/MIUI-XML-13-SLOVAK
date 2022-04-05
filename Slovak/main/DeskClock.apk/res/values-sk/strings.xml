@@ -13,7 +13,7 @@
     <string name="agree">Súhlasím</string>
     <string name="alarm_alert">Zvonenie budíka</string>
     <string name="alarm_alert_alert_silenced">Budík stíšený na dobu %1$s minút.</string>
-    <string name="alarm_alert_disabled">Vyp</string>
+    <string name="alarm_alert_disabled">Vypnuté</string>
     <string name="alarm_alert_snooze_set">Odložiť o %d minút.</string>
     <string name="alarm_ascending_mode_summary">Hlasitosť budíka postupne narastá až do max výšky nastavenej hlasitosti.</string>
     <string name="alarm_ascending_mode_title">Zvyšujúca sa hlasitosť</string>

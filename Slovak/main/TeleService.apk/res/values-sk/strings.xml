@@ -980,8 +980,8 @@ Ak chcete pokračovať, stlačte tlačidlo Vymazať a konvertovať…"</string>
     <string name="mobile_data">"Mobilné dáta: "</string>
     <string name="mobile_data_always_on">Mobilné dáta ponechať vždy aktívne</string>
     <string name="mobile_data_always_on_summary">Vždy ponechávať mobilné dáta aktívne, dokonca aj pri aktívnej sieti Wi‑Fi (na rýchle prepínanie sietí)</string>
-    <string name="mobile_data_off">vyp</string>
-    <string name="mobile_data_on">zap</string>
+    <string name="mobile_data_off">Vypnuté</string>
+    <string name="mobile_data_on">Zapnuté</string>
     <string name="mobile_intelligent_connection_title">Inteligentné pripojenie mobilnej siete</string>
     <string name="mobile_network_dual_card_optimizationmobile_title">Dual SIM a mobilné siete</string>
     <string name="mobile_network_settings_not_available">Nastavenia mobilnej siete nie sú pre tohto používateľa dostupné</string>
@@ -1304,7 +1304,7 @@ Počet zostávajúcich pokusov: %d."</string>
     <string name="preference_data_usage_summary">Nastavte svoj limit mobilných dát</string>
     <string name="preference_data_usage_title">Nastaviť limit dát</string>
     <string name="preference_dial_pad_touch_tone_default">Predvolené</string>
-    <string name="preference_dial_pad_touch_tone_off">Vyp</string>
+    <string name="preference_dial_pad_touch_tone_off">Vypnuté</string>
     <string name="preference_dial_pad_touch_tone_piano">Klavír</string>
     <string name="preference_dial_pad_touch_tone_title">Tóny číselníka</string>
     <string name="preference_permission_related">Povolenia</string>
@@ -1655,8 +1655,8 @@ Počet zostávajúcich pokusov: %d."</string>
     <string name="sunday">Nedeľa</string>
     <string name="sunday_short">Ned</string>
     <string name="sunday_shortest">N</string>
-    <string name="switch_off">Vyp</string>
-    <string name="switch_on">Zap</string>
+    <string name="switch_off">Vypnuté</string>
+    <string name="switch_on">Zapnuté</string>
     <string name="switch_orientation_desc">Orientácia obrazovky</string>
     <string name="system_visual_voicemail_client" />
     <string name="t9_indexing_method_title">Vyhľadávanie T9</string>
@@ -1793,8 +1793,8 @@ Počet dní do začiatku ďalšieho obdobia: %2$d (%3$s)"</string>
     <string name="username_title">Meno užívateľa</string>
     <string name="ussdRunning">Kód USSD je spustený...</string>
     <string name="ussd_dialog_sep">----------</string>
-    <string name="v7_preference_off">Vyp</string>
-    <string name="v7_preference_on">Zap</string>
+    <string name="v7_preference_off">Vypnuté</string>
+    <string name="v7_preference_on">Zapnuté</string>
     <string name="verify_apps_over_usb_summary">Kontrolovať škodlivosť aplikácií nainštalovaných pomocou nástroja ADB alebo ADT</string>
     <string name="verify_apps_over_usb_title">Overovať aplikácie z USB</string>
     <string name="verify_failed">Chyba overenia</string>

@@ -251,7 +251,7 @@ alebo zadajte heslo"</string>
     <string name="antivirus_update_btn_contiue">Pokračovať</string>
     <string name="antivirus_update_btn_open">Povoliť</string>
     <string name="antivirus_update_btn_update">Aktualizovať</string>
-    <string name="antivirus_website_check_status">Zap</string>
+    <string name="antivirus_website_check_status">Zapnuté</string>
     <string name="antivirus_website_check_title">Bezpečné prehliadanie</string>
     <string name="apk_status_damage">Poškodené</string>
     <string name="apk_status_duplicate">Duplikát</string>
@@ -1073,7 +1073,7 @@ alebo zadajte heslo"</string>
     <string name="btn_lock">Pridať zámok</string>
     <string name="btn_start_diagnostic">Kontrola</string>
     <string name="btn_stop_diagnostic">Zastaviť</string>
-    <string name="btn_text_already_opened">Zap</string>
+    <string name="btn_text_already_opened">Zapnuté</string>
     <string name="btn_text_cleanup_all">Vyčistiť</string>
     <string name="btn_text_done">Hotovo</string>
     <string name="btn_text_goto_power_rank">Zobraziť stav batérie</string>
@@ -1772,7 +1772,7 @@ For more info check the message you received from your service provider"</string
     <string name="friday_short">Pia</string>
     <string name="friday_shortest">Pia</string>
     <string name="fully_informed_privacy">Povedomie o ochrane súkromia</string>
-    <string name="function_close">Vyp</string>
+    <string name="function_close">Vypnuté</string>
     <string name="function_shield_auto_bright">Vypnúť automatický jas</string>
     <string name="function_shield_eye_shield">Vypnúť Čítací režim</string>
     <string name="function_shield_pull_notification_bar">Neotvárať roletku</string>
@@ -3240,8 +3240,8 @@ Tento proces skracuje životnosť batérie."</string>
     <string name="power_center_scan_item_title_power_saver">Povoliť Úsporu batérie</string>
     <string name="power_center_scan_item_title_running_app">Aplikácie spustené na pozadí</string>
     <string name="power_center_scan_result_safe">Žiadne problémy s batériou</string>
-    <string name="power_center_state_off">Vyp</string>
-    <string name="power_center_state_on">Zap</string>
+    <string name="power_center_state_off">Vypnuté</string>
+    <string name="power_center_state_on">Zapnuté</string>
     <string name="power_center_stop_scan_title">Zastaviť</string>
     <string name="power_center_super_save_summary_text">Predĺžiť ostávajúci čas o %1$dh %2$dm</string>
     <string name="power_center_super_save_title_text">Super Šetrenie batérie</string>
@@ -4125,7 +4125,7 @@ Počas dátového prenosu sa text a obrázky komprimujú na serveri a tým sa ur
     <string name="settings_camera_subtitle_no">Žiadne metadáta</string>
     <string name="settings_category_other">Ostatné nastavenia</string>
     <string name="settings_category_overheat">Prehrievanie</string>
-    <string name="settings_choice_no_notification">Vyp</string>
+    <string name="settings_choice_no_notification">Vypnuté</string>
     <string name="settings_image_camera_summary">Zariadenie, metadáta, atď.</string>
     <string name="settings_location_subtitle_no">Žiadne info o polohe</string>
     <string name="settings_power_save_ontime_title">Naplánovať</string>
@@ -4242,7 +4242,7 @@ Počas dátového prenosu sa text a obrázky komprimujú na serveri a tým sa ur
     <string name="sim_lock_start_keyguard_dialog_message">Nastavte zámok obrazovky pred povolením zabezpečenia SIM. Nastaviť teraz?</string>
     <string name="sim_lock_start_keyguard_dialog_title">Nastavte zámok obrazovky</string>
     <string name="sim_lock_start_lock_summary">Potvrdiť PIN manuálne</string>
-    <string name="sim_lock_start_lock_superscript">Zap</string>
+    <string name="sim_lock_start_lock_superscript">Zapnuté</string>
     <string name="sim_lock_start_lock_title">Zámok USIM</string>
     <string name="sim_lock_start_notification_message">Prepojte vašu SIM kartu s týmto zariadením pre zvýšenie jej zabezpečenia</string>
     <string name="sim_lock_start_notification_title">Chráňte vašu SIM kartu</string>
@@ -4321,8 +4321,8 @@ Počas dátového prenosu sa text a obrázky komprimujú na serveri a tým sa ur
     <string name="sp_scan_item_monitor">Sledovanie platieb</string>
     <string name="sp_scan_item_url_antispam">Ochrana proti škodlivým URL</string>
     <string name="sp_security_center_title">Bezpečnosť</string>
-    <string name="sp_security_check_status_off">Vyp</string>
-    <string name="sp_security_check_status_on">Zap</string>
+    <string name="sp_security_check_status_off">Vypnuté</string>
+    <string name="sp_security_check_status_on">Zapnuté</string>
     <string name="sp_security_scan_summary">Skontrolovať vírusy vo vašom zariadení</string>
     <string name="sp_security_scan_title">Kontrola bezpečnosti</string>
     <string name="sp_settings_check_item_summary_sign_exception">Spravovať výnimky podpisov</string>
@@ -4586,7 +4586,7 @@ Počas dátového prenosu sa text a obrázky komprimujú na serveri a tým sa ur
     <string name="storage_app_detail_clear_cache_title">Vymazať cache?</string>
     <string name="storage_app_detail_dialog_cancel">Zrušiť</string>
     <string name="storage_app_detail_manage_space">%s - Spravovať miesto na úložisku</string>
-    <string name="storage_app_detail_manager_enabled">Zap</string>
+    <string name="storage_app_detail_manager_enabled">Zapnuté</string>
     <string name="storage_app_detail_sdcard">Dáta aplikácie</string>
     <string name="storage_app_detail_system">Veľkosť aplikácie</string>
     <string name="storage_app_detail_third_clean_size">Uvoľniť %s</string>
@@ -5233,7 +5233,7 @@ Remaining data includes data that has been rolled over from the previous month."
     <string name="traffic_setting_fragment_template">Vzor správy</string>
     <string name="traffic_setting_fragment_title">Nastaviť kontrolu spotreby</string>
     <string name="traffic_setting_fragment_title_guide">Operátori a dáta</string>
-    <string name="traffic_setting_open">Zap</string>
+    <string name="traffic_setting_open">Zapnuté</string>
     <string name="traffic_setting_step_num">Nastavenie balíčku dát</string>
     <string name="traffic_usage_warning_body">Už ste spotrebovali %s mobilných dát tento mesiac.</string>
     <string name="traffic_usage_warning_limit">Upozornenie na limit mobilných dát</string>

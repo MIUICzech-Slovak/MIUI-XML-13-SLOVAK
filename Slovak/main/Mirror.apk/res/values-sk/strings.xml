@@ -309,8 +309,8 @@ pokračovať“</string>
     <string name="tuesday">Utorok</string>
     <string name="tuesday_short">Uto</string>
     <string name="tuesday_shortest">U</string>
-    <string name="v7_preference_off">Vyp</string>
-    <string name="v7_preference_on">Zap</string>
+    <string name="v7_preference_off">Vypnuté</string>
+    <string name="v7_preference_on">Zapnuté</string>
     <string name="verbose_mode">Podrobný režim</string>
     <string name="wednesday">Streda</string>
     <string name="wednesday_short">Str</string>

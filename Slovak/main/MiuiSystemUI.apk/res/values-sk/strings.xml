@@ -122,8 +122,8 @@
     <string name="accessibility_desc_work_lock">Work lock screen</string>
     <string name="accessibility_detail_switch">Prepnúť prepínač</string>
     <string name="accessibility_detail_switch_disable">nedostupné</string>
-    <string name="accessibility_detail_switch_off">vyp</string>
-    <string name="accessibility_detail_switch_on">zap</string>
+    <string name="accessibility_detail_switch_off">Vypnuté</string>
+    <string name="accessibility_detail_switch_on">Zapnuté</string>
     <string name="accessibility_display_daltonizer_preference_subtitle">Funkcia je experimentálna a môže mať vplyv na výkonnosť.</string>
     <string name="accessibility_display_daltonizer_preference_title">Úprava farieb</string>
     <string name="accessibility_divider">Rozdeľovač obrazovky</string>
@@ -1885,13 +1885,13 @@ Máte tiež aktívne pripojenie k sieti VPN, ktorá môže sledovať vašu akti
     <string name="prompt_return_to_split">Rozdeliť</string>
     <string name="prompt_safe">Bezpečné</string>
     <string name="prompt_unknown">Neznáme</string>
-    <string name="qs_control_big_tile_state_closed">Vyp</string>
+    <string name="qs_control_big_tile_state_closed">Vypnuté</string>
     <string name="qs_control_big_tile_state_closing">Vypínanie…</string>
     <string name="qs_control_big_tile_state_connected">Pripojené</string>
     <string name="qs_control_big_tile_state_connecting">Pripájanie…</string>
     <string name="qs_control_big_tile_state_disconnected">Nepripojené</string>
     <string name="qs_control_big_tile_state_disconnecting">Odpájanie…</string>
-    <string name="qs_control_big_tile_state_opened">Zap</string>
+    <string name="qs_control_big_tile_state_opened">Zapnuté</string>
     <string name="qs_control_big_tile_state_opening">Zapínanie…</string>
     <string name="qs_control_big_tile_state_unavailable">Nie je dostupné</string>
     <string name="qs_control_customize_other_tiles_title">Dostupné prepínače</string>
@@ -2601,8 +2601,8 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
     <string name="using_camera">Táto aplikácia používa fotoaparát</string>
     <string name="using_camera_and_microphone">Táto aplikácia nahráva zvuk a používa kameru</string>
     <string name="using_microphone">Táto aplikácia nahráva zvuk</string>
-    <string name="v7_preference_off">VYP</string>
-    <string name="v7_preference_on">ZAP</string>
+    <string name="v7_preference_off">Vypnuté</string>
+    <string name="v7_preference_on">Zapnuté</string>
     <string name="verify_apps_over_usb_summary">Kontrolovať škodlivosť aplikácií nainštalovaných pomocou nástroja ADB alebo ADT</string>
     <string name="verify_apps_over_usb_title">Overovať aplikácie z USB</string>
     <string name="voice_assist_label">otvoriť hlasového asistenta</string>

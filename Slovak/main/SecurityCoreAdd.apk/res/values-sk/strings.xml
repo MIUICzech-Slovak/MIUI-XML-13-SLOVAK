@@ -36,7 +36,7 @@ táto funkcia bude automaticky aktívna aj v Druhom profile."</string>
     <string name="close_kid_space_success">Vymazaný Detský profil</string>
     <string name="close_second_space">Vymazaný Druhý profil</string>
     <string name="close_second_space_success">Vymazaný Druhý profil</string>
-    <string name="closed">Vyp</string>
+    <string name="closed">Vypnuté</string>
     <string name="complete_setting">Dokončiť</string>
     <string name="complete_setting_sub_title">Môžete nastaviť aj neskôr.</string>
     <string name="complete_setting_title">Hotovo!</string>

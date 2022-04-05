@@ -48,7 +48,7 @@
     <string name="caller_info_name_delimiter">" Alebo "</string>
     <string name="can_not_transfer_when_screening">Nie je možné vysielať počas prenosu súborov</string>
     <string name="cancel_action">Zrušiť</string>
-    <string name="close">Vyp</string>
+    <string name="close">Vypnuté</string>
     <string name="configure_input_methods">Vybrať klávesnicu</string>
     <string name="confirm_cancel_task_files">Zrušiť posielanie súborov do %1$s?</string>
     <string name="confirm_cancel_task_images">Zrušiť posielanie obrázkov do %1$s?</string>

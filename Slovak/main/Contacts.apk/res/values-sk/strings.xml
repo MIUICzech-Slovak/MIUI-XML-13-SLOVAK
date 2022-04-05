@@ -1453,8 +1453,8 @@ Zvoľte jednu z nasledujúcich možností:</string>
     <string name="use_photo_as_primary2">Použiť %1$s fotografiu kontaktu</string>
     <string name="useful_numbers">Užitočné čísla</string>
     <string name="user_profile_contacts_list_header">Ja</string>
-    <string name="v7_preference_off">Vyp</string>
-    <string name="v7_preference_on">Zap</string>
+    <string name="v7_preference_off">Vypnuté</string>
+    <string name="v7_preference_on">Zapnuté</string>
     <string name="vcard_export_request_rejected_message">Export vizitky sa nepodaril, skúste to znovu neskôr.</string>
     <string name="vcard_export_will_start_message">%s bude za okamžik exportovaný.</string>
     <string name="vcard_import_failed">Import vizitky %s zlyhal</string>

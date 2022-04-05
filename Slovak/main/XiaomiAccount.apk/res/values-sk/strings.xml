@@ -33,8 +33,8 @@
     <string name="account_none_binded_secure_phone">Žiaden telefón</string>
     <string name="account_none_user_name">Žiadne</string>
     <string name="account_protection">Ochrana účtu</string>
-    <string name="account_protection_off">Vyp</string>
-    <string name="account_protection_on">Zap</string>
+    <string name="account_protection_off">Vypnuté</string>
+    <string name="account_protection_on">Zapnuté</string>
     <string name="account_secure_info_pref_title">Info o účte</string>
     <string name="account_security">Zabezpečenie účtu</string>
     <string name="account_security_info_pref_title">Zabezpečenie</string>
