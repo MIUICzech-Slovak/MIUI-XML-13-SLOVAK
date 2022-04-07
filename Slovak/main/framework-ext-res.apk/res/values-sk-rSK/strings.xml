@@ -338,7 +338,7 @@
      <string name="dark_mode_suggest_toast">Tmavý režim sa odteraz automaticky zapne pri západe slnka a vypne sa pri východe slnka</string>    
 	 
 	 <string name="acousticguitar">Akustická gitara</string>
-     <string name="africaanimals_preview">Savanna</string>
+     <string name="africaanimals_preview">Savana</string>
      <string name="alarmclock">Budík</string>
      <string name="amazonanimals_preview">Dažďový prales</string>
      <string name="android_ringtone_default_with_actual">Predvolený tón zvonenia (%1$s)</string>
@@ -358,10 +358,10 @@
      <string name="candy">Cukrík</string>
      <string name="carousel">Kolotoč</string>
      <string name="celesta">Celesta</string>
-     <string name="child">detstvo</string>
+     <string name="child">Detstvo</string>
      <string name="childhood">Detstvo</string>
      <string name="chimes">Zvonkohra</string>
-     <string name="chirp">Cvrlikání</string>
+     <string name="chirp">Cvrlikanie</string>
      <string name="chord">Akord</string>
      <string name="citylight">Mestské svetlá</string>
      <string name="clank">Clank</string>
