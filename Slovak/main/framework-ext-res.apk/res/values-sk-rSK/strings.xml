@@ -347,7 +347,6 @@
      <string name="australiaanimals_preview">Austrália</string>
      <string name="autofill_service_name">Spravovať heslá</string>
      <string name="beep">Pípnutie</string>
-     <string name="bells">Zvončeky</string>
      <string name="blues">Blues</string>
      <string name="bottle">Fľaša</string>
      <string name="bottom_bar_smallwindow_text">Uvoľnite na pripnutie</string>
@@ -378,7 +377,6 @@
      <string name="fairyland">Rozprávková krajina</string>
      <string name="fantasy">Fantasy</string>
      <string name="fieldtrip">Výlet do terénu</string>
-     <string name="fireflies">Svetlušky</string>
      <string name="flute">Fluna</string>
      <string name="frenchchic">Chic</string>
      <string name="fresh">Čerstvé</string>
@@ -447,7 +445,5 @@
      <string name="wallpaper_group_natural_texture_subtitle">Tom Hegen a ďalší</string>
      <string name="wallpaper_group_natural_texture_title">Vzory prírody</string>
      <string name="wallpaper_group_red_mars_title">Mars</string>
-     <string name="wallpaper_group_sgn_mountain_title">Mount Siguniang</string>
-     <string name="waterdrop_preview">Kvapky</string>
-	 
+     <string name="wallpaper_group_sgn_mountain_title">Mount Siguniang</string>	 
 </resources>
