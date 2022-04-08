@@ -347,7 +347,7 @@
     <string name="menu_delete_messages">Odstrániť</string>
     <string name="menu_edit">Upraviť</string>
     <string name="menu_forward">Poslať ďalej</string>
-    <string name="menu_lock">Zamknúť</string>
+    <string name="menu_lock">Obľúbené</string>
     <string name="menu_make_call">Hovor</string>
     <string name="menu_mark">Označiť</string>
     <string name="menu_more">Viac</string>
