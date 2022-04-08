@@ -1140,7 +1140,7 @@ Objekt bude ostrý na rozmazanom pozadí."</string>
     <string name="pref_retain_live_shot_description">Zachovať stav dynamických snímok nastavený počas predchádzajúceho používania</string>
     <string name="pref_s_n_r_s_c">Potlačenie hluku vo videu závisí od scény</string>
     <string name="pref_scan_qrcode_summary">Zadná kamera môže rozpoznať QR kódy len v režime \"Fotografie\".</string>
-    <string name="pref_scan_qrcode_title">Skenovať QR kód</string>
+    <string name="pref_scan_qrcode_title">Skener QR kódov</string>
     <string name="pref_setting_title">Nastavenia</string>
     <string name="pref_simple_hdr_entry_off">Vypnuté</string>
     <string name="pref_simple_hdr_entry_on">Zapnuté</string>

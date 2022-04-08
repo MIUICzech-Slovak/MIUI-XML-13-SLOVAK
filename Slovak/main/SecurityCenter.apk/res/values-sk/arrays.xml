@@ -10,7 +10,7 @@
     <string-array name="alarm_repeat_type_no_workdays">
         <item>Raz</item>
         <item>Denne</item>
-        <item>Pon. až Pia.</item>
+        <item>Pondelok až Piatok</item>
         <item>Vlastné</item>
     </string-array>
     <string-array name="app_behavior_type_menu">
