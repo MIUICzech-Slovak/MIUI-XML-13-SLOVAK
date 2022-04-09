@@ -156,7 +156,7 @@
     <string name="converting_to_picture_message">Prebieha konvertovanie na multimediálnu správu...</string>
     <string name="converting_to_text_message">Prebieha konvertovanie na textovú správu...</string>
     <string name="converting_vcard_failed">Nebolo možné skonvertovať kontakt</string>
-    <string name="copy_message_text">Kopírovať text správy</string>
+    <string name="copy_message_text">Kopírovať text</string>
     <string name="copy_message_text_success">Text skopírovaný</string>
     <string name="copy_to_sdcard">Uložiť prílohu</string>
     <string name="copy_to_sdcard_fail">Uložiť prílohu</string>
@@ -813,7 +813,7 @@ Pre aktiváciu tejto služby bude odoslaná bežná SMS."</string>
     <string name="security_alert_dialog_title">Nahlásiť</string>
     <string name="select_audio">Vybrať audio</string>
     <string name="select_bottom_text">Text dole</string>
-    <string name="select_copy_text">Vyberať a skopírovať text správy</string>
+    <string name="select_copy_text">Vybrať a skopírovať text</string>
     <string name="select_different_attachment">Vybrať inú prílohu.</string>
     <string name="select_different_audio">Vybrať iný zvuk.</string>
     <string name="select_different_media">Zvoľte inú položku %1$s.</string>

@@ -4695,7 +4695,7 @@ Formátovanie vymaže všetky súbory na ^2. Zálohujte ich na iný ^3 alebo zar
     <string name="summary_condition_wireless_charge">Ak sa nabíja bezdrôtovo</string>
     <string name="summary_confirm_open_flashligt">Zapnúť svietidlo?</string>
     <string name="summary_confirm_switch">Vypnúť zariadenie?</string>
-    <string name="summary_consume_power">Nájdený problém s prehrievaním ktorý môže ovplyvniť spotrebu batérie</string>
+    <string name="summary_consume_power">Nájdený problém s prehrievaním, ktorý môže ovplyvniť spotrebu batérie</string>
     <string name="summary_dark_mode">Niektoré stránky sú zobrazené s tmavým pozadím</string>
     <string name="summary_data_flow">Kontrolovať spotrebu mobilných dát.</string>
     <string name="summary_default_app">%s nie je nastavené ako predvolená aplikácia</string>
@@ -4948,8 +4948,8 @@ Rešpektujeme a chránime vaše súkromie."</string>
     <string name="tips">Upozornenie</string>
     <string name="tips_dialog_title">"Nepoznáte svoj limit?"</string>
     <string name="tips_message">"Ak si nie ste istý o množstve svojich predplatených dát, môžete ich zistiť vytočením %2$s (%1$s) (Iba Čína)."</string>
-    <string name="tips_of_app_manage">Vymazať nepoužívané apl. pre ušetrenie miesta</string>
-    <string name="tips_of_auto_launch_manage">Zabrániť nepoužívaným aplikáciam automatické spustenie</string>
+    <string name="tips_of_app_manage">Odinštalovať nepoužívané aplikácie a ušetriť tak miesto na úložisku</string>
+    <string name="tips_of_auto_launch_manage">Zakázať málo používaným aplikáciám automaticky sa spustiť na pozadí</string>
     <string name="tips_of_operators_set">Nastaviť spotrebu dát automaticky</string>
     <string name="tips_of_package_set">Nastavte vaše zakúpené dáta a kontrolujte spotrebu dát</string>
     <string name="tips_of_traffic_pack_threshold">Zakúpte si dáta navyše ak sa blížite k vášmu limitu</string>
