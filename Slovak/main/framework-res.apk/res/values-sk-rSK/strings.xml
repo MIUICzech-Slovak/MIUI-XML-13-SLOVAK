@@ -1515,7 +1515,7 @@ Dlhodobé počúvanie pri vysokej hlasitosti môže poškodiť váš sluch."</st
     <string name="tethered_notification_multi_device_message">Pripojených: %1$s</string>
     <string name="tethered_notification_no_device_message">Nikto nie je pripojený</string>
     <string name="tethered_notification_one_device_message">Pripojených: %1$s</string>
-    <string name="tethered_notification_title">Hot-spot je aktívny</string>
+    <string name="tethered_notification_title">Hotspot je aktívny</string>
     <string name="textSelectionCABTitle">Výber textu</string>
     <string name="text_copied">Text bol skopírovaný do schránky.</string>
     <string name="throttle_warning_notification_message">Dotykom zobrazíte viac informácií o využití mobilných údajov.</string>

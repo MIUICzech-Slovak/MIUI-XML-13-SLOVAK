@@ -257,7 +257,7 @@
     <string name="small_freeform_memory_toast_app_type">Nebolo možné otvoriť. Táto aplikácia vyžaduje veľa voľnej RAM.</string>
     <string name="small_freeform_memory_toast_game_type">Nebolo možné otvoriť. Táto hra vyžaduje veľa voľnej RAM.</string>
     <string name="softap_notifif_summary">Pripojených: %d</string>
-    <string name="softap_notifif_title">Hot-spot \"%s\" aktívny</string>
+    <string name="softap_notifif_title">Hotspot \"%s\" aktívny</string>
     <string name="standard">Stíšiť</string>
     <string name="standard_description">[Stíšiť] Stíšiť zvuky pre prichádzajúce hovory a upozornenia</string>
     <string name="standard_title">Stíšený</string>
@@ -295,7 +295,7 @@
     <string name="status_bar_toggle_torch">Svietidlo</string>
     <string name="status_bar_toggle_vibrate">Vibrácie</string>
     <string name="status_bar_toggle_wifi">Wi-Fi</string>
-    <string name="status_bar_toggle_wifi_ap">Hot-spot</string>
+    <string name="status_bar_toggle_wifi_ap">Hotspot</string>
     <string name="stop_operate_camera_frequently">Prepínate medzi kamera príliš rýchlo.</string>
     <string name="sunlight_notification_content">Prispôsobiť jas displeja silnému slnečnému svetlu</string>
     <string name="sunlight_notification_title">Povoliť Slnečný režim</string>

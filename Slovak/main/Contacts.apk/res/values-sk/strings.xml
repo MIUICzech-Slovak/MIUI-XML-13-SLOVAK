@@ -153,7 +153,7 @@
     <string name="callrecordview_menu_batch_delete">Vybrať záznam na vymazanie</string>
     <string name="callrecordview_menu_blocklist">Čierna listina</string>
     <string name="callrecordview_menu_conference">Konferenčný hovor</string>
-    <string name="callrecordview_menu_delete">Vymazať zoznam hovorov</string>
+    <string name="callrecordview_menu_delete">Vymazať zoznam</string>
     <string name="callrecordview_menu_delete_accepted">Vymazať prijaté</string>
     <string name="callrecordview_menu_delete_all">Vymazať</string>
     <string name="callrecordview_menu_delete_called">Vymazať volané</string>

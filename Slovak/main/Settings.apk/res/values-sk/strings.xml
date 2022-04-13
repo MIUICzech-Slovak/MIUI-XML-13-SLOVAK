@@ -3708,7 +3708,7 @@ Na tomto zariadení sú prítomní ďalší používatelia.
     <string name="miui_allow_light">LED</string>
     <string name="miui_allow_music">Hudba</string>
     <string name="miui_allow_vibrate">Vibrácie</string>
-    <string name="miui_data_usage_menu_metered">Mobilné hot-spoty</string>
+    <string name="miui_data_usage_menu_metered">Mobilné hotspoty</string>
     <string name="miui_disturb_title">Vyrušovanie</string>
     <string name="miui_enable_service_title">Služba vykoná tieto akcie:</string>
     <string name="miui_experience_optimization">Aktivovať optimalizáciu MIUI</string>
@@ -4558,11 +4558,11 @@ Táto funkcia získa vašu MAC adresu Wi-Fi siete iba na počiatočnú registrá
     <string name="permit_running_network">Na pozadí</string>
     <string name="permit_usage_access">Povoliť prístup k využitiu</string>
     <string name="permit_write_settings">Povoliť úpravy nastavení systému</string>
-    <string name="person_hotpot">Hot-spoty</string>
+    <string name="person_hotpot">Hotspoty</string>
     <string name="personal_data_section_title">Osobné údaje</string>
     <string name="personal_device_admin_title">Osobné</string>
     <string name="personal_section_title">Osobné</string>
-    <string name="personalize_title">Tapeta a prispôsobenie</string>
+    <string name="personalize_title">Tapety a prispôsobenie</string>
     <string name="phone_backup_summary">Zálohovať a obnoviť položky v zariadení</string>
     <string name="phone_backup_title">Mobilné zariadenie</string>
     <string name="phone_call_noise_suppression">Potlačenie hluku pri hovore</string>
@@ -4992,7 +4992,7 @@ Táto funkcia získa vašu MAC adresu Wi-Fi siete iba na počiatočnú registrá
     <string name="repeat_title">Opakovať</string>
     <string name="requires_modern_control_center">Funguje s novou verziou Centra ovládania</string>
     <string name="reset_aaid">Obnoviť reklamný identifikátor</string>
-    <string name="reset_app_preferences">Obnoviť nastavenia aplikácie</string>
+    <string name="reset_app_preferences">Obnoviť nastavenia aplikácií</string>
     <string name="reset_app_preferences_button">Obnoviť aplikácie</string>
     <string name="reset_app_preferences_desc">"Toto obnoví všetky nastavenia pre: 
  "vypnuté aplikácie,"
@@ -5002,7 +5002,7 @@ Táto funkcia získa vašu MAC adresu Wi-Fi siete iba na počiatočnú registrá
  "Akékoľvek obmedzenie povolenia"
 
  Žiadne aplikácie sa nevymažú."</string>
-    <string name="reset_app_preferences_title">Obnoviť nastavenia aplikácie?</string>
+    <string name="reset_app_preferences_title">Obnoviť nastavenia aplikácií?</string>
     <string name="reset_confirm_directory">"Poznámka: Predtým ako obnovíte položky, skontrolujte či existuje zložka \"MIUI-Backup-AllBackup\" vo vašom zariadení. Ak nie, vytvorte ju."</string>
     <string name="reset_confirm_directory_pad">"Poznámka: Pred obnovením položiek skontrolujte, či na vašom mobilnom zariadení existuje priečinok \"MIUI-Backup-AllBackup\". Ak nie, vytvorte ho."</string>
     <string name="reset_legacy_password_settings_preface_text">Musíte resetovať vaše heslo.</string>
@@ -6277,22 +6277,22 @@ Zvážte použitie rýchlejšieho zariadenia (^1) s lepšou výkonnosťou."</str
     <string name="testing_sim_toolkit">SIM toolkit</string>
     <string name="testing_usage_stats">Štatistika použitia</string>
     <string name="testing_wifi_info">Wi-Fi informácie</string>
-    <string name="tether_and_hotspot_title">Tethering a hot-spot</string>
-    <string name="tether_auto_disable_summary">Automaticky ukončiť hot-spot ak nie sú pripojené zariadenia</string>
-    <string name="tether_auto_disable_title">Automaticky ukončiť hot-spot</string>
+    <string name="tether_and_hotspot_title">Tethering a hotspot</string>
+    <string name="tether_auto_disable_summary">Automaticky ukončiť hotspot ak nie sú pripojené zariadenia</string>
+    <string name="tether_auto_disable_title">Automaticky ukončiť hotspot</string>
     <string name="tether_custom_dialog_title">Limit mobilných dát</string>
     <string name="tether_data_usage_limit">Jednorázový limit dát</string>
-    <string name="tether_data_usage_limit_summary">Limit dát bude aplikovaný keď znova spustíte hot-spot</string>
+    <string name="tether_data_usage_limit_summary">Limit dát bude aplikovaný keď znova spustíte hotspot</string>
     <string name="tether_devices_management_title">Spravovať zariadenia</string>
     <string name="tether_devices_max_number">Limit pripojených zariadení</string>
     <string name="tether_limit_dialog_title">Limit mobilných dát</string>
-    <string name="tether_over_limit_dialog_cancle_btn">Obnoviť hot-spot</string>
-    <string name="tether_over_limit_dialog_message">Dosiahli ste limit dát hot-spotu.</string>
+    <string name="tether_over_limit_dialog_cancle_btn">Obnoviť hotspot</string>
+    <string name="tether_over_limit_dialog_message">Dosiahli ste limit dát hotspotu.</string>
     <string name="tether_over_limit_dialog_title">Upozornenie na využitie dát</string>
-    <string name="tether_over_limit_warning_notify_message">Vypnúť hot-spot.</string>
-    <string name="tether_over_limit_warning_notify_title">Dosiahli ste limit dát hot-spotu</string>
+    <string name="tether_over_limit_warning_notify_message">Vypnúť hotspot.</string>
+    <string name="tether_over_limit_warning_notify_title">Dosiahli ste limit dát hotspotu</string>
     <string name="tether_password_illegal_character">Heslo obsahuje nepovolené znaky</string>
-    <string name="tether_settings_disabled">Prenosný Hot-spot je deaktivovaný</string>
+    <string name="tether_settings_disabled">Prenosný hotspot je deaktivovaný</string>
     <string name="tether_settings_title_all">Tethering a prenosný hotspot</string>
     <string name="tether_settings_title_bluetooth">Tethering cez Bluetooth</string>
     <string name="tether_settings_title_usb">Tethering pomocou USB</string>
@@ -7112,7 +7112,7 @@ sl. Wi‑Fi Assistant"</string>
     <string name="wifi_context_menu_connect">Pripojiť k Wi-Fi sieti</string>
     <string name="wifi_context_menu_forget">Zabudnúť sieť</string>
     <string name="wifi_coverage_extend">Povoliť rozšírené Wi-Fi pokrytie</string>
-    <string name="wifi_coverage_extend_summary">Rozšíriť Wi-Fi pokrytie pomocou hot-spotu</string>
+    <string name="wifi_coverage_extend_summary">Rozšíriť Wi-Fi pokrytie pomocou hotspotu</string>
     <string name="wifi_datanetwork_switch_not_remind">Viac nezobrazovať</string>
     <string name="wifi_dialog_remind_type_title">Mobilné dáta</string>
     <string name="wifi_direct_close_hotspot_hint">Vypnite prenosný hotspot pred použitím Wi-Fi direct</string>
@@ -7425,7 +7425,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
     <string name="wifi_tether_enabled_summary">%1$s je aktívne</string>
     <string name="wifi_tether_failed_subtext">Chyba prenosného hotspotu Wi-Fi</string>
     <string name="wifi_tether_setting_title">Základné nastavenia</string>
-    <string name="wifi_tether_settings_title">Hot-spot</string>
+    <string name="wifi_tether_settings_title">Hotspot</string>
     <string name="wifi_tether_starting">Prebieha zapínanie hotspotu...</string>
     <string name="wifi_tether_stopping">Prebieha vypínanie hotspotu...</string>
     <string name="wifi_traffic_priority">Wi-Fi režim rýchlosti</string>
