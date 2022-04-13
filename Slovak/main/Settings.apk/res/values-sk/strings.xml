@@ -793,7 +793,7 @@ Zálohy sú uložené v MiCloude. Tento spôsob je rýchlejší ale nie je možn
     <string name="block_list_no_device">Žiadne zariadenia</string>
     <string name="block_list_qcom_dialog_content">Táto akcia odpojí “%s” od tohto zariadenia a pridá ho na čiernu listinu</string>
     <string name="block_list_remove_dialog_content">Toto zariadenie “%s” sa bude môcť pripojiť na váš hotspot</string>
-    <string name="block_list_remove_dialog_title">Odobrať “%s” z čiernej listiny</string>
+    <string name="block_list_remove_dialog_title">Upozornenie</string>
     <string name="block_list_summary">Zobraziť zariadenia ktoré nemajú povolenie pripojiť sa k vášmu hotspotu</string>
     <string name="block_list_title">Čierna listina</string>
     <string name="block_title">Zobraziť upozornenia</string>

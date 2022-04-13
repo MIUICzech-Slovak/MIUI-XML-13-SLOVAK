@@ -721,4 +721,6 @@ na vašom iPhone"</string>
     <string name="wednesday_short">Str</string>
     <string name="wednesday_shortest">S</string>
     <string name="yesterday">Včera</string>
+    <string name="deselect_all">Odznačiť</string>
+    <string name="select_all">Všetko</string>        
 </resources>

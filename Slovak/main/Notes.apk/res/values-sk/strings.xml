@@ -427,7 +427,7 @@
     <string name="setting_big_screen_layout_flat">Dlaždice</string>
     <string name="setting_big_screen_layout_title">Rozloženie na veľkej obrazovke</string>
     <string name="setting_layout">Rozloženie</string>
-    <string name="setting_micloud_sync_title">Synchronizácia s cloudom</string>
+    <string name="setting_micloud_sync_title">Xiaomi Cloud</string>
     <string name="setting_note_list_layout_title">Rozloženie</string>
     <string name="setting_other">Ostatné</string>
     <string name="setting_privacy">Ochrana súkromia</string>
@@ -646,4 +646,8 @@ http://www.miuios.cz/rom
     <string name="widget_take_notes_title">Poznámky</string>
     <string name="widget_under_privacy_mode">Režim Súkromie, nie je možné zobraziť obsah poznámky</string>
     <string name="yesterday">Včera</string>
+    
+    <string name="menu_edit">Upraviť</string>
+    <string name="note_module_name">Poznámky</string>
+    <string name="setting_cloud_service">Služby Cloudu</string>            
 </resources>

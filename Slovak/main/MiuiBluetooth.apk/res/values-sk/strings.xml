@@ -233,4 +233,9 @@ Rýchlejšie pripojenie."</string>
     <string name="wednesday_short">Str</string>
     <string name="wednesday_shortest">S</string>
     <string name="yesterday">Včera</string>
+    
+<string name="headset_incall_answer">Odpoveď</string>
+     <string name="headset_incall_reject">Zrušiť</string>
+     <string name="headset_incall_summary">Prijať hovor na %1$s pomocou slúchadiel? Po skončení hovoru zostanú vaše slúchadlá pripojené k tomuto zariadeniu.</string>
+     <string name="headset_incall_title">Prijmite hovor pomocou slúchadiel</string>    
 </resources>

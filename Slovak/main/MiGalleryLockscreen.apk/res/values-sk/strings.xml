@@ -909,4 +909,39 @@ To môže spôsobiť dodatočné poplatky."</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Aktualizácia</string>
     <string name="xiaomi_market_sdk_update_dialog_title">K dispozícii je aktualizácia</string>
     <string name="yesterday">Včera</string>
+    
+<string name="lks_cta_dont_mention">Už nezobrazovať</string>
+    <string name="lks_cta_ok">Súhlasím</string>
+    <string name="lks_cta_reject">Nesúhlasím</string>
+    <string name="lks_cta_summary1">Denná tapeta poskytuje nasledujúce funkcie:</string>
+    <string name="lks_cta_summary2">"1. Automaticky aktualizované tapety&lt;br>2. Na uzamknutú obrazovku sa zobrazujú nové obrázky a príbehy&lt;br>3. Možnosti prispôsobenia&lt;br>Táto funkcia vyžaduje pripojenie k internetu, aby fungovala normálne. &lt;br>&lt;br>Na poskytovanie dodatočných služieb môžeme požiadať o povolenie na prístup a ukladanie položiek do úložiska tohto zariadenia. Prečítajte si a vyjadrite súhlas s našimi &lt;farba písma ='#37A5FF'>&lt;a href='% 1$s'>Zmluva s používateľom&lt;/font>&lt;/a> a &lt;farba písma ='#37A5FF'>&lt;a href='%2$s'>Zásady ochrany osobných údajov&lt;/font>&lt;/a> než budete pokračovať."</string>
+    <string name="lks_cta_title">Zmluvné podmienky</string>
+    <string name="lks_current_lks_wallpaper">Aktuálna uzamknutá obrazovka</string>
+    <string name="lks_data_warning_toast_1">„Na prehliadanie tapiet používate mobilné dáta.
+To môže spôsobiť dodatočné poplatky."</string>
+    <string name="lks_dislike">Nepáči sa mi</string>
+    <string name="lks_download">Prevziať</string>
+    <string name="lks_like">Pridať medzi obľúbené</string>
+    <string name="lks_liked">Pridané medzi obľúbené</string>
+    <string name="lks_loop_icon_ask_cancle">Zrušiť</string>
+    <string name="lks_loop_icon_ask_dlg">Zapnite prezentáciu na uzamknutej obrazovke, aby sa na uzamknutú obrazovku denne zobrazovali nové obrázky a príbehy.</string>
+    <string name="lks_loop_icon_ask_ok">Zapnúť</string>
+    <string name="lks_loop_icon_ask_title">Prezentácia na uzamknutej obrazovke</string>
+    <string name="lks_loop_icon_close_cancle">Zrušiť</string>
+    <string name="lks_loop_icon_close_dlg">Prezentácia na uzamknutej obrazovke sa vypne, ak nastavíte tento obrázok ako uzamknutú obrazovku. Nastaviť teraz ako uzamknutú obrazovku?</string>
+    <string name="lks_loop_icon_close_ok">OK</string>
+    <string name="lks_loop_icon_close_title">Upozornenie</string>
+    <string name="lks_loop_icon_dlg_title">Prezentácia na uzamknutej obrazovke</string>
+    <string name="lks_loop_icon_open_dlg">Prezentácia na uzamknutej obrazovke je zapnutá a každý deň poskytuje na uzamknutú obrazovku nové obrázky a príbehy.</string>
+    <string name="lks_loop_icon_open_ok">Rozumiem</string>
+    <string name="lks_more">Viac</string>
+    <string name="lks_more_pics_coming_toast">Nové obrázky sú na ceste</string>
+    <string name="lks_new_user_help_anime">Potiahnutím nahor zobrazíte viac z posuvného pásu tapiet</string>
+    <string name="lks_no_network">Nepodarilo sa pripojiť k sieti</string>
+    <string name="lks_please_reload">Znova načítať</string>
+    <string name="lks_related_article">Článok</string>
+    <string name="lks_retry">Skúste to znova</string>
+    <string name="lks_set_as_lks_wallpaper">Nastaviť ako uzamknutú obrazovku</string>
+    <string name="lks_to_history">História</string>
+    <string name="lks_to_setting">Nastavenia Dennej tapety</string>    
 </resources>
