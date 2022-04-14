@@ -528,9 +528,5 @@ Pred použitím tejto funkcie musíte súhlasiť so Zásadami ochrany osobných 
      <string name="other_settings_quality_service_summary">MIUI Daemon sa používa na zlepšenie stability a výkonu systému. Aby táto služba mohla normálne fungovať, potrebuje oprávnenie na prístup a ukladanie položiek do úložiska zariadenia.</string>
      <string name="permission_MIUIDaemon_introduction">MIUI Daemon umožňuje prenášať dáta z vášho zariadenia, keď je poškodená jeho obrazovka.</string>    
      
-<string name="multisim_settings_sb_title">Zistila sa %d karta SIM</string>
-     <string name="sim_card_detection_info_sb">"Skôr ako budete pokračovať, vložte SIM kartu. Ak si vytvoríte účet bez SIM karty, funkcie vyhľadávania zariadenia a synchronizácie nebudú plne dostupné. Toto zariadenie podporuje eSIM."</string>
-     <string name="sim_card_detection_info_sb_esim">Klepnutím aktivujete eSIM.</string>
-     <string name="sim_card_detection_sb_esim">Aktivovať eSIM</string>
-     <string name="sim_card_detection_sb_nonactivated">Neaktivované</string>     
+   
 </resources>
