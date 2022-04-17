@@ -566,7 +566,7 @@ alebo zadajte heslo"</string>
     <string name="app_manager_reduce_wakepath_dialog">Minimalizovať reťazové spúšťanie</string>
     <string name="app_manager_reduce_wakepath_summary">Aplikácia nebude oznamovať nové správy a udalosti okamžite. Obmedziť automatické spustenie pre %s?</string>
     <string name="app_manager_reject_count_over">Blokované 100000+ krát</string>
-    <string name="app_manager_reset_app_preferences">Obnoviť nastavenia aplikácie</string>
+    <string name="app_manager_reset_app_preferences">Obnoviť nastavenia aplikácií</string>
     <string name="app_manager_reset_app_preferences_button">Obnoviť aplikácie</string>
     <string name="app_manager_reset_app_preferences_desc">"Budú obnovené tieto nastavenia:
 

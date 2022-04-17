@@ -58,7 +58,7 @@
     <string name="announce_for_widget_span">Šírka %1$d, výška %2$d</string>
     <string name="app_already_exist">Aplikácia už existuje</string>
     <string name="app_being_backup_message">Zálohuje sa.</string>
-    <string name="app_being_restored_message">Apl. bude obnovená</string>
+    <string name="app_being_restored_message">Aplikácia bude obnovená</string>
     <string name="app_category_books">Knihy</string>
     <string name="app_category_education">Vzdelávanie</string>
     <string name="app_category_entertainment">Zábava</string>
@@ -135,7 +135,7 @@
     <string name="confirm_btn_label">OK</string>
     <string name="confirm_uninstall_dialog_contain_xspace_app_msg">Klonované aplikácie budú odinštalované spolu s týmito.</string>
     <string name="confirm_uninstall_dialog_has_xspace_app_msg">Klonovaná aplikácia bude odinštalovaná spolu s touto.</string>
-    <string name="confirm_uninstall_dialog_title">Korešpondujúce klonované apl. budú odinštalované.</string>
+    <string name="confirm_uninstall_dialog_title">Korešpondujúce klonované aplikácie budú odinštalované.</string>
     <string name="content_description_for_shortcut_icon_checked">%1$s, označené</string>
     <string name="content_description_shortcut_icon_unchecked">%1$s, neoznačené</string>
     <string name="content_description_workspace_thumbnail_item">Náhľad plochy, strana %1$s</string>
@@ -179,7 +179,7 @@
     <string name="edit_mode_group_error_nothing_be_selected">Najskôr vyberte aplikáciu</string>
     <string name="edit_mode_group_error_one_folder">Nie je možné zduplikovať zložku s vybranými ikonami</string>
     <string name="edit_mode_top_menu_finish">Hotovo</string>
-    <string name="edit_mode_uninstall">Odinšt.</string>
+    <string name="edit_mode_uninstall">Odinštalovať</string>
     <string name="editing_add_widget_tips">Widgety</string>
     <string name="editing_mode_enter_tip_text">Posuňte dva prsty k sebe pre úpravu plochy</string>
     <string name="editing_mode_title">Vybraných: %1$d</string>
@@ -522,7 +522,7 @@
     <string name="preferences_general_title">Základné nastavenia</string>
     <string name="preferences_title">Nastavenie MIUI launcheru</string>
     <string name="preferred_app_settings_not_selected">Žiadne</string>
-    <string name="privacy_thumbnail_blur_summary">Rozmazať náhľady v nedávnych apl.</string>
+    <string name="privacy_thumbnail_blur_summary">Rozmazať náhľady v nedávnych aplikáciach</string>
     <string name="privacy_thumbnail_blur_title">Rozmazať náhľady</string>
     <string name="process" />
     <string name="quick_app">Quick App</string>
@@ -563,9 +563,9 @@
     <string name="recommend_apps_default_title">Prázdne</string>
     <string name="recommend_apps_no_data">Žiadne dáta</string>
     <string name="recommend_apps_no_data_toast">Žiadne odporúčania.</string>
-    <string name="recommend_apps_notice">Odporúčané apl.</string>
-    <string name="recommend_apps_notice_nodata">Odporúčané apl. (Bez dát)</string>
-    <string name="recommend_apps_switch_title">Odporúčané apl.</string>
+    <string name="recommend_apps_notice">Odporúčané aplikácie</string>
+    <string name="recommend_apps_notice_nodata">Odporúčané aplikácie (Bez dát)</string>
+    <string name="recommend_apps_switch_title">Odporúčané aplikácie</string>
     <string name="recommend_apps_tips">Táto funkcia vyžaduje internetové pripojenie pre jej správne fungovanie. Pre zakázanie funkcie sa dotknite názvu tejto zložky.</string>
     <string name="recommend_loading">Načítavanie</string>
     <string name="recommend_refresh">Obnoviť</string>
@@ -614,7 +614,7 @@
     <string name="show_all">Zobraziť všetko</string>
     <string name="show_mem_info_title">Zobraziť stav RAM</string>
     <string name="show_most_popular_apps_you_used">Zobraziť najviac používané aplikácie v zozname</string>
-    <string name="show_recents_recommend_title">Zobraziť skratky v nedávnych apl.</string>
+    <string name="show_recents_recommend_title">Zobraziť skratky v nedávnych aplikáciach</string>
     <string name="slide_to_open_newhome">Potiahnite nahor pre otvorenie Centra obsahu</string>
     <string name="small_window_button_complete">Hotovo</string>
     <string name="small_window_edit_content">Môžete pridať maximálne %d aplikácií</string>
@@ -675,17 +675,17 @@
     <string name="tuesday">Utorok</string>
     <string name="tuesday_short">Uto</string>
     <string name="tuesday_shortest">U</string>
-    <string name="uninstall">Odinšt.</string>
-    <string name="uninstall_dialog_message">Všetky dáta apl. budú vymazané</string>
+    <string name="uninstall">Odinštalovať</string>
+    <string name="uninstall_dialog_message">Všetky dáta aplikácie budú vymazané</string>
     <string name="uninstall_dialog_title_format">Odinštalovať %s</string>
-    <string formatted="false" name="uninstall_dialog_title_multi_format">Odinštalovať %s a %d ďalších apl.?</string>
+    <string formatted="false" name="uninstall_dialog_title_multi_format">Odinštalovať %s a %d ďalších aplikácií?</string>
     <string name="uninstall_result_failed">Nie je možné odinštalovať %s</string>
-    <string name="uninstall_result_multi_succeeded">Odinštalované apl. (%1$d)</string>
-    <string formatted="false" name="uninstall_result_other_failed">Nie je možné odinštalovať %s a %d ďalších apl.</string>
-    <string name="uninstall_result_succeeded">Apl. odinštalovaná</string>
-    <string name="uninstall_result_two_failed">Nie je možné odinštalovať %s a 1 ďalších apl.</string>
-    <string name="uninstall_with_xspace_dialog_message">Korešpondujúce klonované apl. budú vymazané spolu s ich dátami.</string>
-    <string name="uninstall_xspace_dialog_message">Odinštalovanie klonovanej apl. vymaže všetky dáta aplikácie.</string>
+    <string name="uninstall_result_multi_succeeded">Odinštalované aplikácie (%1$d)</string>
+    <string formatted="false" name="uninstall_result_other_failed">Nie je možné odinštalovať %s a %d ďalších aplikácií</string>
+    <string name="uninstall_result_succeeded">Aplikácia odinštalovaná</string>
+    <string name="uninstall_result_two_failed">Nie je možné odinštalovať %s a 1 ďalšiu aplikáciu.</string>
+    <string name="uninstall_with_xspace_dialog_message">Korešpondujúce klonované aplikácie budú vymazané spolu s ich dátami.</string>
+    <string name="uninstall_xspace_dialog_message">Odinštalovanie klonovanej aplikácie vymaže všetky dáta aplikácie.</string>
     <string name="uninstall_xspace_dialog_title_format">Odinštalovať klonované \"%s\"?</string>
     <string name="unknown_artist_name">Neznámy interpret</string>
     <string name="unnamed_folder_name">Bez mena</string>

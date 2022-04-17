@@ -117,9 +117,9 @@
     <string name="confirm_delete_all_conversations">Všetky konverzácie budú vymazané.</string>
     <string name="confirm_delete_conversation">Celá konverzácia bude vymazaná.</string>
     <string name="confirm_delete_group_message">Skupinové správy budú vymazané</string>
-    <string name="confirm_delete_locked_message">Chcete zmazať túto zamknutú správu?</string>
+    <string name="confirm_delete_locked_message">Chcete vymazať túto obľúbenú správu?</string>
     <string name="confirm_delete_message">Táto správa bude vymazaná.</string>
-    <string name="confirm_dialog_locked_title">Vymazať zamknuté správy?</string>
+    <string name="confirm_dialog_locked_title">Upozornenie</string>
     <string name="confirm_dialog_title">Vymazať</string>
     <string name="confirm_dlg__msg">CMCC notice: CMCC free post-service will not be provided if you cancel the service.Are you sure to cancel?</string>
     <string name="confirm_dlg_title">Správa zariadení</string>
@@ -360,7 +360,7 @@
     <string name="menu_send_as_common">Odoslať ako SMS</string>
     <string name="menu_sms_block">Čierna listina</string>
     <string name="menu_traffic_destination">Cieľ</string>
-    <string name="menu_unlock">Odomknúť</string>
+    <string name="menu_unlock">Odobrať z obľúbených</string>
     <string name="menu_view_contact">Zobraziť kontakt</string>
     <string name="menu_view_group_info">Info</string>
     <string name="menu_yellowpage">Zobraziť %s</string>
