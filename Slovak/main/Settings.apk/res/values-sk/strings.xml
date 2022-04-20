@@ -6859,7 +6859,7 @@ Ktorýkoľvek používateľ môže akceptovať aktualizované povolenia aplikác
     <string name="virtual_sim_search_title">Virtuálna SIM</string>
     <string name="virtual_sim_title">Roaming dátovej siete</string>
     <string name="virtual_surround_sound_switch_summary">"Zvýšte hĺbku zvuku pre prehrávanie zvuku a videa v slúchadlách (táto funkcia nebude fungovať, keď sa prehráva zvuk %.1f)"</string>
-    <string name="virtual_surround_sound_switch_title">Virtuálny pohlcujúci zvuk</string>
+    <string name="virtual_surround_sound_switch_title">Pohlcujúci zvuk</string>
     <string name="virus_scan">Antivírus</string>
     <string name="virus_scan_app_continue">Pokračovať v skenovaní</string>
     <string name="virus_scan_app_find_risk">Podozrivých: %d, odporúča sa okamžite odinštalovať!</string>
@@ -7648,4 +7648,5 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
      <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Klepnutím na aplikáciu na bočnom paneli ju otvoríte v plávajúcom okne.
 · Potiahnutím aplikácie do stredu obrazovky ju otvoríte v plávajúcom okne alebo do strany, ak chcete použiť rozdelenú obrazovku."</string>
      <string name="sidebar_setting">Nastavenia bočného panela</string>         
+          
 </resources>

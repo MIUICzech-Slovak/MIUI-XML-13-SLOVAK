@@ -4667,7 +4667,7 @@ Formátovanie vymaže všetky súbory na ^2. Zálohujte ich na iný ^3 alebo zar
     <string name="suggest_app_tolock_masked">Skryté</string>
     <string name="suggest_app_tolock_unmasked">Viditeľné upozornenia</string>
     <string name="suggest_scan_again">Odporúča sa kompletná kontrola pre vašu bezpečnosť.</string>
-    <string name="summary_app_lock_disable">Zamknite aplikácie pre ochranu vášho súkromia</string>
+    <string name="summary_app_lock_disable">Zamknúť aplikácie pre ochranu vášho súkromia</string>
     <string name="summary_auto_update">MIUI zvolí čo najlepší čas pre stiahnutie a nainštalovanie aktualizácií.</string>
     <string name="summary_background_connection">Zakázali ste pripojenie na pozadí pre túto aplikáciu.</string>
     <string name="summary_block_calls_from_cantacts">Používate Čiernu listinu.</string>
