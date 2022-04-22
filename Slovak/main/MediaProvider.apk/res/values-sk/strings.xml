@@ -12,7 +12,7 @@
     <string name="grant_dialog_button_deny">Odmietnuť</string>
     <string name="permission_required">Na úpravu alebo odstránenie tejto položky sa vyžaduje povolenie.</string>
     <string name="permission_required_action">Pokračovať</string>
-    <string name="root_audio">Zvuk</string>
+    <string name="root_audio">Zvuky</string>
     <string name="root_documents">Dokumenty</string>
     <string name="root_images">Obrázky</string>
     <string name="root_videos">Videá</string>

@@ -741,7 +741,7 @@ and never miss the cool new ones!"</string>
     <string name="sdcard_available">Dostupné: %1$s</string>
     <string name="sdcard_total">Celkovo %1$s</string>
     <string name="search_activity_hint">Zadajte slovo</string>
-    <string name="search_app">Apl. a zložky</string>
+    <string name="search_app">Aplikácie a zložky</string>
     <string name="search_app_more">Viac</string>
     <string name="search_category">Typ</string>
     <string name="search_category_folder">Zložky</string>

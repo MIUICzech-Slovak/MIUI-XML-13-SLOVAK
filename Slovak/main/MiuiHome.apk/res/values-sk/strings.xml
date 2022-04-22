@@ -522,7 +522,7 @@
     <string name="preferences_general_title">Základné nastavenia</string>
     <string name="preferences_title">Nastavenie MIUI launcheru</string>
     <string name="preferred_app_settings_not_selected">Žiadne</string>
-    <string name="privacy_thumbnail_blur_summary">Rozmazať náhľady v nedávnych aplikáciach</string>
+    <string name="privacy_thumbnail_blur_summary">Rozmazať náhľady v nedávnych aplikáciách</string>
     <string name="privacy_thumbnail_blur_title">Rozmazať náhľady</string>
     <string name="process" />
     <string name="quick_app">Quick App</string>
@@ -614,7 +614,7 @@
     <string name="show_all">Zobraziť všetko</string>
     <string name="show_mem_info_title">Zobraziť stav RAM</string>
     <string name="show_most_popular_apps_you_used">Zobraziť najviac používané aplikácie v zozname</string>
-    <string name="show_recents_recommend_title">Zobraziť skratky v nedávnych aplikáciach</string>
+    <string name="show_recents_recommend_title">Zobraziť skratky v nedávnych aplikáciách</string>
     <string name="slide_to_open_newhome">Potiahnite nahor pre otvorenie Centra obsahu</string>
     <string name="small_window_button_complete">Hotovo</string>
     <string name="small_window_edit_content">Môžete pridať maximálne %d aplikácií</string>

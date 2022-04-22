@@ -353,7 +353,7 @@
      <string name="breeze">Vánok</string>
      <string name="bubble">Bublina</string>
      <string name="bullfrog">Býčia žaba</string>
-     <string name="burst">Burst</string>
+     <string name="burst">Zhluk</string>
      <string name="candy">Cukrík</string>
      <string name="carousel">Kolotoč</string>
      <string name="celesta">Celesta</string>
@@ -363,9 +363,9 @@
      <string name="chirp">Cvrlikanie</string>
      <string name="chord">Akord</string>
      <string name="citylight">Mestské svetlá</string>
-     <string name="clank">Clank</string>
+     <string name="clank">Klepot</string>
      <string name="cowboy">Kovboj</string>
-     <string name="crystal">Crystal</string>
+     <string name="crystal">Kryštál</string>
      <string name="dance">Tanec</string>
      <string name="daydream">Denný sen</string>
      <string name="dewdrops">Ranná rosa</string>
@@ -410,7 +410,7 @@
      <string name="notice_audition">Zvuky prírody</string>
      <string name="notificationxylophone">Upozornenie (xylofón)</string>
      <string name="passionflower">Vášeň</string>
-     <string name="potion">Lektvar</string>
+     <string name="potion">Elixír</string>
      <string name="radar">Radar</string>
      <string name="raindrops">Dažďové kvapky</string>
 	 <string name="relaunch_dialog_alwaysUsePrompt">Zapamätať</string>
@@ -427,7 +427,7 @@
      <string name="stoneskimming_preview">Svetlé kroky</string>
      <string name="sunrise">Východ slnka</string>
      <string name="surprise">Prekvapenie</string>
-     <string name="swoosh">Swoosh</string>
+     <string name="swoosh">Vlnovka</string>
      <string name="toyrobot">Hračkársky robot</string>
 	 <string name="wallpaper_group_black_gobi_title">Piesky Gobi</string>
      <string name="wallpaper_group_black_white_title">Čiernobiele</string>

@@ -1037,7 +1037,7 @@ Prečítajte si a odsúhlaste naše Podmienky používania a Ochranu súkromia.
     <string name="sync_item_calllog_title">Zoznam hovorov</string>
     <string name="sync_item_sms_summary">Prečítané SMS budú automaticky synchronizované</string>
     <string name="sync_item_sms_title">Synch. SMS</string>
-    <string name="sync_item_title">Synchr. položky</string>
+    <string name="sync_item_title">Synchronizované položky</string>
     <string name="sync_normal_summary">Niektoré položky zo zoznamu nemohli byť synchronizované</string>
     <string name="sync_normal_title">Synchr. nebola dokončená</string>
     <string name="sync_off">Vypnuté</string>
@@ -1051,7 +1051,7 @@ Prečítajte si a odsúhlaste naše Podmienky používania a Ochranu súkromia.
     <string name="sync_page_route_ok">Povoliť</string>
     <string name="sync_page_route_remember">Viac nezobrazovať</string>
     <string name="sync_resend_sms_dspt_provision">. Ak zmeníte SIM kartu, bude odoslaná medzinárodná SMS pre jej aktiváciu.</string>
-    <string name="sync_setting_title">Nastavenia synchr.</string>
+    <string name="sync_setting_title">Nastavenia synchronizácie</string>
     <string name="sync_sub_1_intl_sms">Medzinárodná SMS bude odoslaná pre aktiváciu vašej SIM karty</string>
     <string name="sync_sub_1_sms">Bude odoslaná SM pre aktiváciu vašej SIM karty</string>
     <string name="sync_sub_1_sms_1_intl_sms">Medzinárodná SMS a bežná SMS budú odoslané pre aktiváciu vašich SIM kariet</string>
