@@ -5480,4 +5480,5 @@ Skúste zväčšiť rozlíšenie!"</string>
     <string name="xspace_warning_dialog_title">Upozornenie</string>
     <string name="xunyou_server_expired">Relácia vypršala.</string>
     <string name="yesterday">Včera</string>
+    	<string name="na_text_checking">"Kontrola: "</string>
 </resources>

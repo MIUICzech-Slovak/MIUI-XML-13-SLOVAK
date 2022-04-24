@@ -2714,4 +2714,6 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
     <string name="zen_silence_introduction">Zablokujú sa tým VŠETKY zvuky a vibrácie vrátane zvukov budíkov, hudby, videí a hier.</string>
     <string name="zen_silence_introduction_voice">Zablokujú sa VŠETKY zvuky a vibrácie vrátane budíkov, hudby, videí a hier. Stále však budete môcť telefonovať.</string>
     <string name="float_notification_snooze_strategy">Dočasne skryť upozornenia</string>
+	<string name="reboot_info_auto_boot_global">Nasledujúci budík: %s</string>
+     <string name="reboot_info_shutdown_alarm_global">Vypnúť budík: %s</string>    
 </resources>
