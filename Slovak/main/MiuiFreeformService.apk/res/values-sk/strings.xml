@@ -34,4 +34,7 @@
     <string name="multi_window_cvw">Plávajúce okno</string>
     <string name="multi_window_cvw_summary">Presunutím rohu prepnite na plávajúce okno a upravte jeho veľkosť</string>
     <string name="multi_window_cvw_summary_global">Presunutím rohu prepnite na plávajúce okno a upravte jeho veľkosť</string>
+    
+<string name="freeform_guide_to_sidehide_summary">Rýchlo potiahnite okno za panel akcií k okraju obrazovky</string>
+     <string name="freeform_guide_to_sidehide_title">Skrytie plávajúcich okien</string>    
 </resources>

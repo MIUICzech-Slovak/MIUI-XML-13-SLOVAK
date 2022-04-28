@@ -7648,5 +7648,6 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
      <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Klepnutím na aplikáciu na bočnom paneli ju otvoríte v plávajúcom okne.
 · Potiahnutím aplikácie do stredu obrazovky ju otvoríte v plávajúcom okne alebo do strany, ak chcete použiť rozdelenú obrazovku."</string>
      <string name="sidebar_setting">Nastavenia bočného panela</string>         
-          
+<string name="new_fingerprint_to_new_face_dialog_msg">Ak chcete používať odomknutie tvárou, najprv pridajte dáta o tvári. Pridať teraz?</string>
+     <string name="new_fingerprint_to_new_face_dialog_tittle">Pridať dáta o tvári</string>          
 </resources>

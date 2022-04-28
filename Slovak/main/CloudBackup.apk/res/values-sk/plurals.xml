@@ -83,5 +83,9 @@
     <plurals name="session_time_remain">
         <item quantity="other">Ostáva okolo %s min</item>
         <item quantity="one">Ostáva okolo %s min</item>
-    </plurals>            
+    </plurals>          
+<plurals name="backup_action_long_time_not_backup_content">
+         <item kvantita="other">Zdá sa, že ste položky nezálohovali %s týždňov. Vytvorte zálohy, aby ste nestratili nič dôležité.</item>
+         <item kvantita="one">Zdá sa, že ste %s týždeň nezálohovali položky. Vytvorte zálohy, aby ste nestratili nič dôležité.</item>
+     </plurals>      
 </resources>

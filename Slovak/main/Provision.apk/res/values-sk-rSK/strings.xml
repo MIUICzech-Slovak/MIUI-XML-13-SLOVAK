@@ -528,5 +528,5 @@ Pred použitím tejto funkcie musíte súhlasiť so Zásadami ochrany osobných 
      <string name="other_settings_quality_service_summary">MIUI Daemon sa používa na zlepšenie stability a výkonu systému. Aby táto služba mohla normálne fungovať, potrebuje oprávnenie na prístup a ukladanie položiek do úložiska zariadenia.</string>
      <string name="permission_MIUIDaemon_introduction">MIUI Daemon umožňuje prenášať dáta z vášho zariadenia, keď je poškodená jeho obrazovka.</string>    
      
-   
+    <string name="item_facerecognition">Odomknutie tvárou</string>   
 </resources>

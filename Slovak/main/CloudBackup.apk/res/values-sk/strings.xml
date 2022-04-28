@@ -481,4 +481,15 @@ Pošlite tento kód technikovi."</string>
      <string name="session_success_title_backup">Úspešne zálohované</string>
      <string name="session_success_title_restore">Úspešne obnovené</string>
      <string name="session_waiting_network">Čaká sa na sieťové pripojenie…</string>    
+     
+<string name="backup_action_long_time_not_backup_action">Zálohovať</string>
+     <string name="backup_action_long_time_not_backup_title">Žiadne posledné zálohy</string>
+     <string name="dialog_content_cancel_backup">Ak zrušíte zálohovanie, už nahrané údaje sa stratia. Napriek tomu zrušiť?</string>
+     <string name="dialog_content_cancel_restore">Už obnovené údaje sa zachovajú, ak obnovovanie zastavíte. Zastaviť obnovenie teraz?</string>
+     <string name="dialog_negative_btn_cancel_backup">Zrušiť zálohovanie</string>
+     <string name="dialog_negative_btn_cancel_restore">Zastaviť obnovenie</string>
+     <string name="dialog_positive_btn_cancel_backup">Nezrušiť</string>
+     <string name="dialog_positive_btn_cancel_restore">Neprestávaj</string>
+     <string name="dialog_title_cancel_backup">Zrušiť zálohovanie</string>
+     <string name="dialog_title_cancel_restore">Zastaviť obnovenie</string>          
 </resources>
