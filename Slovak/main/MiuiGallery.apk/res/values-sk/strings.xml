@@ -2468,4 +2468,10 @@
     <string name="yuzhitiaojie">Upravenie hrúbky</string>
     <string name="zi_ding_yi_wenben">Vlastná veľkosť</string>
     <string name="zman_title">Bezpečné zdieľanie</string>
+	
+<string name="cloud_full_space_tip_title_completely">Cloudové úložisko je plné</string>
+     <string name="create_album_failed_because_dup">Tento album už existuje. Chcete pridať položky do tohto albumu?</string>
+     <string name="grant_permission_manage_storage">Vyžadujú sa povolenia</string>
+     <string name="grant_permission_manage_storage_unlock">Odomknite svoje zariadenie a povoľte tejto aplikácii prístup ku všetkým súborom, aby ste si mohli prezerať položky.</string>
+<string name="last_some_performance_title">Veci, ktoré som videl</string>	
 </resources>
