@@ -725,7 +725,7 @@
     <string name="branch_deepview_button">Získať aplikáciu</string>
     <string name="branch_deepview_button_description">Zobraziť tento obsah ihneď po inštalácii</string>
     <string name="branch_feature_description">Okrem aplikácií dokáže Quick Finder nájsť obsah v aplikácii a položky online.</string>
-    <string name="branch_guide_attention">Používanie rozšíreného vyhľadávania vyžaduje zdieľanie vašich údajov na vyhľadávanie, Google Ads ID a IP adresy so spoločnosťou Branch Metrics Inc. Prečítajte si a vyjadrite súhlas s <a href="http://url1"><font color=" #B3000000">Podmienkami používania</font></a> a <a href="http://url2"><font color="#B3000000">Ochranou súkromia</font></a> pred použitím tejto funkcie.</a></string>
+    <string name="branch_guide_attention">Používanie rozšíreného vyhľadávania vyžaduje zdieľanie vašich údajov na vyhľadávanie, Google Ads ID a IP adresy so spoločnosťou Branch Metrics Inc. Prečítajte si a vyjadrite súhlas s <a href="http://url1"><font color=" #B3000000">Podmienkami používania</font></a> a <a href="http://url2"><font color="#B3000000">Ochranou súkromia</font></a> pred použitím tejto funkcie.</string>
     <string name="branch_guide_description_one">Všetky vaše aplikácie umiestnime do zásuvky aplikácií. Vaša plocha bude vyzerať elegantne a usporiadane.</string>
     <string name="branch_guide_description_three">Vďaka vstavanému vyhľadávaniu budete môcť rýchlo nájsť všetko, čo potrebujete!</string>
     <string name="branch_guide_description_two">Zoznam aplikácií automaticky kategorizuje aplikácie.</string>
