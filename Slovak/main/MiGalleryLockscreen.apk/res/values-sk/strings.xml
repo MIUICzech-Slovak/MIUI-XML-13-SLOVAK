@@ -910,26 +910,4 @@ To môže spôsobiť dodatočné poplatky."</string>
     <string name="xiaomi_market_sdk_update_dialog_title">K dispozícii je aktualizácia</string>
     <string name="yesterday">Včera</string>
 
-<string name="lks_data_warning_toast_1">„Na prehliadanie tapiet používate mobilné dáta.
-To môže spôsobiť dodatočné poplatky."</string>
-    <string name="lks_dislike">Nepáči sa mi to</string>
-    <string name="lks_loop_icon_ask_cancle">Zrušiť</string>
-    <string name="lks_loop_icon_ask_dlg">Zapnúť prezentáciu na uzamknutej obrazovke, aby sa na uzamknutej obrazovke denne zobrazovali nové obrázky a príbehy.</string>
-    <string name="lks_loop_icon_ask_ok">Zapnúť</string>
-    <string name="lks_loop_icon_ask_title">Prezentácia na uzamknutej obrazovke</string>
-    <string name="lks_loop_icon_close_cancle">Zrušiť</string>
-    <string name="lks_loop_icon_close_dlg">Prezentácia na uzamknutej obrazovke sa vypne, ak nastavíte tento obrázok ako uzamknutú obrazovku. Nastaviť teraz ako uzamknutú obrazovku?</string>
-    <string name="lks_loop_icon_close_ok">OK</string>
-    <string name="lks_loop_icon_close_title">Pozor</string>
-    <string name="lks_loop_icon_dlg_title">Prezentácia na uzamknutej obrazovke</string>
-    <string name="lks_loop_icon_open_dlg">Prezentácia na uzamknutej obrazovke je zapnutá a každý deň na uzamknutej obrazovke zobraziť nové obrázky a príbehy.</string>
-    <string name="lks_loop_icon_open_ok">Rozumiem</string>
-    <string name="lks_more_pics_coming_toast">Nové obrázky sú na ceste</string>
-    <string name="lks_new_user_help_anime">Potiahnutím nahor zobrazíte viac z pásu tapiet</string>
-    <string name="lks_no_network">Nepodarilo sa pripojiť k sieti</string>
-    <string name="lks_please_reload">Znova načítať</string>
-    <string name="lks_retry">Skúste to znova</string>
-    <string name="lks_to_history">História</string>
-    <string name="lks_to_setting">Nastavenia Dennej tapety</string> 
-
 </resources>
