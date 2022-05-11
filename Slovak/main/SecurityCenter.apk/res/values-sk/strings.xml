@@ -671,8 +671,8 @@ alebo zadajte heslo"</string>
     <string name="app_predict_widget_title">Návrhy aplikácií</string>
     <string name="app_running_tip_dialog_negative">Zrušiť</string>
     <string name="app_running_tip_dialog_positive">OK</string>
-    <string name="app_running_tip_dialog_text">Ukončite %1$s pre zabránenie behu na pozadí. Zrýchli to vaše zariadenie a zníži spotrebu batérie.</string>
-    <string name="app_running_tip_dialog_title">Ukončiť aplikáciu</string>
+    <string name="app_running_tip_dialog_text">Zdá sa, že táto aplikácia beží na pozadí. Aplikáciu môžete ukončiť, aby ste zrýchlili svoje zariadenie a znížili spotrebu energie.</string>
+    <string name="app_running_tip_dialog_title">Ukončiť %1$s</string>
     <string name="app_running_tip_uninstall">Odinštalovať aplikáciu</string>
     <string name="app_settings_link">Ďalšie nastavenia v aplikácii</string>
     <string name="app_statusbar_audio_now">Nahrávanie</string>
@@ -5481,4 +5481,90 @@ Skúste zväčšiť rozlíšenie!"</string>
     <string name="xunyou_server_expired">Relácia vypršala.</string>
     <string name="yesterday">Včera</string>
     	<string name="na_text_checking">"Kontrola: "</string>
+		
+		
+
+<string name="add_bill_reminder_alarm">Nastaviť upozornenie na zostatok dát</string>
+<string name="confirm_close">Vypnúť</string>
+    <string name="daily_package_reminder_character">Nastavte denný limit spotreby dát, aby ste dostali upozornenie, keď sa tento limit dosiahne.</string>
+    <string name="daily_remind_warning_text_tips">Upozorniť pri dosiahnutí denného limitu</string>
+    <string name="daily_reminder_warning">Denný dátový limit</string>
+    <string name="daily_reminder_warning_necessary">Denný dátový limit (povinné)</string>
+    <string name="edit_phone_num">Upraviť telefónne číslo SIM karty</string>
+    <string name="gd_sidebar_edit_all_title">Všetky aplikácie</string>
+    <string name="gd_sidebar_edit_btn_close">Skryť</string>
+    <string name="gd_sidebar_edit_btn_expand">Viac</string>
+    <string name="gd_sidebar_edit_quick_title">Skratky</string>
+    <string name="get_phone_num_fail">Neznáme telefónne číslo</string>
+    <string name="infinite_remind_warning_text_tips">Upozorniť pri dosiahnutí mesačného limitu</string>
+    <string name="input_phone_num_hint">Upraviť telefónne číslo SIM karty</string>
+    <string name="input_title">Otvoríte klepnutím</string>
+    <string name="main_daily_card_guide_dialog_title_new">Nastaviť typ dátového plánu</string>
+    <string name="main_daily_card_guide_dialog_summary_new">Podporované sú denné, mesačné a neobmedzené dátové programy. Chcete teraz nastaviť typ dátového plánu?</string>
+    <string name="month_fix_remind_warning_text_tips">Upozorniť na vyčerpanie mesačných dát</string>
+    <string name="month_package_reminder_character">Používanie upozornení na spotrebu dát s neobmedzenými dátovými tarifami si stále vyžaduje nastavenie dátového limitu. Po dosiahnutí tohto limitu dostanete upozornenie.</string>
+    <string name="month_reminder_warning">Mesačný dátový limit</string>
+    <string name="month_reminder_warning_necessary">Mesačný dátový limit (povinné)</string>
+    <string name="no_sim_card_by_tips">Ak chcete nastaviť upozornenia na zostatok a spotrebu dát, najskôr vložte SIM kartu.</string>
+    <string name="normal_package_usage_summary" formatted="false">%2s z %1s (%3s)</string>
+    <string name="not_closed">Pokračujte</string>
+    <string name="notification_bar">Upozornenie</string>
+    <string name="open_wlan_title">Povoliť tejto aplikácii zapínať a vypínať Wi-Fi</string>
+    <string name="operator_location_settings">Nastaviť operátora a polohu</string>
+    <string name="operator_location_settings_message">"Nepodarilo sa rozpoznať vášho operátora a polohu. Teraz nie je možné nastaviť upozornenia na zostatok a spotrebu dát."</string>
+    <string name="privacy_flares_behavior_recent">Správanie aplikácie</string>
+    <string name="privacy_flares_capsule_current">%1s | Teraz</string>
+    <string name="privacy_flares_capsule_recent">%1s | Nedávno</string>
+    <string name="privacy_flares_current">Aktuálna akcia</string>
+<string name="privacy_flares_current_detail_cam">Táto aplikácia používa fotoaparát</string>
+    <string name="privacy_flares_current_detail_cam_loc">Táto aplikácia používa fotoaparát a pristupuje k vašej polohe</string>
+    <string name="privacy_flares_current_detail_cam_mic">Táto aplikácia používa kameru a mikrofón</string>
+    <string name="privacy_flares_current_detail_loc">Táto aplikácia pristupuje k vašej polohe</string>
+    <string name="privacy_flares_current_detail_mic">Táto aplikácia používa mikrofón</string>
+    <string name="privacy_flares_current_detail_mic_loc">Táto aplikácia používa mikrofón a pristupuje k vašej polohe</string>
+    <string name="privacy_flares_current_detail_more">Táto aplikácia používa citlivé povolenie</string>
+    <string name="privacy_flares_recent">Nedávna akcia</string>
+    <string name="privacy_flares_recent_detail_cam">Táto aplikácia použila fotoaparát</string>
+    <string name="privacy_flares_recent_detail_cam_loc">Táto aplikácia použila fotoaparát a pristúpila k vašej polohe</string>
+    <string name="privacy_flares_recent_detail_cam_mic">Táto aplikácia použila fotoaparát a mikrofón</string>
+    <string name="privacy_flares_recent_detail_loc">Táto aplikácia pristúpila k vašej polohe</string>
+    <string name="privacy_flares_recent_detail_mic">Táto aplikácia použila mikrofón</string>
+    <string name="privacy_flares_recent_detail_mic_loc">Táto aplikácia použila mikrofón a pristúpila k vašej polohe</string>
+    <string name="privacy_flares_recent_detail_more">Táto aplikácia použila citlivé povolenie</string>
+    <string name="reminder_once_month">Raz za mesiac</string>
+    <string name="reminder_tips">Pozor</string>
+    <string name="reminder_type">Typ upozornenia</string>
+    <string name="reminder_warning">Limit</string>
+    <string name="repeat_type">Opakovať</string>
+<string name="select_traffic_type_and_reminder_type">Dotykom nastavíte</string>
+    <string name="settings_negative_button_text">Neskôr</string>
+    <string name="storage_app_public_desc">Zaberíá %s, vrátane súborov vytvorených na zdieľanom úložisku</string>
+    <string name="storage_app_public_title">Zdieľané súbory</string>
+<string name="storage_fbo_clear">Defragmentácia na úrovni hardvéru</string>
+     <string name="storage_fbo_des">Mobilný telefón po dlhodobom používaní generuje fragmentáciu údajov, čo môže mať za následok slabý výkon pri čítaní a zápise a zamrznutie. Funkcia "Defragmentácia hardvérovej úrovne" do hĺbky vyčistí a defragmentuje váš telefón, keď ho nepoužívate, čím sa zlepší plynulosť vášho zariadenia. </string>
+     <string name="storage_fbo_number_tip">%1$s počet defragmentácií</string>
+     <string name="storage_fbo_tools">Viac informácií o nástrojoch na optimalizáciu úložiska</string>
+    <string name="storage_file_delete_tip">Vymazať vybrané položky natrvalo?</string>
+    <string name="storage_file_dialog_delete_title">Vymazať položky</string>
+    <string name="storage_file_list_btn">Vymazať %1$s</string>
+    <string name="storage_file_list_form_default">SD karta</string>
+    <string name="storage_file_list_from">Od %s</string>
+    <string name="storage_fob_date_format">dd.MM</string>
+    <string name="storage_item_system_data">Systém</string>
+    <string name="storage_system_log">Systémové záznamy</string>
+	
+<string name="storage_system_log_tip">Systémové záznamy sa v prípade potreby automaticky vymažú</string>
+    <string name="storage_system_memory_expansion">Rozšírenie pamäte</string>
+    <string name="storage_system_memory_expansion_tip">Rozšírte RAM obsadením úložiska</string>
+    <string name="storage_system_other_tip">Dáta potrebné na normálne fungovanie systému (veľkosť súboru sa môže časom meniť)</string>
+    <string name="tips_by_auto_close">Ak chcete nastaviť upozornenia na zostatok a spotrebu dát, musíte automaticky synchronizovať štatistiky operátora. Chcete teraz zapnúť synchronizáciu?</string>
+    <string name="tips_by_reminder_function">Ak teraz vypnete automatickú synchronizáciu, nebudete môcť dostávať upozornenia na zostatok a spotrebu dát.</string>
+    <string name="traffic_advanced_settings">Rozšírené nastavenia spotreby</string>
+    <string name="traffic_alarm">Nastaviť upozornenie</string>
+    <string name="traffic_remind">Upozornenie na používanie dát</string>
+    <string name="traffic_remind_switch">Upozornenie na používanie dát</string>
+    <string name="traffic_reminder_settings">Nastaviť upozornenie na spotrebu dát</string>
+    <string name="turn_off_auto_correction">Vypnúť automatickú synchronizáciu</string>
+
+	
 </resources>

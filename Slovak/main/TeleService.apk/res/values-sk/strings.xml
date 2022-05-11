@@ -1939,4 +1939,9 @@ Ak sa rozhodnete uprednostňovať mobilné siete, budú sa predvolene používa�
     <string name="xdivert_summary">CFNRc Nastavenia</string>
     <string name="xdivert_title">X-Divert</string>
     <string name="yesterday">Včera</string>
+	
+<string name="fiveg_nrca_switch_summary">Použite agregáciu operátora 5G na lepšie pripojenie</string>
+     <string name="fiveg_nrca_switch_title">Agregácia operátora 5G</string>
+     <string name="nrca_switch_summary">Použite agregáciu operátora 5G na lepšie pripojenie</string>
+     <string name="nrca_switch_title">Použite NRCA</string>
 </resources>

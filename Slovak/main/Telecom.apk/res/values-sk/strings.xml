@@ -507,4 +507,5 @@ Ak chcete pokračovať, stlačte tlačidlo Vymazať a konvertovať…"</string>
     <string name="wifi_verbose_logging_summary">Zvýšiť úroveň denníkov Wi-Fi, zobrazovať podľa SSID RSSI pri výbere siete Wi-Fi</string>
     <string name="window_animation_scale_title">Mierka animácie okna</string>
     <string name="yesterday">Včera</string>
+    <string name="notification_disconnectedDialing_message">Nie je možné uskutočniť hovor, pretože už sa vytáča iný odchádzajúci hovor.</string>	
 </resources>

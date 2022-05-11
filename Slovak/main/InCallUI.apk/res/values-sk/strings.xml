@@ -379,4 +379,5 @@ Stlačte \"%1$s\" a potom vyberte \"%2$s\"."</string>
     <string name="wifi_call">VoWi-fi hovor</string>
     <string name="yesterday">Včera</string>
     <string name="saf_permission_recorder_unlock_screen_message">Pre ukladanie nahrávok, najskôr odomknite vaše zariadenie. Odomknúť teraz?</string>
+	<string name="msim_select_default_last">Použité nedávno</string>
 </resources>

@@ -7649,5 +7649,14 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
 · Potiahnutím aplikácie do stredu obrazovky ju otvoríte v plávajúcom okne alebo do strany, ak chcete použiť rozdelenú obrazovku."</string>
      <string name="sidebar_setting">Nastavenia bočného panela</string>         
 <string name="new_fingerprint_to_new_face_dialog_msg">Ak chcete používať odomknutie tvárou, najprv pridajte dáta o tvári. Pridať teraz?</string>
-     <string name="new_fingerprint_to_new_face_dialog_tittle">Pridať dáta o tvári</string>          
+     <string name="new_fingerprint_to_new_face_dialog_tittle">Pridať dáta o tvári</string>         
+
+<string name="bluetooth_enable_opp_high_speed">Vysokorýchlostné prenosy Bluetooth</string>
+     <string name="bluetooth_enable_opp_high_speed_summary">Na prenosy používajte vysokorýchlostné protokoly Bluetooth P2P</string>
+     <string name="fiveg_nrca_switch_summary">Zlepšite 5G pripojenie pre testovacie prostredia</string>
+     <string name="fiveg_nrca_switch_title">Agregácia operátora 5G</string>
+     <string name="nrca_switch_title">Použiť agregáciu operátora 5G</string>
+	 
+<string name="miheadset_same_account_incall">Prijímať hovory zo všetkých synchronizovaných zariadení</string>
+     <string name="miheadset_same_account_incall_summary">Pripojte slúchadlá k iným synchronizovaným zariadeniam, aby ste mohli prijímať prichádzajúce hovory</string>
 </resources>

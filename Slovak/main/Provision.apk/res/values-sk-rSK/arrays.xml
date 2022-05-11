@@ -17,4 +17,8 @@
         <item>en_US</item>
         <item>en_GB</item>
     </string-array>
+    <string-array name="other_settings_auto_update_at_no_simslot_entries">
+        <item>Iba Wi-Fi</item>
+        <item>Vypnuté</item>
+    </string-array>	
 </resources>

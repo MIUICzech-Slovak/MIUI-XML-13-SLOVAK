@@ -445,7 +445,9 @@
      <string name="wallpaper_group_natural_texture_subtitle">Tom Hegen a ďalší</string>
      <string name="wallpaper_group_natural_texture_title">Vzory prírody</string>
      <string name="wallpaper_group_red_mars_title">Mars</string>
-     <string name="wallpaper_group_sgn_mountain_title">Mount Siguniang</string>	 
+     <string name="wallpaper_group_sgn_mountain_title">Hora Siguniang</string>	 
      
     <string name="sc_notification_warning_title">Prepnúť režim zobrazenia</string>     
+    <string name="unreplace_freeform_count_max">Nie je možné otvoriť viac plávajúcich okien</string>	
+    <string name="app_continuity_channel_name">Prispôsobenie rozloženia aplikácie</string>	
 </resources>
