@@ -96,7 +96,7 @@
     <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Nie ďakujem</string>
     <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Upraviť</string>
     <string name="fp_nav_center_action_choose_dlg_title">Upraviť tlačidlo Domov</string>
-    <string name="freeform_exchange_tip">Pustite pre otvorenie aplikácie</string>
+    <string name="freeform_exchange_tip">Otvoriť plávajúce okno na celú obrazovku</string>
     <string name="freeform_exchange_tip2">Potiahnite do rohu pre zrušenie</string>
     <string name="frequent_email">Email</string>
     <string name="frequent_phrases">Časté frázy</string>
@@ -450,4 +450,8 @@
     <string name="sc_notification_warning_title">Prepnúť režim zobrazenia</string>     
     <string name="unreplace_freeform_count_max">Nie je možné otvoriť viac plávajúcich okien</string>	
     <string name="app_continuity_channel_name">Prispôsobenie rozloženia aplikácie</string>	
+	
+<string name="disable_nfc_haptic_reverse">Vypnuté NFC a vibrácie pre spätné bezdrôtové nabíjanie</string>
+     <string name="enable_nfc_haptic_reverse">Spätné nabíjanie bolo zastavené. NFC a vibrácie sú opäť zapnuté.</string>
+	
 </resources>

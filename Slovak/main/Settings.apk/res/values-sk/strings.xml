@@ -7659,4 +7659,14 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
 	 
 <string name="miheadset_same_account_incall">Prijímať hovory zo všetkých synchronizovaných zariadení</string>
      <string name="miheadset_same_account_incall_summary">Pripojte slúchadlá k iným synchronizovaným zariadeniam, aby ste mohli prijímať prichádzajúce hovory</string>
+	 
+<string name="dialog_esim_button_negative">Zrušiť</string>
+     <string name="dialog_esim_button_positive">OK</string>
+     <string name="dialog_softbank_esim_wipe_cancel">Ponechať</string>
+     <string name="dialog_softbank_esim_wipe_info">Vymazať všetky stiahnuté dáta eSIM? Týmto sa nezruší váš plán mobilných služieb.</string>
+     <string name="dialog_softbank_esim_wipe_ok">Vymazať</string>
+     <string name="dialog_softbank_esim_wipe_title">Vymazať dáta eSIM karty</string>
+     <string name="dialog_softbank_esime_context">Toto zariadenie sa musí pripojiť k internetu, aby si mohlo aktivovať eSIM. Preskočiť aj aktiváciu eSIM?</string>
+     <string name="dialog_softbank_esime_title">Preskočiť aktiváciu eSIM karty</string>
+	
 </resources>

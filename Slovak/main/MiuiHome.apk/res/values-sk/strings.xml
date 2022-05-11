@@ -764,4 +764,7 @@
     <string name="layout_guide_description">Ak sa vám nepáči zoznam aplikácií, vždy sa môžete vrátiť na klasickú plochu. Stačí použiť skratku \"Nastavenia plochy\" a prepínať medzi týmito dvoma režimami.</string>
      <string name="layout_guide_tip_title">Môžete sa vrátiť k starému spôsobu jediným klepnutím</string>
      <string name="layout_guide_title">Ako odstrániť zásuvku aplikácie</string>
+	 
+<string name="garbage_count">Existuje %1$s starých súborov</string>
+     <string name="notification_channel_alerts">Upozornenia</string>
 </resources>

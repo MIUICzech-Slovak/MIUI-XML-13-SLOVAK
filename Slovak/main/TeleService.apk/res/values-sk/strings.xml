@@ -1944,4 +1944,24 @@ Ak sa rozhodnete uprednostňovať mobilné siete, budú sa predvolene používa�
      <string name="fiveg_nrca_switch_title">Agregácia operátora 5G</string>
      <string name="nrca_switch_summary">Použite agregáciu operátora 5G na lepšie pripojenie</string>
      <string name="nrca_switch_title">Použite NRCA</string>
+	 
+<string name="disable_esim_dialog_summary">"SIM %s bude aktivovaný, ak teraz deaktivujete eSIM.
+Napriek tomu deaktivovať eSIM?"</string>
+    <string name="disable_esim_dialog_title">Deaktivácia eSIM</string>
+    <string name="disable_esim_error_toast_message">eSIM sa nepodarilo deaktivovať</string>
+    <string name="disable_esim_progress_activating_message">Deaktivuje sa eSIM…</string>
+    <string name="enable_esim_dialog_summary">"Ak si teraz aktivujete eSIM, SIM karta %s bude deaktivovaná.
+Napriek tomu aktivovať eSIM?"</string>
+    <string name="enable_esim_dialog_title">Aktivácia eSIM</string>
+    <string name="enable_esim_error_toast_message">Nepodarilo sa aktivovať eSIM</string>
+    <string name="enable_esim_progress_activating_message">Aktivuje sa eSIM…</string>
+    <string name="enable_esim_title">Použiť eSIM</string>
+<string name="enter_esim_manager_title">Spravovať eSIM</string>
+    <string name="esim_inactive_notification_message_global">Nerozpoznala sa žiadna SIM karta. Klepnutím aktivujete eSIM.</string>
+    <string name="esim_inactive_notification_title_global">DualSIM karty a mobilné siete</string>
+<string name="esim_setting_title">Nastavenia eSIM karty</string>
+<string name="no_active_esim_text">Neaktívna eSIM</string>
+<string name="set_esim_toast_phone_in_call">Túto akciu nie je možné vykonať počas hovorov</string>
+    <string name="switch_cancel_btn_text">Zrušiť</string>
+    <string name="switch_confirm_btn_text">OK</string>
 </resources>

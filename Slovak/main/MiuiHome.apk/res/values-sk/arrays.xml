@@ -74,8 +74,8 @@
         <item>Vpravo</item>
     </string-array>
     <string-array name="animation_rate_entries">
-        <item>Elegantné</item>
+        <item>Plynulé</item>
         <item>Vyvážené</item>
-        <item>Minimalistické</item>
+        <item>Rýchle</item>
     </string-array>	
 </resources>

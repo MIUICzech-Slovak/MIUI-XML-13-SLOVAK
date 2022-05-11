@@ -529,4 +529,7 @@ Pred použitím tejto funkcie musíte súhlasiť so Zásadami ochrany osobných 
      <string name="permission_MIUIDaemon_introduction">MIUI Daemon umožňuje prenášať dáta z vášho zariadenia, keď je poškodená jeho obrazovka.</string>    
      
     <string name="item_facerecognition">Odomknutie tvárou</string>   
+	
+<string name="activate_esim_tips">Nepodarilo sa aktivovať. Skúste to znova.</string>
+     <string name="activating_esim_tips">Aktivuje sa…</string>
 </resources>
