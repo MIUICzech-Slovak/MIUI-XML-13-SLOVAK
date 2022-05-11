@@ -740,7 +740,7 @@
     <string name="branch_new_feature">Nová funkcia</string>
     <string name="branch_privacy_policy">Zásady ochrany osobných údajov</string>
     <string name="branch_search_guide_description">Naše výsledky vyhľadávania sú teraz oveľa komplexnejšie</string>
-    <string name="branch_search_guide_privacy">"Túto službu používa spoločnosť Branch Metrics Inc. Informácie o vašej polohe, vyhľadávacie dopyty a Google Ads ID budú zdieľané s pobočkou. Prečítajte si a vyjadrite súhlas s "<a href="http:// url1"><font color="#B3000000">Zmluvné podmienky</font></a> a <a href="http://url2"><font color="#B3000000">Zásady ochrany osobných údajov</font </a> pred použitím tejto služby.</string>
+    <string name="branch_search_guide_privacy">"Túto službu používa spoločnosť Branch Metrics Inc. Informácie o vašej polohe, vyhľadávacie dopyty a Google Ads ID budú zdieľané s pobočkou. Prečítajte si a vyjadrite súhlas s "<a href="http:// url1"><font color="#B3000000">Zmluvné podmienky</font></a> a <a href="http://url2"><font color="#B3000000">Zásady ochrany osobných údajov</font></a> pred použitím tejto služby.</string>
     <string name="branch_search_guide_title">Nájdite to, čo hľadáte vo svojich obľúbených aplikáciách</string>
     <string name="branch_terms_condition">Zmluvné podmienky</string>
     <string name="branch_tip_title">Pomocou Quick Finder nájdete všetko, čo potrebujete, v okamihu.</string>
