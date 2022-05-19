@@ -3592,7 +3592,7 @@ Tento proces skracuje životnosť batérie."</string>
     <string name="pref_package_traffic_normal">Limit: %s</string>
     <string name="pref_package_traffic_overlay">%1$s | Dodatočné: %2$s</string>
     <string name="pref_package_traffic_settings">Limit mobilných dát</string>
-    <string name="pref_pkg_begin_date">Deň obnovenia dátového balíčku</string>
+    <string name="pref_pkg_begin_date">Deň obnovenia dátového balíčka</string>
     <string name="pref_roaming_daily_limit_setting">Denný limit dát pre roaming</string>
     <string name="pref_roaming_daily_limit_setting_cat_title">Denný limit dát</string>
     <string name="pref_roaming_setting_gategory">Dátový roaming</string>
@@ -5566,5 +5566,27 @@ Skúste zväčšiť rozlíšenie!"</string>
     <string name="traffic_reminder_settings">Nastaviť upozornenie na spotrebu dát</string>
     <string name="turn_off_auto_correction">Vypnúť automatickú synchronizáciu</string>
 
+<string name="gb_game_fill_desc">Obsah môže byť v niektorých prípadoch skreslený</string>
+    <string name="gb_game_mode">Režim zobrazenia</string>
+    <string name="gb_game_mode_change">Tu môžete prepínať medzi režimami zobrazenia</string>
+    <string name="gb_game_mode_change_btn_right">Reštartovať</string>
+    <string name="gb_game_mode_change_message">Reštartovať hru, aby sa zmeny prejavili teraz?</string>
+    <string name="gb_game_mode_change_title">Reštartujte hru</string>
+    <string name="gb_game_mode_choose_game_area">Aktívna oblasť</string>
+    <string name="gb_game_mode_choose_title">Vyberte režim zobrazenia</string>
+    <string name="gb_game_mode_empty">Zatiaľ tu nie sú žiadne hry</string>
+    <string name="gb_game_mode_fill">Vyplniť obrazovku</string>
+    <string name="gb_game_mode_fill_type">Vyplniť obrazovku</string>
+    <string name="gb_game_mode_ratio">Pôvodný</string>
+    <string name="gb_game_mode_ratio_type">Pôvodný</string>
+    <string name="gb_game_mode_recommend">" (odporúča sa)"</string>
+    <string name="gb_game_mode_search">Vyhľadávanie aplikácií</string>
+    <string name="gb_game_ratio_bottom">Spodok</string>
+    <string name="gb_game_ratio_center">Stred</string>
+    <string name="gb_game_ratio_desc_h">Aktívna oblasť nebude orezaná, môžu sa zobraziť čierne oblasti</string>
+    <string name="gb_game_ratio_desc_v">Aktívna oblasť nebude orezaná, môžu sa zobraziť čierne oblasti</string>
+    <string name="gb_game_ratio_left">Vľavo</string>
+    <string name="gb_game_ratio_right">Vpravo</string>
+    <string name="gb_game_ratio_top">Najlepšie</string>
 	
 </resources>

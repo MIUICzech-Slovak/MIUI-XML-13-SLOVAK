@@ -491,5 +491,6 @@ Pošlite tento kód technikovi."</string>
      <string name="dialog_positive_btn_cancel_backup">Nezrušiť</string>
      <string name="dialog_positive_btn_cancel_restore">Neprestávaj</string>
      <string name="dialog_title_cancel_backup">Zrušiť zálohovanie</string>
-     <string name="dialog_title_cancel_restore">Zastaviť obnovenie</string>          
+     <string name="dialog_title_cancel_restore">Zastaviť obnovenie</string>    
+<string name="restore_header_backup_size">Veľkosť zálohy: %s</string>           
 </resources>

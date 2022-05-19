@@ -1518,4 +1518,5 @@ Zvoľte jednu z nasledujúcich možností:</string>
     <string name="yellowpage_user_profile">Profil</string>
     <string name="yesterday">Včera</string>
     <string name="zero_items_selected">Nič nie je vybrané</string>
+    <string name="unshow_qr_code_in_narrow_screen_split">Ak je aktívne rozdelenie obrazovky, QR kód nie je možné zobraziť.</string>    
 </resources>

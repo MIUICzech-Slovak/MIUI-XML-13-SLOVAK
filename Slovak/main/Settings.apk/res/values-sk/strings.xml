@@ -1533,7 +1533,7 @@ Ak chcete ďalej používať svoj telefón, musíte obnoviť jeho továrenské n
     <string name="current_use_ese_wallet">Používate MiWallet</string>
     <string name="current_use_hce_wallet">Používate HCE Wallet</string>
     <string name="current_use_uicc_se">Using secure element on SIM card</string>
-    <string name="current_use_uicc_wallet">"Používate SIM kartu %1$s Wallet"</string>
+    <string name="current_use_uicc_wallet">Používate SIM %1$s Wallet</string>
     <string name="current_zone">(súčasná)</string>
     <string name="custom_carrier_title">Upraviť názov operátora</string>
     <string name="custom_color">Vlastné</string>
@@ -7667,4 +7667,19 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
      <string name="dialog_softbank_esime_context">Toto zariadenie sa musí pripojiť k internetu, aby si mohlo aktivovať eSIM. Preskočiť aj aktiváciu eSIM?</string>
      <string name="dialog_softbank_esime_title">Preskočiť aktiváciu eSIM karty</string>
 	
+    <string name="miui_lab_drive_mode_desc_new">Použiť hlasové ovládanie</string>
+<string name="miui_nfc_dialog_message">Ak vypnete NFC, nebudete môcť používať funkcie NFC, ktoré zahŕňajú Google Pay, dopravné karty, kľúčové karty a ďalšie. Vypnúť ho napriek tomu?</string>
+     <string name="miui_nfc_dialog_negative">Vypnúť</string>
+     <string name="miui_nfc_dialog_positive">Zrušiť</string>
+     <string name="miui_nfc_dialog_title">Vypnutie NFC</string>
+     <string name="miui_nfc_mi_pay_summary">Google Pay, dopravné karty, kľúčové karty</string>    
+     
+<string name="nfc_image_preference_text_click">Skontrolujte, kde sa na tomto zariadení nachádza oblasť antény NFC</string>
+     <string name="nfc_image_preference_text_noclick">Umiestnite svoje zariadenie blízko bezkontaktného terminálu, aby ste mohli používať Google Pay, dopravné karty, kľúčové karty a ďalšie funkcie NFC.</string>
+<string name="preference_toggle_nfc_dnd_mode_summary">Nedostávať žiadne upozornenia na nerozpoznané NFC</string>
+     <string name="se_in_ese">Vložený prvok zabezpečenia</string>
+     <string name="se_in_ese_desc">Vložený prvok zabezpečenia</string>
+     <string name="sim_wallet">Peňaženka SIM</string>
+     <string name="sim_wallet_desc">Peňaženka SIM</string>
+<string name="wallpaper_setting_title">Tapeta</string>     	
 </resources>
