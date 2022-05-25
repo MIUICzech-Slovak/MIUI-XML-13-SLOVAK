@@ -7682,4 +7682,12 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
      <string name="sim_wallet">Peňaženka SIM</string>
      <string name="sim_wallet_desc">Peňaženka SIM</string>
 <string name="wallpaper_setting_title">Tapeta</string>     	
+
+<string name="google_assistant_guide_cancel">Zrušiť</string>
+     <string name="google_assistant_guide_message">Môžete stlačiť a podržať tlačidlo zapínania na %s sekundy a začať hovoriť s Asistentom Google. Nastaviť túto skratku teraz?</string>
+     <string name="google_assistant_guide_ok">Nastaviť</string>
+     <string name="google_assistant_guide_tip">*Stlačením a podržaním tlačidla napájania na %s sekúnd otvoríte ponuku vypnutia.</string>
+     <string name="google_assistant_guide_title">Asistent Google</string>
+     <string name="miui_bubbles_notification">Bubliny upozornení</string>
+     <string name="miui_bubbles_notification_status_opened">Zapnuté</string>
 </resources>

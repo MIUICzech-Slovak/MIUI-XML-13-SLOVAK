@@ -14,4 +14,9 @@
     <string name="translation_more">Viac</string>
     <string name="translation_query_error">Nič sa nenašlo</string>
     <string name="translation_query_error_network">Skontrolujte nastavenie siete</string>
+	    <string name="google_call">Hovor</string>
+    <string name="google_email">Email</string>
+    <string name="google_map">Mapa</string>
+    <string name="google_open">Otvoriť</string>
+    <string name="google_translate">Preložiť</string>
 </resources>

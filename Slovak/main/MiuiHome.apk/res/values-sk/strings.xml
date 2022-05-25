@@ -767,4 +767,11 @@
 	 
 <string name="garbage_count">Existuje %1$s starých súborov</string>
      <string name="notification_channel_alerts">Upozornenia</string>
+	 
+<string name="add_to_workspace">Pridať na plochu</string>
+     <string name="fold_pair_install_shortcut_long_click">Stlačte a podržte pre pridanie na plochu</string>
+     <string name="fold_pair_installed_shortcut_launcher">Táto skratka už existuje</string>
+<string name="no_space_toast_fold">Nie je tu dostatok miesta</string>
+<string name="recnets_relay_device_info">Od %s</string>
+<string name="upgrade_remove_small_window_in_recents">Postranný panel môžete použiť na otváranie aplikácií v plávajúcich oknách</string>
 </resources>

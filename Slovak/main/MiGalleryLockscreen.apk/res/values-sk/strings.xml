@@ -909,5 +909,7 @@ To môže spôsobiť dodatočné poplatky."</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Aktualizácia</string>
     <string name="xiaomi_market_sdk_update_dialog_title">K dispozícii je aktualizácia</string>
     <string name="yesterday">Včera</string>
-
+<string name="detail_recomm_excellent">Odporúčané</string>
+<string name="detail_recomm_personal">Odporúčané</string>
+<string name="main_fragment_title_home_excellent">Odporúčané</string>
 </resources>
