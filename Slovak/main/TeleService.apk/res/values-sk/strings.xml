@@ -1964,4 +1964,7 @@ Napriek tomu aktivovať eSIM?"</string>
 <string name="set_esim_toast_phone_in_call">Túto akciu nie je možné vykonať počas hovorov</string>
     <string name="switch_cancel_btn_text">Zrušiť</string>
     <string name="switch_confirm_btn_text">OK</string>
+	
+    <string name="nrca_need_reset">Reštartujte zariadenie pre použitie zmien</string>	 
+	
 </resources>

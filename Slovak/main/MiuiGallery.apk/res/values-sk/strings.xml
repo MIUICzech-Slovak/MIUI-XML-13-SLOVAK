@@ -2474,4 +2474,38 @@
      <string name="grant_permission_manage_storage">Vyžadujú sa povolenia</string>
      <string name="grant_permission_manage_storage_unlock">Odomknite svoje zariadenie a povoľte tejto aplikácii prístup ku všetkým súborom, aby ste si mohli prezerať položky.</string>
 <string name="last_some_performance_title">Veci, ktoré som videl</string>	
+
+<string name="all_story_empty_desc">Zatiaľ tu nie sú žiadne spomienky</string>
+    <string name="all_story_empty_tip">"Zatiaľ tu nie sú žiadne spomienky.
+Pripojte nabíjačku a vypnite obrazovku, aby sa objavili spomienky."</string>
+    <string name="all_story_title">Všetky spomienky</string>
+    <string name="download_library_dialog_message">Galéria potrebuje šablóny, aby mohla vytvárať spomienky lokálne na tomto zariadení. Na stiahnutie šablón odporúčame použiť Wi-Fi.</string>
+    <string name="download_library_dialog_title">Prevziať šablóny</string>
+<string name="empty_tip_btn">Odfoťte</string>
+<string name="home_page_empty_action_new">Importovať zo starého zariadenia</string>
+<string name="is_in_ocr">Rozpoznáva sa…</string>
+<string name="ocr_aiasst_version">Najprv aktualizujte Mi AI</string>
+<string name="ocr_extract">Extrahovať</string>
+    <string name="ocr_text_copied_selected">Úspešne skopírované</string>
+    <string name="ocr_text_link">URL</string>
+<string name="ocr_translation">Preložiť</string>
+    <string name="story_guide_tip_download_btn">Stiahnuť</string>
+    <string name="story_guide_tip_download_desc">Stiahnite si šablóny pre svoje spomienky</string>
+    <string name="story_guide_tip_download_title">Stiahnuť šablóny</string>
+    <string name="story_guide_tip_generate_btn">Začať</string>
+    <string name="story_guide_tip_generate_desc">Zhotovte fotografie. Pripojte nabíjačku. Uzamknite zariadenie.</string>
+    <string name="story_guide_tip_generate_title">Zobrazte spomienky</string>
+    <string name="story_guide_tip_open_btn">Zapnúť</string>
+    <string name="story_guide_tip_open_desc">Vráťte sa k svojim najjasnejším momentom</string>
+    <string name="story_guide_tip_open_title">Spomienky</string>
+    <string name="story_guide_tip_revisit_btn">Začať</string>
+    <string name="story_guide_tip_revisit_desc">Zhotovte fotografie. Pripojte nabíjačku. Uzamknite zariadenie.</string>
+    <string name="story_guide_tip_revisit_title">Prežite znova svoje najjasnejšie chvíle</string>
+<string name="str_scan_form">Rozpoznať tabuľku</string>
+<string name="text_recognition">Rozpoznať text</string>
+    <string name="today_of_year">V tento deň</string>
+    <string name="today_of_year_empty_tip">Zatiaľ tu nie sú žiadne spomienky</string>
+    <string name="today_of_year_location_num">Miesta</string>
+    <string name="today_of_year_photo_num">Fotografie</string>
+    <string name="widget_disable">Widgety tejto veľkosti nie sú na tomto zariadení podporované</string>
 </resources>
