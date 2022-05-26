@@ -5588,5 +5588,19 @@ Skúste zväčšiť rozlíšenie!"</string>
     <string name="gb_game_ratio_left">Vľavo</string>
     <string name="gb_game_ratio_right">Vpravo</string>
     <string name="gb_game_ratio_top">Najlepšie</string>
-	
+
+
+<string name="gb_game_mode_change_new">Tu môžete prepínať medzi rozloženiami</string>
+    <string name="gb_game_mode_choose_title_new">Vybrať rozloženie</string>
+    <string name="gb_game_mode_new">Rozloženie hier</string>
+    <string name="gb_predownload_dialog_cancel">Nie, ďakujem</string>
+    <string name="gb_predownload_dialog_checked">Už nezobrazovať</string>
+    <string name="gb_predownload_dialog_confirm">Zapnúť</string>
+    <string name="gb_predownload_dialog_message_china"><Data>"Aktualizovaný obsah pre túto hru je možné stiahnuť do tohto zariadenia automaticky po pripojení k sieti Wi-Fi a vypnutí obrazovky. Novú verziu tak budete môcť používať hneď po jej vydaní.&lt;br>&lt;br>Pred použitím tejto funkcie si prečítajte a vyjadrite súhlas s &lt;a href=\"%1$s\">Vyhlásením o aktualizáciách na pozadí&lt;/a>.“</Data> </string>
+    <string name="gb_predownload_dialog_title">Aktualizácie na pozadí sú teraz k dispozícii</string>
+    <string name="gb_predownload_message">Aktualizujte King of Glory, Game for Peace a ďalšie kompatibilné hry na pozadí, keď toto zariadenie nepoužívate</string>
+    <string name="gb_predownload_noti_message">%2$1,2f GB aktualizovaného obsahu sa už v tomto zariadení nachádza. Budete ho môcť použiť hneď po vydaní novej verzie.</string>
+    <string name="gb_predownload_noti_title">Úspešne aktualizované %s na pozadí</string>
+    <string name="gb_predownload_title">Aktualizácie na pozadí</string>
+    <string name="gb_smart_battery_surplus_new">Zostáva %1$s %2$s</string>	
 </resources>
