@@ -342,4 +342,29 @@
         <item quantity="few">Zmena na možnosť Iba budíky platná %1$d minúty (do %2$s)</item>
         <item quantity="many">Zmena na možnosť Iba budíky platná %1$d minúty (do %2$s)</item>
     </plurals>
+	
+    <plurals name="max_number_of_processes">
+        <item quantity="other">Maximálne %d procesov</item>
+        <item quantity="one">Maximálne %d proces</item>
+    </plurals>	
+    <plurals name="string_after_int_minute">
+        <item quantity="other">Po %d minútach</item>
+        <item quantity="one">Po %d minúte</item>
+    </plurals>
+    <plurals name="string_bits_per_sample">
+        <item quantity="other">%d bits/sample</item>
+        <item quantity="one">%d bit/sample</item>
+    </plurals>
+    <plurals name="string_int_hour">
+        <item quantity="other">%d h</item>
+        <item quantity="one">%d h</item>
+    </plurals>
+    <plurals name="string_int_minute">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="string_int_second">
+        <item quantity="other">%d s</item>
+        <item quantity="one">%d s</item>
+    </plurals>	
 </resources>

@@ -565,11 +565,11 @@ Správca môže sledovať a spravovať nastavenia, prístup, aplikácie a údaje
     <string name="auto_caps">Veľké písmena automaticky</string>
     <string name="auto_caps_summary">Prvé písmeno vo vete je automaticky veľké</string>
     <string name="auto_clean_description">"O tejto funkcii:
-1. Spustite túto funkciu raz alebo dvakrát ak je reproduktor zanesený prachom.
-2. Ak je reproduktor zablokovaný, spustite čistenie %1$d-%2$d-krát a zatraste zariadením."</string>
+%3$d. Spustite túto funkciu raz alebo dvakrát ak je reproduktor zanesený prachom.
+%4$d. Ak je reproduktor zablokovaný, spustite čistenie %1$d-%2$d-krát a zatraste zariadením."</string>
     <string name="auto_clean_description_pad">"O tejto funkcii
-- Spustite túto funkciu raz alebo dvakrát, ak zistíte, že váš reproduktor je mierne blokovaný prachom.
-- Ak je reproduktor silne zablokovaný, spustite túto funkciu %1$d-%2$d-krát, pričom zatraste zariadením tak, aby reproduktor smeroval nadol.“</string>
+%3$d. Spustite túto funkciu raz alebo dvakrát, ak zistíte, že váš reproduktor je mierne blokovaný prachom.
+%4$d. Ak je reproduktor silne zablokovaný, spustite túto funkciu %1$d-%2$d-krát, pričom zatraste zariadením tak, aby reproduktor smeroval nadol.“</string>
     <string name="auto_clean_summary">Prehrať 30s zvuk pre vyčistenie reproduktora</string>
     <string name="auto_clean_summary_new">Prehrať %d-sekundový zvuk pre vyčistenie reproduktora.</string>
     <string name="auto_clean_title">Vyčistiť reproduktor</string>
@@ -2491,7 +2491,7 @@ Odomknutie tvárou je menej bezpečné ako PIN, heslo alebo vzor. Vaše zariaden
     <string name="force_immersive_compatibility_hint_message">Niektoré aplikácie nemusia pracovať správne ak skryjete tlačidlá na displeji.</string>
     <string name="force_immersive_compatibility_hint_title">Problémy s kompatibilitou</string>
     <string name="force_msaa">Vynútiť 4x MSAA</string>
-    <string name="force_msaa_new">Vynútiť %dx MSAA</string>
+    <string name="force_msaa_new">Vynútiť 4x MSAA</string>
     <string name="force_msaa_summary">Povoliť 4x MSAA v aplikáciách OpenGL ES 2.0</string>
     <string name="force_msaa_summary_new">Povoliť %2$dx MSAA v OpenGL ES %1$.1f</string>
     <string name="force_resizable_activities">Vynútiť zmenu veľkosti aktivít</string>
@@ -7691,5 +7691,30 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
      <string name="miui_bubbles_notification">Bubliny upozornení</string>
      <string name="miui_bubbles_notification_status_opened">Zapnuté</string>
 	 
-    <string name="nrca_need_reset">Reštartujte zariadenie pre použitie zmien</string>	 
+    <string name="nrca_need_reset">Reštartujte zariadenie pre použitie zmien</string>	
+
+<string name="access_denied_info">Príliš veľa pokusov. Skúste to znova neskôr.</string>
+<string name="bt_leaudio_cg_dialog_summary">Po zapnutí tejto funkcie nebudú niektoré funkcie k dispozícii. Táto funkcia tiež nepodporuje pripojenie viacerých zariadení k vašim slúchadlám. Ak ste sa už pripojili k dvom rôznym zariadeniam, odpojte sa od jedeného z nich. Zapnúť LC3 teraz?</string>
+<string name="bt_leaudio_support_multi_dialog_summary">Po zapnutí tejto funkcie nebudú niektoré funkcie dostupné. Zapnúť LC3 teraz?</string>
+    <string name="collect_diagnosis_log">Zhromažďovať denník diagnostiky</string>
+    <string name="dark_mode_alert_dialog_cancel">Zrušiť</string>
+    <string name="dark_mode_alert_dialog_checkbox">Už nezobrazovať</string>
+    <string name="dark_mode_alert_dialog_confirm">Zapnúť</string>
+    <string name="dark_mode_alert_dialog_message">Táto aplikácia sa nemusí v tmavom režime zobraziť správne. Chcete napriek tomu zapnúť tmavý režim?</string>
+    <string name="dark_mode_alert_dialog_title">Pozor</string>
+    <string name="diagnosis_log_send_failed">Odoslanie protokolu diagnostiky zlyhalo.</string>
+    <string name="for_diagnosis_usage_only">Tieto informácie používajte iba na diagnostiku.</string>
+    <string name="force_msaa_prefrence_summary_new">Povolenie 4x MSAA v aplikáciách OpenGL ES %1$.1f</string>
+    <string name="network_error_info">Vyskytla sa chyba siete. Skontrolujte nastavenia siete a skúste to znova.</string>
+    <string name="network_timeout_info">Nepodarilo sa pripojiť k sieti. Skúste to znova.</string>
+    <string name="ok">OK</string>
+    <string name="progressbar_title">Kontrolujú sa problémy so zabezpečením...</string>
+    <string name="send_diagnosis_log">Odoslať denník diagnostiky</string>
+    <string name="sending">Odosiela sa…</string>
+    <string name="system_error_info">Systém je zaneprázdnený. Skúste to znova neskôr.</string>
+    <string name="temporary_not_available">Dočasne nedostupné</string>
+    <string name="unknown_error_info">Neznáma chyba</string>
+
+    <string name="control_center_force_use_panel_guide_text">Potiahnite oznamovaciu lištu vľavo nadol pre zobrazenie upozornení a vpravo nadol pre zobrazenie ovládačov. Strany môžete prepnúť v nastaveniach.</string>
+	
 </resources>

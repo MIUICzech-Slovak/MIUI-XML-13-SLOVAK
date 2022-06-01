@@ -1519,4 +1519,10 @@ Zvoľte jednu z nasledujúcich možností:</string>
     <string name="yesterday">Včera</string>
     <string name="zero_items_selected">Nič nie je vybrané</string>
     <string name="unshow_qr_code_in_narrow_screen_split">Ak je aktívne rozdelenie obrazovky, QR kód nie je možné zobraziť.</string>    
+	
+<string name="calllog_record_searching_toast">Prebieha vyhľadávanie nahrávok...</string>
+     <string name="manage_external_storage_dialog_message">Povoľte tejto aplikácii prístup ku všetkým súborom, aby ste mohli spravovať nahrávky hovorov.</string>
+     <string name="manage_external_storage_dialog_positive">Nastavenia</string>
+     <string name="manage_external_storage_dialog_title">Vyžadujú sa povolenia</string>
+	
 </resources>

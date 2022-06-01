@@ -453,5 +453,5 @@
 	
 <string name="disable_nfc_haptic_reverse">Vypnuté NFC a vibrácie pre spätné bezdrôtové nabíjanie</string>
      <string name="enable_nfc_haptic_reverse">Spätné nabíjanie bolo zastavené. NFC a vibrácie sú opäť zapnuté.</string>
-	
+    <string name="kb_reset_toast">Klávesnica úspešne obnovená</string>	
 </resources>

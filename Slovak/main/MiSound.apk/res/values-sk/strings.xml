@@ -57,7 +57,7 @@
     <string name="fmt_date_short_month_day">"d. MMM "</string>
     <string name="fmt_date_short_year_month">MMM, yyyy</string>
     <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
-    <string name="four_note">Test bude trvať približne 3 minúty.</string>
+    <string name="four_note">Test bude trvať približne %d minúty.</string>
     <string name="friday">Piatok</string>
     <string name="friday_short">Pia</string>
     <string name="friday_shortest">Pia</string>
@@ -163,7 +163,7 @@
     <string name="music_audio_effect_settings">Nastavenie efektov</string>
     <string name="music_audio_visual_wake_lock">Ponechať displej zapnutý</string>
     <string name="music_audio_visual_wake_lock_summary">Nevypínať displej počas zobrazenia vizuálnych efektov</string>
-    <string name="music_below_thirty_years">Do 30 rokov</string>
+    <string name="music_below_thirty_years">Do %d rokov</string>
     <string name="music_customized_sound_summary">Prispôsobte hlasitosť podľa svojho sluchového vnímania</string>
     <string name="music_customized_sound_title">Úprava hlasitosti</string>
     <string name="music_delete">Vymazať</string>
@@ -251,10 +251,10 @@
     <string name="music_sound_num">Vlastné nastavenie %s</string>
     <string name="music_sound_sample">Systémové nastavenia</string>
     <string name="music_sure_to_delete_sound_msg">Vymazať vybrané nastavenia?</string>
-    <string name="music_thirty_to_sixty_years">30-60 rokov</string>
+    <string name="music_thirty_to_sixty_years" formatted="false">%d-%d rokov</string>
     <string name="music_title_dolby_control">Dolby Digital Plus</string>
     <string name="music_unsupport_effect_summary">Nepodporované USB slúchadlá</string>
-    <string name="music_upper_sixty_years">Viac ako 60 rokov</string>
+    <string name="music_upper_sixty_years">Viac ako %d rokov</string>
     <string name="name">Názov</string>
     <string name="not_set">Nenastavené</string>
     <string name="not_support_sound_transmission_content">Táto funkcia nie je podporovaná pripojeným zariadením.</string>

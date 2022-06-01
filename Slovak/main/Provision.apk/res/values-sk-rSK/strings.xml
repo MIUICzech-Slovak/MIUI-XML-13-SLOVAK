@@ -532,4 +532,6 @@ Pred použitím tejto funkcie musíte súhlasiť so Zásadami ochrany osobných 
 	
 <string name="activate_esim_tips">Nepodarilo sa aktivovať. Skúste to znova.</string>
      <string name="activating_esim_tips">Aktivuje sa…</string>
+	 
+    <string name="other_settings_auto_update_summary_v1">Umožnite MIUI vybrať najlepší čas na stiahnutie a inštaláciu aktualizácií. Vaše zariadenie sa automaticky reštartuje, aby sa uplatnili zmeny.</string>
 </resources>
