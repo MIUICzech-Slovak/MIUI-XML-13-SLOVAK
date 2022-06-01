@@ -798,4 +798,5 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
     <string name="wipe_data_dialog_title">Niektoré položky neboli synchronizované.</string>
     <string name="yesterday">Včera</string>
     <string name="about_mi_account">O účte Mi</string>
+        <string name="phone_register">Použiť telefónne číslo</string>
 </resources>
