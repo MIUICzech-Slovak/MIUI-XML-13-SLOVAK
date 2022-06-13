@@ -1343,4 +1343,22 @@ ale obsah ktorý hľadáte nie je dostupný vo vašej krajine."</string>
     <string name="wifi_check_message">Používať na sťahovanie aktualizácií mobilné dáta?</string>
     <string name="wifi_check_tip">Už nezobrazovať</string>
     <string name="yesterday">Včera</string>
+	
+    <string name="close_custom_permission_warning_text_above_eleven">Bez povolení na ukladanie nebude táto aplikácia schopná prispôsobiť vaše zariadenie. Napriek tomu vypnúť?</string>
+<string name="custom_storage_permission_desc_above_eleven">Ak chcete zmeniť predvoľby prispôsobenia, najskôr povoľte tejto funkcii prístup k úložisku. Toto povolenie môžete udeliť v Nastaveniach.</string>
+    <string name="custom_widget">Odporúčané widgety</string>
+    <string name="privacy_phone_read_and_write_storage_above_eleven">Prístup k úložisku</string>
+    <string name="resource_search_history">História vyhľadávania</string>
+    <string name="set_calling">Nastaviť</string>
+    <string name="system_cta_runtime_perm_desc_storage_above_eleven">Na zmenu predvolieb prispôsobenia</string>
+    <string name="toast_both_all_apply_failured">Nepodarilo sa použiť na plochu alebo uzamknutú obrazovku</string>
+    <string name="toast_both_all_apply_success">Úspešne použité na plochu a uzamknutú obrazovku</string>
+    <string name="toast_home_apply_failured">Nepodarilo sa použiť na plochu</string>
+    <string name="toast_home_apply_success">Úspešne použité na plochu</string>
+    <string name="toast_lockscreen_apply_failured">Nepodarilo sa použiť na uzamknutú obrazovku</string>
+    <string name="toast_lockscreen_apply_failured_but_home_apply_success">Úspešne použité na plochu. Nepodarilo sa použiť na uzamknutú obrazovku.</string>
+    <string name="toast_lockscreen_apply_success">Úspešne aplikované na uzamknutú obrazovku</string>
+    <string name="toast_lockscreen_apply_success_but_home_apply_failured">Úspešne použité na uzamknutú obrazovku. Nepodarilo sa použiť na plochu.</string>
+    <string name="toast_transparent_wallpaper_filter_set_failured">Nepodarilo sa použiť</string>
+    <string name="toast_transparent_wallpaper_filter_set_successfully">Úspešne použité</string>
 </resources>

@@ -799,4 +799,9 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
     <string name="yesterday">Včera</string>
     <string name="about_mi_account">O účte Mi</string>
         <string name="phone_register">Použiť telefónne číslo</string>
+		
+<string name="copy_link">Kopírovať adresu URL</string>
+     <string name="network_error">Vyskytla sa chyba siete.</string>
+     <string name="network_error_hint">Skontrolujte adresu URL a skúste to znova, alebo skopírujte adresu URL a otvorte ju vo svojom prehliadači.</string>
+     <string name="page_load_failed">Stránku nie je možné otvoriť</string>
 </resources>

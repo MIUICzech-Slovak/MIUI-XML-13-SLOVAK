@@ -5603,4 +5603,19 @@ Skúste zväčšiť rozlíšenie!"</string>
     <string name="gb_predownload_noti_title">Úspešne aktualizované %s na pozadí</string>
     <string name="gb_predownload_title">Aktualizácie na pozadí</string>
     <string name="gb_smart_battery_surplus_new">Zostáva %1$s %2$s</string>	
+	
+<string name="antivirus_antidefraud_risk_desc">Táto aplikácia je Národným centrom pre boj proti podvodom klasifikovaná ako aplikácia pre finančné podvody. Odinštalujte ju, aby ste sa vyhli možným rizikám.</string>
+    <string name="antivirus_antidefraud_risk_type">Finančný podvod</string>
+    <string name="antivirus_antidefraud_risk_type_label">Finančné podvody a bezpečnostné riziká</string>
+    <string name="antivirus_detect_apps_dialog_cancel">Ignorovať</string>
+    <string name="antivirus_detect_apps_dialog_content">%s je klasifikovaná ako aplikácia pre finančné podvody Národným centrom pre boj proti podvodom. Táto aplikácia predstavuje značné bezpečnostné riziká.</string>
+    <string name="antivirus_detect_apps_dialog_uninstall">Odinštalovať</string>
+    <string name="antivirus_detect_apps_noti_message">Táto aplikácia predstavuje bezpečnostné riziká</string>
+    <string name="antivirus_detect_apps_noti_title">Viaceré aplikácie vrátane %s môžu predstavovať bezpečnostné riziká</string>
+    <string name="antivirus_detect_single_app_noti_title">%s môže predstavovať bezpečnostné riziko</string>
+    <string name="antivirus_not_remind_for_app">Už na túto aplikáciu neupozorňovať</string>
+    <string name="sp_unshelf_dialog_cancel_pay">Zrušiť</string>
+    <string name="sp_unshelf_dialog_content">%s neprešiel bezpečnostnými testami GetApps. Používanie platieb v aplikácii môže spôsobiť finančné straty. Napriek tomu zaplatiť?</string>
+    <string name="sp_unshelf_dialog_continue_pay">Zaplatiť</string>
+    <string name="sp_unshelf_dialog_title">Zistili sa riziká</string>
 </resources>

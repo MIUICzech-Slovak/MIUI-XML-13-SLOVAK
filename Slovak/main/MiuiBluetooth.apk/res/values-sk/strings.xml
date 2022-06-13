@@ -239,4 +239,8 @@ Rýchlejšie pripojenie."</string>
      <string name="headset_incall_summary">Prijať hovor na %1$s pomocou slúchadiel? Po skončení hovoru zostanú vaše slúchadlá pripojené k tomuto zariadeniu.</string>
      <string name="headset_incall_title">Prijmite hovor pomocou slúchadiel</string>    
 	<string name="fast_connect_connection_fail">Nebolo možné sa pripojiť</string>	 
+	
+<string name="headset_battery_low">Batéria je slabá, dobite ju prosím</string>
+     <string name="headset_connect_timeout">Čas pripojenia vypršal, skúste to znova</string>
+     <string name="headset_not_in_case">Slúchadlá nie sú v púzdre, skúste to znova</string>
 </resources>

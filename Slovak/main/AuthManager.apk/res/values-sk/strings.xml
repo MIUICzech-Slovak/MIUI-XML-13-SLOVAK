@@ -535,4 +535,21 @@
     <string name="wednesday_shortest">S</string>
     <string name="yes">Áno</string>
     <string name="yesterday">Včera</string>
+	
+<string name="grant_dialog_button_only_allow_foreground_locate">Zatiaľ obmedziť</string>
+    <string name="grant_dialog_button_only_allow_foreground_locate_and_dont_ask_again">Vždy obmedziť</string>
+    <string name="permdesc_add_voicemail">Povoliť aplikácii %1$s pridávať systémové hlasové správy?</string>
+    <string name="permdesc_call_phone">Povoliť %1$s volať?</string>
+    <string name="permdesc_get_account">Povoliť aplikácii %1$s prístup ku všetkým účtom uloženým v tomto zariadení?</string>
+    <string name="permdesc_nearby_devices">Povoliť aplikácii %1$s vyh+lada5 zariadenia v okolí a pripájať sa k nim?</string>
+    <string name="permdesc_process_outgoing_call">Povoliť aplikácii %1$s prijímať a ukončovať hovory?</string>
+    <string name="permdesc_read_call_log">Povoliť %1$s prístup k histórii hovorov?</string>
+    <string name="permdesc_read_contacts">Povoliť aplikácii %1$s prístup ku kontaktom?</string>
+    <string name="permdesc_read_mms">Povoliť aplikácii %1$s čítať multimediálne správy?</string>
+    <string name="permdesc_read_phone_state">Povoliť aplikácii %1$s prístup k stavu zariadenia a informáciám o mobilnej sieti?</string>
+    <string name="permdesc_read_sms">Povoliť aplikácii %1$s čítať alebo odosielať SMS správy?</string>
+    <string name="permdesc_send_sms">Povoliť %1$s odosielať SMS?</string>
+    <string name="permdesc_use_sip">Povoliť aplikácii %1$s používať na streamovanie videa protokol Session Initiation Protocol?</string>
+    <string name="permdesc_write_call_log">Povoliť %1$s upravovať históriu hovorov?</string>
+    <string name="permdesc_write_contacts">Povoliť aplikácii %1$s upravovať kontakty?</string>
 </resources>
