@@ -7725,7 +7725,5 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
     <string name="dsda_open_toast">Duálny aktívny režim je zapnutý. Ak chcete použiť zmeny, reštartujte zariadenie.</string>
     <string name="dsda_switch_summary">Povoliť obom SIM kartám súčasne využívať mobilné dáta a telefonovať</string>
     <string name="dsda_switch_title">Duálny aktívny režim</string>
-    <string name="sim_status_title_sim_softbank">Stav SIM karty %1$d</string>
-    <string name="status_number_sim_softbank">Telefónne číslo %1$d</string>
     <string name="sunlight_low_power_notification">Nie je možné zapnúť režim slnečného žiarenia. Batéria je príliš slabá.</string>	
 </resources>
