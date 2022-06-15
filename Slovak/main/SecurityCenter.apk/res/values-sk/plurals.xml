@@ -1029,4 +1029,8 @@ Dajte si pauzu!"</item>
         <item quantity="other">%d min</item>
         <item quantity="one">%d min</item>
     </plurals>    
+<plurals name="mtrl_badge_content_description">
+         <item kvantita="other">%d nových upozornení</item>
+         <item kvantita="one">%d nové upozornenie</item>
+     </plurals>	
 </resources>

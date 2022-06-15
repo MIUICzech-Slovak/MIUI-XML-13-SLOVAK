@@ -1019,4 +1019,16 @@ na zobrazenie widgetov."</string>
     <string name="xspace_resolver_activity_title">vyberte aplikáciu</string>
     <string name="year_month_day_all_format_en">MM.dd.yyyy HH:mm:ss</string>
     <string name="yesterday">Včera</string>
+	
+<string name="pa_accessibility_picker_home_appList_entrance">Zobraziť zoznam podporovaných widgetov</string>
+    <string name="pa_accessibility_picker_home_bigBanner_slected">Vybraté %1$s, riadok %2$d, číslo %3$d. Začnite dvojitým klepnutím.</string>
+    <string name="pa_accessibility_picker_home_search">Vyhľadajte widgety</string>
+    <string name="pa_accessibility_picker_home_smallBanner_slected">Vybraté %1$s, riadok %2$d, číslo %3$d. Začnite dvojitým klepnutím.</string>
+    <string name="pa_accessibility_picker_home_title">Pridať widget</string>
+    <string name="pa_accessibility_picker_home_widget_slected">Vybraté %1$s, riadok %2$d, číslo %3$d. Dvojitým klepnutím zobrazíte podrobnosti. Stlačením a podržaním položku premiestníte.</string>
+    <string name="pa_accessibility_picker_home_widget_with_add_slected">Vybraté %1$s, riadok %2$d, číslo %3$d. Dvojitým klepnutím zobrazíte podrobnosti.</string>
+    <string name="pa_get_installed_app_permission_description">Na inštaláciu aplikácií a pridávanie widgetov</string>
+    <string name="pa_picker_empty">"V tejto verzii aplikácie nie sú k dispozícii widgety."</string>
+    <string name="pa_picker_list_recommend">Odporúča sa</string>
+    <string name="pa_read_storage_permission_description">Na zobrazenie tapety na ploche ako pozadia aplikácie</string>	
 </resources>

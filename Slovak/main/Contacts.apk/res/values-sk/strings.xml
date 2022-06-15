@@ -1525,4 +1525,9 @@ Zvoľte jednu z nasledujúcich možností:</string>
      <string name="manage_external_storage_dialog_positive">Nastavenia</string>
      <string name="manage_external_storage_dialog_title">Vyžadujú sa povolenia</string>
 	
+<string name="invisible_mode_dialog_cancel">Zrušiť</string>
+     <string name="invisible_mode_dialog_to_close">Vypnúť</string>
+     <string name="invisible_mode_title">Ste inkognito</string>
+     <string name="invisible_mode_unable_connect_camera">Vypnite režim inkognito, aby ste mohli používať fotoaparát. Vypnúť teraz?</string>
+     <string name="invisible_mode_unable_get_location">Vypnite režim inkognito, aby ste mohli používať služby určovania polohy a importovať kontakty z iných zariadení cez Bluetooth. Vypnúť teraz?</string>	
 </resources>

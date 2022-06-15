@@ -1966,5 +1966,11 @@ Napriek tomu aktivovať eSIM?"</string>
     <string name="switch_confirm_btn_text">OK</string>
 	
     <string name="nrca_need_reset">Reštartujte zariadenie pre použitie zmien</string>	 
-	
+
+<string name="jp_sb_label_ndp">"Vložila sa USIM karta inej kariéry
+čaká na zadanie odblokovacieho kódu"</string>
+     <string name="jp_sb_sim_lock_unlock_psw_max_length">Zadaný odblokovací kód má menej ako 8 číslic alebo viac ako 16 číslic</string>
+     <string name="jp_sb_unlock_failed">Zlyhanie overenia odomykacieho kódu.</string>
+     <string name="jp_sb_unlock_success">Úspešné overenie odomykacieho kódu.</string>
+	 
 </resources>

@@ -281,4 +281,6 @@ ID zariadenia musí byť platný IMEI alebo MAC adresa. Bez platného ID nebudú
     <string name="xiaomi_cloud_service">MiCloud</string>
     <string name="xmsf_activate_info">XMSF info</string>
     <string name="yesterday">Včera</string>
+	
+    <string name="sim_activate_notificat_channel">Upozornenia na aktiváciu</string>	
 </resources>

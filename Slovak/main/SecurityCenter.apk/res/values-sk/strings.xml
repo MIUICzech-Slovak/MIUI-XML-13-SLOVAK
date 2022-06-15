@@ -5618,4 +5618,16 @@ Skúste zväčšiť rozlíšenie!"</string>
     <string name="sp_unshelf_dialog_content">%s neprešiel bezpečnostnými testami GetApps. Používanie platieb v aplikácii môže spôsobiť finančné straty. Napriek tomu zaplatiť?</string>
     <string name="sp_unshelf_dialog_continue_pay">Zaplatiť</string>
     <string name="sp_unshelf_dialog_title">Zistili sa riziká</string>
+	
+<string name="bubble_app_manage">Spravovať bubliny</string>
+    <string name="bubble_notification">Bubliny</string>
+    <string name="bubble_notification_switch">Povoliť bubliny</string>
+    <string name="bubble_notification_switch_desc">Keď je plávajúce okno skryté na okraji obrazovky, zobraziť jeho upozornenia v bublinách</string>
+    <string name="character_counter_content_description">Zadané znaky %1$d z %2$d</string>
+    <string name="character_counter_overflowed_content_description">Prekročili ste limit počtu znakov %1$d z %2$d</string>
+    <string name="clear_text_end_icon_content_description">Vymazať text</string>
+    <string name="error_icon_content_description">Chyba</string>
+    <string name="exposed_dropdown_menu_content_description">Zobraziť rozbaľovaciu ponuku</string>
+    <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Klepnutím na aplikáciu na bočnom paneli ju otvoríte v plávajúcom okne.
+· Potiahnutím aplikácie do stredu obrazovky ju otvoríte v plávajúcom okne alebo do strany, ak chcete použiť rozdelenú obrazovku."</string>	
 </resources>

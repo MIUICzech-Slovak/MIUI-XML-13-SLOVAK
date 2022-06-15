@@ -7717,4 +7717,15 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
 
     <string name="control_center_force_use_panel_guide_text">Potiahnite oznamovaciu lištu vľavo nadol pre zobrazenie upozornení a vpravo nadol pre zobrazenie ovládačov. Strany môžete prepnúť v nastaveniach.</string>
 	
+<string name="bluetooth_enable_opp_high_speed_dialog_message">Na uplatnenie zmien je potrebné reštartovať Bluetooth. Táto akcia môže prerušiť nadviazané spojenia. Napriek tomu reštartovať Bluetooth?</string>
+    <string name="bluetooth_enable_opp_high_speed_dialog_negative">Zrušiť</string>
+    <string name="bluetooth_enable_opp_high_speed_dialog_positive">Reštartovať</string>
+    <string name="bluetooth_enable_opp_high_speed_dialog_title">Reštartujte Bluetooth</string>
+    <string name="dsda_close_toast">Duálny aktívny režim je vypnutý. Ak chcete použiť zmeny, reštartujte zariadenie.</string>
+    <string name="dsda_open_toast">Duálny aktívny režim je zapnutý. Ak chcete použiť zmeny, reštartujte zariadenie.</string>
+    <string name="dsda_switch_summary">Povoliť obom SIM kartám súčasne využívať mobilné dáta a telefonovať</string>
+    <string name="dsda_switch_title">Duálny aktívny režim</string>
+    <string name="sim_status_title_sim_softbank">Stav SIM karty %1$d</string>
+    <string name="status_number_sim_softbank">Telefónne číslo %1$d</string>
+    <string name="sunlight_low_power_notification">Nie je možné zapnúť režim slnečného žiarenia. Batéria je príliš slabá.</string>	
 </resources>
