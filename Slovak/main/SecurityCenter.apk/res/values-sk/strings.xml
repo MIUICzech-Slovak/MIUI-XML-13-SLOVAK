@@ -5630,4 +5630,8 @@ Skúste zväčšiť rozlíšenie!"</string>
     <string name="exposed_dropdown_menu_content_description">Zobraziť rozbaľovaciu ponuku</string>
     <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Klepnutím na aplikáciu na bočnom paneli ju otvoríte v plávajúcom okne.
 · Potiahnutím aplikácie do stredu obrazovky ju otvoríte v plávajúcom okne alebo do strany, ak chcete použiť rozdelenú obrazovku."</string>	
+
+<string name="app_predict_folder_tips">Návrhy na základe vášho používania</string>
+     <string name="app_predict_settings_train_tip">Automatická optimalizácia návrhov</string>
+     <string name="gb_game_tips_restart">Hra sa reštartuje, aby sa použili zmeny</string>
 </resources>

@@ -2716,4 +2716,6 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
     <string name="float_notification_snooze_strategy">Dočasne skryť upozornenia</string>
 	<string name="reboot_info_auto_boot_global">Nasledujúci budík: %s</string>
      <string name="reboot_info_shutdown_alarm_global">Vypnúť budík: %s</string>    
+	 
+<string name="quick_settings_low_battery_toast_text">Nie je možné použiť svietidlo. Batéria je príliš slabá.</string>	 
 </resources>
