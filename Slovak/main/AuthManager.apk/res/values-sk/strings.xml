@@ -552,4 +552,6 @@
     <string name="permdesc_use_sip">Povoliť aplikácii %1$s používať na streamovanie videa protokol Session Initiation Protocol?</string>
     <string name="permdesc_write_call_log">Povoliť %1$s upravovať históriu hovorov?</string>
     <string name="permdesc_write_contacts">Povoliť aplikácii %1$s upravovať kontakty?</string>
+	
+    <string name="precise_location_title">Presná poloha</string>	
 </resources>
