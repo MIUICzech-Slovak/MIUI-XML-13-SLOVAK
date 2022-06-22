@@ -1972,5 +1972,6 @@ Napriek tomu aktivovať eSIM?"</string>
      <string name="jp_sb_sim_lock_unlock_psw_max_length">Zadaný odblokovací kód má menej ako 8 číslic alebo viac ako 16 číslic</string>
      <string name="jp_sb_unlock_failed">Zlyhanie overenia odomykacieho kódu.</string>
      <string name="jp_sb_unlock_success">Úspešné overenie odomykacieho kódu.</string>
-	 
+
+<string name="data_interruption_remind">Zdá sa, že vaše sieťové prostredie nie je spoľahlivé. Ak chcete zlepšiť pripojenie, povoľte používanie mobilných dát počas hovorov VoLTE na druhej SIM.</string>	
 </resources>
