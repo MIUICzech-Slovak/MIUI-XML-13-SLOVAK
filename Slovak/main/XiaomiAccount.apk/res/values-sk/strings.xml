@@ -804,4 +804,7 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
      <string name="network_error">Vyskytla sa chyba siete.</string>
      <string name="network_error_hint">Skontrolujte adresu URL a skúste to znova, alebo skopírujte adresu URL a otvorte ju vo svojom prehliadači.</string>
      <string name="page_load_failed">Stránku nie je možné otvoriť</string>
+	
+<string name="user_agreement_network_permission_msg">Potrebujeme sa pripojiť k internetu, aby sme vám mohli poskytnúť potrebné služby.</string>
+     <string name="user_agreement_use_account_msg">Účet Xiaomi vám umožňuje prístup ku všetkým službám poskytovaným spoločnosťou Xiaomi.</string>	
 </resources>
