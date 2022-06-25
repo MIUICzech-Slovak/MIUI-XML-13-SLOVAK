@@ -177,7 +177,7 @@
         <item>Nepravidelný spánok. Vytvorte si spánkový plán a držte sa ho.</item>
     </string-array>
     <string-array name="health_sleep_snore_guide_descriptions">
-        <item>Počas spánku sa bude nahrávať zvuk. Strojové učenie umožňuje Mi Fitness detekovať chrápanie, hovorenie a hlasné zvuky a ukladať nahrávky do vášho telefónu.</item>
+        <item>Počas spánku sa bude nahrávať zvuk. Strojové učenie umožňuje Xiaomi Fitness detekovať chrápanie, hovorenie a hlasné zvuky a ukladať nahrávky do vášho telefónu.</item>
         <item>Mikrofón sa bude zapínať a vypínať podľa vášho plánu večierky.</item>
         <item>Pred odchodom do postele sa uistite, že je váš telefón dostatočne nabitý. Slabá batéria môže prerušiť nahrávanie zvuku.</item>
     </string-array>

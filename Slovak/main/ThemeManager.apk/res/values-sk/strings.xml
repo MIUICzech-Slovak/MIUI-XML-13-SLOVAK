@@ -103,14 +103,14 @@
     <string name="common_downloading">Preberá sa…</string>
     <string name="common_format_date_no_year">dd.MM.</string>
     <string name="common_skip">Preskočiť</string>
-    <string name="community_community_message_trigger_summary">Prijímať upozornenia na odpovede, hodnotenia Páči sa mi a aktualizácie stavu komunity Mi pomocou ID účtu Mi</string>
+    <string name="community_community_message_trigger_summary">Prijímať upozornenia na odpovede, hodnotenia Páči sa mi a aktualizácie stavu komunity Xiaomi pomocou ID účtu Mi</string>
     <string name="community_community_message_trigger_title">Upozorniť na aktivitu</string>
     <string name="community_cta_dialog_cancel">Nie, ďakujem</string>
-    <string name="community_cta_dialog_des">Témy tretích strán teraz podporujú widget Mi Community. Povoľte motívom prístup k vášmu ID účtu Mi a stavom komunity Mi priradeným k účtu, aby ste si ich mohli pozrieť tu.</string>
+    <string name="community_cta_dialog_des">Témy tretích strán teraz podporujú widget Xiaomi Community. Povoľte motívom prístup k vášmu ID účtu Xiaomi a stavom komunity Xiaomi priradeným k účtu, aby ste si ich mohli pozrieť tu.</string>
     <string name="community_cta_dialog_ok">Povoliť</string>
     <string name="community_cta_dialog_title">Vyžadujú sa povolenia</string>
-    <string name="community_entrance_summary">Nájdite v komunite Mi obsah súvisiaci s témou. Túto funkciu podporujú vybrané témy.</string>
-    <string name="community_entrance_title">Miniaplikácia hodín Mi Community</string>
+    <string name="community_entrance_summary">Nájdite v komunite Xiaomi obsah súvisiaci s témou. Túto funkciu podporujú vybrané témy.</string>
+    <string name="community_entrance_title">Miniaplikácia hodín Xiaomi Community</string>
     <string name="community_message_trigger_disabled">Vypnuté</string>
     <string name="community_message_trigger_triggered">Zapnuté</string>
     <string name="component_backup_preference_title">Zálohovať tému</string>
@@ -286,7 +286,7 @@
     <string name="gift_owned">Lokálne</string>
     <string name="gift_present">Darovať</string>
     <string name="gift_present_dlg_anonymous">Anonymný dar</string>
-    <string name="gift_present_dlg_input_hint">Mi ID / telefónne číslo</string>
+    <string name="gift_present_dlg_input_hint">Xiaomi ID / telefónne číslo</string>
     <string name="gift_present_dlg_no_fee">Odosielanie darov nie je spoplatnené</string>
     <string name="gift_present_dlg_present_max_limit">Táto téma už bola darovaná %1$s krát (max. počet).</string>
     <string name="gift_present_dlg_share">Generovať kód a odoslať</string>
@@ -294,7 +294,7 @@
     <string name="gift_present_fail_dlg_title">Nie je možné odoslať ako dar</string>
     <string name="gift_present_success_dlg_content">Po doručení daru bude odoslaná SMS tejto osobe.</string>
     <string name="gift_present_success_dlg_title">dar odoslaný</string>
-    <string name="gift_present_success_no_sms_dlg_content">História darov je zobrazená vo vašom Mi účte.</string>
+    <string name="gift_present_success_no_sms_dlg_content">História darov je zobrazená vo vašom Xiaomi účte.</string>
     <string name="gift_presented">Odoslané</string>
     <string name="gift_purchase_success_dlg_content">Zakúpili ste %1$s ako dar. Pre odoslanie choďte do tém vo vašom účte.</string>
     <string name="gift_purchase_success_dlg_title">Zakúpený dar</string>
@@ -655,7 +655,7 @@ Všetky položky prispôsobenia aktuálne používané v tomto zariadení. Predv
 2. Vaše odvolanie súhlasu so Zásadami ochrany osobných údajov tém neovplyvní bežné používanie iných produktov Xiaomi.
 3. Odvolanie súhlasu je nevratný úkon. Pred pokračovaním si zálohujte všetky dôležité položky, pretože môžu byť natrvalo odstránené. Pamätajte, že po odvolaní súhlasu už nebudete môcť svoje rozhodnutie prehodnotiť. Nasledujúce údaje budú po odvolaní súhlasu natrvalo vymazané alebo anonymizované (ak nie je inak stanovené zákonmi a nariadeniami alebo inak vyžadované regulačnými orgánmi):"</string>
     <string name="privacy_phone_revoke_agree_detail_content_2">"Všetky objednávky (vrátane platených objednávok) uskutočnené na zariadeniach Xiaomi, kde ste použili svoj účet Mi. Zakúpené položky už nebudete môcť používať.
-Všetky informácie o vašich lajkoch, komentároch, hodnoteniach a sledovateľoch sú generované na zariadeniach Xiaomi, kde ste používali svoj Mi účet.
+Všetky informácie o vašich lajkoch, komentároch, hodnoteniach a sledovateľoch sú generované na zariadeniach Xiaomi, kde ste používali svoj Xiaomi účet.
 Všetky témy, tapety, dynamické tapety, písma, ikony a vyzváňacie tóny stiahnuté do tohto zariadenia.
 Všetky záznamy histórie vyhľadávania, preferencie povolení, nastavenia a položky vo vyrovnávacej pamäti vygenerované na tomto zariadení.
 Všetky položky prispôsobenia aktuálne používané v tomto zariadení. Predvolené nastavenia prispôsobenia budú obnovené."</string>
@@ -672,7 +672,7 @@ Všetky položky prispôsobenia aktuálne používané v tomto zariadení. Predv
     <string name="privacy_remind_user_mode_content">Ak chcete používať túto funkciu, vyjadrite súhlas s našimi zásadami ochrany osobných údajov. Prečítajte si naše Zásady ochrany súkromia.</string>
     <string name="privacy_remind_user_mode_title">Pozor</string>
     <string name="privacy_revoke_agree_content">Odvolanie súhlasu</string>
-    <string name="privacy_revoke_agree_content_1">1. Všetky objednávky (vrátane platených objednávok) uskutočnené na zariadeniach Xiaomi, kde ste použili svoj Mi účet. Zakúpené položky už nebudete môcť používať.</string>
+    <string name="privacy_revoke_agree_content_1">1. Všetky objednávky (vrátane platených objednávok) uskutočnené na zariadeniach Xiaomi, kde ste použili svoj Xiaomi účet. Zakúpené položky už nebudete môcť používať.</string>
     <string name="privacy_revoke_agree_content_2">2. Všetky informácie o vašich označeniach páči sa mi, komentároch, hodnoteniach a sledovateľoch generované na zariadeniach Xiaomi, kde ste používali svoj účet Mi.</string>
     <string name="privacy_revoke_agree_content_5">5. Všetky položky prispôsobenia aktuálne používané v tomto zariadení. Predvolené nastavenia prispôsobenia budú obnovené.</string>
     <string name="privacy_revoke_agree_data_warning">Nasledujúce údaje budú po odvolaní súhlasu natrvalo odstránené alebo anonymizované (ak nie je inak stanovené zákonmi a predpismi alebo inak vyžadované regulačnými orgánmi):</string>
@@ -686,7 +686,7 @@ Všetky položky prispôsobenia aktuálne používané v tomto zariadení. Predv
 2. Vaše odvolanie súhlasu so Zásadami ochrany osobných údajov tapety a prispôsobenia neovplyvní bežné používanie iných produktov Xiaomi.
 3. Odvolanie súhlasu je nevratný úkon. Pred pokračovaním si zálohujte všetky dôležité položky, pretože môžu byť natrvalo odstránené. Pamätajte, že po odvolaní súhlasu už nebudete môcť svoje rozhodnutie prehodnotiť. Nasledujúce údaje budú po odvolaní súhlasu natrvalo vymazané alebo anonymizované (ak nie je inak stanovené zákonmi a nariadeniami alebo inak vyžadované regulačnými orgánmi):"</string>
     <string name="private_pad_fold_revoke_agree_detail_content_2">"Všetky objednávky (vrátane platených objednávok) uskutočnené na zariadeniach Xiaomi, kde ste použili svoj účet Mi. Zakúpené položky už nebudete môcť používať.
-Všetky informácie o vašich lajkoch, komentároch, hodnoteniach a sledovateľoch sú generované na zariadeniach Xiaomi, kde ste používali svoj Mi účet.
+Všetky informácie o vašich lajkoch, komentároch, hodnoteniach a sledovateľoch sú generované na zariadeniach Xiaomi, kde ste používali svoj Xiaomi účet.
 Všetky tapety, písma a vyzváňacie tóny stiahnuté do tohto zariadenia.
 Všetky predvoľby povolení, nastavenia a položky vo vyrovnávacej pamäti vygenerované na tomto zariadení.
 Všetky položky prispôsobenia aktuálne používané v tomto zariadení. Predvolené nastavenia prispôsobenia budú obnovené."</string>
@@ -722,7 +722,7 @@ Toto povolenie môžete udeliť v časti Nastavenia &gt; Ochrana osobných údaj
     <string name="resource_account_abnormal_state">Chyba účtu: Skúste to opäť neskôr.</string>
     <string name="resource_account_fail_to_add">Pridávanie účtu zlyhalo.</string>
     <string name="resource_account_login">Prihlásiť</string>
-    <string name="resource_account_login_before_action">Musíte sa najskôr prihlásiť Vašim Mi účtom.</string>
+    <string name="resource_account_login_before_action">Musíte sa najskôr prihlásiť Vašim Xiaomi účtom.</string>
     <string name="resource_account_login_title">Prihlásiť</string>
     <string name="resource_account_switch">Prepnúť</string>
     <string name="resource_alarm_default">Budík</string>
@@ -835,7 +835,7 @@ Toto povolenie môžete udeliť v časti Nastavenia &gt; Ochrana osobných údaj
     <string name="resource_free_trial_15_days">Vyskúšajte si na 15 dní zdarma</string>
     <string name="resource_free_use_last_one_day">Skušobná doba skončila.</string>
     <string name="resource_get_auth_checking">Kontrola autorizácie...</string>
-    <string name="resource_get_auth_exceed_max_limit_tips">Zvolený vzhľad nemôže byť aplikovaný na tomto telefóne s Vašim Mi účtom. Na jeden účet je možné prihlásiť len maximálne 10 zariadení za rok. Vložte iný Mi účet.</string>
+    <string name="resource_get_auth_exceed_max_limit_tips">Zvolený vzhľad nemôže byť aplikovaný na tomto telefóne s Vašim Xiaomi účtom. Na jeden účet je možné prihlásiť len maximálne 10 zariadení za rok. Vložte iný Xiaomi účet.</string>
     <string name="resource_get_auth_exceed_max_limit_tips_pad">Prispôsobenie môžete použiť s jedným účtom až na 10 zariadeniach.</string>
     <string name="resource_get_auth_exceed_max_limit_title">Autorizácia zariadení pre tento účet presiahla limit</string>
     <string name="resource_get_auth_has_been_undercarriaged">Táto téma už nie je dostupná</string>
@@ -1178,7 +1178,7 @@ ale obsah ktorý hľadáte nie je dostupný vo vašej krajine."</string>
     <string name="title_system_audio_notification_resource">Upozornenia systému</string>
     <string name="title_system_audio_resource">Systémové zvonenia</string>
     <string name="title_system_wallpaper_resource">Systémové tapety</string>
-    <string name="to_activate_the_account">Aktivovať Mi účet.</string>
+    <string name="to_activate_the_account">Aktivovať Xiaomi účet.</string>
     <string name="today">Dnes</string>
     <string name="tomorrow">Zajtra</string>
     <string name="trans_wallpaper_offline_notice">"Priehľadné tapety nie sú k dispozícii"</string>

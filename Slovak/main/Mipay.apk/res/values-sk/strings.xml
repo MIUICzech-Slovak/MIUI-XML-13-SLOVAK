@@ -17,7 +17,7 @@
     <string name="mipay_bank_card_number_error">Please check your account number</string>
     <string name="mipay_bank_card_phone">Phone</string>
     <string name="mipay_bank_card_phone_hint">"Bank account's corresponding personal phone number"</string>
-    <string name="mipay_bank_card_safe_info">This service is encrypted and authorized by Mi and Bank</string>
+    <string name="mipay_bank_card_safe_info">This service is encrypted and authorized by Xiaomi and Bank</string>
     <string name="mipay_bank_card_support_list">Supported banks</string>
     <string name="mipay_bank_card_tail_number">Card no. %1$s</string>
     <string name="mipay_bank_card_type">%1$s-%2$s</string>
@@ -44,7 +44,7 @@
     <string name="mipay_cancel_modify_password">Give up modifying your payment password?</string>
     <string name="mipay_cancel_pay">Give up purchasing?</string>
     <string name="mipay_cancel_unbind_bank_card">Give up unbinding bank card?</string>
-    <string name="mipay_check_login_password_summary">Please enter your Mi account password</string>
+    <string name="mipay_check_login_password_summary">Please enter your Xiaomi account password</string>
     <string name="mipay_check_order_title">Counter</string>
     <string name="mipay_check_password_summary">Enter your PIN first</string>
     <string name="mipay_check_personal_info_error">Please check your personal information</string>
@@ -75,7 +75,7 @@ Please check your local date and try again."</string>
     <string name="mipay_format_date">MMM. dd, yyyy</string>
     <string name="mipay_format_time">MMM dd, yyyy hh:mmaa</string>
     <string name="mipay_loading">Loading…</string>
-    <string name="mipay_login_password_error">Please check your Mi account password</string>
+    <string name="mipay_login_password_error">Please check your Xiaomi account password</string>
     <string name="mipay_order_id">Order:</string>
     <string name="mipay_order_title">Product:</string>
     <string name="mipay_password_error">Please check you payment password</string>

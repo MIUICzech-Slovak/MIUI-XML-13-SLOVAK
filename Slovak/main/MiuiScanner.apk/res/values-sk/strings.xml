@@ -82,7 +82,7 @@
     <string name="connect_to_wifi">Pripojiť sa k tejto sieti</string>
     <string name="connect_wifi">Pripojte sa k sieti</string>
     <string name="contact_details">"QR kód kontakt: "</string>
-    <string name="content_desktop_uninstall">"Skener je systémová aplikácia. Po odinštalovaní aplikácie nebudete môcť používať súvisiace funkcie v Mi Browser, Camera, Mi AI, Kontaktov a ďalších systémových službách."</string>
+    <string name="content_desktop_uninstall">"Skener je systémová aplikácia. Po odinštalovaní aplikácie nebudete môcť používať súvisiace funkcie v Xiaomi Browser, Camera, Xiaomi AI, Kontaktov a ďalších systémových službách."</string>
     <string name="continue_access_web_url">Otvoriť webstránku</string>
     <string name="continue_to_website">Otvoriť webstránku</string>
     <string name="continue_waiting">Čakajte ďalej</string>
@@ -162,7 +162,7 @@
     <string name="error_permissions">skener nemá potrebné povolenia pre jeho správne fungovanie. Skontrolujte nastavenie povolení a skúste to znova.</string>
     <string name="error_server_error">Chyba servera</string>
     <string name="expand_button_title">Rozšírené</string>
-    <string name="experience_new_feature_tips">"Prihláste sa do svojho účtu Mi a požiadajte o povolenia na používanie beta verzie. Beta verziu budete môcť používať, keď vašu aplikáciu skontrolujeme. Beta verzia môže obsahovať chyby."</string>
+    <string name="experience_new_feature_tips">"Prihláste sa do svojho účtu Xiaomi a požiadajte o povolenia na používanie beta verzie. Beta verziu budete môcť používať, keď vašu aplikáciu skontrolujeme. Beta verzia môže obsahovať chyby."</string>
     <string name="experience_new_features">Beta verzia</string>
     <string name="experiential_version_of_the_prompt_content">Ak chcete získať prístup k beta verzii skenera, prihláste sa do svojho účtu Mi. Prihláste sa teraz?</string>
     <string name="fax">Fax</string>
@@ -242,9 +242,9 @@
     <string name="low_version_tip">Skener nemôže byť spustený na tejto verzii MIUI. Aktualizujte na najnovšiu verziu systému.</string>
     <string name="mihome_goto_install">Inštalovať</string>
     <string name="mihome_goto_update">Aktualizovať</string>
-    <string name="mihome_install_message">Najprv si nainštalujte aplikáciu Mi Home a prihláste sa do nej.</string>
-    <string name="mihome_install_title">Nainštalovať Mi Home</string>
-    <string name="mihome_update_message">Aktualizujte Mi Home na najnovšiu verziu a skúste to znova.</string>
+    <string name="mihome_install_message">Najprv si nainštalujte aplikáciu Xiaomi Home a prihláste sa do nej.</string>
+    <string name="mihome_install_title">Nainštalovať Xiaomi Home</string>
+    <string name="mihome_update_message">Aktualizujte Xiaomi Home na najnovšiu verziu a skúste to znova.</string>
     <string name="mihome_update_title">Aktualizovať domovskú stránku Mi</string>
     <string name="mipayin_dialog_more">Viac</string>
     <string name="mipayin_dialog_title">Otvoriť pomocou</string>

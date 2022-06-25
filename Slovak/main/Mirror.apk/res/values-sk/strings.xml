@@ -171,7 +171,7 @@ Zatvorte túto stránku a skúste to znova."</string>
     <string name="pad_settings_connect_pc_group">Práca s počítačom</string>
     <string name="pad_settings_connect_phone_group">Práca s telefónom</string>
     <string name="pad_settings_connect_summary1">Stiahnite si a nainštalujte MIUI+ do svojho počítača: www.miui.com</string>
-    <string name="pad_settings_connect_summary2">Naskenujte pomocou mobilného zariadenia QR kód na obrazovke počítača. Môžete na to použiť viacero systémových aplikácií (napr. Scanner, Camera, Mi Browser).</string>
+    <string name="pad_settings_connect_summary2">Naskenujte pomocou mobilného zariadenia QR kód na obrazovke počítača. Môžete na to použiť viacero systémových aplikácií (napr. Scanner, Camera, Xiaomi Browser).</string>
     <string name="pad_settings_feature_characteristics_summary_1">Skopírujte text do svojho mobilného zariadenia a vložte ho do počítača, pridajte obrázky a synchronizujte úpravy v dokumentoch.</string>
     <string name="pad_settings_feature_characteristics_summary_2">Presuňte položky do zariadenia a zo zariadenia presunutím myšou.</string>
     <string name="pad_settings_feature_characteristics_summary_3">Stačí priblížiť zariadenie k predtým pripojenému počítaču, aby sa znova automaticky pripojilo.</string>
@@ -233,7 +233,7 @@ Zatvorte túto stránku a skúste to znova."</string>
     <string name="settings_connect">Ako sa pripojiť</string>
     <string name="settings_connect_more_help">Pomoc</string>
     <string name="settings_connect_pc_group">Práca s PC</string>
-    <string name="settings_connect_summary1">Otvorte \"MiSmart Share\" na vašom PC a vyberte \"MIUI+\". \"Mi Smart Share\" môžete stiahnuť z https://pc.mi.com/aiot.</string>
+    <string name="settings_connect_summary1">Otvorte \"MiSmart Share\" na vašom PC a vyberte \"MIUI+\". \"Xiaomi Smart Share\" môžete stiahnuť z https://pc.mi.com/aiot.</string>
     <string name="settings_connect_summary2">Načítajte QR kód z vášho PC mobilným telefónom.</string>
     <string name="settings_connect_title1">Krok 1</string>
     <string name="settings_connect_title2">Krok 2</string>

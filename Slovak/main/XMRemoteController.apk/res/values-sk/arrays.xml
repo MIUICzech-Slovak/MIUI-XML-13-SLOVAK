@@ -7,9 +7,9 @@
         <item>Ventilátor</item>
     </string-array>
     <string-array name="answer">
-        <item>Prístroj môžete spárovať len s Mi TV, Mi Box a ďalšími Android zariadeniami pomocou Wi-Fi.</item>
+        <item>Prístroj môžete spárovať len s Xiaomi TV, Xiaomi Box a ďalšími Android zariadeniami pomocou Wi-Fi.</item>
         <item>Uistite sa, že ste vybrali správny A/C model v procese párovania. Postupujte podľa pokynov v zariadení, kým sa párovanie nedokončí.</item>
-        <item>Nie. V súčasnosti môžete používať ako IR diaľkové Mi 4, Mi 4c a Redmi Note 2.</item>
+        <item>Nie. V súčasnosti môžete používať ako IR diaľkové Xiaomi 4, Xiaomi 4c a Redmi Note 2.</item>
     </string-array>
     <string-array name="epg_week_tab">
         <item>Ned.</item>
@@ -23,6 +23,6 @@
     <string-array name="question">
         <item>Prečo môj telefón stále hľadá bezdrôtové prístroje?</item>
         <item>Prečo môžem len zapnuť moje A/C, ale nie vypnúť?</item>
-        <item>Môžem použiť Mi 3, Mi 2 a Redmi ako IR diaľkové?</item>
+        <item>Môžem použiť Xiaomi 3, Xiaomi 2 a Redmi ako IR diaľkové?</item>
     </string-array>
 </resources>

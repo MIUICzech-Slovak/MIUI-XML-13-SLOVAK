@@ -1225,7 +1225,7 @@ Objekt bude ostrý na rozmazanom pozadí."</string>
     <string name="remote_online_guide">Zapnite Duálne nahrávanie na druhom zariadení pomocou prepínača v Centre ovládania.</string>
     <string name="remote_online_interrupted">Odpojené. Pre pokračovanie sa pripojte.</string>
     <string name="remote_online_introduction_i">Pomocou funkcie Duálne nahrávanie môžete skombinovať videá z dvoch odlišných zariadení v jedno. Náhľad obidvoch videí a finálne video bude dostupné na tomto zariadení. Upozorňujeme, že zvuk videa bude nahrávaný len na tomto zariadení.</string>
-    <string name="remote_online_introduction_ii">Pre použitie tejto funkcie musí iné Mi alebo Redmi zariadenie podporovať funkciu Duálne nahrávanie. Túto funkciu môžete zapnúť ťuknutím na prepínač v Centre ovládania.</string>
+    <string name="remote_online_introduction_ii">Pre použitie tejto funkcie musí iné Xiaomi alebo Redmi zariadenie podporovať funkciu Duálne nahrávanie. Túto funkciu môžete zapnúť ťuknutím na prepínač v Centre ovládania.</string>
     <string name="remote_online_permission">Ak chcete používať duálne nahrávanie, zmeňte povolenie nastavenia polohy fotoaparátu na „Povoliť len počas používania aplikácie“.</string>
     <string name="remote_online_searching">Vyhľadávajú sa zariadenia…</string>
     <string name="remote_online_service_name">Nahrávanie pomocou dvoch telefónov</string>

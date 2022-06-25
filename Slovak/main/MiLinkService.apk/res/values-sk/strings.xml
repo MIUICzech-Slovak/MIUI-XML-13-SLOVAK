@@ -111,17 +111,17 @@ Ak máte problémy s pripojením, otvorte pomocníka."</string>
     <string name="help_page_text_03">Prenos je premietanie položiek z obrazovky vášho telefónu na väčší externý monitor. Umožňuje vám to zdieľať obrázky a videá s vašimi priateľmi a rodinou bez použitia mobilných dát.</string>
     <string name="help_page_text_04">Ako môžem prenášať položky na väčšiu obrazovku?</string>
     <string name="help_page_text_05">Krok 1: Skontrolujte vaše zariadenia a sieťové prostredie</string>
-    <string name="help_page_text_06">"1. Pre prenos z Mi telefónu do Mi televízie nie je potrebné pripojenie na internet.
+    <string name="help_page_text_06">"1. Pre prenos z Xiaomi telefónu do Xiaomi televízie nie je potrebné pripojenie na internet.
 2. Ak sa vám nedarí vytvoriť spojenie medzi dvomi zariadeniami, skúste ich pripojiť na rovnakú Wi-Fi sieť."</string>
-    <string name="help_page_text_06_global">"1. Mi Televízie, Mi Boxy a Mi Projektory:
+    <string name="help_page_text_06_global">"1. Xiaomi Televízie, Xiaomi Boxy a Xiaomi Projektory:
 Pre čo najlepší efekt pripojte telefón a externý monitor na rovnakú Wi-Fi sieť. Pri pripojení na rozdielne siete môže vyhľadávanie a pripojenie k externému monitoru trvať dlhšie.
-Poznámka: Staršie Mi Televízie nemusia podporovať prenášanie naskrz rôznymi sieťami.
+Poznámka: Staršie Xiaomi Televízie nemusia podporovať prenášanie naskrz rôznymi sieťami.
 2. Ak používate televízie, set-top boxy a projektory iných značiek, pripojte telefón aj externý monitor k rovnakej Wi-Fi sieti.
 Ak obidve zariadenia nie je možné pripojiť k rovnakej sieti, zapnite na vašom externom monitore Miracast. Pomenovanie funkcie Miracast sa môže líšiť."</string>
     <string name="help_page_text_08">Krok 2: Spustenie prenosu</string>
     <string name="help_page_text_09">Ťuknite na \"Prenos\" v Notifikačnej roletke vášho telefónu. Pre stabilnejší prenos spustite Wi-Fi a Bluetooth.</string>
     <string name="help_page_text_09_global">Stlačte tlačidlo \"Vysielať\" v roletke. Povoľte Wi-fi a Bluetooth pre stabilnejšie pripojenie.</string>
-    <string name="help_page_text_10">Ak chcete prenášať položky z Galérie alebo Mi Videa, môžete na to použiť vstavané aplikácie v týchto aplikáciách.</string>
+    <string name="help_page_text_10">Ak chcete prenášať položky z Galérie alebo Xiaomi Videa, môžete na to použiť vstavané aplikácie v týchto aplikáciách.</string>
     <string name="help_page_text_11">Krok 3: Vyberte zariadenie</string>
     <string name="help_page_text_12">Vyberte externé zariadenie zo zoznamu dostupných zariadení pre spustenie prenosu.</string>
     <string name="help_page_text_13">Nedá sa pripojiť k externému zariadeniu?</string>
@@ -136,8 +136,8 @@ Pripojte váš telefón a externý monitor (napr. vašu televíziu) na rovnakú 
 3. Ak chcete používať iné zariadenie ako Xiaomi a neviete ho nájsť v zozname dostupných zariadení, vyskúšajte nasledovné:
 Pripojte váš telefón a externý monitor (napr. vašu televíziu) na rovnakú Wi-Fi sieť alebo pripojte externý monitor na hotspot vášho telefónu."</string>
     <string name="help_page_text_15">Funkcionalita Miracast na rôznych zariadeniach</string>
-    <string name="help_page_text_16">Mi TV/Mi Projektor</string>
-    <string name="help_page_text_17">"Na väčšine modeloch Mi TV s Bluetooth môžete premietať položky z vášho Mi telefónu bez manuálneho spustenia funkcie Miracast.
+    <string name="help_page_text_16">Xiaomi TV/Xiaomi Projektor</string>
+    <string name="help_page_text_17">"Na väčšine modeloch Xiaomi TV s Bluetooth môžete premietať položky z vášho Xiaomi telefónu bez manuálneho spustenia funkcie Miracast.
 Ak je potrebné spustiť funkciu Miracast, stlačte tlačidlo [MENU] a vyberte Moje aplikácie &gt; Prenos &gt; Miracast."</string>
     <string name="help_page_text_17_1">Zákaznícka podpora Xiaomi: 400-100-5678</string>
     <string name="help_page_text_18">Samsung TV</string>
@@ -241,7 +241,7 @@ Ak je potrebné spustiť funkciu Miracast, stlačte tlačidlo [MENU] a vyberte M
     <string name="month_september_short">Sep</string>
     <string name="month_september_shortest">S</string>
     <string name="nfc_connect_failed_toast">Vysielanie zlyhalo. Skúste to znovu.</string>
-    <string name="notification_rc_title">Asistent XiaoMi TV</string>
+    <string name="notification_rc_title">Asistent XiaoXiaomi TV</string>
     <string name="notification_show_more">Ťuknite pre viac funkcií</string>
     <string name="notify">Vysielanie pracuje na pozadí</string>
     <string name="open_game_accelerate">Povoliť Game Turbo</string>

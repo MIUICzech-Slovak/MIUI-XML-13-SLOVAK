@@ -511,7 +511,7 @@ Vzorkovacia frekvencia"</string>
     <string name="camera_key_action_app_title">Otvoriť aplikáciu</string>
     <string name="camera_key_action_category_title">Použite, pokiaľ nie je zapnutý fotoaparát</string>
     <string name="camera_key_action_none_title">Bez akcie</string>
-    <string name="camera_key_action_setting_title">Mi tlačidlo</string>
+    <string name="camera_key_action_setting_title">Xiaomi tlačidlo</string>
     <string name="camera_key_action_shortcut_call">Volať</string>
     <string name="camera_key_action_shortcut_home">Späť domov</string>
     <string name="camera_key_action_shortcut_screenshot">Vytvoriť snímok</string>
@@ -1784,9 +1784,9 @@ Máte tiež aktívne pripojenie k sieti VPN, ktorá môže sledovať vašu akti
     <string name="phone_hint">Telefón otvoríte prejdením prstom od ikony</string>
     <string name="phone_label">otvoriť telefón</string>
     <string name="phone_locked_foget_password">Zabudli ste heslo?</string>
-    <string name="phone_locked_foget_password_content">"Môžete sa prihlásiť na i.mi.com svojim Mi účtom ktorý je prepojený s týmto zariadením a vymazať vaše dáta. Všetky vaše dáta v tomto zariadení budú vymazané. Potom môžete reštartovať zariadenie a obnoviť vaše kontakty, SMS, fotografie z Mi Cloud ak ste mali povolenú synchronizáciu. 
+    <string name="phone_locked_foget_password_content">"Môžete sa prihlásiť na i.mi.com svojim Xiaomi účtom ktorý je prepojený s týmto zariadením a vymazať vaše dáta. Všetky vaše dáta v tomto zariadení budú vymazané. Potom môžete reštartovať zariadenie a obnoviť vaše kontakty, SMS, fotografie z Xiaomi Cloud ak ste mali povolenú synchronizáciu. 
  
- Nebude možné toto vykonať kým sa neprihlásite k vášmu Mi účtu na tomto zariadení."</string>
+ Nebude možné toto vykonať kým sa neprihlásite k vášmu Xiaomi účtu na tomto zariadení."</string>
     <string name="phone_locked_foget_password_footer">"Postup:
  Prihláste sa na i.mi.com, choďte na “Find device”, vyberte zariadenie a potvrďte Wipe device."</string>
     <string name="phone_locked_foget_password_header">Čo mám robiť ak som zabudol heslo?</string>

@@ -101,7 +101,7 @@
 alebo zadajte heslo"</string>
     <string name="access_control_need_to_unlock_nofingerprint">Zadajte heslo</string>
     <string name="access_control_recording_intro_header">Nakreslite vzor pre uzamknutie aplikácií</string>
-    <string name="access_control_reset_by_account">Prihláste sa na Mi účet pre deaktivovanie zámku aplikácií</string>
+    <string name="access_control_reset_by_account">Prihláste sa na Xiaomi účet pre deaktivovanie zámku aplikácií</string>
     <string name="accessibility_service_description">Táto funkcia je len pre Čínu. Na jej odstránení pracujeme...</string>
     <string name="action_button_text_100">Optimalizovať</string>
     <string name="action_button_text_60">Opraviť</string>
@@ -168,7 +168,7 @@ alebo zadajte heslo"</string>
     <string name="adb_install_open_error">Nebolo možné povoliť. Skontrolujte vaše nastavenie siete.</string>
     <string name="adb_install_reject_notiy">Nepovolená inštalácia %s cez USB</string>
     <string name="adb_install_reject_notiy_desc">Môžete povoliť inštaláciu cez USB v nastaveniach pre vývojárov</string>
-    <string name="adb_login_xiaomi_account">Najskôr sa prihláste k vášmu Mi účtu</string>
+    <string name="adb_login_xiaomi_account">Najskôr sa prihláste k vášmu Xiaomi účtu</string>
     <string name="add_auto_task_desktop_icon">Pridať odkaz na plochu</string>
     <string name="add_done">Pridané</string>
     <string name="add_game">Pridať</string>
@@ -687,15 +687,15 @@ alebo zadajte heslo"</string>
     <string name="applock_add_account">Pridať</string>
     <string name="applock_add_account_ignore">Neskôr</string>
     <string name="applock_add_account_ignore_with_seconds">Neskôr (%ds)</string>
-    <string name="applock_add_account_info">Pridajte Mi účet pre možnosť resetovať vaše heslo ak ho zabudnete</string>
+    <string name="applock_add_account_info">Pridajte Xiaomi účet pre možnosť resetovať vaše heslo ak ho zabudnete</string>
     <string name="applock_add_account_setting">Účet a súkromie</string>
-    <string name="applock_add_account_tips">S Mi účtom budete môcť obnoviť Zámok aplikácií.</string>
-    <string name="applock_add_account_title">Pridať Mi účet</string>
+    <string name="applock_add_account_tips">S Xiaomi účtom budete môcť obnoviť Zámok aplikácií.</string>
+    <string name="applock_add_account_title">Pridať Xiaomi účet</string>
     <string name="applock_add_account_title_part">Pridajte váš Xiaomi účet pre možnosť obnovenia hesla</string>
     <string name="applock_already_add_account">Súčasný účet: %s</string>
     <string name="applock_app_recommend_lock_title">Môžete uzamknúť tieto aplikácie</string>
-    <string name="applock_bind_account_dialog_content">Váš Mi účet je jedniná možnosť ako obnoviť Zámok aplikácií ak ho zabudnete.</string>
-    <string name="applock_bind_account_dialog_title">Pridajte váš Mi účet</string>
+    <string name="applock_bind_account_dialog_content">Váš Xiaomi účet je jedniná možnosť ako obnoviť Zámok aplikácií ak ho zabudnete.</string>
+    <string name="applock_bind_account_dialog_title">Pridajte váš Xiaomi účet</string>
     <string name="applock_bind_account_title">Obnovenie vášho hesla</string>
     <string name="applock_close_dialog_summary">Vaše aplikácie nebudú chránené a vaše heslo bude vymazané ak deaktivujete Zámok aplikácií.</string>
     <string name="applock_close_dialog_title">Deaktivovať Zámok aplikácií?</string>
@@ -718,7 +718,7 @@ alebo zadajte heslo"</string>
     <string name="applock_guide_tip1_without_face">Je dostupných viacero spôsobov odomknutia. Odomknite aplikácie vašim odtlačkom prsta, tvárou alebo zadajte heslo.</string>
     <string name="applock_guide_tip1_without_finger">Je dostupných viacero spôsobov odomknutia. Odomknite aplikácie vašim odtlačkom prsta, tvárou alebo zadajte heslo.</string>
     <string name="applock_guide_tip1_without_finger_face">Je dostupných viacero spôsobov odomknutia.</string>
-    <string name="applock_guide_tip2">Pridajte váš Mi účet pre obnovu hesla.</string>
+    <string name="applock_guide_tip2">Pridajte váš Xiaomi účet pre obnovu hesla.</string>
     <string name="applock_guide_tip3">Skryť obsah upozornení.</string>
     <string name="applock_guide_tip3_global">Skryť obsah upozornení.</string>
     <string name="applock_guide_title">Ochráňte vaše súkromie so Zámkom aplikácií</string>
@@ -731,7 +731,7 @@ alebo zadajte heslo"</string>
     <string name="applock_login_and_add_account">Prihlásiť a pridať</string>
     <string name="applock_mixtype_hidepwd_icon">Skryť</string>
     <string name="applock_mixtype_showpwd_icon">Zobraziť</string>
-    <string name="applock_no_account_login">Nie ste prihlásení k vášmu Mi účtu</string>
+    <string name="applock_no_account_login">Nie ste prihlásení k vášmu Xiaomi účtu</string>
     <string name="applock_not_add_account">Neskôr</string>
     <string name="applock_not_add_account_normal">Nepridávať účet</string>
     <string name="applock_not_login_account">Nie ste prihlásený</string>
@@ -1038,10 +1038,10 @@ alebo zadajte heslo"</string>
     <string name="bg_network_exception_title">Obmedzené pripojenie na pozadí</string>
     <string name="bind_xiaomi_account_cancel">Zrušiť</string>
     <string name="bind_xiaomi_account_confirm">Pridať</string>
-    <string name="bind_xiaomi_account_dialog_summery">Pridávate Mi účet %s. Ak ste zabudli vaše heslo, môžete využiť tento účet pre jeho obnovenie. Účet bude automaticky odstránený ak sa odhlásite.</string>
-    <string name="bind_xiaomi_account_success">Mi účet pridaný</string>
-    <string name="bind_xiaomi_account_summary">Použiť Mi účet pre obnovenie vášho hesla</string>
-    <string name="bind_xiaomi_account_title">Pridať Mi účet</string>
+    <string name="bind_xiaomi_account_dialog_summery">Pridávate Xiaomi účet %s. Ak ste zabudli vaše heslo, môžete využiť tento účet pre jeho obnovenie. Účet bude automaticky odstránený ak sa odhlásite.</string>
+    <string name="bind_xiaomi_account_success">Xiaomi účet pridaný</string>
+    <string name="bind_xiaomi_account_summary">Použiť Xiaomi účet pre obnovenie vášho hesla</string>
+    <string name="bind_xiaomi_account_title">Pridať Xiaomi účet</string>
     <string name="birthday">Narodeniny</string>
     <string formatted="false" name="bl_block_info">Blokované: Hovory %d, SMS %d</string>
     <string name="bl_no_blacklist">Žiadna čierna listina</string>
@@ -1259,7 +1259,7 @@ alebo zadajte heslo"</string>
     <string name="confirmSecondSpacePassword">Potvrďte heslo Druhého profilu</string>
     <string name="confirm_ai_allow_all_permission">Zmeniť stav povolenia na \"Rozhodnúť za mňa\" pre všetky aplikácie?</string>
     <string name="confirm_allow_all_permission">Povoliť všetkým aplikáciám používanie tejto funkcie?</string>
-    <string name="confirm_bind_xiaomi_account_dialog_title">Pridávanie Mi účtu</string>
+    <string name="confirm_bind_xiaomi_account_dialog_title">Pridávanie Xiaomi účtu</string>
     <string name="confirm_fingerprint_msg">Overte váš odtlačok prstu</string>
     <string name="confirm_open_shut_down_password_content">Nastavte zámok obrazovky pred povolením potvrdenia vypnutia zariadenia.</string>
     <string name="confirm_open_shut_down_password_title">Nastavte zámok obrazovky</string>
@@ -1812,7 +1812,7 @@ For more info check the message you received from your service provider"</string
     <string name="gamebooster_network_dialog_message">Povoliť aplikácii Optimalizácia pripojenie k sieti pre plné využívanie Zrýchlenia hier?</string>
     <string name="gamebooster_network_dialog_title">Niektoré funkcie nie sú dostupné</string>
     <string name="gamebox_brightness">Jas</string>
-    <string name="gamebox_browser_not_find">Nainštalujte Mi Prehliadač</string>
+    <string name="gamebox_browser_not_find">Nainštalujte Xiaomi Prehliadač</string>
     <string name="gamebox_display_1">Žiadne</string>
     <string name="gamebox_display_2">Saturované</string>
     <string name="gamebox_display_3">Jasné</string>
@@ -2068,10 +2068,10 @@ z vášho hrania hier"</string>
     <string formatted="false" name="gtb_setting_item_summary_smart_wlan_speed">Zvýšiť rýchlosť pripojenia o 10%-20% ak ste pripojený k Mi/Redmi routru</string>
     <string name="gtb_setting_item_summary_smart_wlan_speed_new">Zvýšte rýchlosť pripojenia o %1$s-%2$s pri pripojení k Mi/Redmi routru</string>
     <string name="gtb_setting_item_title_brightness">Automaticky znížiť jas displeja</string>
-    <string name="gtb_setting_item_title_smart_wlan_speed">Mi Wi-Fi zrýchlenie</string>
+    <string name="gtb_setting_item_title_smart_wlan_speed">Xiaomi Wi-Fi zrýchlenie</string>
     <string name="gtb_spring_festival_back_game">Späť do hry</string>
     <string name="gtb_spring_festival_goto_gameturbo">Zobraziť</string>
-    <string name="gtb_wlan_speed_tips">Používanie Mi Wi-Fi…</string>
+    <string name="gtb_wlan_speed_tips">Používanie Xiaomi Wi-Fi…</string>
     <string name="guide_primary_text">"Povoľte Správu mobilných dát
 pre kontrolu vašej spotreby"</string>
     <string name="guide_quck_open">Povoliť</string>
@@ -2516,7 +2516,7 @@ Vaše zariadenie je teraz %s rýchlejšie."</string>
     <string name="menu_wh_remove">Odobrať</string>
     <string name="menu_white">Výnimka</string>
     <string name="mi_service_app_detail">Podrobnosti o spotrebe dát</string>
-    <string name="mi_service_framework">Mi Service Framework</string>
+    <string name="mi_service_framework">Xiaomi Service Framework</string>
     <string name="mi_service_traffic_detail">Podrobnosti o Frameworku</string>
     <string name="mian_page_primary_txt">Medzinárodný roaming</string>
     <string name="midrop_post_notification_contentText">Skúste MiDrop. Je zdarma a bez reklám.</string>
@@ -2941,11 +2941,11 @@ Tento proces skracuje životnosť batérie."</string>
     <string name="password_forget_pattern_message_none">Aplikácie nie sú uzamknuté. Môžete obnoviť vaše heslo.</string>
     <string name="password_forget_pattern_reset">Obnoviť</string>
     <string name="password_forget_pattern_title">Upozornenie</string>
-    <string name="password_promotion_button_text">Pridať Mi účet</string>
-    <string name="password_promotion_message">Pridajte váš Mi účet (%s) pre možnosť obnovy vášho hesla v prípade, že ho zabudnete.</string>
-    <string name="password_promotion_not_login_xiaomi_account_message">Pridajte váš Mi účet pre možnosť obnovy vášho hesla v prípade, že ho zabudnete.</string>
+    <string name="password_promotion_button_text">Pridať Xiaomi účet</string>
+    <string name="password_promotion_message">Pridajte váš Xiaomi účet (%s) pre možnosť obnovy vášho hesla v prípade, že ho zabudnete.</string>
+    <string name="password_promotion_not_login_xiaomi_account_message">Pridajte váš Xiaomi účet pre možnosť obnovy vášho hesla v prípade, že ho zabudnete.</string>
     <string name="password_promotion_postbutton_text">Pridať</string>
-    <string name="password_promotion_title">Pridajte Mi účet</string>
+    <string name="password_promotion_title">Pridajte Xiaomi účet</string>
     <string name="password_type">Zmeniť heslo</string>
     <string name="password_type_underline">Zmeniť heslo</string>
     <string name="password_xspace_forget_pattern_message">Pre zmenu hesla Druhého profilu ho musíte vymazať a vytvoriť znova.</string>
@@ -3771,9 +3771,9 @@ Počas dátového prenosu sa text a obrázky komprimujú na serveri a tým sa ur
     <string name="privacy_pop_location">Dnes načítala polohu</string>
     <string name="privacy_pop_record">Dnes nahrala zvuk</string>
     <string name="privacy_pop_storage">Dnes načítala úložisko</string>
-    <string name="privacy_prompt_tc_sms_report_message">Vaše telefónne číslo a podrobnosti o operátorovi budú odoslané na Mi server pre aktualizáciu vašej spotreby dát.</string>
-    <string name="privacy_prompt_traffic_adjust_message">Vaše telefónne číslo a podrobnosti o operátorovi budú odoslané na Mi server pre aktualizáciu vzoru SMS správy a kontrolu či je táto funkcia podporovaná vaším operátorom.</string>
-    <string name="privacy_prompt_traffic_purchase_message">Vaše telefónne číslo a podrobnosti o operátorovi budú odoslané na Mi server pre kontrolu možností navýšenia objemu spotreby dát.</string>
+    <string name="privacy_prompt_tc_sms_report_message">Vaše telefónne číslo a podrobnosti o operátorovi budú odoslané na Xiaomi server pre aktualizáciu vašej spotreby dát.</string>
+    <string name="privacy_prompt_traffic_adjust_message">Vaše telefónne číslo a podrobnosti o operátorovi budú odoslané na Xiaomi server pre aktualizáciu vzoru SMS správy a kontrolu či je táto funkcia podporovaná vaším operátorom.</string>
+    <string name="privacy_prompt_traffic_purchase_message">Vaše telefónne číslo a podrobnosti o operátorovi budú odoslané na Xiaomi server pre kontrolu možností navýšenia objemu spotreby dát.</string>
     <string name="privacy_prompt_upload">Bezpečnostné upozornenie</string>
     <string name="privacy_protect_summary">Chráňte vaše osobné informácie</string>
     <string name="privacy_protect_title">Súkromie</string>
@@ -3958,7 +3958,7 @@ Počas dátového prenosu sa text a obrázky komprimujú na serveri a tým sa ur
     <string name="report_only">Vyberte správu pre nahlásenie</string>
     <string name="report_sms">Nahlásiť správy</string>
     <string name="report_success">Správa nahlásená</string>
-    <string name="report_warning">Nahlásiť %1$s SMS do Mi? Tieto správy a telefónne čísla budú odoslané na Mi server pre ich analýzu.</string>
+    <string name="report_warning">Nahlásiť %1$s SMS do Mi? Tieto správy a telefónne čísla budú odoslané na Xiaomi server pre ich analýzu.</string>
     <string name="report_warning_title">Nahlásiť SMS</string>
     <string name="required_permissions">Vyžadované povolenia</string>
     <string name="required_permissions_desc">Tieto povolenia sú vyžadované pre správne fungovanie základných funkcií aplikácií.</string>
@@ -4673,7 +4673,7 @@ Formátovanie vymaže všetky súbory na ^2. Zálohujte ich na iný ^3 alebo zar
     <string name="summary_block_calls_from_cantacts">Používate Čiernu listinu.</string>
     <string name="summary_block_calls_from_strangers">Povolili ste len hovory z kontaktov.</string>
     <string name="summary_cleaner_cloudscan">Odoslať a porovnať neznáme názvy súborov s online databázou</string>
-    <string name="summary_cloud_account">Pre prístup k viac službám sa musíte prihlásiť na Mi účet.</string>
+    <string name="summary_cloud_account">Pre prístup k viac službám sa musíte prihlásiť na Xiaomi účet.</string>
     <string name="summary_cloud_service">Použiť MiCloud pre zálohovanie dát v prípade krádeže alebo zničenia zariadenia.</string>
     <string name="summary_cloud_space_almost_full">Získať viac miesta na úložisku</string>
     <string name="summary_cloud_space_full">Získajte viac miesta na úložisku a ďalšie funkcie</string>
@@ -4774,11 +4774,11 @@ Formátovanie vymaže všetky súbory na ^2. Zálohujte ich na iný ^3 alebo zar
     <string name="sure">OK</string>
     <string name="switch_orientation_desc">Orientácia obrazovky</string>
     <string name="sys_app_prot_cracked_confirm">Rozumiem</string>
-    <string name="sys_app_prot_cracked_login">Prihlásiť sa s Mi účtom</string>
+    <string name="sys_app_prot_cracked_login">Prihlásiť sa s Xiaomi účtom</string>
     <string name="sys_app_prot_cracked_text_login">"Máte nainštalovanú verziu MIUI ktorá nepochádza zo stránky miui.com alebo en.miui.com.
  
  Skontrolujte si vašu verziu MIUI na našom fóre miuios.cz či sa nejedná o FAKE ROM vytvorenú samotným predajcom ktorá môže obsahovať škodlivé aplikácie a kódy ktoré ohrozujú vaše súkromie."</string>
-    <string name="sys_app_prot_cracked_text_unlogin">"Máte nainštalovanú verziu MIUI ktorá nepochádza zo stránky miui.com alebo en.miui.com. Prihláste sa vašim Mi účtom pre deaktivovanie tohoto upozornenia.
+    <string name="sys_app_prot_cracked_text_unlogin">"Máte nainštalovanú verziu MIUI ktorá nepochádza zo stránky miui.com alebo en.miui.com. Prihláste sa vašim Xiaomi účtom pre deaktivovanie tohoto upozornenia.
  
  Skontrolujte si vašu verziu MIUI na našom fóre miuios.cz či sa nejedná o FAKE ROM vytvorenú samotným predajcom ktorá môže obsahovať škodlivé aplikácie a kódy ktoré ohrozujú vaše súkromie."</string>
     <string name="sys_app_prot_cracked_title">Bezpečnostné riziko</string>
@@ -4962,7 +4962,7 @@ Rešpektujeme a chránime vaše súkromie."</string>
     <string name="title_block_calls_from_strangers">Zmeškali ste dôležitý hovor?</string>
     <string name="title_chain_start">Zakázať reťazové spustenie</string>
     <string name="title_cleaner_cloudscan">Použiť online databázu Čističa</string>
-    <string name="title_cloud_account">Prihláste sa na Mi účet</string>
+    <string name="title_cloud_account">Prihláste sa na Xiaomi účet</string>
     <string name="title_cloud_service">MiCloud je vypnutý</string>
     <string name="title_cloud_space_almost_full">Cloudové úložisko je takmer plné</string>
     <string name="title_cloud_space_full">"Cloudové úložisko je plné, nie je možné synchronizovať"</string>
@@ -5417,7 +5417,7 @@ Skúste zväčšiť rozlíšenie!"</string>
     <string name="warningcenter_mijia_devices_3">Detektor plynu</string>
     <string name="warningcenter_mijia_devices_4">Inteligentný zámok</string>
     <string name="warningcenter_mijia_devices_support">Podporované zariadenia</string>
-    <string name="warningcenter_mijia_devices_support_tips">Poznámka: Nebudete dostávať upozornenia ak sa odhlásite z vášho Mi účtu v MiHome alebo odinštalujete aplikáciu.</string>
+    <string name="warningcenter_mijia_devices_support_tips">Poznámka: Nebudete dostávať upozornenia ak sa odhlásite z vášho Xiaomi účtu v MiHome alebo odinštalujete aplikáciu.</string>
     <string name="warningcenter_mijia_info">Sledovať zabezpečenie domácnosti</string>
     <string name="warningcenter_mijia_notification_summary">Môžete dostávať upozornenia</string>
     <string name="warningcenter_mijia_notification_title">Varovania zo Smart home zariadení sú povolené</string>

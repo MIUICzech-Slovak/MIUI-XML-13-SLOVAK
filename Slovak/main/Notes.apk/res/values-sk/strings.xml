@@ -61,7 +61,7 @@
     <string name="cta_confirm_ok">Povoliť</string>
     <string name="cta_dialog_message">Poznámky vyžadujú povolenia pre pripojenie k sieti, nahrávanie zvuku a prístup ku kontaktom. Chcete povoliť?</string>
     <string name="cta_dialog_title">Povolenia</string>
-    <string name="cta_reminder">Táto aplikácia vyžaduje pripojenie na internet pre zálohovanie na Mi Cloud a prístup ku kontaktom.</string>
+    <string name="cta_reminder">Táto aplikácia vyžaduje pripojenie na internet pre zálohovanie na Xiaomi Cloud a prístup ku kontaktom.</string>
     <string name="cta_v2_agree_desc">Povoľte tejto aplikácii pripojenie k sieti a potrebné povolenia.</string>
     <string name="cta_v2_app_purpose">Vytváranie, zobrazenie a správa poznámok</string>
     <string name="cta_v2_app_purpose_v12">Vitajte v poznámkach! Môžete používať túto aplikáciu na vytváranie poznámok a úloh.</string>
@@ -122,7 +122,7 @@
     <string name="empty_folder_no_notes">Žiadne poznámky</string>
     <string name="empty_note_mark_privacy_error">Prázdna poznámka nemôže byť súkromná</string>
     <string name="enable_sync">Synchr.</string>
-    <string name="enable_sync_desc">Poznámky sa môžu synchronizovať s Vašim Mi účtom %1$s, synchronizovať?</string>
+    <string name="enable_sync_desc">Poznámky sa môžu synchronizovať s Vašim Xiaomi účtom %1$s, synchronizovať?</string>
     <string name="error_contact_not_exist">Kontakt neexistuje</string>
     <string name="error_hide_empty_note">Nie je možné skryť prázdnu poznámku</string>
     <string name="error_note_empty_for_clock">Nie je možné nastaviť hodiny na prázdnej poznámke</string>
@@ -340,7 +340,7 @@
     <string name="permission_intro_phone">re poznámky zapísané počas hovoru</string>
     <string name="permission_intro_storage">Pre ukladanie poznámok a príloh</string>
     <string name="permission_microphone_desc">Nahrávať hlasové poznámky</string>
-    <string name="permission_network_for_cloud_desc">Vyžaduje sa pripojenie k sieti pre synchronizáciu poznámok s Mi cloudom. Pripojiť sa teraz?</string>
+    <string name="permission_network_for_cloud_desc">Vyžaduje sa pripojenie k sieti pre synchronizáciu poznámok s Xiaomi cloudom. Pripojiť sa teraz?</string>
     <string name="permission_phone_state_desc">Pre ukončenie nahrávania poznámok počas hovoru</string>
     <string name="permission_read_contact_desc">Pre spárovanie poznámok s kontaktom</string>
     <string name="permission_storage_desc">Pre ukladanie poznámok</string>

@@ -77,7 +77,7 @@
     <string name="auth_fail_warning">Platnosť relácie vypršala. Prihláste sa znova.</string>
     <string name="auto_interval">Auto</string>
     <string name="back_icon_content_description">Späť</string>
-    <string name="bind_sign_in_title">Pripojiť k Mi účtu</string>
+    <string name="bind_sign_in_title">Pripojiť k Xiaomi účtu</string>
     <string name="cancel">Ukončiť</string>
     <string name="cancel_button">Áno</string>
     <string name="cancel_international">Zrušiť</string>
@@ -140,7 +140,7 @@
     <string name="confirm_activate_email">Overené</string>
     <string name="confirm_bundled_phone_dialog_title">Potvrdiť priradené telefónne číslo</string>
     <string name="confirm_new_pwd">Potvrďte nové heslo</string>
-    <string name="confirm_unbundled_phone_dialog_message">Toto telefónne číslo bolo priradené k účtu Mi %2$s dňa %1$s. Ak budete pokračovať, už nebude priradený k Mi účtu %3$s. Chcete pokračovať?</string>
+    <string name="confirm_unbundled_phone_dialog_message">Toto telefónne číslo bolo priradené k účtu Xiaomi %2$s dňa %1$s. Ak budete pokračovať, už nebude priradený k Xiaomi účtu %3$s. Chcete pokračovať?</string>
     <string name="copy">Kopírovať</string>
     <string name="create_shortcut">Vytvoriť odkaz na ploche</string>
     <string name="create_shortcut_btn">Vytvoriť</string>
@@ -269,7 +269,7 @@ Pošlite tento kód nadriadenému."</string>
     <string name="get_account_no_permission">Povoľte Dennej tapete prístup k vášmu účtu.</string>
     <string name="get_back_pwd">Obnovenie hesla</string>
     <string name="get_ph_ticket">Získať kód</string>
-    <string name="get_phone_bind_exceed_limit">"K telefónnemu číslu môžete priradiť až 3 Mi účty. Nie je možné pridávať nové účty."</string>
+    <string name="get_phone_bind_exceed_limit">"K telefónnemu číslu môžete priradiť až 3 Xiaomi účty. Nie je možné pridávať nové účty."</string>
     <string name="get_phone_verifycode_exceed_limit">Na toto číslo bolo odoslaných príliš veľa verifikačných kódov. Počkajte 24 hodín a skúste to znova.</string>
     <string name="goto_confirm">Nastavenia</string>
     <string name="goto_sign_up">Vytvoriť účet</string>
@@ -289,7 +289,7 @@ Pošlite tento kód nadriadenému."</string>
     <string name="inconsistent_pwd">"Heslá sa nezhodujú"</string>
     <string name="input_email_address_notice">„Tento e-mail použijeme na overenie vášho účtu“</string>
     <string name="input_new_pwd">Zadajte nové heslo</string>
-    <string name="isornot_your_mi_account">Je toto váš Mi účet?</string>
+    <string name="isornot_your_mi_account">Je toto váš Xiaomi účet?</string>
     <string name="just_a_second">Len sekundu...</string>
     <string name="later">"Nevypínať"</string>
     <string name="launch_bg_permission_exception">Povoliť karusel s tapetami zobrazovať kontextové okná pri spustení na pozadí v časti Zabezpečenie</string>
@@ -359,8 +359,8 @@ To môže spôsobiť dodatočné poplatky."</string>
     <string name="llks_subscribe_sucess">Úspešné prihlásenie na odber</string>
     <string name="llks_tools_gallery_name">Denná tapeta</string>
     <string name="llks_tools_mipay_wallet_name">Peňaženka Mi</string>
-    <string name="llks_tools_remote_control_name">Mi Remote</string>
-    <string name="llks_tools_smart_devices_name">Mi Home</string>
+    <string name="llks_tools_remote_control_name">Xiaomi Remote</string>
+    <string name="llks_tools_smart_devices_name">Xiaomi Home</string>
     <string name="llks_try_it">Vyskúšať</string>
     <string name="llks_whole_cate">Všetky kategórie</string>
     <string name="load_hdpicture_complete">Originálny obrázok je načítaný</string>
@@ -474,7 +474,7 @@ To môže spôsobiť dodatočné poplatky."</string>
     <string name="morning">Ráno</string>
     <string name="morning_bookmark_tab">Pozdrav</string>
     <string name="morning_greet">Dobré ráno!</string>
-    <string name="morning_greet_mark">"Mi ranné pozdravy"</string>
+    <string name="morning_greet_mark">"Xiaomi ranné pozdravy"</string>
     <string name="morning_greet_title">Ranné pozdravy</string>
     <string name="morning_picture_tab">Obrázok</string>
     <string name="need_open_gallery">Povoliť Dennú tapetu</string>

@@ -41,7 +41,7 @@
     <string name="about_homepage_image">Profilový avatar</string>
     <string name="about_just_recently">Práve teraz</string>
     <string name="about_last_sync_time">Synchronizované: %1$s</string>
-    <string name="about_log_off_account">Odstrániť službu Mi Fitness</string>
+    <string name="about_log_off_account">Odstrániť službu Xiaomi Fitness</string>
     <string name="about_login_sign_out_failed">Odhlásenie zlyhalo</string>
     <string name="about_logout">Odhlásiť sa</string>
     <string name="about_no_agree">Nesúhlasím</string>
@@ -61,8 +61,8 @@
 1. Aktuálne prihlásený účet na spárovanom zariadení bude odstránený a súvisiace dáta predtým uložené na serveri budú vymazané. Dáta uložené v spárovanom zariadení (napr. údaje o spánku, počte krokov, apod.) môžete vymazať pomocou obnovenia zariadenia do továrenského nastavenia. Ďalšie podrobnosti nájdete v časti „Odobranie súhlasu“ v našich Zásadách ochrany osobných údajov.
 Po dokončení tejto akcie už nemusí byť možné vyššie uvedené dáta obnoviť. Pre ďalšie použitie zariadenia ho najprv budete musieť znova spárovať.
  
-2. Všetky dáta z aplikácie Mi Fitness budú zmazané. Nebudete tak už môcť zobraziť históriu cvičení ani akékoľvek ďalšie fitness údaje.
-V Nastavení telefónu môžete kedykoľvek vymazať dáta v medzipamäti Mi Fitness a zmeniť oprávnenia, ku ktorým má táto aplikácia prístup.
+2. Všetky dáta z aplikácie Xiaomi Fitness budú zmazané. Nebudete tak už môcť zobraziť históriu cvičení ani akékoľvek ďalšie fitness údaje.
+V Nastavení telefónu môžete kedykoľvek vymazať dáta v medzipamäti Xiaomi Fitness a zmeniť oprávnenia, ku ktorým má táto aplikácia prístup.
  
 Pokiaľ sa rozhodnete znovu využiť naše služby, budete musieť najskôr súhlasiť s našimi Zásadami ochrany osobných údajov a Zmluvnými podmienkami.
  
@@ -72,8 +72,8 @@ Vyššie uvedené dáta budú odstránené do 15 dní."</string>
 1. Aktuálne prihlásený účet na spárovanom zariadení bude odstránený a súvisiace dáta predtým uložené na serveri budú vymazané. Dáta uložené v spárovanom zariadení (napr. údaje o spánku, počte krokov, apod.) môžete vymazať pomocou obnovenia zariadenia do továrenského nastavenia. Ďalšie podrobnosti nájdete v časti „Odobranie súhlasu“ v našich Zásadách ochrany osobných údajov.
 Po dokončení tejto akcie už nemusí byť možné vyššie uvedené dáta obnoviť. Pre ďalšie použitie zariadenia ho najprv budete musieť znova spárovať.
  
-2. Všetky dáta z aplikácie Mi Fitness budú zmazané. Nebudete tak už môcť zobraziť históriu cvičení ani akékoľvek ďalšie fitness údaje.
-V Nastavení telefónu môžete kedykoľvek vymazať dáta v medzipamäti Mi Fitness a zmeniť oprávnenia, ku ktorým má táto aplikácia prístup.
+2. Všetky dáta z aplikácie Xiaomi Fitness budú zmazané. Nebudete tak už môcť zobraziť históriu cvičení ani akékoľvek ďalšie fitness údaje.
+V Nastavení telefónu môžete kedykoľvek vymazať dáta v medzipamäti Xiaomi Fitness a zmeniť oprávnenia, ku ktorým má táto aplikácia prístup.
  
 Ak sa rozhodnete znovu využiť naše služby, budete musieť najskôr súhlasiť s našimi Zásadami ochrany osobných údajov a Zmluvnými podmienkami."</string>
     <string name="about_privacy_revoke_des">Odobranie súhlasu s našimi Zásadami ochrany osobných údajov trvalo odstráni všetky dáta</string>
@@ -102,7 +102,7 @@ Ak sa rozhodnete znovu využiť naše služby, budete musieť najskôr súhlasi�
     <string name="about_setting_privacy_detail">Zásady ochrany osobných údajov</string>
     <string name="about_setting_privacy_revoke">Odobranie súhlasu</string>
     <string name="about_setting_region">Krajina</string>
-    <string name="about_sport_health">Mi Fitness</string>
+    <string name="about_sport_health">Xiaomi Fitness</string>
     <string name="about_sync_immediately">Synchronizovať</string>
     <string name="about_sync_status">Stav synchronizácie</string>
     <string name="about_sync_status_failure_retry">Synchronizácia zlyhala. Počkajte chvíľu a skúste to znova.</string>
@@ -120,28 +120,28 @@ Ak sa rozhodnete znovu využiť naše služby, budete musieť najskôr súhlasi�
     <string name="access_common_waiting">Ešte chvíľku…</string>
     <string name="access_denied_info">Príliš veľa pokusov. Chvíľu počkajte a skúste to znovu.</string>
     <string name="access_mine_thirdparty_access">Pripojené aplikácie</string>
-    <string name="access_misport">Mi Fit</string>
-    <string name="access_misport_auth_title">Prihláste sa v aplikácii Mi Fit</string>
+    <string name="access_misport">Xiaomi Fit</string>
+    <string name="access_misport_auth_title">Prihláste sa v aplikácii Xiaomi Fit</string>
     <string name="access_misport_complete_notify">Úspešne prenesené</string>
-    <string name="access_misport_complete_notify_click">Kliknite pre otvorenie Mi Fitness</string>
+    <string name="access_misport_complete_notify_click">Kliknite pre otvorenie Xiaomi Fitness</string>
     <string name="access_misport_data_importing">Prebieha prenos…</string>
-    <string name="access_misport_data_importing_mainpage">Prebieha prenos dát z aplikácie Mi Fit…</string>
+    <string name="access_misport_data_importing_mainpage">Prebieha prenos dát z aplikácie Xiaomi Fit…</string>
     <string name="access_misport_dialog_content_faile_cn">Z dôvodu obmedzení týkajúcich sa prenosu dát, osobné dáta uložené na serveroch na pevninskej Číne nemôžu byť prenesené do iných krajín.</string>
     <string name="access_misport_dialog_content_faile_european">Z dôvodu obmedzení týkajúcich sa prenosu dát, osobné dáta uložené na serveroch v EÚ nemôžu byť prenesené do krajín mimo EÚ.</string>
     <string name="access_misport_dialog_content_faile_in">Z dôvodu obmedzení týkajúcich sa prenosu dát, osobné dáta uložené na serveroch v Indii nemôžu byť prenesené do iných krajín,</string>
     <string name="access_misport_dialog_content_faile_russia">Z dôvodu obmedzení týkajúcich sa prenosu dát, osobné dáta uložené na serveroch v Rusku nemôžu byť prenesené do iných krajín.</string>
     <string name="access_misport_dialog_title_faile">Prenos zlyhal</string>
-    <string name="access_misport_import_desc">&lt;Data>Pre viac informácií o tom &lt;a href=\"%1$s\">čo znamená prenos dát z aplikácie Mi Fit&lt;/a> kliknite sem.&lt;/Data ></string>
+    <string name="access_misport_import_desc">&lt;Data>Pre viac informácií o tom &lt;a href=\"%1$s\">čo znamená prenos dát z aplikácie Xiaomi Fit&lt;/a> kliknite sem.&lt;/Data ></string>
     <string name="access_misport_import_faile">Prenos zlyhal. Skúste to znova.</string>
     <string name="access_misport_import_faile_notification_bar">Prenos zlyhal. Skúste to znova.</string>
-    <string name="access_misport_import_failed_partof">&lt;Data>Dokončenie prenosu zlyhalo. Skúste to znova neskôr.&lt;br/>Pre viac informácií o tom &lt;a href=\"%1$s\">čo znamená prenos dát z aplikácie Mi Fit&lt;/a> kliknite sem.&lt;/Data></string>
+    <string name="access_misport_import_failed_partof">&lt;Data>Dokončenie prenosu zlyhalo. Skúste to znova neskôr.&lt;br/>Pre viac informácií o tom &lt;a href=\"%1$s\">čo znamená prenos dát z aplikácie Xiaomi Fit&lt;/a> kliknite sem.&lt;/Data></string>
     <string name="access_misport_import_immediately">Preniesť</string>
-    <string name="access_misport_import_title_mainpage">Prenos z aplikácie Mi Fit</string>
-    <string name="access_misport_importing_desc">&lt;Data>Prenos dát za obdobie 1 roka trvá približne 10 minút. V priebehu prenosu môžete z tejto stránky odísť.&lt;br/>Pre viac informácií o tom &lt;a href=\"%1$s\">čo znamená prenos dát z aplikácie Mi Fit&lt;/a> kliknite sem.&lt;/Data></string>
-    <string name="access_misport_importing_process">Pre zobrazenie priebehu prenosu prejdite do záložky Profil > Preniesť z aplikácie Mi Fit.</string>
+    <string name="access_misport_import_title_mainpage">Prenos z aplikácie Xiaomi Fit</string>
+    <string name="access_misport_importing_desc">&lt;Data>Prenos dát za obdobie 1 roka trvá približne 10 minút. V priebehu prenosu môžete z tejto stránky odísť.&lt;br/>Pre viac informácií o tom &lt;a href=\"%1$s\">čo znamená prenos dát z aplikácie Xiaomi Fit&lt;/a> kliknite sem.&lt;/Data></string>
+    <string name="access_misport_importing_process">Pre zobrazenie priebehu prenosu prejdite do záložky Profil > Preniesť z aplikácie Xiaomi Fit.</string>
     <string name="access_misport_last_import_time">Prenesené: %1$s</string>
-    <string name="access_misport_setting_item">Prenos z aplikácie Mi Fit</string>
-    <string name="access_misport_title">Prenos z aplikácie Mi Fit</string>
+    <string name="access_misport_setting_item">Prenos z aplikácie Xiaomi Fit</string>
+    <string name="access_misport_title">Prenos z aplikácie Xiaomi Fit</string>
     <string name="access_permission_grant_authorization_title">Požadované oprávnenia</string>
     <string name="access_permission_not_agree_tips">Bez udelenia požadovaných oprávnení nebudete môcť túto funkciu využívať. Neudelenie oprávnenia však neovplyvní využitie ostatných služieb. Udelené oprávnenia môžete kedykoľvek zmeniť v Nastaveniach.</string>
     <string name="access_permission_to_grant_authorization">OK</string>
@@ -153,10 +153,10 @@ Ak sa rozhodnete znovu využiť naše služby, budete musieť najskôr súhlasi�
     <string name="access_thirdparty_alipay_unbind">Odpojiť</string>
     <string name="access_thirdparty_authentication_failed">Pripojenie zlyhalo. Skúste to znova.</string>
     <string name="access_thirdparty_bind_failed">Skontrolujte nastavenia siete a skúste to znova</string>
-    <string name="access_thirdparty_explain">Po prepojení Mi Fitness s aplikáciou %1$s, budú údaje o vašom cvičení (napr. kalórie, vzdialenosť, čas, srdcový tep) zdieľané s aplikáciou %2$s.</string>
+    <string name="access_thirdparty_explain">Po prepojení Xiaomi Fitness s aplikáciou %1$s, budú údaje o vašom cvičení (napr. kalórie, vzdialenosť, čas, srdcový tep) zdieľané s aplikáciou %2$s.</string>
     <string name="access_thirdparty_google_fit">Google Fit</string>
     <string name="access_thirdparty_strava">Strava</string>
-    <string name="access_thirdparty_strava_explain">Údaje v aplikácii Strava sa môžu líšiť od údajov v Mi Fitness z dôvodu rozdielnych algoritmov, ktoré aplikácie využívajú.</string>
+    <string name="access_thirdparty_strava_explain">Údaje v aplikácii Strava sa môžu líšiť od údajov v Xiaomi Fitness z dôvodu rozdielnych algoritmov, ktoré aplikácie využívajú.</string>
     <string name="access_thirdparty_sync_to">Pripojiť k %1$s</string>
     <string name="access_thirdparty_title">Pripojiť k %1$s</string>
     <string name="access_thirdparty_unbind_failed">Odpojenie zlyhalo. Skúste to znova.</string>
@@ -165,7 +165,7 @@ Ak sa rozhodnete znovu využiť naše služby, budete musieť najskôr súhlasi�
     <string name="account_bind_secure_email_title">Pridať e-mail pre obnovenie</string>
     <string name="account_bind_secure_phone_title">Pridať telefónne číslo pre obnovenie</string>
     <string name="account_crop_user_avatar">Orezať fotografiu</string>
-    <string name="account_empty_user_name">Zadajte užívateľské meno pre Mi Konto</string>
+    <string name="account_empty_user_name">Zadajte užívateľské meno pre Xiaomi Konto</string>
     <string name="account_error_all_space_user_name">Užívateľské meno musí obsahovať aj iné znaky ako len medzery</string>
     <string name="account_error_invalid_user_name">Meno nemôže obsahovať &lt;, >, alebo /</string>
     <string name="account_error_longer_user_name">Meno nemôže byť dlhšie ako 20 znakov</string>
@@ -187,7 +187,7 @@ Ak sa rozhodnete znovu využiť naše služby, budete musieť najskôr súhlasi�
     <string name="account_user_details">Osobné informácie</string>
     <string name="account_user_email">Záložný e-mail</string>
     <string name="account_user_gender">Pohlavie</string>
-    <string name="account_user_id">ID Mi Konta</string>
+    <string name="account_user_id">ID Xiaomi Konta</string>
     <string name="account_user_name">Prezývka</string>
     <string name="account_user_name_dialog_title">Zadajte užívateľské meno</string>
     <string name="account_user_other_info">Podrobnosti</string>
@@ -211,7 +211,7 @@ Ak sa rozhodnete znovu využiť naše služby, budete musieť najskôr súhlasi�
     <string name="amazon_alexa_auth_fail">Chyba oprávnenia</string>
     <string name="amazon_alexa_not_install">Najprv nainštalujte službu Amazon Alexa</string>
     <string name="amazon_alexa_not_support">Amazon Alexa funguje iba na verziu Android 6.0 a vyššiu</string>
-    <string name="app_name">Mi Fitness</string>
+    <string name="app_name">Xiaomi Fitness</string>
     <string name="app_upgrade_no_newer_version">Súčasná verzia je aktuálna</string>
     <string name="auth_fail_warning">Platnosť relácie vypršala. Prihláste sa znovu.</string>
     <string name="auth_failure_exception">Vymažte cache aplikácie</string>
@@ -233,7 +233,7 @@ Ak sa rozhodnete znovu využiť naše služby, budete musieť najskôr súhlasi�
     <string name="avs_language_selector">Jazyk</string>
     <string name="avs_login_sign_out">Odhlásiť sa</string>
     <string name="avs_not_connected">Odpojené</string>
-    <string name="bind_sign_in_title">Pridať Mi Konto</string>
+    <string name="bind_sign_in_title">Pridať Xiaomi Konto</string>
     <string name="ble_ota_fw_upgrade_success_message">Nepoužívajte zariadenie, kým nebude aktualizácia dokončená.</string>
     <string name="ble_ota_fw_upgrade_success_title">Úspešne synchronizované</string>
     <string name="ble_ota_push_error">Aktualizácia zlyhala</string>
@@ -604,7 +604,7 @@ Ak sa rozhodnete znovu využiť naše služby, budete musieť najskôr súhlasi�
     <string name="device_heart_health_monitor">Upozornenie na nepravidelný tep</string>
     <string name="device_helper_keep_alive">Oprávnenie spustenia na pozadí</string>
     <string name="device_huami_guide_tip">Pre pridanie zariadenia postupujte podľa zobrazených pokynov</string>
-    <string name="device_kongming_name">Mi Smart Band 5</string>
+    <string name="device_kongming_name">Xiaomi Smart Band 5</string>
     <string name="device_laboratory_setting">Beta</string>
     <string name="device_language_setting">Jazyk</string>
     <string name="device_location_dialog_message">Bez udelenia požadovaných oprávnení nebudete môcť túto funkciu využívať. Neudelenie oprávnenia však neovplyvní využitie ostatných služieb. Udelené oprávnenia môžete kedykoľvek zmeniť v Nastaveniach.</string>
@@ -668,7 +668,7 @@ Ak sa rozhodnete znovu využiť naše služby, budete musieť najskôr súhlasi�
     <string name="device_settings_add_new_vibrate_reset">Vytvoriť</string>
     <string name="device_settings_add_new_vibrate_stop">Zastaviť</string>
     <string name="device_settings_aivs_voice_optimise">Optimalizovať rozpoznávanie hlasu</string>
-    <string name="device_settings_aivs_voice_optimise_desc">Udeľte Mi AI oprávnenie používať vaše hlasové údaje na zlepšenie efektivity rozpoznávania vašich hlasových príkazov</string>
+    <string name="device_settings_aivs_voice_optimise_desc">Udeľte Xiaomi AI oprávnenie používať vaše hlasové údaje na zlepšenie efektivity rozpoznávania vašich hlasových príkazov</string>
     <string name="device_settings_alarm">Budíky</string>
     <string name="device_settings_alarm_add">Pridať</string>
     <string name="device_settings_alarm_clock">Budík</string>
@@ -700,7 +700,7 @@ Pre použitie zmien na vašom nositeľnom zariadení prejdite do záložky Rozlo
     <string name="device_settings_appsort_sync_success">Úspešne synchronizované</string>
     <string name="device_settings_assist_sleep_open_msg">Zapnutie tejto funkcie ovplyvní výdrž batérie. Napriek tomu pokračovať?</string>
     <string name="device_settings_assist_sleep_open_title">Upozornenie</string>
-    <string name="device_settings_authorize_unlock_laptop_description">Po použití tejto funkcie otvorte Mi Blaze Unlock na vašom počítači a spárujte ho so svojim nositeľným zariadením.</string>
+    <string name="device_settings_authorize_unlock_laptop_description">Po použití tejto funkcie otvorte Xiaomi Blaze Unlock na vašom počítači a spárujte ho so svojim nositeľným zariadením.</string>
     <string name="device_settings_battery_tip">Upozornenie</string>
     <string name="device_settings_ble_pair_failure">Spárovanie zlyhalo</string>
     <string name="device_settings_ble_pair_success">Úspešne spárované</string>
@@ -728,7 +728,7 @@ Pre použitie zmien na vašom nositeľnom zariadení prejdite do záložky Rozlo
     <string name="device_settings_button_sport_list_view">Cvičenie</string>
     <string name="device_settings_button_stopwatch_view">Stopky</string>
     <string name="device_settings_button_time_keeping_view">Časovač</string>
-    <string name="device_settings_button_wake_voice">Aktivovať Mi AI</string>
+    <string name="device_settings_button_wake_voice">Aktivovať Xiaomi AI</string>
     <string name="device_settings_button_weather_view">Počasie</string>
     <string name="device_settings_cancel">Zrušiť</string>
     <string name="device_settings_cannot_hide_item">Najprv zmeňte nastavenie sekundárneho tlačidla</string>
@@ -793,11 +793,11 @@ Pre použitie zmien na vašom nositeľnom zariadení prejdite do záložky Rozlo
     <string name="device_settings_common_stopwatch">Stopky</string>
     <string name="device_settings_common_telephony">Telefón</string>
     <string name="device_settings_common_today">Dnes</string>
-    <string name="device_settings_common_voice">Mi AI</string>
+    <string name="device_settings_common_voice">Xiaomi AI</string>
     <string name="device_settings_common_weather">Počasie</string>
     <string name="device_settings_common_wechat_pay">WeChat</string>
     <string name="device_settings_common_world_clock">Svetové hodiny</string>
-    <string name="device_settings_common_xiaoai">Mi AI</string>
+    <string name="device_settings_common_xiaoai">Xiaomi AI</string>
     <string name="device_settings_contact">Obľúbené kontakty</string>
     <string name="device_settings_contact_add">Pridať</string>
     <string name="device_settings_contact_add_fail">Nebolo možné pridať do obľúbených kontaktov.</string>
@@ -1011,7 +1011,7 @@ na zrušenie spárovania zariadenia a telefónu"</string>
     <string name="device_settings_reminder_today_items">Dnes: %1$s</string>
     <string name="device_settings_reminder_tomorrow_items">Zajtra: %1$s</string>
     <string name="device_settings_revoke_authorization">Odobrať oprávnenia</string>
-    <string name="device_settings_revoke_authorization_dialog_content">Pokračovaním odoberiete svoj súhlas s našimi Zásadami ochrany osobných údajov. Účet, pod ktorým ste aktuálne prihlásený na spárovanom zariadení, bude odstránený. Na odstránenie dát uložených v Mi Fitness odstráňte aplikáciu Mi Fitness. Pre odstránenie dát v spárovanom zariadení si prečítajte odsek „Odobranie súhlasu“ v našich Zásadách ochrany osobných údajov. Ak používate nositeľné zariadenie, obnovenie továrenského nastavenia vymaže všetky dáta na zariadení. Po obnovení do továrenského nastavenia nebudete môcť svoje dáta obnoviť. Ak sa potom rozhodnete zariadenie použiť, budete musieť znovu súhlasiť s našimi Zásadami ochrany osobných údajov a zariadení spárovať.</string>
+    <string name="device_settings_revoke_authorization_dialog_content">Pokračovaním odoberiete svoj súhlas s našimi Zásadami ochrany osobných údajov. Účet, pod ktorým ste aktuálne prihlásený na spárovanom zariadení, bude odstránený. Na odstránenie dát uložených v Xiaomi Fitness odstráňte aplikáciu Xiaomi Fitness. Pre odstránenie dát v spárovanom zariadení si prečítajte odsek „Odobranie súhlasu“ v našich Zásadách ochrany osobných údajov. Ak používate nositeľné zariadenie, obnovenie továrenského nastavenia vymaže všetky dáta na zariadení. Po obnovení do továrenského nastavenia nebudete môcť svoje dáta obnoviť. Ak sa potom rozhodnete zariadenie použiť, budete musieť znovu súhlasiť s našimi Zásadami ochrany osobných údajov a zariadení spárovať.</string>
     <string name="device_settings_revoke_authorization_dialog_content_oversea">"Po odobratí oprávnenia bude účet, pod ktorým ste aktuálne prihlásený na spárovanom zariadení, odstránený a všetky dáta predtým uložené na našich serveroch budú odstránené. Pre odstránenie dát zo spárovaného zariadenia si prečítajte odsek \" " v našich Zásadách ochrany osobných údajov. Ak používate nositeľné zariadenie, obnovenie továrenského nastavenia vymaže všetky dáta na zariadení. Po obnovení do továrenského nastavenia nebudete môcť svoje dáta obnoviť. Ak sa potom rozhodnete zariadenie použiť, budete musieť znovu súhlasiť s našimi Zásadami ochrany osobných údajov a zariadenia spárovať.
 Dáta z vášho zariadenia budú zmazané v priebehu 7 dní."</string>
     <string name="device_settings_revoke_authorization_dialog_title">Upozornenie</string>
@@ -1174,7 +1174,7 @@ Dáta z vášho zariadenia budú zmazané v priebehu 7 dní."</string>
     <string name="device_settings_wrist_lock_cannot_off">Vypnutie zlyhalo. Funkcia platenia pomocou zariadenia vyžaduje PIN.</string>
     <string name="device_settings_wrist_screen_wake_end">Koniec</string>
     <string name="device_settings_wrist_screen_wake_start">Začiatok</string>
-    <string name="device_settings_xiaoai_skill">Mi AI</string>
+    <string name="device_settings_xiaoai_skill">Xiaomi AI</string>
     <string name="device_status_connecting">Pripájanie…</string>
     <string name="device_switch">Pripojiť</string>
     <string name="device_switch_device">Prepnúť zariadenie</string>
@@ -1199,11 +1199,11 @@ Dáta z vášho zariadenia budú zmazané v priebehu 7 dní."</string>
     <string name="device_version_not_support">Najprv aplikáciu aktualizujte</string>
     <string name="device_vibrate_title">Vibrácie</string>
     <string name="device_view_help">Zobraziť pomocníka</string>
-    <string name="device_wake_up_guide">Wake up Mi AI</string>
+    <string name="device_wake_up_guide">Wake up Xiaomi AI</string>
     <string name="device_wearable">Nositeľné</string>
     <string name="device_wearos_bind_download_des">Najprv stiahnite aplikáciu Wear OS</string>
     <string name="device_wearos_bind_guide_one">Spárujte hodinky s aplikáciou Wear OS</string>
-    <string name="device_wearos_bind_guide_two">Dokončite nastavenie v Mi Fitness</string>
+    <string name="device_wearos_bind_guide_two">Dokončite nastavenie v Xiaomi Fitness</string>
     <string name="device_wearos_bind_update_des">Najprv aktualizujte aplikáciu Wear OS</string>
     <string name="device_wearos_download">Stiahnuť Wear OS</string>
     <string name="device_wearos_go">Otvoriť Wear OS</string>
@@ -1233,11 +1233,11 @@ Odošlite tento kód zodpovednej osobe."</string>
     <string name="empty" />
     <string name="eras_ad">CE</string>
     <string name="eras_bc">p.n.l.</string>
-    <string name="error_dup_binded_email">Táto e-mailová adresa je už priradená pre iné Mi Konto.</string>
+    <string name="error_dup_binded_email">Táto e-mailová adresa je už priradená pre iné Xiaomi Konto.</string>
     <string name="error_icon_content_description">Chyba</string>
     <string name="error_invalid_bind_address">Zadaná e-mailová adresa nie je správna.</string>
     <string name="evening">Popoludní</string>
-    <string name="exceed_binded_phone_times_notice">Toto telefónne číslo je už priradené k inému Mi Kontu.</string>
+    <string name="exceed_binded_phone_times_notice">Toto telefónne číslo je už priradené k inému Xiaomi Kontu.</string>
     <string name="exo_controls_cc_disabled_description">Povoliť titulky</string>
     <string name="exo_controls_cc_enabled_description">Zakázať titulky</string>
     <string name="exo_controls_fastforward_description">Pretočiť dopredu</string>
@@ -1353,7 +1353,7 @@ Odošlite tento kód zodpovednej osobe."</string>
     <string name="face_style">Štýl</string>
     <string name="face_used_not_edit">Režim úprav nie je podporovaný</string>
     <string name="face_wearos_install">Ešte chvíľku…</string>
-    <string name="failed_dup_secure_phone_number">Toto telefónne číslo je už použité pre iné Mi Konto</string>
+    <string name="failed_dup_secure_phone_number">Toto telefónne číslo je už použité pre iné Xiaomi Konto</string>
     <string name="feedback_app_log">Protokoly aplikácie</string>
     <string name="feedback_app_problem">Aplikácia</string>
     <string name="feedback_comment_cancel">Teraz nie</string>
@@ -1403,7 +1403,7 @@ Odošlite tento kód zodpovednej osobe."</string>
     <string name="feedback_upload_device_log_message">Odoslaním protokolov zariadenia nám pomôžete nájsť problém rýchlejšie. Môže to trvať 1 až 2 minúty.</string>
     <string name="feedback_upload_device_log_message_sync">Odoslaním protokolov zariadenia nám pomôžete nájsť problém rýchlejšie.</string>
     <string name="feedback_upload_device_log_title">Nahrať protokol zariadenia?</string>
-    <string name="feedback_wearable_experience">Mi Fitness</string>
+    <string name="feedback_wearable_experience">Xiaomi Fitness</string>
     <string name="find_new_verision">Verzia %s je teraz dostupná</string>
     <string name="find_psw">Zabudnuté heslo</string>
     <string name="firmware_bracelet">Aktualizácia firmvéru</string>
@@ -1689,7 +1689,7 @@ Odošlite tento kód zodpovednej osobe."</string>
     <string name="get_fitness_authorization">Momentálne Xiaomi Wear nemá oprávnenie na získavanie informácií o kondičnom cvičení a nemôže získať informácie o vašich krokoch. Po autorizácii prejdite na Xiaomi Wear – Správa povolení na používanie</string>
     <string name="get_permission_failed">Získanie povolení zlyhalo. Povoľte ich v nastaveniach.</string>
     <string name="get_ph_ticket">Získať kód</string>
-    <string name="get_phone_bind_exceed_limit">Jedno telefónne číslo môže byť prepojené maximálne s tromi Mi Kontami. Nie je možné pridať nové kontá.</string>
+    <string name="get_phone_bind_exceed_limit">Jedno telefónne číslo môže byť prepojené maximálne s tromi Xiaomi Kontami. Nie je možné pridať nové kontá.</string>
     <string name="get_phone_verifycode_exceed_limit">Bolo odoslaných príliš veľa overovacích kódov. Počkajte 24 hodín a skúste to znovu.</string>
     <string name="goto_sign_up">Vytvoriť účet</string>
     <string name="health_active_stage_activity_lightly">Ľahká aktivita</string>
@@ -2496,7 +2496,7 @@ Začnite znova."</string>
     <string name="input_email_address_notice">Tento e-mail bude použitý pre overenie vášho konta</string>
     <string name="input_length_exceeds_limit">Zadaný text je príliš dlhý</string>
     <string name="input_new_pwd">Zadajte nové heslo</string>
-    <string name="isornot_your_mi_account">Je toto váš Mi účet?</string>
+    <string name="isornot_your_mi_account">Je toto váš Xiaomi účet?</string>
     <string name="item_view_role_description">Tabulátor</string>
     <string name="just_a_second">Malý moment…</string>
     <string name="keep_alive_notification_channel">Pripojenie zariadenia</string>
@@ -2537,7 +2537,7 @@ Začnite znova."</string>
     <string name="login_next_step">Ďalší</string>
     <string name="login_open_sport_health_cloud_sync">Zapnúť synchronizáciu?</string>
     <string name="login_open_sport_health_cloud_sync_des">Synchronizujte svoje údaje o cvičení a fitness naprieč všetkými vašimi zariadeniami.</string>
-    <string name="login_other">Iné Mi Konto</string>
+    <string name="login_other">Iné Xiaomi Konto</string>
     <string name="login_personalize_mode">Klasické</string>
     <string name="login_privacy_add_experience_tips">&lt;Data>Zapojte sa do programu &lt;a href=\"%1$s\">Optimalizácia na základe užívateľskej skúsenosti&lt;/a> a pomôžte nám tak vylepšovať naše produkty a služby zdieľaním štatistík vášho využívania aplikácie (voliteľné).&lt;/Data></string>
     <string name="login_privacy_add_experience_tips_korea">&lt;Data>Zapojte sa do programu &lt;a href=\"%1$s\">Optimalizácia na základe užívateľskej skúsenosti&lt;/a> a pomôžte nám tak vylepšovať naše produkty a služby zdieľaním štatistík vášho využívania aplikácie.&lt;/Data></string>
@@ -2551,8 +2551,8 @@ Začnite znova."</string>
     <string name="login_privacy_optional_agree_use_location">&lt;Data>Súhlasím sa &lt;a href=\"%1$s\">Zhromažďovaním informácií o polohe&lt;/a> (voliteľné).&lt;/Data></string>
     <string name="login_privacy_required_agree_collect_info">&lt;Data>Súhlasím sa &lt;a href=\"%1$s\">Zhromažďovaním a využitím osobných údajov&lt;/a> (povinné).&lt;/Data></string>
     <string name="login_privacy_required_agree_policy">&lt;Data>Súhlasím so &lt;a href=\"%1$s\">Zmluvnými podmienkami&lt;/a> (povinné).&lt;/Data></string>
-    <string name="login_privacy_rights_des">Vitajte v aplikácii Mi Fitness! Pomocou tejto aplikácie môžete spravovať svoje nositeľné zariadenia a sledovať športové aktivity a údaje o vašom zdraví. Vaše osobné údaje budeme chrániť v súlade so všetkými platnými zákonmi, nariadeniami a zásadami ochrany osobných údajov. Pre správne fungovanie táto aplikácia vyžaduje pripojenie na internet.</string>
-    <string name="login_privacy_rights_kr_des">Vitajte v aplikácii Mi Fitness! Pomocou tejto aplikácie môžete spravovať svoje nositeľné zariadenia a sledovať športové aktivity a údaje o vašom zdraví. Vaše osobné údaje budeme chrániť v súlade so všetkými platnými zákonmi, nariadeniami a zásadami ochrany osobných údajov.</string>
+    <string name="login_privacy_rights_des">Vitajte v aplikácii Xiaomi Fitness! Pomocou tejto aplikácie môžete spravovať svoje nositeľné zariadenia a sledovať športové aktivity a údaje o vašom zdraví. Vaše osobné údaje budeme chrániť v súlade so všetkými platnými zákonmi, nariadeniami a zásadami ochrany osobných údajov. Pre správne fungovanie táto aplikácia vyžaduje pripojenie na internet.</string>
+    <string name="login_privacy_rights_kr_des">Vitajte v aplikácii Xiaomi Fitness! Pomocou tejto aplikácie môžete spravovať svoje nositeľné zariadenia a sledovať športové aktivity a údaje o vašom zdraví. Vaše osobné údaje budeme chrániť v súlade so všetkými platnými zákonmi, nariadeniami a zásadami ochrany osobných údajov.</string>
     <string name="login_privacy_rights_statement">Pravidlá a podmienky</string>
     <string name="login_privacy_update_tips">&lt;Data>Aktualizovali sme naše &lt;a href=\"%1$s\">Zásady ochrany osobných údajov&lt;/a>. Pre lepšie porozumenie vašim užívateľským právam a spôsobom, akými vaše dáta využívame, si pred pokračovaním prečítajte a súhlaste s našimi novými Zásadami ochrany osobných údajov.&lt;/Data></string>
     <string name="login_privacy_update_title">Aktualizované Zásady ochrany osobných údajov</string>
@@ -2572,7 +2572,7 @@ Začnite znova."</string>
     <string name="login_userinfo_desc">Pre presnejšie dáta z cvičenia doplňte svoje profilové informácie.</string>
     <string name="login_welcome">Buďte vždy vo forme</string>
     <string name="login_welcome_desc_second_text">Nový dizajn</string>
-    <string name="login_welcome_desc_text">Mi Fitness</string>
+    <string name="login_welcome_desc_text">Xiaomi Fitness</string>
     <string name="login_with_amazon">Login with Amazon</string>
     <string name="login_with_sns">Iné možnosti prihlásenia</string>
     <string name="logout_account">Odhlásiť sa</string>
@@ -2664,7 +2664,7 @@ Získať toto ocenenie"</string>
     <string name="mine_open_sport_health_cloud_sync_des">Synchronizujte svoje údaje o cvičení a fitness naprieč všetkými vašimi zariadeniami.</string>
     <string name="mine_recovery_app_toast">Prejdite na záložku Zariadenia a kliknite na \"Pripojiť\"</string>
     <string name="mine_setting">Nastavenia</string>
-    <string name="mine_sport_data_import">Preniesť z aplikácie Mi Fit</string>
+    <string name="mine_sport_data_import">Preniesť z aplikácie Xiaomi Fit</string>
     <string name="mine_sync_dialog_desc1">Posilnite svoje telo a získavajte ocenenia</string>
     <string name="mine_sync_dialog_desc2">Pripojte sa k aplikácii Wech a Alipay a zdieľajte svoj počet krokov naprieč aplikáciami</string>
     <string name="mine_sync_dialog_desc3">Synchronizujte údaje o cvičení a fitness naprieč zariadeniami</string>
@@ -2828,7 +2828,7 @@ Získať toto ocenenie"</string>
     <string name="nfc_bind_bank_card_num_by_null_who">Pridať</string>
     <string name="nfc_bind_bank_card_num_by_who_global">Pridať bankovú kartu používateľa %1$s</string>
     <string name="nfc_bind_bank_card_num_hint_global">Zadajte číslo karty</string>
-    <string name="nfc_bind_bank_card_num_safe_wearable_global">Vaše informácie sú s Mi Fitness v bezpečí</string>
+    <string name="nfc_bind_bank_card_num_safe_wearable_global">Vaše informácie sú s Xiaomi Fitness v bezpečí</string>
     <string name="nfc_bind_bank_card_num_title_normal_new">Číslo karty</string>
     <string name="nfc_bind_bank_card_valid_hint_global">MM/RR</string>
     <string name="nfc_bind_bank_card_valid_title_global">Vypršanie platnosti</string>
@@ -2967,7 +2967,7 @@ Bez tohto kroku nie je možné platby zariadením vykonať."</string>
     <string name="noon">Poludnie</string>
     <string name="not_set">Nenastavené</string>
     <string name="not_used_fitness_authorization">Neoprávnený prístup k informáciám o telesnej kondícii</string>
-    <string name="notify_app_full_name">Mi Fitness</string>
+    <string name="notify_app_full_name">Xiaomi Fitness</string>
     <string name="notify_app_remind_manager">Oznámenie aplikácie</string>
     <string name="notify_call_log_permission">Nastavte oprávnenia aplikácie na zobrazenie čísla volajúceho</string>
     <string name="notify_call_notify_delay_notice">Meškanie upozornení</string>
@@ -3025,7 +3025,7 @@ Bez tohto kroku nie je možné platby zariadením vykonať."</string>
     <string name="notify_open_call_permission_title">Povoľte prístup k oznámeniam</string>
     <string name="notify_open_notify_permission_title">Povoľte prístup k oznámeniam</string>
     <string name="notify_open_policy_access_title">Povoľte prístup k režimu Nerušiť</string>
-    <string name="notify_open_remind_text">Rozpoznať Mi Fitness a spustiť aplikáciu</string>
+    <string name="notify_open_remind_text">Rozpoznať Xiaomi Fitness a spustiť aplikáciu</string>
     <string name="notify_permission_answer_phone_calls_info">Pre využitie tejto funkcie dajte aplikácii prístup k Volaniu.</string>
     <string name="notify_permission_call_phone_info">Pre využitie tejto funkcie dajte aplikácii prístup k Volaniu.</string>
     <string name="notify_permission_calllog_des">Pre zobrazenie prichádzajúcich hovorov na vašom nositeľnom zariadení dajte aplikácii oprávnenie na prístup k histórii hovorov.</string>
@@ -3045,7 +3045,7 @@ Bez tohto kroku nie je možné platby zariadením vykonať."</string>
     <string name="ok">OK</string>
     <string name="open_settings">Nastavenia</string>
     <string name="passport_access_denied">Prístup zamietnutý</string>
-    <string name="passport_account_label">Mi Konto</string>
+    <string name="passport_account_label">Xiaomi Konto</string>
     <string name="passport_account_name">"Konto: %1$s "</string>
     <string name="passport_activate_token_expired">Platnosť overovacieho kódu vypršala. Skúste to znovu.</string>
     <string name="passport_area_code_title">Kód oblasti</string>
@@ -3151,7 +3151,7 @@ Bez tohto kroku nie je možné platby zariadením vykonať."</string>
     <string name="permission_send_sms_info">Pre využitie tejto funkcie dajte aplikácii oprávnenie odosielať SMS správy.</string>
     <string name="permission_to_grant_authorization">OK</string>
     <string name="permission_write_read_file_info">Pre využitie tejto funkcie dajte aplikácii prístup k úložisku.</string>
-    <string name="phone_bind_too_many">Tento telefón bol v poslednej dobe prepojený s viacerými Mi účtami. Skúste použiť iné telefónne číslo.</string>
+    <string name="phone_bind_too_many">Tento telefón bol v poslednej dobe prepojený s viacerými Xiaomi účtami. Skúste použiť iné telefónne číslo.</string>
     <string name="phone_hint">Telefónne číslo</string>
     <string name="phone_num_use_for">Telefónne číslo použité pre:</string>
     <string name="phone_number">Telefónne číslo</string>
@@ -3162,7 +3162,7 @@ Bez tohto kroku nie je možné platby zariadením vykonať."</string>
     <string name="pm">pop.</string>
     <string name="preference_copied">Položka %1$s bola skopírovaná do schránky.</string>
     <string name="privacy_agree">Povoliť</string>
-    <string name="privacy_log_off_account">Odstrániť službu Mi Fitness</string>
+    <string name="privacy_log_off_account">Odstrániť službu Xiaomi Fitness</string>
     <string name="privacy_no_agree">Zakázať</string>
     <string name="privacy_permission_answer_phone_calls">Volanie</string>
     <string name="privacy_permission_ble_calendar_read">Prístup ku kalendáru</string>
@@ -3271,10 +3271,10 @@ Bez tohto kroku nie je možné platby zariadením vykonať."</string>
     <string name="show_info_text">Pridať bezpečnostný testovací kľúč do svojho zariadenia?</string>
     <string name="sign_in">Prihlasovanie</string>
     <string name="sign_in_progress">Prihlasovanie…</string>
-    <string name="sign_in_title">Prihlásiť sa so svojim Mi účtom</string>
+    <string name="sign_in_title">Prihlásiť sa so svojim Xiaomi účtom</string>
     <string name="skip_query_account">Preskočiť</string>
     <string name="sleep_detection_stop">Táto relácia bude ukončená, keď vstanete</string>
-    <string name="sleep_detector_content">Mi Fitness sleduje priebeh spánku na pozadí</string>
+    <string name="sleep_detector_content">Xiaomi Fitness sleduje priebeh spánku na pozadí</string>
     <string name="sleep_service">Služby na sledovanie spánku</string>
     <string name="sleep_service_background_running">Služba pre zaznamenávanie údajov o vašom spánku beží na pozadí</string>
     <string name="sleep_snore_detection_running_state_description">Mikrofón je zapnutý. Táto funkcia bude naďalej bežať na pozadí.</string>
@@ -3382,7 +3382,7 @@ Bez tohto kroku nie je možné platby zariadením vykonať."</string>
     <string name="sport_hr_max_remind">Hodnota upozornenia</string>
     <string name="sport_kilo_cal">kcal</string>
     <string name="sport_learn_more">Zobraziť viac</string>
-    <string name="sport_local_device_cannot_update_desc">Otvorte Mi Home a skúste to znova.</string>
+    <string name="sport_local_device_cannot_update_desc">Otvorte Xiaomi Home a skúste to znova.</string>
     <string name="sport_local_device_cannot_update_title">Nepodarilo sa aktualizovať</string>
     <string name="sport_local_sport_setting_belt_adjust">Upravte si opasok</string>
     <string name="sport_local_sport_setting_child_protect_mode">Bezpečnostný zámok</string>
@@ -3405,8 +3405,8 @@ Bez tohto kroku nie je možné platby zariadením vykonať."</string>
     <string name="sport_main_request_location_msg">Pre zaznamenanie trasy cvičenia na mape dajte aplikácii prístup k informáciám o vašej polohe.</string>
     <string name="sport_manager_disconnect">Zariadenie je odpojené</string>
     <string name="sport_metronome">Metronóm</string>
-    <string name="sport_miji_treadmill">Mi Bežecký pás</string>
-    <string name="sport_mijia_treadmill">Mi Treadmill</string>
+    <string name="sport_miji_treadmill">Xiaomi Bežecký pás</string>
+    <string name="sport_mijia_treadmill">Xiaomi Treadmill</string>
     <string name="sport_mobile_phone_placement_advice">Kam by ste mali dať telefón?</string>
     <string name="sport_no_gps_describe">Slabý GPS signál. Cvičte v otvorenom priestore.</string>
     <string name="sport_no_see">Dismiss</string>
@@ -3441,7 +3441,7 @@ Bez tohto kroku nie je možné platby zariadením vykonať."</string>
     <string name="sport_recommended_use">Doporučené</string>
     <string name="sport_reconnect">Pripájanie…</string>
     <string name="sport_reject">Zakázať</string>
-    <string name="sport_revoke_authorization_dialog_content">Pokračovaním odoberiete svoj súhlas s našimi Zásadami ochrany osobných údajov. Účet, pod ktorým ste aktuálne prihlásený na spárovanom zariadení, bude odstránený. Na odstránenie dát uložených v Mi Fitness odstráňte aplikáciu Mi Fitness. Pre odstránenie dát v spárovanom zariadení si prečítajte odsek „Odobranie súhlasu“ v našich Zásadách ochrany osobných údajov. Ak používate nositeľné zariadenie, obnovenie továrenského nastavenia vymaže všetky dáta na zariadení. Po obnovení do továrenského nastavenia nebudete môcť svoje dáta obnoviť. Ak sa potom rozhodnete zariadenie použiť, budete musieť znovu súhlasiť s našimi Zásadami ochrany osobných údajov a zariadení spárovať.</string>
+    <string name="sport_revoke_authorization_dialog_content">Pokračovaním odoberiete svoj súhlas s našimi Zásadami ochrany osobných údajov. Účet, pod ktorým ste aktuálne prihlásený na spárovanom zariadení, bude odstránený. Na odstránenie dát uložených v Xiaomi Fitness odstráňte aplikáciu Xiaomi Fitness. Pre odstránenie dát v spárovanom zariadení si prečítajte odsek „Odobranie súhlasu“ v našich Zásadách ochrany osobných údajov. Ak používate nositeľné zariadenie, obnovenie továrenského nastavenia vymaže všetky dáta na zariadení. Po obnovení do továrenského nastavenia nebudete môcť svoje dáta obnoviť. Ak sa potom rozhodnete zariadenie použiť, budete musieť znovu súhlasiť s našimi Zásadami ochrany osobných údajov a zariadení spárovať.</string>
     <string name="sport_revoke_authorization_dialog_title">Upozornenie</string>
     <string name="sport_revoke_authorization_ensure_revoke">Pokračovať</string>
     <string name="sport_run_distance">Vzdialenosť</string>
@@ -3452,7 +3452,7 @@ Bez tohto kroku nie je možné platby zariadením vykonať."</string>
     <string name="sport_security_lock_title">Upozornenie</string>
     <string name="sport_see">Review</string>
     <string name="sport_select_stride">Úderov za minútu</string>
-    <string name="sport_set_smart_scene_desc">Otvorte Mi Home a pripojte sa k bežeckému pásu.</string>
+    <string name="sport_set_smart_scene_desc">Otvorte Xiaomi Home a pripojte sa k bežeckému pásu.</string>
     <string name="sport_set_smart_scene_title">Nastaviť automatizáciu</string>
     <string name="sport_set_sport_goal">Cieľ</string>
     <string name="sport_setting_check_update">Aktualizovať</string>
@@ -3476,14 +3476,14 @@ Bez tohto kroku nie je možné platby zariadením vykonať."</string>
     <string name="sport_target_run">Cielené behy</string>
     <string name="sport_time_duration">Čas</string>
     <string name="sport_today">Dnes</string>
-    <string name="sport_treadmill_sourse">Mi Bežecký pás</string>
+    <string name="sport_treadmill_sourse">Xiaomi Bežecký pás</string>
     <string name="sport_turn_on_permission_of_running_background">Oprávnenie spustenia na pozadí</string>
     <string name="sport_unknow_error">Neznáma chyba</string>
     <string name="sport_update_discover_new_version">Dostupná aktualizácia</string>
     <string name="sport_update_progress_expression">Stiahnuté &lt;xliff:g id=\"download progress\">%1$d&lt;/xliff:g> %%</string>
     <string name="sport_upload_failure">Nahranie zlyhalo</string>
     <string name="sport_user_guide">Centrum pomocníka</string>
-    <string name="sport_valid">Mi Fitness vyžaduje dlhšiu aktivitu, pri ktorej dôjde k zmene polohy.</string>
+    <string name="sport_valid">Xiaomi Fitness vyžaduje dlhšiu aktivitu, pri ktorej dôjde k zmene polohy.</string>
     <string name="sport_voice_broadcast">Zvuková spätná väzba</string>
     <string name="sport_waist_bag">Ľadvinka</string>
     <string name="sport_walk_distance">Vzdialenosť</string>
@@ -3701,7 +3701,7 @@ Bez tohto kroku nie je možné platby zariadením vykonať."</string>
     <string name="trail_select_type">Cvičenie</string>
     <string name="trail_share">Zdieľať</string>
     <string name="trail_share_app_desc">Vaše nositeľné zariadenie</string>
-    <string name="trail_share_app_download">Pre stiahnutie aplikácie Mi Fitness pridržte prst na QR kóde</string>
+    <string name="trail_share_app_download">Pre stiahnutie aplikácie Xiaomi Fitness pridržte prst na QR kóde</string>
     <string name="trail_share_calorie_desc">Kalórie</string>
     <string name="trail_share_calorie_detail">Kalórie (kcal)</string>
     <string name="trail_share_errcode_cancel">Zrušené</string>
@@ -3930,7 +3930,7 @@ Bez tohto kroku nie je možné platby zariadením vykonať."</string>
     <string name="trail_sport_triathlon_title1">Názov</string>
     <string name="trail_sport_triathlon_title2">Vzdialenosť</string>
     <string name="trail_sport_triathlon_title3">Čas</string>
-    <string name="trail_sport_type_title_name">%1$s | Mi Fitness</string>
+    <string name="trail_sport_type_title_name">%1$s | Xiaomi Fitness</string>
     <string name="trail_sport_unit_cadence">krokov/min.</string>
     <string name="trail_sport_unit_speed">km/h</string>
     <string name="trail_sport_unit_swimming_pace">100 m</string>
@@ -4021,7 +4021,7 @@ Bez tohto kroku nie je možné platby zariadením vykonať."</string>
     <string name="user_agreement_hint_with_unicom">&lt;Data>Prečítal(a) som si a súhlasím so zmluvami &lt;a href=%1$s>Podmienky používania&lt;/a>, &lt;a href=%2$s>Zásady ochrany osobných údajov&lt;/a> a &lt;a href=%3$s>Pravidlá a podmienky overovacích služieb China Unicom&lt;/a>.&lt;/Data></string>
     <string name="user_avatar_update_title">Zmeniť profilovú fotografiu</string>
     <string name="user_avatar_uploading">Malý moment…</string>
-    <string name="user_id_hint">E-mail/Telefón/ID Mi Konta</string>
+    <string name="user_id_hint">E-mail/Telefón/ID Xiaomi Konta</string>
     <string name="user_name_phone_number">Telefónne číslo</string>
     <string name="userinfo_">Uložiť záznamy a zobraziť zobrazenia</string>
     <string name="userinfo_account_desc">Pre presnejšie dáta z cvičenia doplňte svoje profilové informácie.</string>
@@ -4093,7 +4093,7 @@ Bez tohto kroku nie je možné platby zariadením vykonať."</string>
     <string name="userinfo_goal">Predvolené</string>
     <string name="userinfo_goal_page_desc">%1$d/%2$d</string>
     <string name="userinfo_label_birthday">Dátum narodenia</string>
-    <string name="userinfo_lack_permisson">Pre pokračovanie dajte Mi Fitness všetky požadované oprávnenia.</string>
+    <string name="userinfo_lack_permisson">Pre pokračovanie dajte Xiaomi Fitness všetky požadované oprávnenia.</string>
     <string name="userinfo_lock_screen_show">Zobraziť pri uzamknutí</string>
     <string name="userinfo_lock_screen_show_description">Pre zobrazenie vášho preukazu kliknite nie \"Tiesňové volanie\" a \"Zdravotný preukaz\" na vašej Zamykacej obrazovke.</string>
     <string name="userinfo_lock_screen_show_not_on_guide">Pre rýchlejší prístup k vášmu Zdravotnému preukazu zo zamykacej obrazovky kliknite na Viac, zvoľte Upraviť a zapnite možnosť Zobraziť pri uzamknutí.</string>
@@ -4206,7 +4206,7 @@ Ak nechcete svoje zdravotné informácie sprístupniť ostatným, môžete túto
     <string name="widget_rainbow_label">Štatistiky</string>
     <string name="widget_sleep_label">Spánok</string>
     <string name="widget_sleep_no_data">Žiadne dáta</string>
-    <string name="widget_sleep_open_trace">Povoľte sledovanie spánku v Mi Fitness</string>
+    <string name="widget_sleep_open_trace">Povoľte sledovanie spánku v Xiaomi Fitness</string>
     <string name="widget_sleep_target">Cieľ: %1$s</string>
     <string name="widget_tb_rainbow_has_no_data">Žiadne dáta</string>
     <string name="widget_tb_rainbow_has_stand">%1$d z %2$d kcal spálených. %3$d z %4$d krokov. %5$d z %6$d h pohybu.</string>

@@ -54,7 +54,7 @@
     <string name="err_type_systemapp">MIUI apl.</string>
     <string name="err_type_translate">Jazyk</string>
     <string name="err_type_wifi">Wi-Fi</string>
-    <string name="err_type_xiaomi_family">Mi Family</string>
+    <string name="err_type_xiaomi_family">Xiaomi Family</string>
     <string name="err_type_xiaomi_service">Služby zákazníkom</string>
     <string name="error_no_connection">Nebolo možné sa pripojiť k sieti</string>
     <string name="feedback_bug_status_change_notification_desc">%1$s chyba \"%2$s\"</string>
@@ -72,13 +72,13 @@
     <string name="feedback_detail_tile">Stav</string>
     <string name="feedback_empty_report_list">žiadne hlásenia</string>
     <string name="feedback_guess">Naše dohady</string>
-    <string name="feedback_history_remind_login_desc">Prihláste sa svojim Mi účtom pre zobrazenie podrobností a stav vašich nahlásených chýb.</string>
+    <string name="feedback_history_remind_login_desc">Prihláste sa svojim Xiaomi účtom pre zobrazenie podrobností a stav vašich nahlásených chýb.</string>
     <string name="feedback_id">ID: %d</string>
     <string name="feedback_package_log_failed">Nebolo možné skomprimovať záznamy o chybe</string>
     <string name="feedback_phone_model_label">Model telefónu</string>
     <string name="feedback_probability_label">Pravdepodobnosť</string>
     <string name="feedback_remind_login_btn">Prihlásiť sa</string>
-    <string name="feedback_report_remind_login_desc">Prihláste sa svojim Mi účtom aby sme vás mohli kontaktovať.</string>
+    <string name="feedback_report_remind_login_desc">Prihláste sa svojim Xiaomi účtom aby sme vás mohli kontaktovať.</string>
     <string name="feedback_report_remind_login_desc2">Múžete zobraziť stav vašich nahlásených chýb v \"Moje hlásenia\"."</string>
     <string name="feedback_retest_label">Ako reprodukovať chybu</string>
     <string name="feedback_select_images">Pridať obrázok</string>
@@ -147,7 +147,7 @@
     <string name="module_communication">Komunikácia</string>
     <string name="module_data">Úložisko a Klonované aplikácie</string>
     <string name="module_desktop">Domáca plocha a nastavenia</string>
-    <string name="module_finance">Finance &amp; Mi Wallet</string>
+    <string name="module_finance">Finance &amp; Xiaomi Wallet</string>
     <string name="module_item_less">Skryť</string>
     <string name="module_item_more">Viac</string>
     <string name="module_medias">Médiá</string>
@@ -182,7 +182,7 @@
     <string name="packaging_dialog_content">Generuje sa report, čakajte prosím...</string>
     <string name="permission_granted">Získané povolenia %1$s</string>
     <string name="pic_not_exist">Tento obrázok neexistuje</string>
-    <string name="plus_one_submit_dialog_content">Váš názor a záznam o chybe budú odoslané na Mi server.</string>
+    <string name="plus_one_submit_dialog_content">Váš názor a záznam o chybe budú odoslané na Xiaomi server.</string>
     <string name="plus_one_submit_dialog_not_show_again">Zapamätať nastavenie</string>
     <string name="post_miui_bbs_failed">Nebolo možné napísať na fórum</string>
     <string name="pull_to_refresh_pull_label">Potiahnite pre obnovenie</string>
@@ -216,10 +216,10 @@
     <string name="tab_title_report">Feedback</string>
     <string name="time_in_justnow">Práve teraz</string>
     <string name="title_answer_feedback_main">Našli sme odpoveď!</string>
-    <string name="title_bbs_feedback_main">Viac o Mi telefónoch</string>
+    <string name="title_bbs_feedback_main">Viac o Xiaomi telefónoch</string>
     <string name="title_customer_service">Užívateľská podpora</string>
     <string name="title_frequent_question_feedback_main">FAQ</string>
-    <string name="title_mi_family">Mi Home v blízkosti</string>
+    <string name="title_mi_family">Xiaomi Home v blízkosti</string>
     <string name="title_nonsystem_app">Iné apl.</string>
     <string name="title_same_question_feedback_main">Podobné chyby na MIUI fóre</string>
     <string name="title_system_app">MIUI apl.</string>

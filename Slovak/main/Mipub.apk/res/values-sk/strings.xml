@@ -62,7 +62,7 @@
     <string name="enable_password_protect">Povoliť ochranu heslom</string>
     <string name="enable_visible_pattern_title">Zobraziť vzor</string>
     <string name="english_subject_limit">max 40 znakov</string>
-    <string name="ex_type_mx">Mi Message</string>
+    <string name="ex_type_mx">Xiaomi Message</string>
     <string name="ex_type_sms">SMS/MMS</string>
     <string name="exceed_message_size_limitation">Bol dosiahnutý limit veľkosti správy.</string>
     <string name="failed_to_add_media">Položku %1$s nemožno pridať do správy.</string>

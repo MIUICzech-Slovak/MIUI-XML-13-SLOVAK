@@ -31,7 +31,7 @@
     <string name="account_bind_secure_email_title">Pridať e-mail pre obnovenie</string>
     <string name="account_bind_secure_phone_title">Pridať telefónne číslo pre obnovenie</string>
     <string name="account_crop_user_avatar">Orezať fotografiu</string>
-    <string name="account_empty_user_name">Zadajte užívateľské meno pre Mi Konto</string>
+    <string name="account_empty_user_name">Zadajte užívateľské meno pre Xiaomi Konto</string>
     <string name="account_error_all_space_user_name">Užívateľské meno musí obsahovať aj iné znaky ako len medzery</string>
     <string name="account_error_invalid_user_name">Meno nemôže obsahovať &lt;, &gt;, alebo /</string>
     <string name="account_error_longer_user_name">Meno nemôže byť dlhšie ako 20 znakov</string>
@@ -53,7 +53,7 @@
     <string name="account_user_details">Osobné informácie</string>
     <string name="account_user_email">Záložný e-mail</string>
     <string name="account_user_gender">Pohlavie</string>
-    <string name="account_user_id">ID Mi Konta</string>
+    <string name="account_user_id">ID Xiaomi Konta</string>
     <string name="account_user_name">Prezývka</string>
     <string name="account_user_name_dialog_title">Zadajte užívateľské meno</string>
     <string name="account_user_other_info">Podrobnosti</string>
@@ -74,7 +74,7 @@
     <string name="app_name">Spätná väzba</string>
     <string name="app_search">Hľadať aplikácie</string>
     <string name="auth_fail_warning">Platnosť relácie vypršala. Prihláste sa znovu.</string>
-    <string name="bind_sign_in_title">Pridať Mi Konto</string>
+    <string name="bind_sign_in_title">Pridať Xiaomi Konto</string>
     <string name="btn_send">Odoslať</string>
     <string name="bugreport_dialog_not_show_again">Viac nezobrazovať</string>
     <string name="bugreport_dialog_submit_content">&lt;Data&gt;Práve ukladáte do vášho zariadenia softvérové záznamy. Záznamy môžu obsahovať osobné informácie alebo informácie o vašej polohe. Pokiaľ sa chcete vyhnúť úniku informácií, s nikým tieto údaje nezdieľajte. Zvolením možnosti \"Súhlasím\" prehlasujete, že ste si prečítali a súhlasíte s našimi zmluvami &lt;a href=\"%1$s\"&gt;Zásady ochrany osobných údajov&lt;/a&gt; a &lt;a href=\"%2$s\"&gt;Podmienky používania&lt;/a&gt;.&lt;/Data&gt;</string>
@@ -186,12 +186,12 @@ Odošlite tento kód zodpovednej osobe."</string>
     <string name="err_type_translate">Jazyk</string>
     <string name="err_type_xiaomi_family">Xiaomi Home</string>
     <string name="err_type_xiaomi_service">Zákaznícky servis</string>
-    <string name="error_dup_binded_email">Táto e-mailová adresa je už priradená pre iné Mi Konto.</string>
+    <string name="error_dup_binded_email">Táto e-mailová adresa je už priradená pre iné Xiaomi Konto.</string>
     <string name="error_invalid_bind_address">Zadaná e-mailová adresa nie je správna.</string>
     <string name="evening">Popoludní</string>
-    <string name="exceed_binded_phone_times_notice">Toto telefónne číslo je už priradené k inému Mi Kontu.</string>
+    <string name="exceed_binded_phone_times_notice">Toto telefónne číslo je už priradené k inému Xiaomi Kontu.</string>
     <string name="expand_button_title">Rozšírené</string>
-    <string name="failed_dup_secure_phone_number">Toto telefónne číslo je už použité pre iné Mi Konto</string>
+    <string name="failed_dup_secure_phone_number">Toto telefónne číslo je už použité pre iné Xiaomi Konto</string>
     <string name="failed_to_fetch_fql">Nie je možné získať informácie o častých otázkach. Skontrolujte sieťové pripojenie</string>
     <string name="feedback_answer_detail_feedback_resolved">Áno</string>
     <string name="feedback_answer_detail_feedback_result">Ďakujeme za spätnú väzbu!</string>
@@ -237,13 +237,13 @@ Odošlite tento kód zodpovednej osobe."</string>
     <string name="feedback_edit_popup_window_related_title">Toto by sa vám mohlo hodiť</string>
     <string name="feedback_empty_report_list">Žiadne hlásenia</string>
     <string name="feedback_guess">Náš tip:</string>
-    <string name="feedback_history_remind_login_desc">Prihláste sa svojim Mi kontom pre zobrazenie podrobností a stav vašich nahlásených chýb</string>
+    <string name="feedback_history_remind_login_desc">Prihláste sa svojim Xiaomi kontom pre zobrazenie podrobností a stav vašich nahlásených chýb</string>
     <string name="feedback_id">ID: %d</string>
     <string name="feedback_jira_key">JIRA kľúč: %s</string>
     <string name="feedback_jira_key_place_holder">Vytvára sa Jira…</string>
     <string name="feedback_package_log_failed">Nebolo možné skomprimovať záznamy o chybe</string>
     <string name="feedback_remind_login_btn">Prihlásiť sa</string>
-    <string name="feedback_report_remind_login_desc">Prihláste sa svojim Mi kontom, aby sme vás mohli kontaktovať.</string>
+    <string name="feedback_report_remind_login_desc">Prihláste sa svojim Xiaomi kontom, aby sme vás mohli kontaktovať.</string>
     <string name="feedback_report_remind_login_desc2">Stav vašich nahlásených chýb si môžete pozrieť v časti \"Moje hlásenia\".</string>
     <string name="feedback_reproductivity_everytime">Vždy</string>
     <string name="feedback_reproductivity_occasionally">Príležitostne</string>
@@ -344,7 +344,7 @@ Odošlite tento kód zodpovednej osobe."</string>
     <string name="friday_shortest">Pia</string>
     <string name="get_back_pwd">Heslo sa obnovuje</string>
     <string name="get_ph_ticket">Získať kód</string>
-    <string name="get_phone_bind_exceed_limit">Jedno telefónne číslo môže byť prepojené maximálne s tromi Mi Kontami. Nie je možné pridať nové kontá.</string>
+    <string name="get_phone_bind_exceed_limit">Jedno telefónne číslo môže byť prepojené maximálne s tromi Xiaomi Kontami. Nie je možné pridať nové kontá.</string>
     <string name="get_phone_verifycode_exceed_limit">Bolo odoslaných príliš veľa overovacích kódov. Počkajte 24 hodín a skúste to znovu.</string>
     <string name="goon_feedback_main">Pokračovať</string>
     <string name="goto_sign_up">Vytvoriť účet</string>
@@ -357,7 +357,7 @@ Odošlite tento kód zodpovednej osobe."</string>
     <string name="input_email_address_notice">Tento e-mail bude použitý pre overenie vášho konta</string>
     <string name="input_length_exceeds_limit">Zadaný text je príliš dlhý</string>
     <string name="input_new_pwd">Zadajte nové heslo</string>
-    <string name="isornot_your_mi_account">Je toto váš Mi účet?</string>
+    <string name="isornot_your_mi_account">Je toto váš Xiaomi účet?</string>
     <string name="issue_search">Vyhľadať</string>
     <string name="jump_full_log_dialog_cancel">Zrušiť</string>
     <string name="jump_full_log_dialog_confirm">Generovať</string>
@@ -366,7 +366,7 @@ Odošlite tento kód zodpovednej osobe."</string>
     <string name="just_a_second">Malý moment…</string>
     <string name="kr_authorization_agree">Prijať</string>
     <string name="kr_authorization_contact">Kontá</string>
-    <string name="kr_authorization_contact_desc">Pre prístup k informáciám o Mi Konte z dôvodu identifikácie zariadenia</string>
+    <string name="kr_authorization_contact_desc">Pre prístup k informáciám o Xiaomi Konte z dôvodu identifikácie zariadenia</string>
     <string name="kr_authorization_exit">Koniec</string>
     <string name="kr_authorization_function">Odosielanie spätnej väzby, generovanie logov, zobrazovanie častých otázok</string>
     <string name="kr_authorization_log_protocol">Protokol záznamov (voliteľné)</string>
@@ -431,7 +431,7 @@ Odošlite tento kód zodpovednej osobe."</string>
     <string name="module_communication">Komunikácia</string>
     <string name="module_data">Úložisko a Duálne aplikácie</string>
     <string name="module_desktop">Domovská obrazovka a nastavenia</string>
-    <string name="module_finance">Financie a Mi Peňaženka</string>
+    <string name="module_finance">Financie a Xiaomi Peňaženka</string>
     <string name="module_google_apps">Google aplikácie</string>
     <string name="module_item_less">Skryť</string>
     <string name="module_item_more">Viac</string>
@@ -503,7 +503,7 @@ Odošlite tento kód zodpovednej osobe."</string>
     <string name="open_feedback_main">Viac</string>
     <string name="open_settings">Nastavenia</string>
     <string name="passport_access_denied">Prístup zamietnutý</string>
-    <string name="passport_account_label">Mi Konto</string>
+    <string name="passport_account_label">Xiaomi Konto</string>
     <string name="passport_account_name">"Konto: %1$s "</string>
     <string name="passport_activate_token_expired">Platnosť overovacieho kódu vypršala. Skúste to znovu.</string>
     <string name="passport_area_code_title">Kód oblasti</string>
@@ -593,7 +593,7 @@ Odošlite tento kód zodpovednej osobe."</string>
     <string name="passport_wrong_vcode">Zadaný kód je nesprávny</string>
     <string name="passport_wrong_voice">Zadaný kód je nesprávny</string>
     <string name="password_toggle_content_description">Zobraziť heslo</string>
-    <string name="phone_bind_too_many">Tento telefón bol v poslednej dobe prepojený s viacerými Mi účtami. Skúste použiť iné telefónne číslo.</string>
+    <string name="phone_bind_too_many">Tento telefón bol v poslednej dobe prepojený s viacerými Xiaomi účtami. Skúste použiť iné telefónne číslo.</string>
     <string name="phone_hint">Telefónne číslo</string>
     <string name="phone_num_use_for">Telefónne číslo použité pre:</string>
     <string name="phone_number">Telefónne číslo</string>
@@ -653,7 +653,7 @@ Pred pokračovaním si prečítajte a vyjadrite súhlas s novou verziou %3$s."</
     <string name="set_success">Úspešne zmenené</string>
     <string name="sign_in">Prihlasovanie</string>
     <string name="sign_in_progress">Prihlasovanie…</string>
-    <string name="sign_in_title">Prihlásiť sa so svojim Mi účtom</string>
+    <string name="sign_in_title">Prihlásiť sa so svojim Xiaomi účtom</string>
     <string name="skip_query_account">Preskočiť</string>
     <string name="sms_send_success">Úspešne odoslané</string>
     <string name="sns_access_token_expired_warning">Platnosť relácie vypršala. Prihláste sa znovu pre opätovné pripojenie tohto konta.</string>
@@ -666,7 +666,7 @@ Pred pokračovaním si prečítajte a vyjadrite súhlas s novou verziou %3$s."</
     <string name="stop_full_log_dialog_title">Generujú sa logy…</string>
     <string name="submit_dialog_cancel">Nesúhlasím</string>
     <string name="submit_dialog_confirm">Súhlasím</string>
-    <string name="submit_dialog_content">&lt;Data&gt;Pred odoslaním spätnej väzby si prečítajte a vyjadrite súhlas s našimi zmluvami&lt;a href=\"%1$s\"&gt;Zásady ochrany osobných údajov&lt;/a&gt; a &lt;a href=\"%2$s\"&gt;Podmienky používania&lt;/a&gt;. Problémy, ktoré nahlásite spolu s položkami, ktoré priložíte (vrátane protokolov, ktoré môžu obsahovať osobné informácie, ako aj informácie o vašom zariadení a sieti), sa nahrajú na servery MIUI. Toto nám pomôže nájsť a vyriešiť problémy, ktoré nahlásite. Ak nahlásite problémy týkajúce sa viacerých zariadení, nahrajú sa aj protokoly z iných zariadení, kde sa používa vaše Mi Konto.&lt;/Data&gt;</string>
+    <string name="submit_dialog_content">&lt;Data&gt;Pred odoslaním spätnej väzby si prečítajte a vyjadrite súhlas s našimi zmluvami&lt;a href=\"%1$s\"&gt;Zásady ochrany osobných údajov&lt;/a&gt; a &lt;a href=\"%2$s\"&gt;Podmienky používania&lt;/a&gt;. Problémy, ktoré nahlásite spolu s položkami, ktoré priložíte (vrátane protokolov, ktoré môžu obsahovať osobné informácie, ako aj informácie o vašom zariadení a sieti), sa nahrajú na servery MIUI. Toto nám pomôže nájsť a vyriešiť problémy, ktoré nahlásite. Ak nahlásite problémy týkajúce sa viacerých zariadení, nahrajú sa aj protokoly z iných zariadení, kde sa používa vaše Xiaomi Konto.&lt;/Data&gt;</string>
     <string name="submit_dialog_content_global">&lt;Data&gt;Vaša pripomienka, spolu s prílohami (ak nejaké existujú) a logmi (nežiadúce položky môžete odznačiť) bude odoslaná na MIUI servery. Logy môžu obsahovať vaše osobné údaje a údaje o vašej polohe. Zvolením možnosti \"Súhlasím\" vyjadrujete súhlas, že ste si prečítali a súhlasíte s našimi zmluvami &lt;a href=\"%1$s\"&gt;Zásady ochrany osobných údajov&lt;/a&gt; a &lt;a href=\"%2$s\"&gt;Podmienky používania&lt;/a&gt;.&lt;/Data&gt;</string>
     <string name="submit_dialog_content_global_with_contactinfo">Vaša spätná väzba spolu s prílohami (ak existujú), denníkmi (môžete zrušiť začiarknutie príslušných políčok pri položkách, ktoré nechcete nahrať), telefónnym číslom alebo e-mailom sa odošle na servery MIUI. Protokoly môžu obsahovať osobné informácie a údaje o vašej polohe. Výberom možnosti \"Súhlasím\" znamená, že ste si prečítali našu Ochranu súkromia a súhlasíte s nimi a Podmienky používania.</string>
     <string name="submit_dialog_not_show_again">Viac nezobrazovať</string>
@@ -755,7 +755,7 @@ Veľkosť: %2$s"</string>
     <string name="user_agreement_protocal_dialog_hint_default">Prečítal som si Podmienky používania a Ochranu súkromia.</string>
     <string name="user_avatar_update_title">Zmeniť profilovú fotografiu</string>
     <string name="user_avatar_uploading">Malý moment…</string>
-    <string name="user_id_hint">E-mail/Telefón/ID Mi Konta</string>
+    <string name="user_id_hint">E-mail/Telefón/ID Xiaomi Konta</string>
     <string name="user_must_known">Pozor</string>
     <string name="user_must_known_content">Nebudete môcť naďalej používať naše služby, pokiaľ nevyjadríte súhlas s novou verziou nášho %s. Súhlasíte teraz s aktualizovanými Zásadami ochrany osobných údajov?</string>
     <string name="user_name_phone_number">Telefónne číslo</string>

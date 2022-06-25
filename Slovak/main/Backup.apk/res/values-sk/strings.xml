@@ -2,20 +2,20 @@
 <resources>
     <string name="abort_backup_confirm">Záloha nie je dokončená. Napriek tomu ukončiť?</string>
     <string name="abort_restore_confirm">Obnovenie nie je dokončené. Napriek tomu ukončiť?</string>
-    <string name="account_contact_backup_info">Účet Google, Mi účet a kontakty</string>
+    <string name="account_contact_backup_info">Účet Google, Xiaomi účet a kontakty</string>
     <string name="account_login">Prihlásiť sa</string>
-    <string name="account_summary">Zálohujte si Google účet, Mi konto a ostatné užívateľské dáta</string>
+    <string name="account_summary">Zálohujte si Google účet, Xiaomi konto a ostatné užívateľské dáta</string>
     <string name="agree_button">Súhlasím</string>
     <string name="agree_revoke_permission_title">Odobratie povolení</string>
     <string name="alert_button_agree_and_continue">Povoliť</string>
     <string name="alert_button_deny">Odmietnuť</string>
-    <string name="alert_message_backup_to_miasist">Mi PC Suite vyžaduje povolenie na vytvorenie zálohy v počítači. Povoliť?</string>
-    <string name="alert_message_restore_from_miasist">Mi PC Suite požaduje povolenie na obnovenie položiek vo vašom telefóne. Povoliť?</string>
-    <string name="alert_miasist_occupy_backup">Zálohovanie položiek pomocou Mi PC Suite… Počkajte, pokiaľ nebude zálohovanie dokončené a skúste to znovu.</string>
-    <string name="alert_miasist_occupy_restore">Obnova položiek pomocou Mi PC Suite… Počkajte, pokiaľ nebude obnovenie dokončené a skúste to znovu.</string>
-    <string name="alert_phone_occupy_backup">Mi PC Suite sa momentálne nedá použiť. Dokončite zálohovanie alebo obnovu položiek na vašom telefóne a skúste to znovu.</string>
-    <string name="alert_second_space_not_support_miasist">Mi PC Suite nie je možné použiť v Druhom profile. Prepnite sa do Hlavného profilu.</string>
-    <string name="alert_title_backup_to_miasist">Zálohovať položky pomocou Mi PC Suite?</string>
+    <string name="alert_message_backup_to_miasist">Xiaomi PC Suite vyžaduje povolenie na vytvorenie zálohy v počítači. Povoliť?</string>
+    <string name="alert_message_restore_from_miasist">Xiaomi PC Suite požaduje povolenie na obnovenie položiek vo vašom telefóne. Povoliť?</string>
+    <string name="alert_miasist_occupy_backup">Zálohovanie položiek pomocou Xiaomi PC Suite… Počkajte, pokiaľ nebude zálohovanie dokončené a skúste to znovu.</string>
+    <string name="alert_miasist_occupy_restore">Obnova položiek pomocou Xiaomi PC Suite… Počkajte, pokiaľ nebude obnovenie dokončené a skúste to znovu.</string>
+    <string name="alert_phone_occupy_backup">Xiaomi PC Suite sa momentálne nedá použiť. Dokončite zálohovanie alebo obnovu položiek na vašom telefóne a skúste to znovu.</string>
+    <string name="alert_second_space_not_support_miasist">Xiaomi PC Suite nie je možné použiť v Druhom profile. Prepnite sa do Hlavného profilu.</string>
+    <string name="alert_title_backup_to_miasist">Zálohovať položky pomocou Xiaomi PC Suite?</string>
     <string name="alert_title_restore_from_miasist">Obnoviť položky vo vašom telefóne?</string>
     <string name="already_enable_encrypt">Šifrovanie už je povolené</string>
     <string name="alternative_ui_content">Táto funkcia vám umožňuje zálohovať a obnovovať položky pomocou mobilného zariadenia a počítača. Táto funkcia sa musí pripojiť k internetu a vyžaduje nasledujúce povinné povolenia, aby mohla normálne fungovať:</string>
@@ -92,17 +92,17 @@ https://appleid.apple.com/#!&amp;page=signin zatvoriť"</string>
     <string name="close_twice_auth_step_3">3. Kliknite na „Vypnúť dvojstupňové overenie“. Výber potvrďte kliknutím.</string>
     <string name="close_twice_auth_steps">Ak chcete vypnúť dvojstupňové overenie Apple ID, postupujte podľa týchto krokov:</string>
     <string name="close_twice_auth_tutor">Vypnúť dvojstupňové overenie Apple ID</string>
-    <string name="cloud_app_name">Záloha Mi Cloud</string>
+    <string name="cloud_app_name">Záloha Xiaomi Cloud</string>
     <string name="cloud_backup_hint">Pre prístup k vašim zálohám sa najskôr prihláste</string>
-    <string name="cloud_backup_login">Prihláste sa k vášmu Mi kontu</string>
-    <string name="cloud_backup_window_title">Záloha Mi Cloud</string>
-    <string name="cloud_home_title">Mi Cloud</string>
-    <string name="cloud_item_info_summary">" (Local: %1$s | Mi Cloud: %2$s)"</string>
+    <string name="cloud_backup_login">Prihláste sa k vášmu Xiaomi kontu</string>
+    <string name="cloud_backup_window_title">Záloha Xiaomi Cloud</string>
+    <string name="cloud_home_title">Xiaomi Cloud</string>
+    <string name="cloud_item_info_summary">" (Local: %1$s | Xiaomi Cloud: %2$s)"</string>
     <string name="cloud_last_backup">"Naposledy zálohované "</string>
     <string name="cloud_no_backup">Žiadne zálohy</string>
     <string name="cloud_restore_guide">Pre obnovenie užívateľských dát aplikácie %s, ťuknite na Obnoviť</string>
     <string name="cloud_restore_title">Obnoviť zálohované dáta</string>
-    <string name="cloud_restore_window_title">Obnovenie z Mi Cloudu</string>
+    <string name="cloud_restore_window_title">Obnovenie z Xiaomi Cloudu</string>
     <string name="cloud_search">Vyhľadávanie…</string>
     <string name="comma_seperator">", "</string>
     <string name="compute_backup_info">Získavajú sa informácie o zálohe…</string>
@@ -130,12 +130,12 @@ https://appleid.apple.com/#!&amp;page=signin zatvoriť"</string>
     <string name="deselect_all">Odznačiť všetko</string>
     <string name="dialog_app_upgrade_download">Aktualizácia</string>
     <string name="dialog_app_upgrade_exit">Ukončiť</string>
-    <string name="dialog_app_upgrade_message">Je dostupná nová verzia aplikácie Mi Mover. Aktualizovať Mi Mover teraz?</string>
+    <string name="dialog_app_upgrade_message">Je dostupná nová verzia aplikácie Xiaomi Mover. Aktualizovať Xiaomi Mover teraz?</string>
     <string name="dialog_backup_password_auto_backup_tips">Automatická záloha položiek nie je možná, keď je zapnuté heslo. Najskôr vypnite heslo.</string>
     <string name="dialog_backup_password_backup_tips">Položky nie je možné zálohovať keď je zapnuté heslo zálohovania. Vypnúť heslo zálohovania.</string>
     <string name="dialog_backup_password_cancel">Zrušiť</string>
-    <string name="dialog_backup_password_change_device_restore_tips">Službu Mi Mover nie je možné použiť, keď je zapnuté heslo na zálohu. Najskôr vypnite heslo zálohy.</string>
-    <string name="dialog_backup_password_change_machine_tips">Nebudete môcť prenášať heslom chránené zálohy. Pred použitím aplikácie Mi Mover vypnite heslo zálohovania.</string>
+    <string name="dialog_backup_password_change_device_restore_tips">Službu Xiaomi Mover nie je možné použiť, keď je zapnuté heslo na zálohu. Najskôr vypnite heslo zálohy.</string>
+    <string name="dialog_backup_password_change_machine_tips">Nebudete môcť prenášať heslom chránené zálohy. Pred použitím aplikácie Xiaomi Mover vypnite heslo zálohovania.</string>
     <string name="dialog_backup_password_restore_tips">Nie je možné obnoviť položky, keď je zapnuté heslo na zálohu. Najskôr vypnite heslo zálohy.</string>
     <string name="dialog_backup_password_to_settings">Nastavenia</string>
     <string name="dir_date_format">ddMMyyyy_HHmmss</string>
@@ -148,8 +148,8 @@ https://appleid.apple.com/#!&amp;page=signin zatvoriť"</string>
     <string name="enable_encrypt_description">Zašifrovať</string>
     <string name="enable_encrypt_fail">Chyba šifrovania</string>
     <string name="enable_encrypt_indicator">Dotykom zašifrovať</string>
-    <string name="enable_encrypt_summery1">Pre prístup k zašifrovaným zálohám sa prihláste do svojho Mi konta.</string>
-    <string name="enable_encrypt_summery2">Vaše zálohy budú automaticky šifrované. Pre prístup k nim sa musíte prihlásiť do svojho Mi konta.</string>
+    <string name="enable_encrypt_summery1">Pre prístup k zašifrovaným zálohám sa prihláste do svojho Xiaomi konta.</string>
+    <string name="enable_encrypt_summery2">Vaše zálohy budú automaticky šifrované. Pre prístup k nim sa musíte prihlásiť do svojho Xiaomi konta.</string>
     <string name="enable_encrypt_title">Šifrovať zálohy</string>
     <string name="enable_encrypt_xiaomi_account">Táto záloha bola vytvorená účtom %1$s. Pre obnovu dát odstráňte tento účet a prihláste sa ako %2$s.</string>
     <string name="enable_local_backup">Zapnúť lokálne zálohy</string>
@@ -177,7 +177,7 @@ https://appleid.apple.com/#!&amp;page=signin zatvoriť"</string>
     <string name="exchange_account">Prepnúť účty</string>
     <string name="fail">Chyba</string>
     <string name="failed_description">Zlyhanie</string>
-    <string name="feature_title_account">Mi konto</string>
+    <string name="feature_title_account">Xiaomi konto</string>
     <string name="feature_title_antispam">Zoznam blokovaných</string>
     <string name="feature_title_call_log">História hovorov</string>
     <string name="feature_title_contacts">Kontakty</string>
@@ -187,7 +187,7 @@ https://appleid.apple.com/#!&amp;page=signin zatvoriť"</string>
     <string name="file_uploading">Nahráva sa…</string>
     <string name="files_backup_info">Všetky súbory na SD karte (vrátane fotografií, hudby, videí, dát aplikácií atď.)</string>
     <string name="findlost_contact">Obnoviť kontakty</string>
-    <string name="findlost_contact_online">Obnoviť kontakty zo služby Mi Cloud</string>
+    <string name="findlost_contact_online">Obnoviť kontakty zo služby Xiaomi Cloud</string>
     <string name="flash_drive_backup_btn">Zálohovať na úložisko USB</string>
     <string name="flash_drive_backup_note">Správy.</string>
     <string name="flash_drive_backup_restore">USB zálohy</string>
@@ -215,7 +215,7 @@ Nemeňte alebo nepremenúvajte záložné súbory."</string>
     <string name="grant_all_permission_title">Vyžadujú sa povolenia</string>
     <string name="guarded_mode_dialog_backup_message">Zálohy nie sú povolené v režime Hosťa.</string>
     <string name="guarded_mode_dialog_title">Režim Hosť</string>
-    <string name="guarded_mode_dialog_transfer_message">Mi Mover sa nedá použiť v režime Hosťa.</string>
+    <string name="guarded_mode_dialog_transfer_message">Xiaomi Mover sa nedá použiť v režime Hosťa.</string>
     <string name="hide_password_description">Skryť heslo</string>
     <string name="hsa_code_null">Políčko s overovacím kódom nemôže ostať prázdne</string>
     <string name="hsa_input_hint">Zadajte overovací kód</string>
@@ -249,14 +249,14 @@ Nemeňte alebo nepremenúvajte záložné súbory."</string>
     <string name="icloud_need_wifi_title">Pripojte sa k Wi-Fi</string>
     <string name="import_again">Importovať znovu</string>
     <string name="import_data_from_icloud">Importovať dáta z iCloudu</string>
-    <string name="import_from_xiaomi_account_hint1">"1.\u0009Stiahnite aplikáciu Mi Talk a prihláste sa.
+    <string name="import_from_xiaomi_account_hint1">"1.\u0009Stiahnite aplikáciu Xiaomi Talk a prihláste sa.
 \u0009http://www.miliao.com
 
-2.\u0009Prejdite do nastavení Mi Talk a zvoľte možnosť „Zálohovať kontakty na Mi konto“"</string>
+2.\u0009Prejdite do nastavení Xiaomi Talk a zvoľte možnosť „Zálohovať kontakty na Xiaomi konto“"</string>
     <string name="import_from_xiaomi_account_hint2">Pokiaľ už máte zálohu, ťuknite na Ďalej.</string>
-    <string name="import_from_xiaomi_account_hint_title">Pre zálohovanie kontaktov s rôznymi zariadeniami používajte Mi Talk.</string>
+    <string name="import_from_xiaomi_account_hint_title">Pre zálohovanie kontaktov s rôznymi zariadeniami používajte Xiaomi Talk.</string>
     <string name="import_tip_summary">V dôsledku problémov s kompatibilitou nie je možné prenášať všetky dáta z iOS zariadení. Pred spustením prenosu sa uistite, že ste vykonali zálohu iCloud.</string>
-    <string name="lack_perm_msg">Mi Mover vyžaduje nasledujúce oprávnenia: %s .</string>
+    <string name="lack_perm_msg">Xiaomi Mover vyžaduje nasledujúce oprávnenia: %s .</string>
     <string name="lack_perm_title">Požadujú sa oprávnenia</string>
     <string name="list_footer_tip_title">Tipy:</string>
     <string name="loading_data">Načítavanie dát</string>
@@ -284,7 +284,7 @@ Nemeňte alebo nepremenúvajte záložné súbory."</string>
     <string name="local_main_backup_settings">Nastavenie lokálnej zálohy</string>
     <string name="local_main_backup_time">Posledná záloha: %1$s</string>
     <string name="local_main_date_format">dd.MM.yyyy HH:mm</string>
-    <string name="local_main_encrypt_backup_summary">Zašifrujte svoju zálohu pomocou Mi účtu</string>
+    <string name="local_main_encrypt_backup_summary">Zašifrujte svoju zálohu pomocou Xiaomi účtu</string>
     <string name="local_main_encrypt_backup_title">Zašifrovať zálohy</string>
     <string name="local_main_latest_backup_time_loading">Načítavanie...</string>
     <string name="local_no_backup">Žiadne zálohy.</string>
@@ -303,8 +303,8 @@ Nemeňte alebo nepremenúvajte záložné súbory."</string>
     <string name="login">Prihlásiť sa</string>
     <string name="login_failed">Nepodarilo sa prihlásiť, skúste to znovu.</string>
     <string name="logining">Prihlasovanie…</string>
-    <string name="miliao_account_guide">Prihláste sa kdekoľvek do Mi Cloudu, Obchodu s témami a do iných Xiaomi služieb pomocou vášho Mi konta.</string>
-    <string name="miliao_account_login">Prihlásiť sa s Mi Talk</string>
+    <string name="miliao_account_guide">Prihláste sa kdekoľvek do Xiaomi Cloudu, Obchodu s témami a do iných Xiaomi služieb pomocou vášho Xiaomi konta.</string>
+    <string name="miliao_account_login">Prihlásiť sa s Xiaomi Talk</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Odznačiť</string>
     <string name="miuix_appcompat_action_mode_select_all">Všetko</string>
     <string name="miuix_appcompat_action_mode_title_empty">Vybrať položky</string>
@@ -369,7 +369,7 @@ Nemeňte alebo nepremenúvajte záložné súbory."</string>
     <string name="month_september_shortest">S</string>
     <string name="multi_select_title">Vybraných: %1$s</string>
     <string name="multi_user_mode_backup_message">Zálohu nejde vykonať v režime viacerých užívateľov. Pre pokračovanie vypnite režim viacerých užívateľov.</string>
-    <string name="multi_user_mode_dialog_message">Mi Mover sa nedá použiť v režime viacerých užívateľov. Pre pokračovanie vypnite režim viacerých užívateľov.</string>
+    <string name="multi_user_mode_dialog_message">Xiaomi Mover sa nedá použiť v režime viacerých užívateľov. Pre pokračovanie vypnite režim viacerých užívateľov.</string>
     <string name="multi_user_mode_dialog_title">Ste v režime Viacerých používateľov</string>
     <string name="name_password_not_consistent">Užívateľské meno alebo heslo nie je správne</string>
     <string name="never">Nikdy</string>
@@ -379,7 +379,7 @@ Nemeňte alebo nepremenúvajte záložné súbory."</string>
     <string name="new_britem_other">Ostatné</string>
     <string name="new_britem_pic">Obrázky</string>
     <string name="new_britem_video">Videá</string>
-    <string name="new_confirm_enable_encrypt_content">MIUI spojí zašifrované zálohy s vašim Mi účtom. Pre obnovenie dát sa budete musieť prihlásiť k svojmu Mi účtu.</string>
+    <string name="new_confirm_enable_encrypt_content">MIUI spojí zašifrované zálohy s vašim Xiaomi účtom. Pre obnovenie dát sa budete musieť prihlásiť k svojmu Xiaomi účtu.</string>
     <string name="new_confirm_enable_encrypt_title">Zašifrovať</string>
     <string name="new_local_button_backup">Zálohovať</string>
     <string name="new_local_button_restore">Obnoviť</string>
@@ -433,8 +433,8 @@ Nemeňte alebo nepremenúvajte záložné súbory."</string>
     <string name="notif_backup_content">Zálohovanie užívateľských dát</string>
     <string name="notif_backup_title">Zálohovať dáta</string>
     <string name="notif_calculating_app">Výpočet %1$s (%2$s)…</string>
-    <string name="notif_connect_miasist">Pripojené k Mi PC Suite</string>
-    <string name="notif_disconnect_miasist">Nepripojené k Mi PC Suite</string>
+    <string name="notif_connect_miasist">Pripojené k Xiaomi PC Suite</string>
+    <string name="notif_disconnect_miasist">Nepripojené k Xiaomi PC Suite</string>
     <string name="notif_icloud_canceled_summary">Zrušené</string>
     <string name="notif_icloud_canceling_summary">Ruší sa…</string>
     <string name="notif_icloud_import_title">Importovať dáta z iCloudu</string>
@@ -444,7 +444,7 @@ Nemeňte alebo nepremenúvajte záložné súbory."</string>
     <string name="notif_icloud_need_wifi_summary">Čaká sa na Wi-Fi</string>
     <string name="notif_icloud_saved_summary">Importovanie prebehlo úspešne</string>
     <string name="notif_icloud_saving_summary">Obnovujú sa dáta…</string>
-    <string name="notif_miasist_try_to_connect">Mi PC Suite sa pokúša pripojiť k vášmu zariadeniu</string>
+    <string name="notif_miasist_try_to_connect">Xiaomi PC Suite sa pokúša pripojiť k vášmu zariadeniu</string>
     <string name="notif_parse_select_descript_error">Synchronizácia zoznamu zálohovaných položiek sa nepodarila.</string>
     <string name="notif_receiving_transingsd">Prijímanie %1$s (%2$s)…</string>
     <string name="notif_restore_complete_title">Obnova úspešne dokončená</string>
@@ -509,7 +509,7 @@ Nemeňte alebo nepremenúvajte záložné súbory."</string>
     <string name="permission_write_contacts">Upraviť kontakty</string>
     <string name="permission_write_storage">Uložiť položky do úložiska</string>
     <string name="phone_title">Nastavenia telefónu</string>
-    <string name="platform_chooser_item_android_mi">Mi telefón</string>
+    <string name="platform_chooser_item_android_mi">Xiaomi telefón</string>
     <string name="platform_chooser_item_android_others">Ostatné značky</string>
     <string name="platform_chooser_item_ios">Importovať z iOS zariadenia</string>
     <string name="platform_chooser_title">Vyberte staré zariadenie</string>
@@ -561,9 +561,9 @@ Uvoľnite aspoň %s."</string>
     <string name="sc_internal_server_error">Interná chyba serveru</string>
     <string name="sc_network_unavailable">Skontrolujte vaše pripojenie a skúste to znovu.</string>
     <string name="sc_others">Vyskytla sa chyba</string>
-    <string name="sc_precondition_failed">Najskôr musíte pridať e-mailovú adresu s vášmu Mi kontu.</string>
+    <string name="sc_precondition_failed">Najskôr musíte pridať e-mailovú adresu s vášmu Xiaomi kontu.</string>
     <string name="sc_request_timeout">Čas požiadavky uplynul</string>
-    <string name="sc_service_unavailable">Mi Cloud nedostupný</string>
+    <string name="sc_service_unavailable">Xiaomi Cloud nedostupný</string>
     <string name="sc_unaccess_password_file">Heslo k Wi-Fi sieti sa nenašlo</string>
     <string name="sc_unauthorized">Prihlásiť sa znova</string>
     <string name="scan_soft_ap">Vyhľadáva sa nové zariadenie…</string>
@@ -575,7 +575,7 @@ Uvoľnite aspoň %s."</string>
     <string name="search_events">Vyhľadať udalosť</string>
     <string name="search_history">História</string>
     <string name="search_menu_title">Vyhľadať</string>
-    <string name="see_backup_files_on_router">Zobraziť zálohy na Mi Routeri %s</string>
+    <string name="see_backup_files_on_router">Zobraziť zálohy na Xiaomi Routeri %s</string>
     <string name="select_all">Vybrať všetko</string>
     <string name="select_backup_item">Vyberte položky</string>
     <string name="select_empty">Vyberte položky k importovaniu</string>
@@ -605,9 +605,9 @@ Uvoľnite aspoň %s."</string>
     <string name="storage_usb">Úložisko USB</string>
     <string name="succ_description">Úspešné</string>
     <string name="succeed">Dokončené</string>
-    <string name="summary_err_backup_encrypting">Prihláste sa k vášmu Mi kontu.</string>
+    <string name="summary_err_backup_encrypting">Prihláste sa k vášmu Xiaomi kontu.</string>
     <string name="summary_err_backup_no_network">Nepodarilo sa pripojiť na sieť</string>
-    <string name="summary_err_restore_encrypting">Nepodarilo sa obnoviť. Uistite sa, že táto záloha bola vytvorená pomocou vášho Mi konta.</string>
+    <string name="summary_err_restore_encrypting">Nepodarilo sa obnoviť. Uistite sa, že táto záloha bola vytvorená pomocou vášho Xiaomi konta.</string>
     <string name="summary_err_restore_no_network">Nepodarilo sa pripojiť na sieť</string>
     <string name="sunday">Nedeľa</string>
     <string name="sunday_short">Ned</string>
@@ -661,12 +661,12 @@ Uvoľnite aspoň %s."</string>
     <string name="trans_calculating_media_description">Súbory médií</string>
     <string name="trans_calculating_tip">Prepočítavanie %s…</string>
     <string name="trans_cancel_confirm">Prebieha prenos, zastaviť teraz?</string>
-    <string name="trans_cancel_selection_message">Ak ukončíte prácu v Mi Mover, prebiehajúci prenos bude prerušený. Počkajte kým sa dokončí prenos.</string>
-    <string name="trans_cancel_selection_title">Ostať v Mi Mover</string>
+    <string name="trans_cancel_selection_message">Ak ukončíte prácu v Xiaomi Mover, prebiehajúci prenos bude prerušený. Počkajte kým sa dokončí prenos.</string>
+    <string name="trans_cancel_selection_title">Ostať v Xiaomi Mover</string>
     <string name="trans_cancelling">Ruší sa…</string>
     <string name="trans_complete_restoring">Prenos úspešný. Obnovujú sa dáta aplikácií…</string>
     <string name="trans_connect_failed_device_incompatible">Zariadenie nie je kompatibilné. Zrušte prenos a skúste to znovu.</string>
-    <string name="trans_connect_failed_message">Pripojenie zlyhalo, skúste to znova alebo reštartujte zariadenie. Na druhom zariadení choďte do Nastavenia &gt; ďalej Ďalšie nastavenia &gt; Mi Mover, ťuknite na [Som odosielateľ], alebo spustite Mi Mover znova po reštarte.</string>
+    <string name="trans_connect_failed_message">Pripojenie zlyhalo, skúste to znova alebo reštartujte zariadenie. Na druhom zariadení choďte do Nastavenia &gt; ďalej Ďalšie nastavenia &gt; Xiaomi Mover, ťuknite na [Som odosielateľ], alebo spustite Xiaomi Mover znova po reštarte.</string>
     <string name="trans_connect_failed_title">Nepodarilo sa pripojiť</string>
     <string name="trans_connect_failed_toast">Nepodarilo sa pripojiť</string>
     <string name="trans_connecting_toast">Pripája sa…</string>
@@ -709,41 +709,41 @@ Uvoľnite aspoň %s."</string>
     <string name="trans_generate_qrcode_failed">QR kód nebolo možné vygenerovať. Zatvorte iné aplikácie a skúste to znovu.</string>
     <string name="trans_generating_qrcode">Generuje sa QR kód…</string>
     <string name="trans_install_guide_button_start">Štart</string>
-    <string name="trans_install_guide_page_title">Nainštalovať Mi Mover do vášho starého telefónu</string>
-    <string name="trans_install_guide_scan_install_tip">Pre stiahnutie a nainštalovanie aplikácie Mi Mover naskenujte QR kód s vašim starým telefónom.</string>
-    <string name="trans_install_guide_step1_content">Pre stiahnutie a nainštalovanie aplikácie \"Mi Mover\" naskenujte QR kód s vašim starým telefónom.</string>
+    <string name="trans_install_guide_page_title">Nainštalovať Xiaomi Mover do vášho starého telefónu</string>
+    <string name="trans_install_guide_scan_install_tip">Pre stiahnutie a nainštalovanie aplikácie Xiaomi Mover naskenujte QR kód s vašim starým telefónom.</string>
+    <string name="trans_install_guide_step1_content">Pre stiahnutie a nainštalovanie aplikácie \"Xiaomi Mover\" naskenujte QR kód s vašim starým telefónom.</string>
     <string name="trans_install_guide_step1_title">1. krok</string>
     <string name="trans_install_guide_step2_content">Po dokončení inštalácie ťuknite na \"Štart\" nižšie.</string>
     <string name="trans_install_guide_step2_title">2. krok</string>
-    <string name="trans_intro_desc_1">Na telefóne Mi sa pripojte k Wi-Fi a ťuknite na „Som príjemca“. Vyberte svoje zariadenie iOS, prihláste sa do iCloudu a importujte údaje.</string>
+    <string name="trans_intro_desc_1">Na telefóne Xiaomi sa pripojte k Wi-Fi a ťuknite na „Som príjemca“. Vyberte svoje zariadenie iOS, prihláste sa do iCloudu a importujte údaje.</string>
     <string name="trans_intro_desc_10">Ťuknite na \"Pripojiť cez QR kód\" na novom zariadení a naskenujte QR kód pre nastavenie pripojenia.</string>
-    <string name="trans_intro_desc_3">Zrušte prenos, ukončite Mi Mover a začnite odznova. Duplicitné súbory budú počas nového prenosu prepísané.</string>
-    <string name="trans_intro_desc_4">Mi Mover používa na prenos súborov Wi-Fi. Preto sa počas prenosu nemôžete pripojiť na internet cez Wi-Fi ani na jednom zariadení. Naďalej však môžete používať mobilné dáta. Niektoré novšie zariadenia (napr. Mi 6) však sú schopné pripojiť sa na Wi-Fi aj počas prenosu.</string>
-    <string name="trans_intro_desc_4_market">Mi Mover používa Wi-Fi na odosielanie súborov. Z toho dôvodu sa počas prenosu nemôžete pripojiť na internet pomocou Wi-Fi. Napriek tomu môžete použiť mobilné dáta.</string>
+    <string name="trans_intro_desc_3">Zrušte prenos, ukončite Xiaomi Mover a začnite odznova. Duplicitné súbory budú počas nového prenosu prepísané.</string>
+    <string name="trans_intro_desc_4">Xiaomi Mover používa na prenos súborov Wi-Fi. Preto sa počas prenosu nemôžete pripojiť na internet cez Wi-Fi ani na jednom zariadení. Naďalej však môžete používať mobilné dáta. Niektoré novšie zariadenia (napr. Xiaomi 6) však sú schopné pripojiť sa na Wi-Fi aj počas prenosu.</string>
+    <string name="trans_intro_desc_4_market">Xiaomi Mover používa Wi-Fi na odosielanie súborov. Z toho dôvodu sa počas prenosu nemôžete pripojiť na internet pomocou Wi-Fi. Napriek tomu môžete použiť mobilné dáta.</string>
     <string name="trans_intro_desc_5">Ukladací priestor v starších zariadeniach sa používa na vytváranie prenosových balíkov. Pred začatím prenosu sa uistite, že máte v starom telefóne voľných aspoň 500 Mb až 1 Gb.</string>
     <string name="trans_intro_desc_6">Existuje niekoľko dôvodov, prečo sa to môže stať: problémy s kompatibilitou systému a aplikácie, problémy so sieťou, problémy s kompatibilitou špecifické pre konkrétne zariadenie, atď.</string>
     <string name="trans_intro_desc_7">Profily niektorých aplikácií (e-banking, financie, atď.) sú z bezpečnostných dôvodov prepojené s konkrétnym zariadením. Skúste vymazať údaje aplikácie alebo aplikáciu preinštalovať v novom zariadení.</string>
-    <string name="trans_intro_desc_8">Údaje aplikácie WeChat a história chatu nemusia byť aplikáciou Mi Mover úspešne prenesené. Ak chcete zvýšiť pravdepodobnosť úspešného prenosu, prejdite do nastavení aplikácie WeChat a odhláste sa.</string>
+    <string name="trans_intro_desc_8">Údaje aplikácie WeChat a história chatu nemusia byť aplikáciou Xiaomi Mover úspešne prenesené. Ak chcete zvýšiť pravdepodobnosť úspešného prenosu, prejdite do nastavení aplikácie WeChat a odhláste sa.</string>
     <string name="trans_intro_desc_9_method_1_dec">Prejdite na Domovskú obrazovku &gt; Nástroje &gt; Feedback.</string>
     <string name="trans_intro_desc_9_method_1_title">1. Zdieľajte vaše názory s aplikáciou \"Feedback\".</string>
     <string name="trans_intro_desc_9_method_2_dec">Odošlite vašu spätnú väzbu na miui-mover@xiaomi.com.</string>
     <string name="trans_intro_desc_9_method_2_title">2. Pošlite nám e-mail</string>
-    <string name="trans_intro_desc_9_method_3_dec">QQ skupina aplikácie Mi Mover: 687338378</string>
+    <string name="trans_intro_desc_9_method_3_dec">QQ skupina aplikácie Xiaomi Mover: 687338378</string>
     <string name="trans_intro_desc_9_method_3_title">3. Nahláste chyby na QQ</string>
-    <string name="trans_intro_desc_account">Z bezpečnostných dôvodov sa na novom zariadení musíte znova prihlásiť na svoje kontá (napr. Mi konto, konto Exchange, Google atď.).</string>
-    <string name="trans_intro_desc_gms">Z dôvodu vysokej pravdepodobnosti neúspešných prenosov spôsobených nekompatibilitou, Mi Mover nepodporuje presúvanie dát generovanými aplikáciami Google.</string>
-    <string name="trans_intro_desc_multiapp">Mi Mover neprenáša údaje duálnych aplikácií s cieľom zabrániť konfliktom medzi súbormi.</string>
-    <string name="trans_intro_desc_multiuser">Mi Mover nemá prístup k položkám v Druhom profile. Presuňte položky do Hlavného profilu a spustite Mi Mover odtiaľ.</string>
+    <string name="trans_intro_desc_account">Z bezpečnostných dôvodov sa na novom zariadení musíte znova prihlásiť na svoje kontá (napr. Xiaomi konto, konto Exchange, Google atď.).</string>
+    <string name="trans_intro_desc_gms">Z dôvodu vysokej pravdepodobnosti neúspešných prenosov spôsobených nekompatibilitou, Xiaomi Mover nepodporuje presúvanie dát generovanými aplikáciami Google.</string>
+    <string name="trans_intro_desc_multiapp">Xiaomi Mover neprenáša údaje duálnych aplikácií s cieľom zabrániť konfliktom medzi súbormi.</string>
+    <string name="trans_intro_desc_multiuser">Xiaomi Mover nemá prístup k položkám v Druhom profile. Presuňte položky do Hlavného profilu a spustite Xiaomi Mover odtiaľ.</string>
     <string name="trans_intro_desc_new">Ťuknite na \"Som príjemca\". Vygeneruje sa QR kód.</string>
-    <string name="trans_intro_desc_old">Ťuknite na „Som odosielateľ“. Nasnímajte QR kód v novom telefóne a počkajte kým Mi Mover zistí, ktoré súbory sa majú odoslať a ťuknite na „Odoslať“.</string>
-    <string name="trans_intro_desc_old_market">Klepnite na \"Štart\". Naskenujte kód na novom telefóne, počkajte kým Mi Mover zistí, ktoré súbory má odoslať a klepnite na \"Odoslať\".</string>
-    <string name="trans_intro_desc_private">Aplikácia Mi Mover nemá prístup k fotografiám v skrytom albume, pretože sú šifrované. Tieto fotografie môžete obnoviť z Mi Cloudu na novom zariadení.</string>
-    <string name="trans_intro_question_1">%d. Ako mám použiť Mi Mover na prenos dát z iOS zariadenia?</string>
+    <string name="trans_intro_desc_old">Ťuknite na „Som odosielateľ“. Nasnímajte QR kód v novom telefóne a počkajte kým Xiaomi Mover zistí, ktoré súbory sa majú odoslať a ťuknite na „Odoslať“.</string>
+    <string name="trans_intro_desc_old_market">Klepnite na \"Štart\". Naskenujte kód na novom telefóne, počkajte kým Xiaomi Mover zistí, ktoré súbory má odoslať a klepnite na \"Odoslať\".</string>
+    <string name="trans_intro_desc_private">Aplikácia Xiaomi Mover nemá prístup k fotografiám v skrytom albume, pretože sú šifrované. Tieto fotografie môžete obnoviť z Xiaomi Cloudu na novom zariadení.</string>
+    <string name="trans_intro_question_1">%d. Ako mám použiť Xiaomi Mover na prenos dát z iOS zariadenia?</string>
     <string name="trans_intro_question_10">%d. Nenašli ste hotspot na starom zariadení?</string>
-    <string name="trans_intro_question_2">%d. Ako použijem Mi Mover na prenos dát z iného Android zariadenia?</string>
-    <string name="trans_intro_question_3">%d. Čo mám urobiť keď Mi Mover v určitom bode zamrzne?</string>
+    <string name="trans_intro_question_2">%d. Ako použijem Xiaomi Mover na prenos dát z iného Android zariadenia?</string>
+    <string name="trans_intro_question_3">%d. Čo mám urobiť keď Xiaomi Mover v určitom bode zamrzne?</string>
     <string name="trans_intro_question_4">%d. Prečo v priebehu prenosu nemôžem používať Wi-Fi?</string>
-    <string name="trans_intro_question_5">%d. Prečo ma Mi Mover upozorňuje, že na mojom starom telefóne nie je na úložisku dostatok miesta?</string>
+    <string name="trans_intro_question_5">%d. Prečo ma Xiaomi Mover upozorňuje, že na mojom starom telefóne nie je na úložisku dostatok miesta?</string>
     <string name="trans_intro_question_6">%d. Prečo sa niektoré aplikácie nepodarilo preniesť?</string>
     <string name="trans_intro_question_7">%d. Prečo sa niektoré aplikácie nedajú spustiť na novom zariadení?</string>
     <string name="trans_intro_question_8">%d. Prečo sa WeChat história nepreniesla kompletne?</string>
@@ -761,27 +761,27 @@ Uvoľnite aspoň %s."</string>
     <string name="trans_my_device">Moje zariadenie</string>
     <string name="trans_native_no_space">"Na starom zariadení nie je dostatok voľného miesta (dostupné %s).
 Uvoľnite miesto na úložisku alebo presuňte len dôležité položky."</string>
-    <string name="trans_old_phone_low_space_msg">Mi Mover vyžaduje na prenos dát určité miesto na úložisku, no zdá sa, že na starom zariadení nie je dostatok voľného miesta. Uvoľnite miesto v \"Security\" alebo preneste len dôležité položky.</string>
+    <string name="trans_old_phone_low_space_msg">Xiaomi Mover vyžaduje na prenos dát určité miesto na úložisku, no zdá sa, že na starom zariadení nie je dostatok voľného miesta. Uvoľnite miesto v \"Security\" alebo preneste len dôležité položky.</string>
     <string name="trans_old_phone_low_space_title">Nedostatok voľného miesta na úložisku</string>
-    <string name="trans_one_key_migrate">Mi Mover</string>
-    <string name="trans_open_camera_failed_message">Reštartujte vaše zariadenie alebo skontrolujte, či aplikácia Mi Mover má povolenie na používanie &lt;b&gt;Kamery&lt;/b&gt;.</string>
+    <string name="trans_one_key_migrate">Xiaomi Mover</string>
+    <string name="trans_open_camera_failed_message">Reštartujte vaše zariadenie alebo skontrolujte, či aplikácia Xiaomi Mover má povolenie na používanie &lt;b&gt;Kamery&lt;/b&gt;.</string>
     <string name="trans_open_camera_failed_title">Nepodarilo sa pripojiť ku Kamere</string>
     <string name="trans_open_location_button">Zapnúť</string>
     <string name="trans_open_location_message">Zapnúť službu overovania polohy a získať zoznam dostupných Wi-Fi sietí.</string>
     <string name="trans_open_location_title">Zapnúť služby určovania polohy</string>
     <string name="trans_operate_func_one">Metóda A</string>
     <string name="trans_operate_func_two">Metóda B</string>
-    <string name="trans_operate_new_phone_tips">"Prejdite do Nastavení &gt; Ďalšie nastavenia &gt; Mi Mover
+    <string name="trans_operate_new_phone_tips">"Prejdite do Nastavení &gt; Ďalšie nastavenia &gt; Xiaomi Mover
  Ťuknite na [Som príjemca] pre vytvorenie QR kódu"</string>
-    <string name="trans_operate_old_phone_tips1">"1. Nainštalujte aplikáciu Mi Mover do vášho starého zariadenia
+    <string name="trans_operate_old_phone_tips1">"1. Nainštalujte aplikáciu Xiaomi Mover do vášho starého zariadenia
 2. Spustite aplikáciu a ťuknite na Začať
 3. Naskenujte QR kód so starým zariadením"</string>
-    <string name="trans_operate_old_phone_tips2">Prejdite do Nastavení &gt; Ďalšie nastavenia &gt; Mi Mover a ťuknite na [som odosielateľ]</string>
+    <string name="trans_operate_old_phone_tips2">Prejdite do Nastavení &gt; Ďalšie nastavenia &gt; Xiaomi Mover a ťuknite na [som odosielateľ]</string>
     <string name="trans_operate_reconnect_new_tips">"Počkajte, kým sa nezobrazí správa „Spojenie bolo prerušené“.
 Následným ťuknutím na „Znovu pripojiť“ vytvoríte nový QR kód."</string>
     <string name="trans_operate_reconnect_old_tips">"Počkajte, kým starý telefón nezobrazí „Spojenie bolo prerušené“.
 Pre naskenovanie QR kódu potom ťuknite na „Znovu pripojiť“."</string>
-    <string name="trans_operate_tip_for_other_android">Otvorte aplikáciu Mi Mover na vašom starom telefóne, ťuknite \"Štart\" a naskenujte QR kód vyššie.</string>
+    <string name="trans_operate_tip_for_other_android">Otvorte aplikáciu Xiaomi Mover na vašom starom telefóne, ťuknite \"Štart\" a naskenujte QR kód vyššie.</string>
     <string name="trans_pausing">Zastavuje sa…</string>
     <string name="trans_please_waiting">Malý moment…</string>
     <string name="trans_progress_subdescript_br_receiver">Obnova %1$s, %2$s dokončené</string>
@@ -805,8 +805,8 @@ Ponechajte zariadenia blízko pri sebe."</string>
     <string name="trans_retry">Skúste to znovu</string>
     <string name="trans_scan_invalid_qrcode">Neplatný QR kód</string>
     <string name="trans_scan_qr_code_tips">Načítajte QR kód novým zariadením</string>
-    <string name="trans_security_tips_message">Niektoré aplikácie nepodporujú Mi Mover.</string>
-    <string name="trans_security_tips_title">Kompatibilita s Mi Mover</string>
+    <string name="trans_security_tips_message">Niektoré aplikácie nepodporujú Xiaomi Mover.</string>
+    <string name="trans_security_tips_title">Kompatibilita s Xiaomi Mover</string>
     <string name="trans_select_data">Vyberte dáta na prenos</string>
     <string name="trans_select_data_no_space">"Na novom zariadení nie je dostatok voľného miesta (dostupné %s).
 Uvoľnite miesto na úložisku alebo presuňte len dôležité položky."</string>
@@ -818,7 +818,7 @@ Pre urýchlenie prenosu vyberte len dôležité položky."</string>
     <string name="trans_select_device_receive">Vyberte zariadenie pre prijatie dát.</string>
     <string name="trans_select_device_send">Vyberte jedno zariadenie na prenos dát.</string>
     <string name="trans_select_notification_message">Zobrazíte ťuknutím</string>
-    <string name="trans_select_notification_title">Mi Mover pracuje…</string>
+    <string name="trans_select_notification_title">Xiaomi Mover pracuje…</string>
     <string name="trans_sender">Som odosielateľ</string>
     <string name="trans_sender_connectting">Potvrďte na novom zariadení</string>
     <string name="trans_sender_searching">Vyhľadávanie nových zariadení</string>
@@ -833,11 +833,11 @@ Ponechejte zariadenia blízko pri sebe."</string>
     <string name="trans_start_failed_message">Spustenie prenosu zlyhalo, skúste to znovu alebo reštartujte zariadenie.</string>
     <string name="trans_start_failed_title">Spustenie prenosu zlyhalo</string>
     <string name="trans_success_dialog_button_market_comment">Komentovať</string>
-    <string name="trans_success_dialog_button_market_favourable_comment">Ohodnoťte Mi Mover</string>
+    <string name="trans_success_dialog_button_market_favourable_comment">Ohodnoťte Xiaomi Mover</string>
     <string name="trans_success_dialog_button_survey">Prieskum</string>
-    <string name="trans_success_dialog_market_comment_and_survey_title">Si pripravený na vec! Povedz čo si myslíš o aplikácii Mi Mover.</string>
+    <string name="trans_success_dialog_market_comment_and_survey_title">Si pripravený na vec! Povedz čo si myslíš o aplikácii Xiaomi Mover.</string>
     <string name="trans_success_dialog_market_comment_title">"Vaše nové zariadenie sa teraz cíti ako doma.
- Páči sa vám aplikácia Mi Mover?"</string>
+ Páči sa vám aplikácia Xiaomi Mover?"</string>
     <string name="trans_success_dialog_survey_title">Ceníme si váš názor</string>
     <string name="trans_success_survey_hint">Najskôr vyplňte polia.</string>
     <string name="trans_switching_5g">Prepínanie na 5GHz Wi-Fi…</string>
@@ -846,9 +846,9 @@ Ponechejte zariadenia blízko pri sebe."</string>
     <string name="trans_wait_trans_data">"Pripojené k starému zariadeniu.
 Čaká sa na prenos…"</string>
     <string name="trans_waiting_ensurance">"Uistite sa, že je staré zariadenie zapnuté
-a aplikácia Mi Mover je spustená"</string>
+a aplikácia Xiaomi Mover je spustená"</string>
     <string name="trans_waiting_for_sender">Čakanie na pripojenie starého zariadenia…</string>
-    <string name="trans_wlan_tips_message">Počas prenosu nevypínajte Wi-Fi alebo sa neprepájate na iné Wi-Fi siete. V opačnom prípade Mi Mover nebude môcť preniesť dáta.</string>
+    <string name="trans_wlan_tips_message">Počas prenosu nevypínajte Wi-Fi alebo sa neprepájate na iné Wi-Fi siete. V opačnom prípade Xiaomi Mover nebude môcť preniesť dáta.</string>
     <string name="trans_wlan_tips_title">Nevypínajte Wi-Fi</string>
     <string name="tuesday">Utorok</string>
     <string name="tuesday_short">Uto</string>
@@ -873,7 +873,7 @@ Uvoľnite miesto alebo presuňte len dôležité položky."</string>
     <string name="user_notice_message">Niektoré funkcie vyžadujú pre správne fungovanie prístup k internetu.</string>
     <string name="user_notice_title">Upozornenie</string>
     <string name="view_password_description">Zobraziť heslo</string>
-    <string name="wait_link">"Otvorte aplikáciu Mi Mover na starom zariadení,
+    <string name="wait_link">"Otvorte aplikáciu Xiaomi Mover na starom zariadení,
 ťuknite na \"Som odosielateľ\" a vyberte hotspot a pripojte sa.
 Nezatvárajte stránku, kým sa nenadviaže spojenie."</string>
     <string name="waiting">Malý moment…</string>
@@ -883,8 +883,8 @@ Nezatvárajte stránku, kým sa nenadviaže spojenie."</string>
     <string name="wifi_title">Nastavenie Wi-Fi</string>
     <string name="xiaomi_connect_download_manager_fail">Nepodarilo sa spustiť stiahnutie. Ubezpečte sa, že Správca sťahovania funguje správne.</string>
     <string name="xiaomi_external_storage_unavailable">Úložisko nie je dostupné, skontrolujte SD kartu.</string>
-    <string name="xiaomi_router">Mi Router</string>
-    <string name="xiaomi_router_location">Mi Router %s</string>
+    <string name="xiaomi_router">Xiaomi Router</string>
+    <string name="xiaomi_router_location">Xiaomi Router %s</string>
     <string name="xiaomi_update_dialog_message">"Predstavujeme verziu %1$s
 Veľkosť: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Predstavujeme verziu %1$s

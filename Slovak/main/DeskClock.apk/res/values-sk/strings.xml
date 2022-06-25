@@ -198,7 +198,7 @@
     <string name="life_post_wake_up_acumu_day_title">Počet dní</string>
     <string name="life_post_wake_up_item_acumu_day">%1$s dní</string>
     <string name="life_post_wake_up_item_acumu_day_title">Počet dní</string>
-    <string name="life_post_wake_up_item_percentage_title">Mi Fans behind you</string>
+    <string name="life_post_wake_up_item_percentage_title">Xiaomi Fans behind you</string>
     <string name="life_post_wake_up_item_time_title">Čas prebudenia</string>
     <string name="life_post_wake_up_percentage_title">Ľudí ešte spí</string>
     <string name="life_post_wake_up_time_title">Čas prebudenia</string>
@@ -401,7 +401,7 @@
     <string name="sleep_analysis">Štatistiky</string>
     <string name="sleep_analysis_chart_date_format">dd.MM</string>
     <string name="sleep_date_provider_text">Údaje o spánku poskytuje aplikácia Zdravie</string>
-    <string name="sleep_date_provider_text_new">Údaje o spánku poskytuje Mi Fitness</string>
+    <string name="sleep_date_provider_text_new">Údaje o spánku poskytuje Xiaomi Fitness</string>
     <string name="sleep_duration">"Trvanie spánku: "</string>
     <string name="sleep_duration_avg_text_diff">Priemerné trvanie spánku (%1$s-%2$s)</string>
     <string name="sleep_duration_desc">Spali ste %1$s %2$s</string>
@@ -415,7 +415,7 @@
     <string name="sleep_record">Sledovať spánok</string>
     <string name="sleep_record_desc">Povoľte pre sledovanie spánku</string>
     <string name="sleep_record_desc_detailed">Sledovanie spánku poskytuje aplikácia Zdravie. Povoľte autoštart a deaktivujte šetrenie batérie pre aplikáciu Zdravie pre jej správne fungovanie.</string>
-    <string name="sleep_record_desc_detailed_new">Sledovanie spánku poskytuje funkcia Mi Fitness Sleep. Ak túto funkciu zapnete, Mi Fitness bude automaticky zhromažďovať a zobrazovať údaje o vašom spánku na základe používania telefónu, aktivity a nastaveného času večierky a vstávania. Ak chcete presnejšie sledovať spánok, povoľte automatické spustenie Mi Fitness.</string>
+    <string name="sleep_record_desc_detailed_new">Sledovanie spánku poskytuje funkcia Xiaomi Fitness Sleep. Ak túto funkciu zapnete, Xiaomi Fitness bude automaticky zhromažďovať a zobrazovať údaje o vašom spánku na základe používania telefónu, aktivity a nastaveného času večierky a vstávania. Ak chcete presnejšie sledovať spánok, povoľte automatické spustenie Xiaomi Fitness.</string>
     <string name="sleep_record_no_data">Vaše údaje o spánku budú zobrazené po nazbieraní dát</string>
     <string name="sleep_remind">Upozornenie na spánok</string>
     <string name="sleep_time">Je čas ísť spať</string>
@@ -511,8 +511,8 @@
     <string name="upcoming_alarm_hint">Môžete ho zrušiť</string>
     <string name="update_health_app">Aktualizujte aplikáciu Zdravie</string>
     <string name="update_health_app_desc">Sledovanie spánku poskytuje aplikácia Zdravie.</string>
-    <string name="update_health_app_desc_new">Funkciu sledovania spánku poskytuje Mi Fitness. Aktualizujte Mi Fitness na najnovšiu verziu, aby ste získali prístup k súvisiacim funkciám.</string>
-    <string name="update_health_app_new">Aktualizujte Mi Fitness</string>
+    <string name="update_health_app_desc_new">Funkciu sledovania spánku poskytuje Xiaomi Fitness. Aktualizujte Xiaomi Fitness na najnovšiu verziu, aby ste získali prístup k súvisiacim funkciám.</string>
+    <string name="update_health_app_new">Aktualizujte Xiaomi Fitness</string>
     <string name="update_it">Aktualizovať</string>
     <string name="update_notification_info">Aktualizácia dát na pozadí...</string>
     <string name="usage_start">Začiatok</string>

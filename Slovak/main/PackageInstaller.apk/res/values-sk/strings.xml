@@ -55,9 +55,9 @@ Povoliť teraz aj v budúcnosti?"</string>
     <string name="app_permissions_group_summary">Povolené: %1$d z %2$d aplikácií</string>
     <string name="app_process_limit_title">Limit procesov na pozadí</string>
     <string name="app_store_install_hint">Inštalovať</string>
-    <string name="app_store_installing_message">Inštalácia Mi AppStore</string>
-    <string name="app_store_missing_message">Mi AppStore nie je nainštalovaný na tomto zariadení.</string>
-    <string name="app_store_missing_title">Mi AppStore sa nenašiel</string>
+    <string name="app_store_installing_message">Inštalácia Xiaomi AppStore</string>
+    <string name="app_store_missing_message">Xiaomi AppStore nie je nainštalovaný na tomto zariadení.</string>
+    <string name="app_store_missing_title">Xiaomi AppStore sa nenašiel</string>
     <string name="app_version">Verzia: %1$s</string>
     <string name="auto_startup_dialog_msg">"Miui dovolí aplikácií spustiť sa automaticky. To môže zvýšiť nielen spotrebu energie ale aj dát. \nPovoliť automatické spustenie？"</string>
     <string name="available_via_passpoint">Dostupné cez %1$s</string>

@@ -32,7 +32,7 @@
     <string name="app_name_downloadedrom">Balíčky</string>
     <string name="app_name_downloads">Stiahnuté súbory</string>
     <string name="app_name_market">Obchod</string>
-    <string name="app_name_midrop">Mi Drop</string>
+    <string name="app_name_midrop">Xiaomi Drop</string>
     <string name="app_name_miui">MIUI</string>
     <string name="app_name_miuimusic">Hudba</string>
     <string name="app_name_miuiringtone">Zvonenia</string>
@@ -58,7 +58,7 @@
     <string name="category_favorite">Obľúbené</string>
     <string name="category_file">Súbory</string>
     <string name="category_installed_app">Nainštalované aplikácie</string>
-    <string name="category_midrive">Mi Drive</string>
+    <string name="category_midrive">Xiaomi Drive</string>
     <string name="category_music">Hudba</string>
     <string name="category_other">Ostatné</string>
     <string name="category_photo">Fotografie</string>

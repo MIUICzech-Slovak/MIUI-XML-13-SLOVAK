@@ -99,10 +99,10 @@ Poznámka: Dáta doinštalovaných aplikácií nebudú zálohované na Xiaomi Cl
     <string name="cloud_back_up_opening">Načítavanie...</string>
     <string name="cloud_back_up_share_activity_confirm">Navýšiť</string>
     <string name="cloud_back_up_share_activity_discription">Získajte viac miesta na úložisku v MiCloud.</string>
-    <string name="cloud_back_up_share_activity_title">Navýšiť Mi účet</string>
+    <string name="cloud_back_up_share_activity_title">Navýšiť Xiaomi účet</string>
     <string name="cloud_back_up_subscribe_vip_confirm">Navýšiť</string>
-    <string name="cloud_back_up_subscribe_vip_discription">Získajte viac úložného priestoru v Mi cloud.</string>
-    <string name="cloud_back_up_subscribe_vip_title">Navýšiť Mi účet</string>
+    <string name="cloud_back_up_subscribe_vip_discription">Získajte viac úložného priestoru v Xiaomi cloud.</string>
+    <string name="cloud_back_up_subscribe_vip_title">Navýšiť Xiaomi účet</string>
     <string name="cloud_back_up_task">Zálohovanie...</string>
     <string name="cloud_backup">MiCloud zálohy</string>
     <string name="cloud_backup_derail_size_summary">Veľkosť: %s</string>
@@ -282,7 +282,7 @@ Poznámka: Dáta doinštalovaných aplikácií nebudú zálohované na Xiaomi Cl
     <string name="msg_restore_with_metered_network_pattern">Bude stiahnutých %s súborov.</string>
     <string name="name_model">%1$s %2$s</string>
     <string name="network_error">Pripojte sa k sieti</string>
-    <string name="no_account">Nie ste prihlásený k Mi účtu.</string>
+    <string name="no_account">Nie ste prihlásený k Xiaomi účtu.</string>
     <string name="no_backup">Žiadne zálohy v MiCloud.</string>
     <string name="not_set">Nenastavené</string>
     <string name="notification_channel_remind">Upozornenie</string>

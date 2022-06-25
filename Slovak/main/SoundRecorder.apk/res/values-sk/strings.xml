@@ -324,7 +324,7 @@ Klepnite na \"%1$s\" a potom vyberte \"%2$s\"."</string>
     <string name="tuesday_shortest">U</string>
     <string name="uninstall_warning_content">Záznamník je systémová aplikácia. Ak ju odinštalujete, niektoré funkcie nemusia fungovať správne.</string>
     <string name="uninstall_warning_title">Odinštalovať Záznamník?</string>
-    <string name="usage_description">Synchronizácia nahrávok s Mi Cloudom</string>
+    <string name="usage_description">Synchronizácia nahrávok s Xiaomi Cloudom</string>
     <string name="view_privacy">Zobraziť Ochranu súkromia</string>
     <string name="wednesday">Streda</string>
     <string name="wednesday_short">Str</string>

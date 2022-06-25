@@ -1022,7 +1022,7 @@ Enter your PIN to unlock."</string>
     <string name="gxzw_quick_open_wechat_pay_sub">WeChat</string>
     <string name="gxzw_quick_open_wechat_scan">Scanner</string>
     <string name="gxzw_quick_open_wechat_scan_sub">WeChat</string>
-    <string name="gxzw_quick_open_xiaoai_sub">Mi AI</string>
+    <string name="gxzw_quick_open_xiaoai_sub">Xiaomi AI</string>
     <string name="gxzw_quick_open_xiaoai_title1">Say the name of the app you want to open</string>
     <string name="gxzw_quick_open_xiaoai_title2">Say the name of the feature you want to use</string>
     <string name="gxzw_quick_tip_press">Keep pressing…</string>
@@ -1203,8 +1203,8 @@ only"</string>
 %2$s"</string>
     <string name="keyguard_instructions_when_pattern_disabled">Press Menu to unlock.</string>
     <string name="keyguard_invalid_sim_puk_hint">PUK code must contain %1$d digits.</string>
-    <string name="keyguard_left_mi_wallet">Mi Wallet</string>
-    <string name="keyguard_left_remotecentral">Mi Remote</string>
+    <string name="keyguard_left_mi_wallet">Xiaomi Wallet</string>
+    <string name="keyguard_left_remotecentral">Xiaomi Remote</string>
     <string name="keyguard_left_smarthome">Xiaomi Home</string>
     <string name="keyguard_left_torch">Torch</string>
     <string name="keyguard_left_view_lock_wallpaper">Wallpaper Carousel</string>

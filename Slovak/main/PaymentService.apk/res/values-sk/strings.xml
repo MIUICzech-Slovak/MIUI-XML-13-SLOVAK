@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="app_name">Platby</string>
-    <string name="mibi_app_name">Mi Kredit</string>
+    <string name="mibi_app_name">Xiaomi Kredit</string>
     <string name="mibi_button_disagree">Nesúhlasím</string>
     <string name="mibi_incognito_mode_dialog_cancel">Zrušiť</string>
     <string name="mibi_incognito_mode_dialog_summary_camera">Nie je možné použiť fotoaparát. Vypnite režim inkognito.</string>
@@ -18,7 +18,7 @@
     <string name="passport_access_denied">Prístup zamietnutý</string>
     <string name="passport_account_hint_text">Email alebo telefónne číslo</string>
     <string name="passport_account_identity_title">Overiť vašu identitu</string>
-    <string name="passport_account_label">Mi účet</string>
+    <string name="passport_account_label">Xiaomi účet</string>
     <string name="passport_account_name">Účet: %1$s</string>
     <string name="passport_account_not_activated">Účet nebol aktivovaný</string>
     <string name="passport_account_not_actived">Váš účet nebol aktivovaný</string>
@@ -50,11 +50,11 @@ Skontrolujte aj SPAM."</string>
     <string name="passport_delete_account">Odhlásiť sa</string>
     <string name="passport_downlink_reg">Vytvoriť účet pomocou telefónneho čísla</string>
     <string name="passport_email">Emailová adresa</string>
-    <string name="passport_email_or_id_hint_text">Emailová adresa alebo Mi ID</string>
+    <string name="passport_email_or_id_hint_text">Emailová adresa alebo Xiaomi ID</string>
     <string name="passport_email_reg_success_summary">%1$s bol prepojený s vašim účtom. Môžete sa ním prihlásiť alebo obnoviť vaše heslo.</string>
     <string name="passport_error_device_id">Nie je možné načítať ID zariadenia</string>
-    <string name="passport_error_dup_email">Táto emailová adresa už je prepojená s iným Mi účtom</string>
-    <string name="passport_error_dup_phone">Toto telefónne číslo už je prepojené s iným Mi účtom</string>
+    <string name="passport_error_dup_email">Táto emailová adresa už je prepojená s iným Xiaomi účtom</string>
+    <string name="passport_error_dup_phone">Toto telefónne číslo už je prepojené s iným Xiaomi účtom</string>
     <string name="passport_error_email">Zadaná emailová adresa nie je správna</string>
     <string name="passport_error_empty_captcha_code">Zadajte passport_captcha kód</string>
     <string name="passport_error_empty_email">Zadajte emailovú adresu</string>
@@ -86,7 +86,7 @@ Skontrolujte aj SPAM."</string>
     <string name="passport_getting_verify_code">Získavanie</string>
     <string name="passport_i_know">Viem</string>
     <string name="passport_identitfication_expired">Platnosť overovacieho kódu skončila</string>
-    <string name="passport_imei_permission_denied_message">"Vyžadujeme prístup k IMEI vášho zariadenia. Mi účet využíva IMEI pre identifikáciu zariadenia na ktoré ste prihlásený pre zabezpečenie vášho účtu."</string>
+    <string name="passport_imei_permission_denied_message">"Vyžadujeme prístup k IMEI vášho zariadenia. Xiaomi účet využíva IMEI pre identifikáciu zariadenia na ktoré ste prihlásený pre zabezpečenie vášho účtu."</string>
     <string name="passport_imei_permission_denied_title">Prístup k IMEI</string>
     <string name="passport_input_captcha_hint">Zadajte kód</string>
     <string name="passport_input_password_for_login">Toto číslo už je spárované s existujúcim účtom, zadajte vaše heslo</string>
@@ -99,16 +99,16 @@ Skontrolujte aj SPAM."</string>
     <string name="passport_login_check_find_device">Kontrola stavu vyhľadania zariadenia...</string>
     <string name="passport_login_check_find_device_failed_title">Nebolo možné skontrolovať stav vyhľadávania zariadenia.</string>
     <string name="passport_login_failed">Nie je možné sa prihlásiť</string>
-    <string name="passport_login_find_device_bind">Toto zariadenie je prepojené s Mi účtom (%s).</string>
+    <string name="passport_login_find_device_bind">Toto zariadenie je prepojené s Xiaomi účtom (%s).</string>
     <string name="passport_login_instead_reg">Použiť toto číslo</string>
     <string name="passport_login_instead_reg_with_email">Použiť tento email</string>
     <string name="passport_login_notice">Prihlasovanie...</string>
-    <string name="passport_login_prompt">Jeden Mi účet pre všetky Mi služby.</string>
-    <string name="passport_login_title">Prihlásiť sa k Mi účtu</string>
+    <string name="passport_login_prompt">Jeden Xiaomi účet pre všetky Xiaomi služby.</string>
+    <string name="passport_login_title">Prihlásiť sa k Xiaomi účtu</string>
     <string name="passport_login_using_other_ways">Prihlásiť sa iným spôsobom</string>
-    <string name="passport_login_with_email_or_id">Prihlásiť sa emailovou adresou alebo Mi ID</string>
+    <string name="passport_login_with_email_or_id">Prihlásiť sa emailovou adresou alebo Xiaomi ID</string>
     <string name="passport_message_dialog_title">Overovací kód v správe</string>
-    <string name="passport_miui_provision_find_status_text">Toto zariadenie je prepojené s existujúcim Mi účtom ID（%1$s), musíte zadať heslo pre overenie zariadenia.
+    <string name="passport_miui_provision_find_status_text">Toto zariadenie je prepojené s existujúcim Xiaomi účtom ID（%1$s), musíte zadať heslo pre overenie zariadenia.
 (odblokovacie čislo: %2$s)"</string>
     <string name="passport_next">Ďalej</string>
     <string name="passport_notification_title">Chyba prihlásenia pre %1$s</string>
@@ -124,11 +124,11 @@ Skontrolujte aj SPAM."</string>
     <string name="passport_quick_login_title">Zadajte vaše heslo</string>
     <string name="passport_re_get_verify_code">Získať kód znova</string>
     <string name="passport_re_register">Prihlásiť sa znova</string>
-    <string name="passport_recycle_account_prompt">Je toto váš Mi účet?</string>
+    <string name="passport_recycle_account_prompt">Je toto váš Xiaomi účet?</string>
     <string name="passport_reg_btn_using_other_phone">Použiť alternatívne telefónne číslo</string>
     <string name="passport_reg_failed">Nie je možné vytvoriť účet</string>
-    <string name="passport_reg_new">Vytvoriť Mi účet</string>
-    <string name="passport_reg_prompt">Nemáte Mi účet? Vytvorte si ho zdarma.</string>
+    <string name="passport_reg_new">Vytvoriť Xiaomi účet</string>
+    <string name="passport_reg_prompt">Nemáte Xiaomi účet? Vytvorte si ho zdarma.</string>
     <string name="passport_reg_sms_send_prompt">Odoslať overovací kód na %s</string>
     <string name="passport_reg_success">Účet vytvorený</string>
     <string name="passport_reg_success_summary">%1$s bol prepojený s vašim účtom. Môžete sa ním prihlásiť alebo obnoviť vaše heslo.</string>
@@ -159,7 +159,7 @@ Skontrolujte aj SPAM."</string>
     <string name="passport_reset_password_title">Obnoviť heslo</string>
     <string name="passport_restart">Skúsiť znova</string>
     <string name="passport_restart_register_prompt">Pre vytvorenie vášho účtu môže byť vyžadovaná nová overovacia správa.</string>
-    <string name="passport_restart_register_title">Vytvoriť Mi účet</string>
+    <string name="passport_restart_register_title">Vytvoriť Xiaomi účet</string>
     <string name="passport_retry">Znova</string>
     <string name="passport_select_reg_ways_title">Zaregistrovať sa iným spôsobom</string>
     <string name="passport_send_too_many_code">Bolo zaslaných príliš mnoho overovacích kódov na toto číslo. Musíte počkať 24 hodín a skúste to znova.</string>
@@ -167,7 +167,7 @@ Skontrolujte aj SPAM."</string>
     <string name="passport_sim_index_info">SIM karta %1$d - %2$s</string>
     <string name="passport_skip_login">Preskočiť</string>
     <string name="passport_skip_register">Preskočiť</string>
-    <string name="passport_skip_setup_account_msg">Môžete nastaviť Mi účet neskôr.</string>
+    <string name="passport_skip_setup_account_msg">Môžete nastaviť Xiaomi účet neskôr.</string>
     <string name="passport_skip_setup_account_title">Preskočiť</string>
     <string name="passport_title_reg">Vytvoriť účet</string>
     <string name="passport_trust_device">Dôverovať tomuto zariadeniu</string>
@@ -175,7 +175,7 @@ Skontrolujte aj SPAM."</string>
     <string name="passport_uplink_reg">Použiť telefónne číslo</string>
     <string name="passport_uplink_slot1_reg">Použiť SIM 1</string>
     <string name="passport_uplink_slot2_reg">Použiť SIM 2</string>
-    <string name="passport_use_generated_pwd_message">Uistite sa, že si pamätáte svoje heslo. Môžete sa ním prihlásiť na inom Mi zariadení.</string>
+    <string name="passport_use_generated_pwd_message">Uistite sa, že si pamätáte svoje heslo. Môžete sa ním prihlásiť na inom Xiaomi zariadení.</string>
     <string name="passport_use_generated_pwd_title">Pamätajte si svoje heslo!</string>
     <string name="passport_user_agreement">Podmienky používania</string>
     <string name="passport_user_agreement_p1">"Súhlasíte s "</string>

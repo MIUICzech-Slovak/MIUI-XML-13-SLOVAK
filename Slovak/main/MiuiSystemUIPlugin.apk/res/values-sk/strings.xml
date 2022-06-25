@@ -27,7 +27,7 @@
     <string name="chip_text">Chip text</string>
     <string name="clear_text_end_icon_content_description">Vymazať text</string>
     <string name="close_invisible_mode_dialog_cancel">Zrušiť</string>
-    <string name="close_invisible_mode_dialog_message">Mi Smart Play sa teraz nedá použiť. Ak chcete používať túto funkciu, vypnite režim inkognito v Nastaveniach.</string>
+    <string name="close_invisible_mode_dialog_message">Xiaomi Smart Play sa teraz nedá použiť. Ak chcete používať túto funkciu, vypnite režim inkognito v Nastaveniach.</string>
     <string name="close_invisible_mode_dialog_ok">Nastavenia</string>
     <string name="close_invisible_mode_dialog_title">Ste inkognito</string>
     <string name="control_center_notification_switch_guide">Potiahnutím prepnete medzi Ovládacím centrom a panelom upozornení</string>
@@ -111,7 +111,7 @@
     <string name="loading">Neznámy stav</string>
     <string name="material_slider_range_end">Interval končí,</string>
     <string name="material_slider_range_start">Interval začína,</string>
-    <string name="mi_smart_hub_entry_title">Mi Smart Hub</string>
+    <string name="mi_smart_hub_entry_title">Xiaomi Smart Hub</string>
     <string name="miplay_accessibility_cast">Vybrať zariadenie</string>
     <string name="miplay_accessibility_cover">Obal</string>
     <string name="miplay_accessibility_next">Ďalšia skladba</string>
@@ -277,7 +277,7 @@
     <string name="quick_settings_cellular_detail_dialog_positive_button_turnoff">Vypnúť</string>
     <string name="quick_settings_cellular_detail_title">Mobilné dáta</string>
     <string name="quick_settings_cellular_detail_unable_change">Nie je možné nastaviť počas hovoru</string>
-    <string name="quick_settings_circulate_workd_label">Mi Smart Hub</string>
+    <string name="quick_settings_circulate_workd_label">Xiaomi Smart Hub</string>
     <string name="quick_settings_drivemode_label">Režim auta</string>
     <string name="quick_settings_edit_label">Upraviť</string>
     <string name="quick_settings_extreme_batterysaver_label">Extrémny šetrič batérie</string>

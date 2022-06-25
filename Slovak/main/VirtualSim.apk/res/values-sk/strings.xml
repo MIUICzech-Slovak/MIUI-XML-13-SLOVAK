@@ -42,11 +42,11 @@
     <string name="enabling_virtualsim_button_text">Activating…</string>
     <string name="err_activate_sim_failed_toast">"Couldn't activate SIM card"</string>
     <string name="err_create_order_failed_toast">"Couldn't create order"</string>
-    <string name="err_dont_install_mipay">Install Mi Pay to complete payment.</string>
+    <string name="err_dont_install_mipay">Install Xiaomi Pay to complete payment.</string>
     <string name="err_max_buy_number">"You've already purchased the maximum number of virtual SIMs allowed."</string>
     <string name="err_product_sold_out_toast">"This item isn't available at the moment"</string>
     <string name="err_refund_fail_toast">"Couldn't request refund. Card has already been activated."</string>
-    <string name="err_refund_inner_error_toast">Could request refund. Contact Mi support now.</string>
+    <string name="err_refund_inner_error_toast">Could request refund. Contact Xiaomi support now.</string>
     <string name="err_sim_insufficient_toast">"Couldn't get order info"</string>
     <string name="err_white_list_user_rejection_toast">"It looks like you don't have permission to use the beta version of this feature."</string>
     <string name="fill_data">"Oops! Make sure you've filled in the required fields."</string>
@@ -87,7 +87,7 @@
     <string name="refund_success">Refunded successfully</string>
     <string name="refund_verify">Verifying request</string>
     <string name="refunding">Refunding…</string>
-    <string name="register_ext_user_message_dailog_description">To activate virtual SIM, verify your Mi Account ID (%1$s).</string>
+    <string name="register_ext_user_message_dailog_description">To activate virtual SIM, verify your Xiaomi Account ID (%1$s).</string>
     <string name="register_ext_user_message_dailog_title">Verify Account</string>
     <string name="remind_no_bills">No virtual SIMs ready to use</string>
     <string name="reset">Quit</string>
@@ -126,10 +126,10 @@
     <string name="virtualsim_activate_dailog_description">Virtual SIM service begins immediately upon activation.</string>
     <string name="virtualsim_activate_dailog_title">Activate virtual SIM now?</string>
     <string name="virtualsim_description">Connect to mobile data networks while roaming outside of Mainland China without swapping SIM cards. At the moment, this service is only available in Hong Kong and Macao.</string>
-    <string name="welcome_brand_name">Mi Inc.</string>
+    <string name="welcome_brand_name">Xiaomi Inc.</string>
     <string name="welcome_buy_btn">Continue</string>
     <string name="welcome_user_agreement_content1">Agree</string>
     <string name="welcome_user_agreement_content2">Terms of Service</string>
-    <string name="xiaomi_account">Mi Account</string>
+    <string name="xiaomi_account">Xiaomi Account</string>
     <string name="yuan_per_day">¥%1$d/day</string>
 </resources>

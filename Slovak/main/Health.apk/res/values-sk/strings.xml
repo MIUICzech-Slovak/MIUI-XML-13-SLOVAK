@@ -37,7 +37,7 @@ Ak je pre vás stále ťažké zaspať po 30 minútach v posteli, znížte fakto
     <string name="add_body_weight_record_button"> Pridajte údaje o hmotnosti </string>
     <string name="add_data_source"> Pridávanie zdrojov údajov </string>
     <string name="add_data_source_description"> Pridajte zdravotné údaje generované inými zariadeniami do aplikácie Xiaomi Health, aby ste zvýšili presnosť štatistík a získali relevantnejšie zdravotné rady. </string>
-    <string name="add_data_source_login_and_open_sync"> Prihláste sa do svojho účtu Mi a zapnite synchronizáciu s cloudom, aby ste mohli pridávať zdroje údajov. </string>
+    <string name="add_data_source_login_and_open_sync"> Prihláste sa do svojho účtu Xiaomi a zapnite synchronizáciu s cloudom, aby ste mohli pridávať zdroje údajov. </string>
     <string name="add_data_source_open_sync"> Zapnúť synchronizáciu s cloudom, aby bolo možné pridávať zdroje údajov. </string>
     <string name="add_data_source_process"> Ako pridať zdroj údajov </string>
     <string name="add_data_source_support_step"> "Toto zariadenie negeneruje údaje o počte krokov. Môžete skúsiť prepnúť na iné zdroje údajov." </string>
@@ -274,8 +274,8 @@ Ak sa rozhodnete svoje údaje o zdravotnom stave vymazať potom, ako ste sa rozh
     <string name="detection_wait_generate_report_detail"> Vráťte sa neskôr </string>
     <string name="device_data_manage"> Spravovať zariadenia </string>
     <string name="device_data_sync"> Synchronizovať údaje o zdravotnom stave </string>
-    <string name="device_description"> "Toto zariadenie je spojené s Mi účtom %s. Ak nenájdete potrebné zariadenie, najskôr ho pridajte do Mi Fit alebo Xiaomi Wear." </string>
-    <string name="device_list_origin_description"> "Tieto zariadenia sú spojené s Mi účtom %1$s. Ak tu nenájdete požadované zariadenie, uistite sa, že ste ho už pridali do príslušnej aplikácie." </string>
+    <string name="device_description"> "Toto zariadenie je spojené s Xiaomi účtom %s. Ak nenájdete potrebné zariadenie, najskôr ho pridajte do Xiaomi Fit alebo Xiaomi Wear." </string>
+    <string name="device_list_origin_description"> "Tieto zariadenia sú spojené s Xiaomi účtom %1$s. Ak tu nenájdete požadované zariadenie, uistite sa, že ste ho už pridali do príslušnej aplikácie." </string>
     <string name="device_off_sync_description"> "Údaje o zdravotnom stave vygenerované v tomto zariadení nebudú synchronizované s programom Xiaomi Health" </string>
     <string name="device_unbound_from_account"> Toto zariadenie už nie je priradené k vášmu účtu </string>
     <string name="diagno_log_send_failed"> Denník diagnostiky bol odoslaný zlyhal. </string>
@@ -410,7 +410,7 @@ Môžete zvoliť iný zdroj údajov v časti Viac&gt; Zdroje údajov. “</strin
     <string name="exercise_notification_content">%1$d min. cvičení (%2$d kal.) </string>
     <string name="exercise_notification_meet_title"> "Dnešné kroky: %d. Cieľ bol dosiahnutý!" </string>
     <string name="exercise_notification_no_meet_title"> "Dnešné kroky: %d. Stále dosahujte svoj cieľ!" </string>
-    <string name="exercise_question_answer_one"> "1. Niektoré modely zariadení nie sú vybavené snímačmi nízkej spotreby. Spoločnosť Xiaomi Health nesleduje údaje o činnosti z dôvodu úspory batérie na nasledujúcich zariadeniach: Redmi 1S, Redmi 2A, Redmi 2, Redmi 3, Redmi Pro, Redmi Note, Redmi Note 2, Redmi Note 3, Redmi Note 4, Mi 2, Mi 3, Mi 4.
+    <string name="exercise_question_answer_one"> "1. Niektoré modely zariadení nie sú vybavené snímačmi nízkej spotreby. Spoločnosť Xiaomi Health nesleduje údaje o činnosti z dôvodu úspory batérie na nasledujúcich zariadeniach: Redmi 1S, Redmi 2A, Redmi 2, Redmi 3, Redmi Pro, Redmi Note, Redmi Note 2, Redmi Note 3, Redmi Note 4, Xiaomi 2, Xiaomi 3, Xiaomi 4.
 Ak je tu uvedené vaše zariadenie, môžete zdroje údajov pridávať manuálne v aplikácii Xiaomi Health&gt; Menu&gt; Zdroje údajov&gt; Pridávanie zdrojov údajov. “</string>
     <string name="exercise_question_answer_two"> 2. Príležitostne sa môže stať, že sa senzory pohybu nebudú montovať. Reštartujte telefón a skontrolujte, či v takýchto prípadoch sledovanie začne normálne. </string>
     <string name="exercise_question_title"> "Prečo nevidíte svoje štatistiky?" </string>
@@ -615,7 +615,7 @@ Začnite odznova. “</string>
     <string name="indoor_running"> Bežecký pás </string>
     <string name="input_body_weight"> Zadajte údaje o hmotnosti a získajte rady týkajúce sa zdravia </string>
     <string name="inquire_recover_data"> Obnoviť zdravotné údaje teraz? </string>
-    <string name="inquire_recover_data_subtitle"> "Zdá sa, že k vášmu účtu Mi (%1$s) sú spojené zdravotné údaje. Chcete zapnúť synchronizáciu s cloudom a obnoviť dáta teraz?" </string>
+    <string name="inquire_recover_data_subtitle"> "Zdá sa, že k vášmu účtu Xiaomi (%1$s) sú spojené zdravotné údaje. Chcete zapnúť synchronizáciu s cloudom a obnoviť dáta teraz?" </string>
     <string name="instructions_provider"> Pokyny poskytnuté spoločnosťou Miao Health </string>
     <string name="insufficient">Nedostatočné</string>
     <string name="internal_training"> HIIP </string>
@@ -797,8 +797,8 @@ Ak nechcete zdieľať svoje informácie, môžete túto funkciu vypnúť."</stri
     <string name="mesens_card_title_tomorrow_begin"> Obdobie by mohlo začať zajtra </string>
     <string name="mi_belt"> Xiaomi Wear </string>
     <string name="mi_health"> Xiaomi Health </string>
-    <string name="mi_sport"> Mi Fit </string>
-    <string name="mi_sports"> Mi Fit </string>
+    <string name="mi_sport"> Xiaomi Fit </string>
+    <string name="mi_sports"> Xiaomi Fit </string>
     <string name="middle"> Stredná </string>
     <string name="middle_intensity_description"> Rýchlejšia dychová frekvencia, ktorá umožňuje dokončovať vety </string>
     <string name="midnight"> Noc </string>
@@ -958,7 +958,7 @@ Ak nechcete zdieľať svoje informácie, môžete túto funkciu vypnúť."</stri
     <string name="outdoor_riding"> Vonkajší cyklus </string>
     <string name="outdoor_running"> Beh </string>
     <string name="outdoor_walking"> Chôdza </string>
-    <string name="passport_oauth_actionbar_title"> Mi účet </string>
+    <string name="passport_oauth_actionbar_title"> Xiaomi účet </string>
     <string name="passport_oauth_sucess_tip"> Autorizovaný úspech </string>
     <string name="password_toggle_content_description"> Zobraziť heslo </string>
     <string name="pause"> Pozastaviť </string>
@@ -1603,8 +1603,8 @@ spánkový cyklus “</string>
     <string name="tb_stand_wm_column_click">%1$s. Prestávky:%2$d. %3$s. </string>
     <string formatted="false" name="tb_step_widget">Dnes. %1$s. Priebeh: %2$d%</string>
     <string name="tb_unmultiple_selecte_all"> Zrušiť výber všetkých </string>
-    <string name="tb_user_account_signed"> Mi účet:%1$s. </string>
-    <string name="tb_user_account_unsigned"> Klepnutím sa prihlásite do účtu Mi </string>
+    <string name="tb_user_account_signed"> Xiaomi účet:%1$s. </string>
+    <string name="tb_user_account_unsigned"> Klepnutím sa prihlásite do účtu Xiaomi </string>
     <string name="tb_user_sleep_card_info"> Denný cieľ spánku:%1$s. </string>
     <string name="tb_user_sleep_target_btn"> Zmeniť cieľ spánku </string>
     <string name="tb_user_step_card_info"> Denný cieľ:%1$s, asi %2$s alebo %3$s. </string>

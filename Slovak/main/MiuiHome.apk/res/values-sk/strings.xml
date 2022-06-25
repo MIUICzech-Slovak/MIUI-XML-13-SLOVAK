@@ -243,7 +243,7 @@
     <string name="gadget_error_text">Problém s načítaním widgetu</string>
     <string name="gadget_google_search_label">Google</string>
     <string name="gadget_load_error">Chyba načítania widgetu...</string>
-    <string name="gadget_mtz_label">Mi Gadgets</string>
+    <string name="gadget_mtz_label">Xiaomi Gadgets</string>
     <string name="gadget_notes_label">Poznámky</string>
     <string name="gadget_photo_22_label">Fotorámček 2x2</string>
     <string name="gadget_photo_24_label">Fotorámček 2x4</string>
@@ -357,7 +357,7 @@
     <string name="menu_trans_effect">Efekt prechodu</string>
     <string name="menu_wallpaper">Tapeta</string>
     <string name="menu_workspace_preview">Náhľad</string>
-    <string name="mi_wallpaper">Mi Tapeta</string>
+    <string name="mi_wallpaper">Xiaomi Tapeta</string>
     <string name="minus_one_screen">Asistent</string>
     <string name="minus_one_screen_google">Google</string>
     <string name="minus_one_screen_none">Žiadna</string>
@@ -555,7 +555,7 @@
     <string name="recents_title_security_scan">Antivírus</string>
     <string name="recents_tv_small_window_text">Plávajúce okná</string>
     <string name="recents_worldcirculate_text">Vyberte uvoľnením</string>
-    <string name="recnets_worldcirculate_button_text">Mi Smart Hub</string>
+    <string name="recnets_worldcirculate_button_text">Xiaomi Smart Hub</string>
     <string name="recnets_worldcirculate_display_computer_info">Aplikácia funguje na %s.</string>
     <string name="recnets_worldcirculate_display_default_info">Dotykom ju vrátite späť sem.</string>
     <string name="recnets_worldcirculate_display_pad_info">Aplikácia funguje na %s.</string>

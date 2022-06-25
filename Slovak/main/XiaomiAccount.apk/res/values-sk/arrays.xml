@@ -62,6 +62,6 @@
     <string-array name="settings_search_user_information">
         <item>Informácie o účte</item>
         <item>Zobrazte svoju profilovú fotku a spravujte informácie o účte</item>
-        <item>Osobné údaje; profilová fotka; prezívka; informácie o účte; Mi ID; ID; Mi účet; účet</item>
+        <item>Osobné údaje; profilová fotka; prezívka; informácie o účte; Xiaomi ID; ID; Xiaomi účet; účet</item>
     </string-array>
 </resources>

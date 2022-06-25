@@ -162,7 +162,7 @@
     <string name="copy_to_sdcard_fail">Uložiť prílohu</string>
     <string name="copy_to_sdcard_success">Príloha bola uložená ako %s</string>
     <string name="copy_verification_code_tip">Skopírované</string>
-    <string name="current_data_version">Mi Správy</string>
+    <string name="current_data_version">Xiaomi Správy</string>
     <string name="database_corruption">Databáza je poškodená, obnovujem</string>
     <string name="date_time_picker_dialog_title">Nastaviť dátum a čas</string>
     <string name="delete">Vymazať</string>
@@ -180,7 +180,7 @@
     <string name="delivery_toast_body">Správa pre %s bola doručená</string>
     <string name="dialog_complain_tips">Povoliť Správam pripojenie k sieti.</string>
     <string name="dialog_message_fake_cell_detect_error">Upraviť informácie o tejto správe? MIUI odošle číslo (%1$s), obsah správy a polohu na Xiaomi server.</string>
-    <string name="dialog_message_mx">Mi Správy umožňujú posielať SMS správy ostatným MIUI užívateľom bez poplatkov. Pre ich aktiváciu sa vyžaduje odoslanie aktivačnej SMS. Musíte súhlasiť s našimi \"%1$s\" a \"%2$s\".</string>
+    <string name="dialog_message_mx">Xiaomi Správy umožňujú posielať SMS správy ostatným MIUI užívateľom bez poplatkov. Pre ich aktiváciu sa vyžaduje odoslanie aktivačnej SMS. Musíte súhlasiť s našimi \"%1$s\" a \"%2$s\".</string>
     <string name="dialog_message_networking">SMS aplikácia vyžaduje pripojenie na internet pre fungovanie Cloudových správ.</string>
     <string name="dialog_message_sms_report">SPAM SMS a informácie o odosielateľovi budú odoslané Xiaomi pre ďalšiu analýzu.</string>
     <string name="dialog_title_fake_cell_detect_error">Upraviť</string>
@@ -274,7 +274,7 @@
     <string name="forward_prefix">"Fwd: "</string>
     <string name="found_old_messages">Celkovo z: %1$s bolo nájdených zo starých účtov. Prajete si ich nahrať do vášho súčasného účtu: %2$s?</string>
     <string name="found_old_messages_title">Nahrať správy</string>
-    <string name="found_wild_messages_guide_cloud_desc">Pre synchr. správ z MiCloud sa prihláste svojim Mi účtom a povoľte synchronizáciu SMS.</string>
+    <string name="found_wild_messages_guide_cloud_desc">Pre synchr. správ z MiCloud sa prihláste svojim Xiaomi účtom a povoľte synchronizáciu SMS.</string>
     <string name="found_wild_messages_guide_settings_desc">Synchr. SMS správy z MiCould v nastaveniach SMS.</string>
     <string name="found_wild_messages_guide_sync_not_started">Synchr. ešte nezačala</string>
     <string name="found_wild_messages_title">Synchr. SMS správy z MiCloud</string>
@@ -423,9 +423,9 @@
     <string name="mms_block_hint">Tento odosielateľ nie je vo vašich kontaktoch.</string>
     <string name="mms_block_hint_highlight">Blokovať MMS</string>
     <string name="mms_main_purpose">Pre prístup k všetkým funkciám Správ, povoľte prístup k internetu.</string>
-    <string name="mms_mi_message_main_purpose">Vitajte v Mi Správach! Pre aktiváciu bude odoslaná platená SMS.</string>
-    <string name="mms_mi_message_request_notice">Chceme vám dať čo najviac z Mi Správ.</string>
-    <string name="mms_mx_privacy_policy">Ochrana súkromia Mi Správ</string>
+    <string name="mms_mi_message_main_purpose">Vitajte v Xiaomi Správach! Pre aktiváciu bude odoslaná platená SMS.</string>
+    <string name="mms_mi_message_request_notice">Chceme vám dať čo najviac z Xiaomi Správ.</string>
+    <string name="mms_mx_privacy_policy">Ochrana súkromia Xiaomi Správ</string>
     <string name="mms_smart_msg_main_purpose">Inteligentné správy môžu rozpoznať odosielateľa a podozrivé správy.</string>
     <string name="mms_smart_msg_privacy_policy">Ochrana súkromia Inteligentných správ</string>
     <string name="mms_title">Správy</string>
@@ -536,8 +536,8 @@
     <string name="mx_filter_message_from_stranger_summary">Stále bude možné prijímať bežné SMS správy z neznámych čísel</string>
     <string name="mx_main_purpose">Cloudové správy umožňujú odosielať SMS iným MIUI používateľom.
 Pre aktiváciu tejto služby bude odoslaná bežná SMS."</string>
-    <string name="mx_main_purpose_short">Mi Správy umožňujú používateľom MIUI odosielať SMS a MMS správy zdarma.</string>
-    <string name="mx_message">Mi Správy</string>
+    <string name="mx_main_purpose_short">Xiaomi Správy umožňujú používateľom MIUI odosielať SMS a MMS správy zdarma.</string>
+    <string name="mx_message">Xiaomi Správy</string>
     <string name="mx_msg">Cloud Správy</string>
     <string name="mx_msg_pageview_setting_title">Nastavenie Cloudových správ</string>
     <string name="mx_offline">Offline</string>
@@ -547,7 +547,7 @@ Pre aktiváciu tejto služby bude odoslaná bežná SMS."</string>
     <string name="mx_privacy_policy">Ochrana súkromia Cloudových Správ</string>
     <string name="mx_reactivate">Znova aktivovať Cloud správy</string>
     <string name="mx_recommend_msg">Povoľte Cloud správy pre zasielanie správ zdarma</string>
-    <string name="mx_stranger_recommend_msg">Dotykom zablokujete Mi správy z neznámych čísel</string>
+    <string name="mx_stranger_recommend_msg">Dotykom zablokujete Xiaomi správy z neznámych čísel</string>
     <string name="mx_type_guide">Cloudové správy umožňujú MIUI odosielať zdarma SMS cez Wi-Fi alebo mobilné dáta</string>
     <string name="need_download">Čakanie na synchronizáciu...</string>
     <string name="network_error_description">Chyba siete. Skúste to znova neskôr.</string>
@@ -599,7 +599,7 @@ Pre aktiváciu tejto služby bude odoslaná bežná SMS."</string>
     <string name="over_max_mms_size">MMS je príliš veľká.</string>
     <string name="overwrite_edited_content">Upravený obsah bude prepísaný. Pokračovať?</string>
     <string name="packages_select_sim_cards_title">Vyberte SIM kartu</string>
-    <string name="perm_purpose_mms_account">Pre prístup k Mi účtu</string>
+    <string name="perm_purpose_mms_account">Pre prístup k Xiaomi účtu</string>
     <string name="perm_purpose_mms_storage">Pre ukladanie príloh</string>
     <string name="perm_purpose_rcs_account">Pre zobrazenie návodov</string>
     <string name="perm_purpose_rcs_phone_state">Pre spracovávanie vášho IMEI</string>
@@ -738,15 +738,15 @@ Pre aktiváciu tejto služby bude odoslaná bežná SMS."</string>
     <string name="recipients_contain_sub_sim_number">"Looks like there's a secondary SIM number among the recipients. Send this message using secondary SIM."</string>
     <string name="recipients_over_size">Príliš mnoho prijímateľov.</string>
     <string name="recommend_bar_cancel">Ignorovať</string>
-    <string name="recommend_bar_message_mx">Mi Správy umožňujú posielať SMS správy ostatným MIUI užívateľom bez poplatkov.</string>
+    <string name="recommend_bar_message_mx">Xiaomi Správy umožňujú posielať SMS správy ostatným MIUI užívateľom bez poplatkov.</string>
     <string name="recommend_bar_message_smart_message">Kopírovať overovacie kódy, sledovacie čísla, atď.</string>
     <string name="recommend_bar_ok">Povoliť</string>
-    <string name="recommend_bar_title_mx_rcs">Mi Správy</string>
+    <string name="recommend_bar_title_mx_rcs">Xiaomi Správy</string>
     <string name="recommend_bar_title_smart_message">Inteligentné správy</string>
     <string name="recommend_both_dialog_title">Vitajte v Správach!</string>
-    <string name="recommend_dialog_message">Môžete povoliť Mi Správy a Inteligentné správy pre prístup k ďalším nastaveniam.</string>
-    <string name="recommend_mx_dialog_title">Vitajte v Mi Správach!</string>
-    <string name="recommend_mx_setting_summary">Mi Správy umožňujú posielať SMS správy ostatným užívateľom MIUI cez internet.</string>
+    <string name="recommend_dialog_message">Môžete povoliť Xiaomi Správy a Inteligentné správy pre prístup k ďalším nastaveniam.</string>
+    <string name="recommend_mx_dialog_title">Vitajte v Xiaomi Správach!</string>
+    <string name="recommend_mx_setting_summary">Xiaomi Správy umožňujú posielať SMS správy ostatným užívateľom MIUI cez internet.</string>
     <string name="recommend_smart_sms_dialog_title">Vitajte v Inteligentných správach!</string>
     <string name="recommend_smart_sms_setting_summary">Inteligentné správy poskytujú rozpoznanie názvu odosielateľa.</string>
     <string name="recording_failed">Nie je možné nahrať</string>
@@ -809,7 +809,7 @@ Pre aktiváciu tejto služby bude odoslaná bežná SMS."</string>
     <string name="secs">s</string>
     <string name="security_alert_desc">Odosielateľ nie je vo vašom zozname kontaktov.</string>
     <string name="security_alert_desc_highlight">Nahlásiť toto číslo</string>
-    <string name="security_alert_dialog_desc">Nahlásiť toto číslo (%s) a správu Mi pre ďalšiu analýzu.</string>
+    <string name="security_alert_dialog_desc">Nahlásiť toto číslo (%s) a správu Xiaomi pre ďalšiu analýzu.</string>
     <string name="security_alert_dialog_title">Nahlásiť</string>
     <string name="select_audio">Vybrať audio</string>
     <string name="select_bottom_text">Text dole</string>
@@ -835,7 +835,7 @@ Pre aktiváciu tejto služby bude odoslaná bežná SMS."</string>
     <string name="send_message_notification_msg">Device Management send message permission request</string>
     <string name="send_message_notification_tickerText">Device Management permission request</string>
     <string name="send_message_notification_title">Správa zariadení</string>
-    <string name="send_rms_editor_hints_omit">Mi Správy</string>
+    <string name="send_rms_editor_hints_omit">Xiaomi Správy</string>
     <string name="send_signature_confirm_dialog_message">Nezadali ste žiaden text. Naozaj chcete takto správu odoslať?</string>
     <string name="send_signature_confirm_dialog_title">Odoslať podpis</string>
     <string name="send_sms">Odoslať</string>
@@ -869,7 +869,7 @@ Pre aktiváciu tejto služby bude odoslaná bežná SMS."</string>
     <string name="slideshow_activity">Prezentácia</string>
     <string name="small_window_log_text">Fotoaparát nie je možné používať v režime rozdelenia obrazovky</string>
     <string name="smart_message_title">Inteligentné správy</string>
-    <string name="smart_messages_network_allow_message">Mi Správy vyžadujú pripojenie na internet. Povoliť?</string>
+    <string name="smart_messages_network_allow_message">Xiaomi Správy vyžadujú pripojenie na internet. Povoliť?</string>
     <string name="smart_messages_network_allow_title">Internetové pripojenie</string>
     <string name="smart_msg_main_purpose">Inteligentné správy poskytujú rozpoznávanie čísla odosielateľa.</string>
     <string name="smart_msg_privacy_policy">Ochrana súkromia</string>
@@ -928,7 +928,7 @@ Pre aktiváciu tejto služby bude odoslaná bežná SMS."</string>
     <string name="system_permission_declare_disagree">Nesúhlasím</string>
     <string formatted="false" name="system_permission_declare_double_link">Prečítajte si a odsúhlaste naše %1s a %2s.</string>
     <string formatted="false" name="system_permission_declare_main_purpose">Vitajte v %1s! %2s</string>
-    <string name="system_permission_declare_mi_message">Vitajte v Mi Správach!</string>
+    <string name="system_permission_declare_mi_message">Vitajte v Xiaomi Správach!</string>
     <string name="system_permission_declare_no_say_no">Bez týchto povolení aplikácie nebude fungovať správne.</string>
     <string name="system_permission_declare_privacy_declare">"Rešpektujeme a chránime vaše súkromie.
 %1s vyžaduje tieto povolenia pre správne fungovanie:"</string>
@@ -1036,7 +1036,7 @@ Pokus: %s."</string>
     <string name="view_hms_attachment_fail">Sťahovanie obrázku zlyhalo.</string>
     <string name="view_hms_details">Podrobnosti</string>
     <string name="view_message_details">Zobraziť podrobnosti správy</string>
-    <string name="voip_enable">Mi Message and Voice</string>
+    <string name="voip_enable">Xiaomi Message and Voice</string>
     <string name="voip_enable_popup_msg">"Make calls to other MIUI users without incurring charges from your carrier. VoIP is supported by Weihui. View Weihui's Privacy Policy."</string>
     <string name="voip_enable_popup_msg2">Privacy Policy</string>
     <string name="wap_push_title">"[WAP Push] "</string>

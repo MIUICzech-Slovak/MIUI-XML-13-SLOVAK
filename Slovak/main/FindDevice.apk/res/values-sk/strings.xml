@@ -5,7 +5,7 @@
     <string name="app_name">Vyhľadať zariadenie</string>
     <string name="captcha">Captcha</string>
     <string name="change_find_device_status_failed">Nebolo možné odblokovať. %s.</string>
-    <string name="default_lock_msg_words">Toto zariadenie je prepojené s Mi účtom. Prihláste sa pre odblokovanie tohto zariadenia.</string>
+    <string name="default_lock_msg_words">Toto zariadenie je prepojené s Xiaomi účtom. Prihláste sa pre odblokovanie tohto zariadenia.</string>
     <string name="default_lock_msg_words_with_phone">Ahoj! Stratil som alebo mi bol ukradnutý tento telefón. Prosím vráťte mi ho. Ďakujem!</string>
     <string name="device_locked">Toto zariadenie je zablokované</string>
     <string name="device_lost">Toto zariadenie bolo stratené alebo odcudzené</string>
@@ -20,8 +20,8 @@
     <string name="find_device_capture_notification_title">Vyhľadávanie zariadenia zhotovuje fotografiu...</string>
     <string name="find_device_crash">Vyhľadávanie bolo neočakávane ukončené</string>
     <string name="find_device_error_access_denied">Prístup zamietnutý.</string>
-    <string name="find_device_error_account_sys_timeout">Nebolo možné sa pripojiť k Mi účtu.</string>
-    <string name="find_device_error_account_unknown_error">Chyba Mi účtu (%s)</string>
+    <string name="find_device_error_account_sys_timeout">Nebolo možné sa pripojiť k Xiaomi účtu.</string>
+    <string name="find_device_error_account_unknown_error">Chyba Xiaomi účtu (%s)</string>
     <string name="find_device_error_network">Skontrolujte dátové pripojenie a skúste to znova.</string>
     <string name="find_device_error_password_changed">Heslo k vášmu účtu bolo zmenené.</string>
     <string name="find_device_error_server">Chyba servera (%s)</string>
@@ -117,7 +117,7 @@ Ak zmeníte SIM kartu, automaticky sa odošle SMS pre jej aktiváciu."</string>
     <string name="passport_vcode_prompt_long">Zadajte overovací kód</string>
     <string name="passport_verify">Overiť</string>
     <string name="password">Heslo</string>
-    <string name="phone_locked">Toto zariadenie je zrejme prepojené s existujúcim Mi účtom (%s). Prihláste sa pre aktivovanie tohto zariadenia.</string>
+    <string name="phone_locked">Toto zariadenie je zrejme prepojené s existujúcim Xiaomi účtom (%s). Prihláste sa pre aktivovanie tohto zariadenia.</string>
     <string name="phone_locked_account_email">, prepojený email: %s</string>
     <string name="phone_locked_account_phone">, prepojené telefónne číslo: %s</string>
     <string name="return_to_call">Naspäť k Hovoru</string>
@@ -156,7 +156,7 @@ Ak zmeníte SIM kartu, automaticky sa odošle SMS pre jej aktiváciu."</string>
     <string name="unlock_error_device_id">Nebolo možné načítať ID zariadenia</string>
     <string name="unlock_error_interrupted">Prerušené</string>
     <string name="unlock_error_network">Nebolo možné sa pripojiť k sieti</string>
-    <string name="unlock_error_passport_sdk_timeout">SDK Mi účtu neodpovedá</string>
+    <string name="unlock_error_passport_sdk_timeout">SDK Xiaomi účtu neodpovedá</string>
     <string name="unlock_error_rpc">Chyba RPC</string>
     <string name="unlock_error_server">Chyba servera</string>
     <string name="unlock_error_ssl_hand_shake">Nebolo možné sa pripojiť k serveru, skúste nastaviť čas a dátum manuálne.</string>
@@ -176,7 +176,7 @@ Prihláste sa na i.mi.com a skúste odblokovať vaše zariadenie odtiaľ"</strin
     <string name="unlock_wrong_captcha">Zadaný kód nie je správny</string>
     <string name="unlocking">Aktivovanie...</string>
     <string name="verifing_account">Overovanie hesla...</string>
-    <string name="verify_password_failed">Nebolo možné overiť Mi účet. %s.</string>
+    <string name="verify_password_failed">Nebolo možné overiť Xiaomi účet. %s.</string>
     <string name="wednesday">Streda</string>
     <string name="wednesday_short">Str</string>
     <string name="wednesday_shortest">S</string>

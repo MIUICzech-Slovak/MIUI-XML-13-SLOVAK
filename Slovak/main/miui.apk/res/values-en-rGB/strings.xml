@@ -346,7 +346,7 @@
     <string name="email">Email</string>
     <string name="eras_ad">AD</string>
     <string name="eras_bc">BC</string>
-    <string name="error_forbidden">Sync has been turned off due to problems with your Mi Account.</string>
+    <string name="error_forbidden">Sync has been turned off due to problems with your Xiaomi Account.</string>
     <string name="error_not_acceptable">Sync has been turned off.</string>
     <string name="error_title">"Couldn't sync"</string>
     <string name="error_unauthorized">Sync has been turned off due to too many sign-in attempts.</string>
@@ -471,8 +471,8 @@
     <string name="noon">PM</string>
     <string name="note">Note</string>
     <string name="organization">Organisation</string>
-    <string name="perm_payment_dspt">Allow app to pay using Mi Pay Service</string>
-    <string name="perm_payment_lab">Mi Pay</string>
+    <string name="perm_payment_dspt">Allow app to pay using Xiaomi Pay Service</string>
+    <string name="perm_payment_lab">Xiaomi Pay</string>
     <string name="permdesc_sendSmsNoConfirmation">App can send SMS messages without asking your permission. Your carrier may charge you for these messages.</string>
     <string name="permlab_sendSmsNoConfirmation">Allow SMS messages in background</string>
     <string name="phone">Phone</string>
@@ -593,6 +593,6 @@
     <string name="wednesday">Wednesday</string>
     <string name="wednesday_short">Wed</string>
     <string name="wednesday_shortest">W</string>
-    <string name="xiaomi_mobile">Mi Mobile</string>
+    <string name="xiaomi_mobile">Xiaomi Mobile</string>
     <string name="yesterday">Yesterday</string>
 </resources>

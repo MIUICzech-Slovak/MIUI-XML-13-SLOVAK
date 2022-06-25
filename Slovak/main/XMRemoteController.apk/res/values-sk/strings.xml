@@ -140,7 +140,7 @@
     <string name="create_shortcut_cancel">Nie, ďakujem</string>
     <string name="create_shortcut_confirm">Pridať</string>
     <string name="create_shortcut_done">Úspešne pridané</string>
-    <string name="create_shortcut_failed">Nepodarilo sa pridať odkaz. Ubezpečte sa, že Diaľkové ovládanie Mi má potrebné povolenia.</string>
+    <string name="create_shortcut_failed">Nepodarilo sa pridať odkaz. Ubezpečte sa, že Diaľkové ovládanie Xiaomi má potrebné povolenia.</string>
     <string name="current_place">Miesto:</string>
     <string name="current_play">Práve vysiela:  </string>
     <string name="current_stb">Súčasné set-top boxy</string>
@@ -162,7 +162,7 @@
     <string name="device_type">typ</string>
     <string name="devicetype1">TV</string>
     <string name="devicetype10">Pojektor</string>
-    <string name="devicetype10001">Mi TV/Mi Box</string>
+    <string name="devicetype10001">Xiaomi TV/Xiaomi Box</string>
     <string name="devicetype11">Satelitná televízia</string>
     <string name="devicetype12">Box</string>
     <string name="devicetype13">DSLR</string>
@@ -318,7 +318,7 @@
     <string name="ir_device_tv">TV</string>
     <string name="ir_device_water_heater">Ohrievač vody</string>
     <string name="ir_device_wifi">Wi-Fi ovládanie</string>
-    <string name="ir_not_supported_devices">* Mi TV 3/Mi TV Bar/Mi Box 3/Mi Box nepodporujú IR. Skúste použiť Wi-Fi diaľkové.</string>
+    <string name="ir_not_supported_devices">* Xiaomi TV 3/Xiaomi TV Bar/Xiaomi Box 3/Xiaomi Box nepodporujú IR. Skúste použiť Wi-Fi diaľkové.</string>
     <string name="jump_to_mivideo">Zobraziť na mobilnom zariadení</string>
     <string name="just_now">Práve teraz</string>
     <string name="just_used">Použité</string>
@@ -380,8 +380,8 @@ Prejdite späť a pokračujte"</string>
     <string name="match_main_tip_frame_click">"Namierte diaľkový ovládač na %1$s a stlačte tlačidlo.
 Uistite sa, že %1$s reaguje."</string>
     <string name="match_mibox_first">    Vyhľadať MiBox</string>
-    <string name="match_mibox_sencond">    · Control your Mi TV with this device.</string>
-    <string name="match_mibox_third">    · Pair other Mi devices automatically</string>
+    <string name="match_mibox_sencond">    · Control your Xiaomi TV with this device.</string>
+    <string name="match_mibox_third">    · Pair other Xiaomi devices automatically</string>
     <string name="match_name_power">Zapnúť</string>
     <string name="match_number_default">Zariadenie reagovalo?</string>
     <string name="match_power_confirm_tip_frame">Je %1$s zap.?</string>
@@ -427,8 +427,8 @@ Uistite sa, že %1$s reaguje."</string>
     <string name="max_enter">Môže obsahovať až %d znakov</string>
     <string name="maybe_is">Uistite sa:</string>
     <string name="menu">Menu</string>
-    <string name="mi_account">Mi účet</string>
-    <string name="mi_account_name">Mi účet</string>
+    <string name="mi_account">Xiaomi účet</string>
+    <string name="mi_account_name">Xiaomi účet</string>
     <string name="mi_brand">Xiaomi</string>
     <string name="mi_rc">Xiaomi ovládanie</string>
     <string name="mibox">MiBox</string>
@@ -534,8 +534,8 @@ Uistite sa, že %1$s reaguje."</string>
     <string name="rc_add_distance">%1$dm</string>
     <string name="rc_add_distance_far">&gt;1000km</string>
     <string name="rc_add_distance_km">%1$skm</string>
-    <string name="rc_name">Mi diaľkové ovládanie</string>
-    <string name="recover">Obnoviť z Mi Cloud</string>
+    <string name="rc_name">Xiaomi diaľkové ovládanie</string>
+    <string name="recover">Obnoviť z Xiaomi Cloud</string>
     <string name="recovering">Obnovovanie…</string>
     <string name="refreshing">Obnovenie...</string>
     <string name="refreshing_no_point">Načítavanie...</string>
@@ -644,7 +644,7 @@ priamo z vašej zamknutej obrazovky"</string>
     <string name="share_title_to_sina_weibo">Weibo</string>
     <string name="share_to_others">Share</string>
     <string name="sharerc_tips">Po spustení zdieľania bude ovládač dostupný tiež pre ostatných používateľov vo vašom okolí.</string>
-    <string name="shortcut_pop_desc">Vyzerá to, že používate Mi Remote pomerne často. Vytvoriť odkaz na domácej obrazovke?</string>
+    <string name="shortcut_pop_desc">Vyzerá to, že používate Xiaomi Remote pomerne často. Vytvoriť odkaz na domácej obrazovke?</string>
     <string name="shortcut_pop_title">Skratka</string>
     <string name="show_remote_when_lock_screen">Ovládacie prvky na obrazovke uzamknutia</string>
     <string name="similar">Podobné</string>
@@ -764,7 +764,7 @@ Pre zmenu dlho stlačte tlačidlo napájania televízie"</string>
     <string name="wind_speed_medium">medium</string>
     <string name="wind_sweep">Hojdačka</string>
     <string name="wx_not_installed">Najskôr nainštalujte WeChat</string>
-    <string name="xiaomi_vip">Mi VIP</string>
+    <string name="xiaomi_vip">Xiaomi VIP</string>
     <string name="year_month_day_format">MMM dd, yyyy</string>
     <string name="yes">Áno</string>
     <string name="yesterday">Včera</string>

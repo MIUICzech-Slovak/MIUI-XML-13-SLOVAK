@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="about_title">O Mi Drive</string>
+    <string name="about_title">O Xiaomi Drive</string>
     <string name="about_version">"Verzia: "</string>
-    <string name="account_change_message">"Prechádzate na účet %1$s. Zobrazia sa údaje Mi Drive priradené k tomuto účtu."</string>
+    <string name="account_change_message">"Prechádzate na účet %1$s. Zobrazia sa údaje Xiaomi Drive priradené k tomuto účtu."</string>
     <string name="account_change_title">Prepínanie účtov</string>
     <string name="account_info_desc">Spravovať informácie o účte</string>
     <string name="account_logout">Odhlásiť účet “%1$s”</string>
@@ -290,7 +290,7 @@ Uistite sa, že ako systémový účet MIUI používate aktuálny účet Mi."</s
     <string name="music_preview_failed">Tento zvukový súbor sa nedá prehrať</string>
     <string name="music_preview_title_loading">Načítavanie...</string>
     <string name="music_preview_title_play">Prehráva sa</string>
-    <string name="my_about_item">O Mi Drive</string>
+    <string name="my_about_item">O Xiaomi Drive</string>
     <string name="my_feedback_item">Spätná väzba</string>
     <string name="my_file">Moje súbory</string>
     <string name="my_manage_space_item">Spravovať úložisko v cloude</string>
@@ -398,12 +398,12 @@ Uistite sa, že ako systémový účet MIUI používate aktuálny účet Mi."</s
     <string name="preference_copied">\"%1$s\" bolo skopírované do schránky.</string>
     <string name="preview">Ukážka</string>
     <string name="privacy_policy">Ochrana osobných údajov</string>
-    <string name="privacy_recall_dialog_msg">"Ak budete pokračovať, odvoláte svoj súhlas so Zásadami ochrany osobných údajov Mi Drive. Osobné údaje, ktoré už boli zhromaždené a uchovávané, budú vymazané počas konkrétneho obdobia v súlade s platnými zákonmi a predpismi, pokiaľ to nebude potrebné v opačnom prípade. Keďže Mi Drive poskytuje svoje služby na základe zhromažďovania potrebných osobných údajov, vaše odvolanie súhlasu sa bude považovať za odmietnutie prijatia služieb Mi Drive. Odvolať súhlas teraz?"</string>
+    <string name="privacy_recall_dialog_msg">"Ak budete pokračovať, odvoláte svoj súhlas so Zásadami ochrany osobných údajov Xiaomi Drive. Osobné údaje, ktoré už boli zhromaždené a uchovávané, budú vymazané počas konkrétneho obdobia v súlade s platnými zákonmi a predpismi, pokiaľ to nebude potrebné v opačnom prípade. Keďže Xiaomi Drive poskytuje svoje služby na základe zhromažďovania potrebných osobných údajov, vaše odvolanie súhlasu sa bude považovať za odmietnutie prijatia služieb Xiaomi Drive. Odvolať súhlas teraz?"</string>
     <string name="privacy_recall_dialog_title">Odvolanie súhlasu</string>
-    <string name="privacy_update_dialog_msg">Zásady ochrany osobných údajov služby Disk Mi boli aktualizované: Prečítajte si a vyjadrite súhlas s novou verziou Zásady ochrany osobných údajov skôr, než budete pokračovať.</string>
+    <string name="privacy_update_dialog_msg">Zásady ochrany osobných údajov služby Disk Xiaomi boli aktualizované: Prečítajte si a vyjadrite súhlas s novou verziou Zásady ochrany osobných údajov skôr, než budete pokračovať.</string>
     <string name="privacy_update_dialog_title">Aktualizované zásady ochrany osobných údajov</string>
     <string name="privacy_user_notice_dialog_exit_btn_text">Ukončiť</string>
-    <string name="privacy_user_notice_dialog_msg">"Nebudete môcť naďalej používať Mi Disk, pokiaľ nevyjadríte súhlas s novou verziou jeho Zásad ochrany osobných údajov. Súhlasíte teraz s aktualizovanými Zásadami ochrany osobných údajov?"</string>
+    <string name="privacy_user_notice_dialog_msg">"Nebudete môcť naďalej používať Xiaomi Disk, pokiaľ nevyjadríte súhlas s novou verziou jeho Zásad ochrany osobných údajov. Súhlasíte teraz s aktualizovanými Zásadami ochrany osobných údajov?"</string>
     <string name="privacy_user_notice_dialog_ok_btn_text">Súhlasím</string>
     <string name="privacy_user_notice_dialog_title">Upozornenie</string>
     <string name="private_empty_desc">Tu môžete ukladať súbory súkromne.</string>
@@ -425,8 +425,8 @@ Uistite sa, že ako systémový účet MIUI používate aktuálny účet Mi."</s
     <string name="rename_file_select_error">"Nie je možné premenovať viacero položiek"</string>
     <string name="rename_success">Úspešne premenovaný</string>
     <string name="request_permission_confirm">Rozumiem</string>
-    <string name="request_permission_content">Mi Drive potrebuje prístup k účtom na tomto zariadení, aby bolo možné použiť váš Mi účet na prihlásenie. Povolenie na prístup a ukladanie súborov na vašom zariadení umožní Mi Drive zobraziť ukážku, nahrať, stiahnuť, a synchronizovať položky.</string>
-    <string name="request_permission_content_with_phone_state">Mi Drive vyžaduje povolenia na prístup k vašim účtom, fotkám, súborom a IMEI, aby ste sa mohli prihlásiť pomocou účtu Mi, zobrazovať ukážky, odovzdávať, sťahovať a synchronizovať súbory a kontrolovať aktualizácie. .</string>
+    <string name="request_permission_content">Xiaomi Drive potrebuje prístup k účtom na tomto zariadení, aby bolo možné použiť váš Xiaomi účet na prihlásenie. Povolenie na prístup a ukladanie súborov na vašom zariadení umožní Xiaomi Drive zobraziť ukážku, nahrať, stiahnuť, a synchronizovať položky.</string>
+    <string name="request_permission_content_with_phone_state">Xiaomi Drive vyžaduje povolenia na prístup k vašim účtom, fotkám, súborom a IMEI, aby ste sa mohli prihlásiť pomocou účtu Mi, zobrazovať ukážky, odovzdávať, sťahovať a synchronizovať súbory a kontrolovať aktualizácie. .</string>
     <string name="request_permission_msg">Povoľte MiDrive prístup k vášmu účtu.</string>
     <string name="request_permission_title">Vyžadujú sa povolenia</string>
     <string name="root_page_name">Môj disk</string>
@@ -512,7 +512,7 @@ Uistite sa, že ako systémový účet MIUI používate aktuálny účet Mi."</s
     <string name="upload_metered_network_dialog_ok">Odovzdať</string>
     <string name="upload_metered_network_dialog_title">Používanie mobilných dát</string>
     <string name="uploading">Odosielam...</string>
-    <string name="user_agreement_title">Používateľská zmluva služby Mi Drive</string>
+    <string name="user_agreement_title">Používateľská zmluva služby Xiaomi Drive</string>
     <string name="user_protocol_and_privacy_protocol">Prečítal som si Podmienky používania a Ochranu súkromia.</string>
     <string name="v7_preference_off">VYPNUTÉ</string>
     <string name="v7_preference_on">ZAPNUTÉ</string>

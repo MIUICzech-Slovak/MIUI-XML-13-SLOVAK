@@ -184,7 +184,7 @@
     <string name="free_style_edit_tab_free_component">Objekty</string>
     <string name="free_style_edit_tab_shortcut">Odkazy</string>
     <string name="free_style_edit_tab_widget">Widgety</string>
-    <string name="free_style_enter_tip">Pre zobrazenie Mi Space, potiahnite dvomi prstami z vrchu obrazovky dole.</string>
+    <string name="free_style_enter_tip">Pre zobrazenie Xiaomi Space, potiahnite dvomi prstami z vrchu obrazovky dole.</string>
     <string name="free_style_exit_tip">Pre návrat na Domovskú obrazovku, potiahnite dvomi prstami zospodu hore.</string>
     <string name="free_style_londing_text">Malý moment…</string>
     <string name="gadget_calculator_label">Kalkulačka</string>
@@ -311,7 +311,7 @@
     <string name="menu_customize">Nastavenia</string>
     <string name="menu_default_screen_preview">Nastaviť predvolenú obrazovku</string>
     <string name="menu_edit">Upraviť Domovskú obrazovku</string>
-    <string name="menu_exit_scene">Ukončiť Mi Space</string>
+    <string name="menu_exit_scene">Ukončiť Xiaomi Space</string>
     <string name="menu_hide_apps">Skryť ikony aplikácií</string>
     <string name="menu_item_add_item">Umiestniť na pracovnú plochu</string>
     <string name="menu_launcher_setting">Nastavenia Launchera</string>
@@ -348,7 +348,7 @@
     <string name="pa_Clock_main">Budík</string>
     <string name="pa_Clock_parent">Hodiny</string>
     <string name="pa_MiDrop_main">Odoslať</string>
-    <string name="pa_MiDrop_parent">Mi Drop</string>
+    <string name="pa_MiDrop_parent">Xiaomi Drop</string>
     <string name="pa_Paytm_main">Zaplatiť</string>
     <string name="pa_Paytm_parent">Paytm</string>
     <string name="pa_Whatsapp_main">Fotografie</string>

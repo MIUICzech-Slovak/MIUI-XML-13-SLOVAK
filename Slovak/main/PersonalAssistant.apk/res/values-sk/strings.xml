@@ -437,7 +437,7 @@ Pred pokračovaním si prečítajte a vyjadrite súhlas s novou verziou %s."</st
     <string name="mi_payment_setting_brief_detail">Collect info about your payments from Messaging and other apps.</string>
     <string name="mi_sport">Počet krokov</string>
     <string name="mi_sport_go_install">Download</string>
-    <string name="mi_wallet">Mi Wallet</string>
+    <string name="mi_wallet">Xiaomi Wallet</string>
     <string name="midrop_parent">MiDrop</string>
     <string name="midrop_send">Odoslať</string>
     <string name="miot_cta_dialog_title">Povoliť autorizáciu</string>
@@ -461,7 +461,7 @@ Pred pokračovaním si prečítajte a vyjadrite súhlas s novou verziou %s."</st
     <string name="miot_device_introduction">Rýchle ovládanie smart zariadení</string>
     <string name="miot_device_loading">Načítavanie...</string>
     <string name="miot_device_login">Prihlásiť sa</string>
-    <string name="miot_device_mijia_logout_message">Najskôr sa musíte prihlásiť k Mi účtu. Chcete sa prihlásiť?</string>
+    <string name="miot_device_mijia_logout_message">Najskôr sa musíte prihlásiť k Xiaomi účtu. Chcete sa prihlásiť?</string>
     <string name="miot_device_mijia_logout_title">Nie ste prihlásený</string>
     <string name="miot_device_mijia_uninstall_message">MiHome aplikácia nie je nainštalovaná. Chcete ju nainštalovať teraz?</string>
     <string name="miot_device_mijia_uninstall_title">Nie je nainštalovaný</string>
@@ -936,7 +936,7 @@ na zobrazenie widgetov."</string>
     <string name="show_more">Zobraziť viac</string>
     <string name="smart_assistant_enter_tip">Asistent</string>
     <string name="sport_headline">Dnešná aktivita</string>
-    <string name="sport_open">Show Mi Fit card</string>
+    <string name="sport_open">Show Xiaomi Fit card</string>
     <string name="step_cal_unit">kcal</string>
     <string name="step_setting_tip">Zdroj počítania krokov</string>
     <string name="steps">krokov</string>
@@ -948,7 +948,7 @@ na zobrazenie widgetov."</string>
     <string name="steps_misport_download">Stiahnuť</string>
     <string name="steps_misport_go">Povoliť</string>
     <string name="steps_misport_ok">Rozumiem</string>
-    <string name="steps_misport_tip">Prihláste sa do MiFit vašim Mi účtom a povoľte autoštart pre aplikáciu v Optimalizácia - Povolenia.</string>
+    <string name="steps_misport_tip">Prihláste sa do MiFit vašim Xiaomi účtom a povoľte autoštart pre aplikáciu v Optimalizácia - Povolenia.</string>
     <string name="steps_sport">MiFit</string>
     <string name="steps_sport_des">Získať presnejšie info o krokoch z MiFit</string>
     <string name="steps_vip">Krokomer</string>
