@@ -144,4 +144,21 @@
     <string name="doc_photo_not_save">Neukladať</string>
        <string name="doc_photo_save_effect_toast">Uložiť zmeny?</string>
     <string name="open">Zapnuté</string>            
+
+
+<string name="doc_photo_close">Vypína sa</string>
+    <string name="doc_photo_close_toast">Ak teraz túto funkciu vypnete, poznámky, ktoré ste vymazali, sa znova zobrazia. Chcete napriek tomu vypnúť?</string>
+    <string name="doc_photo_crop_left_rotate">Vľavo</string>
+    <string name="doc_photo_crop_right_rotate">Vpravo</string>
+    <string name="doc_photo_crop_toast">Poznámky, ktoré ste vymazali, sa po orezaní znova zobrazia. Chcete napriek tomu pokračovať?</string>
+    <string name="doc_photo_enhance_crop">Orezať</string>
+    <string name="doc_photo_enhance_dehandwrite">Vymazať poznámky</string>
+    <string name="doc_photo_enhance_dehandwrite_desc">Vymazanie rukou písaných poznámok jedným dotykom</string>
+    <string name="doc_photo_enhance_effect">Efekty</string>
+    <string name="doc_photo_enhance_handmode_remove">Vymazať ručne</string>
+    <string name="doc_photo_enhance_undistortion_version4">Narovnať</string>
+    <string name="doc_photo_handwrite_recover">Obnoviť</string>
+    <string name="doc_photo_handwrite_remove">Vymazať</string>
+<string name="doc_photo_no_remind">Už nezobrazovať</string>         
+
 </resources>
