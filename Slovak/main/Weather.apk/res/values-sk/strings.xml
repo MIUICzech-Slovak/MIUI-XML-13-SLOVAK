@@ -370,4 +370,6 @@ Zadajte vaše mesto manuálne"</string>
     <string name="xiaomi_weather_description_title">O Počasí</string>
     <string name="yesterday">Včera</string>
     <string name="your_location">Vaša poloha</string>
+    
+    <string name="content_desc_activity_main_page">Strana %1$d z %2$d</string>    
 </resources>

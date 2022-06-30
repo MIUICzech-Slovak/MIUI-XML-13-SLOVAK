@@ -454,4 +454,8 @@
 <string name="disable_nfc_haptic_reverse">Vypnuté NFC a vibrácie pre spätné bezdrôtové nabíjanie</string>
      <string name="enable_nfc_haptic_reverse">Spätné nabíjanie bolo zastavené. NFC a vibrácie sú opäť zapnuté.</string>
     <string name="kb_reset_toast">Klávesnica úspešne obnovená</string>	
+    
+<string name="mw_guide_dialog_button_confirm">Rozumiem</string>
+     <string name="mw_guide_dialog_message">Zdá sa, že táto aplikácia nepodporuje paralelné okná. Namiesto toho bolo prepnuté na iné kompatibilné rozloženie.</string>
+     <string name="mw_guide_dialog_title">Paralelné okná nie sú podporované</string>    
 </resources>

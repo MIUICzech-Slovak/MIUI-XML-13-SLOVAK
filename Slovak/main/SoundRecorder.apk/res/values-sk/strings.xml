@@ -337,4 +337,7 @@ Klepnite na \"%1$s\" a potom vyberte \"%2$s\"."</string>
 	
     <string name="manage_external_storage">Prístup k všetkým súborom</string>
     <string name="sync_desc_state_complete">Synchr. s cloudom: %1$s</string>	
+    
+<string name="download_pause">Sťahovanie pozastavené. Dotykom obnovíte.</string>
+     <string name="downloading">Sťahuje sa. Dotykom pozastavíte.</string>
 </resources>
