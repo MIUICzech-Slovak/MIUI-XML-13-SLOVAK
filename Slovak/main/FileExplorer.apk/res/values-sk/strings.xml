@@ -707,7 +707,7 @@ and never miss the cool new ones!"</string>
     <string name="release_to_signin">Uvoľnite pre podpísanie sa.</string>
     <string name="remainder_size">Ostáva: %s</string>
     <string name="remote_video_no_network">Nie je možné pripojiť s ak sieti. Skontrolujte vaše nastavenia a skúste to znova.</string>
-    <string name="rename_alert">Ak zmeníte príponu tohto súboru, nebudete môcť ho otvoriť.</string>
+    <string name="rename_alert">Ak zmeníte príponu tohto súboru, nebudete ho môcť otvoriť.</string>
     <string name="rename_alert2">Súbor bude ukrytý.</string>
     <string name="rename_description">Premenovávam...</string>
     <string name="rename_failed">Premenovanie na %1$s zlyhalo</string>
@@ -958,4 +958,14 @@ Získali ste ďalších %1$s"</string>
     <string name="year_month_day_format">dd. MMM. yyyy</string>
     <string name="yes">Áno</string>
     <string name="yesterday">Včera</string>
+    
+    
+<string name="lack_perm_msg">Aplikácia Súbory vyžaduje na správne fungovanie nasledujúce povolenia: &lt;b>%s&lt;/b></string>
+     <string name="lack_perm_title">Vyžadujú sa povolenia</string>
+     <string name="main_button_continue">Nastavenia</string>
+     <string name="main_button_ok">OK</string>
+     <string name="main_button_quit">Zrušiť</string>
+<string name="message_request_manage_external_storage_perm">Aplikácia Súbory potrebuje povolenie na prístup k súborom, aby mohla spravovať súbory na vašom zariadení. Toto povolenie môžete udeliť v Nastaveniach.</string>
+<string name="perm_manage_external_storage">Prístup ku všetkým súborom</string>
+<string name="title_request_manage_external_storage_perm">Vyžadujú sa povolenia</string>           
 </resources>

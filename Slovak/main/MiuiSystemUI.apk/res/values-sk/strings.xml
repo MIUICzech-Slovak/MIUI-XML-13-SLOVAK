@@ -2718,4 +2718,9 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
      <string name="reboot_info_shutdown_alarm_global">Vypnúť budík: %s</string>    
 	 
 <string name="quick_settings_low_battery_toast_text">Nie je možné použiť svietidlo. Batéria je príliš slabá.</string>	 
+
+<string name="dialog_forget_password_cancel">Zrušiť</string>
+     <string name="dialog_forget_password_message">Ak ste zabudli PUK, môžete túto eSIM kartu deaktivovať, aby ste nestratili prístup k svojmu zariadeniu. Potom môžete kontaktovať svojho operátora a požiadať o pomoc.</string>
+     <string name="dialog_forget_password_ok">Zakázať</string>
+     <string name="forget_password_string_for_esim"><u>Zabudol som PUK</u></string>
 </resources>

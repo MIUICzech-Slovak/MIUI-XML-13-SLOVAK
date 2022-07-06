@@ -913,5 +913,9 @@ To môže spôsobiť dodatočné poplatky."</string>
 <string name="detail_recomm_personal">Odporúčané</string>
 <string name="main_fragment_title_home_excellent">Odporúčané</string>
 
-
+<string name="back">Späť</string>
+    <string name="close_country_code_content_description">Vymazať predvoľbu</string>
+    <string name="facebook_login_btn_content_description">Prihlásiť cez Facebook</string>
+    <string name="google_login_btn_content_description">Prihlásiť cez Google</string>
+            
 </resources>

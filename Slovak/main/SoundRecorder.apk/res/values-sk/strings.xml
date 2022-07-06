@@ -340,4 +340,11 @@ Klepnite na \"%1$s\" a potom vyberte \"%2$s\"."</string>
     
 <string name="download_pause">Sťahovanie pozastavené. Dotykom obnovíte.</string>
      <string name="downloading">Sťahuje sa. Dotykom pozastavíte.</string>
+     
+<string name="access_denied_info">Príliš veľa pokusov. Počkajte minútu alebo dve a skúste to znova.</string>
+     <string name="network_error_info">Vyskytla sa chyba siete. Skontrolujte nastavenia siete a skúste to znova.</string>
+     <string name="network_timeout_info">Nepodarilo sa pripojiť k sieti. Skúste to znova.</string>
+     <string name="progressbar_title">Kontrolujú sa bezpečnostné problémy…</string>
+     <string name="system_error_info">Systém je zaneprázdnený. Počkajte minútu alebo dve a skúste to znova.</string>
+     <string name="unknown_error_info">Neznáma chyba</string>                 
 </resources>

@@ -7730,4 +7730,17 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
     <string name="freeform_guide_slide_to_small_freeform_summary_squarehot">"Stlačte a podržte spodok okna a potiahnite ho k hornej hrane displeja.
 Táto funkcia funguje len ak sú aktivované gestá."</string>
     <string name="miheadset_auto_upgrade_reminder">Vypnite automatické aktualizácie a skontrolujte znova</string>    
+    
+<string name="bottom_to_top_slide">Potiahnuť nahor</string>
+     <string name="left_to_right_slide">Potiahnuť doprava</string>
+     <string name="miheadset_keyconfig_click_thrice">Trikrát stlačenie tlačidla</string>
+     <string name="miheadset_keyconfig_click_twice">Dvakrát stlačenie tlačidla</string>
+     <string name="miheadset_keyconfig_press_long">Stlačiť a podržať tlačidlo %d sekúnd</string>
+     <string name="right_to_left_slide">Potiahnuť doľava</string>
+     <string name="top_to_bottom_slide">Potiahnuť nadol</string>
+     <string name="wlan_switch_tips">Prepínanie sietí Wi-Fi</string>
+     <string name="wlan_switch_tips_message">Pri prepínaní medzi pomocnou a hlavnou sieťou Wi-Fi bude vaše zariadenie dočasne odpojené od pomocnej siete Wi-Fi. Napriek tomu prepnúť?</string>
+     <string name="finger_detail_info_text">Zmeniť názov odtlačku prsta</string>
+     <string name="miheadset_double_toast">Nasaďte si obe slúchadlá, aby ste mohli používať túto funkciu</string>
+             
 </resources>

@@ -2508,4 +2508,15 @@ Pripojte nabíjačku a vypnite obrazovku, aby sa objavili spomienky."</string>
     <string name="today_of_year_location_num">Miesta</string>
     <string name="today_of_year_photo_num">Fotografie</string>
     <string name="widget_disable">Widgety tejto veľkosti nie sú na tomto zariadení podporované</string>
+    
+    <string name="dolby_vision_icon">Dolby Vision ikona</string>
+<string name="double_tap_for_hr_preview_200m">Dvojitým dotykom prepnete na ukážku 200 MP</string>
+    <string name="hr_preview_200m">Prepnuté na ukážku 200 MP</string>
+    <string name="install_media_editor_download_description">Sťahovanie...</string>
+    <string name="install_media_editor_download_title">Sťahuje sa Editor galérie…</string>
+<string name="pref_today_of_year_summary">Pripomeňte si chvíle, ktoré ste zachytili v tento deň v priebehu rokov. Už vygenerované spomienky nezmiznú, ak túto funkciu vypnete.</string>
+                        <string name="send_dolby_vision_duration_more_than_40s">Videá Dolby Vision dlhšie ako 4 minúty možno zdieľať iba v ich pôvodnom formáte videa, ktorý prijímajúce zariadenie nemusí podporovať. Chcete napriek tomu pokračovať?</string>
+    <string name="send_dolby_vision_video_continue">Pokračovať</string>
+    <string name="today_of_year_function_closed_btn_tip">Zapnúť</string>
+    <string name="today_of_year_function_closed_tip">Ešte ste nezapli funkciu \"V tento deň\"</string> 
 </resources>

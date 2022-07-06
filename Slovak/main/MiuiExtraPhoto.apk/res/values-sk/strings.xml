@@ -159,6 +159,9 @@
     <string name="doc_photo_enhance_undistortion_version4">Narovnať</string>
     <string name="doc_photo_handwrite_recover">Obnoviť</string>
     <string name="doc_photo_handwrite_remove">Vymazať</string>
-<string name="doc_photo_no_remind">Už nezobrazovať</string>         
+    
 
+<string name="doc_photo_no_remind">Už nezobrazovať</string>         
+<string name="doc_photo_enter_hand_remove">Dotykom vymažete manuálne</string>
+    <string name="doc_photo_remind">Upozornenie</string>    
 </resources>
