@@ -399,4 +399,5 @@ Táto funkcia nie je mimo Čínu odporúčaná"</string>
     <string name="xunlei_speed_service">Xunlei sťahovanie</string>
     <string name="xunlei_switch">Xunlei sťahovanie</string>
     <string name="yesterday">Včera</string>
+	<string name="no_support_modify_path">"Z bezpečnostných dôvodov nie je možné zmeniť umiestnenie stiahnutých položiek"</string>
 </resources>
