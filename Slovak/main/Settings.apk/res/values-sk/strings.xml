@@ -2548,9 +2548,9 @@ Odomknutie tvárou je menej bezpečné ako PIN, heslo alebo vzor. Vaše zariaden
     <string name="free_wifi_wiwide_provider">WiWide</string>
     <string name="free_xiaomi_wifi_connect_summary">Pripojiť sa k %1$s.</string>
     <string name="freeform_guide_drop_down_to_fullscreen_summary">Stlačte a podržte, potom potiahnite nadol za lištu plávajúceho okna</string>
-    <string name="freeform_guide_drop_down_to_fullscreen_title">Zobrazenie plávajúcich okien na celom displeji</string>
+    <string name="freeform_guide_drop_down_to_fullscreen_title">Zobrazenie plávajúceho okna na celom displeji</string>
     <string name="freeform_guide_move_summary">Stlačte a podržte lištu plávajúceho okna pre jeho presunutie</string>
-    <string name="freeform_guide_move_title">Presúvanie plávajúceho okna</string>
+    <string name="freeform_guide_move_title">Presunúť plávajúce okno</string>
     <string name="freeform_guide_move_to_small_freeform_window_summary">Premiestnite plávajúce okno do rohu displeja</string>
     <string name="freeform_guide_move_to_small_freeform_window_title">Minimalizovanie plávajúceho okna</string>
     <string name="freeform_guide_multi_window">Multitasking</string>
@@ -2563,9 +2563,9 @@ Táto funkcia funguje iba vtedy, keď je navigácia v systéme nastavená na ges
     <string name="freeform_guide_slide_to_small_freeform_summary_pad_global">Aplikáciu minimalizujte potiahnutím rohu</string>
     <string name="freeform_guide_slide_to_small_freeform_title">Minimalizácia aplikácie</string>
     <string name="freeform_guide_slide_up_to_close_summary">Potiahnite nahor z lišty plávajúceho okna</string>
-    <string name="freeform_guide_slide_up_to_close_title">Zatvorenie plávajúcich okien</string>
+    <string name="freeform_guide_slide_up_to_close_title">Zatvorenie plávajúceho okna</string>
     <string name="freeform_vedio_description">"·Stlačte a podržte, potom potiahnite nadol upozornenie pre jeho otvorenie v plávajúcom okne.
-·Stlačte \"Plávajúce okná\" v Nedávnych aplikáciách pre výber aplikácie."</string>
+·Stlačte \"Plávajúce okno\" v Nedávnych aplikáciách pre výber aplikácie."</string>
     <string name="frequently_fragment_delete">Vymazať</string>
     <string name="frequently_fragment_tempty">Často používané položky budú zobrazené tu</string>
     <string name="friday">Piatok</string>
@@ -7644,7 +7644,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
     
 <string name="deferred_setup_hintViewTitle">Kontroluje sa...</string>
      <string name="freeform_guide_to_sidehide_summary">Rýchlym pretiahnutím aplikácie na stranu obrazovky ju skryjete</string>
-     <string name="freeform_guide_to_sidehide_title">Skrytie plávajúcich okien</string>
+     <string name="freeform_guide_to_sidehide_title">Skrytie plávajúceho okna</string>
      <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Klepnutím na aplikáciu na bočnom paneli ju otvoríte v plávajúcom okne.
 · Potiahnutím aplikácie do stredu obrazovky ju otvoríte v plávajúcom okne alebo do strany, ak chcete použiť rozdelenú obrazovku."</string>
      <string name="sidebar_setting">Nastavenia bočného panela</string>         
