@@ -5636,4 +5636,5 @@ Skúste zväčšiť rozlíšenie!"</string>
      <string name="gb_game_tips_restart">Hra sa reštartuje, aby sa použili zmeny</string>
      
 <string name="gb_performace_guide_disable_desc">Nie je možné prepnúť do vyváženého režimu v Zrýchlení hier, keď je zapnutý režim výkonu v celom systéme. Nastavenia batérie môžete zmeniť v Nastaveniach</string>     
+<string name="bubble_app_empty_page">Žiadna aplikácia ktorá podporuje bublinové upozornenia</string>
 </resources>

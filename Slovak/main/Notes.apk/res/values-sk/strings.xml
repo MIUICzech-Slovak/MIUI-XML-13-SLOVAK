@@ -654,4 +654,11 @@ http://www.miuios.cz/rom
 <string name="warn_cannot_add_new_content">Nie je možné pridať ďalší obsah, pretože poznámka je príliš dlhá</string>
      <string name="widget_size_item_super_big">Mimoriadne veľké</string>
      <string name="widget_size_not_support">Na tomto zariadení nie sú podporované mimoriadne veľké widgety</string>
+     
+<string name="access_denied_info">Príliš veľa pokusov. Počkajte chvíľu a skúste to znova.</string>
+     <string name="network_error_info">Vyskytla sa chyba siete. Skontrolujte nastavenia siete a skúste to znova.</string>
+     <string name="network_timeout_info">Nepodarilo sa pripojiť k sieti. Skúste to znova.</string>
+     <string name="progressbar_title">Kontrolujú sa bezpečnostné problémy…</string>
+     <string name="system_error_info">Systém je zaneprázdnený. Počkajte chvíľu a skúste to znova.</string>
+     <string name="unknown_error_info">Neznáma chyba</string>     
 </resources>
