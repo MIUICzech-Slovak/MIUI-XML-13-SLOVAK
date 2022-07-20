@@ -5656,4 +5656,16 @@ Skúste zväčšiť rozlíšenie!"</string>
      <string name="gb_performace_tips_button">Prepnúť</string>
      <string name="gb_performace_tips_title">Pre lepší zážitok prepnite do režimu výkonu</string>
 	 
+<string name="antivirus_detect_apps_dialog_content_text">Táto aplikácia môže predstavovať riziko pre bezpečnosť vašich osobných údajov.</string>
+    <string name="antivirus_detect_apps_dialog_message">Ak vás pracovníci služieb zákazníkom, úrady alebo ľudia, ktorých možno poznáte, požiadajú o použitie tejto aplikácie, <Data>&lt;font color=#F22424>Overte ich identitu skôr, než budete pokračovať&lt;/font>. </Data></string>
+    <string name="antivirus_detect_apps_dialog_message_reject_permission">Povolenia požadované touto aplikáciou boli obmedzené. Povolenia môžete spravovať tu: %s.</string>
+    <string name="screen_share_protection_negative_button">Nezdieľať</string>
+    <string name="screen_share_protection_summary">Aplikácia, ktorú teraz používate, obsahuje vaše osobné informácie, ktoré môžu byť viditeľné pre iných ľudí, ak zdieľate svoju obrazovku. Napriek tomu zdieľať?</string>
+    <string name="screen_share_protection_title">Pozor</string>
+    <string name="screen_share_protection_warning_icon_title">Ochrana proti podvodom</string>
+    <string name="screen_share_protection_warning_positive_button">Zdieľať</string>
+    <string name="screen_share_warning_button">Rozumiem</string>
+    <string name="screen_share_warning_summary">Vaše prichádzajúce upozornenia sa nebudú zobrazovať na zdieľanej obrazovke.</string>
+    <string name="screen_share_warning_title">Upozornenia sa nebudú zobrazovať</string>
+    <string name="system_anti_fraud_stayaway_from_risk">Vyhnite sa digitálnym podvodom</string>	
 </resources>

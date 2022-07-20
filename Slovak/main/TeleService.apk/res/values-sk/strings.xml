@@ -1975,4 +1975,6 @@ Napriek tomu aktivovať eSIM?"</string>
 
 <string name="data_interruption_remind">Zdá sa, že vaše sieťové prostredie nie je spoľahlivé. Ak chcete zlepšiť pripojenie, povoľte používanie mobilných dát počas hovorov VoLTE na druhej SIM.</string>	
 <string name="low_battery_flash_when_ring_button_tip">Pri zvonení nie je možné použiť blesk z dôvodu slabej batérie</string>
+
+    <string name="hide_stk_name">USIM nástroje</string>
 </resources>
