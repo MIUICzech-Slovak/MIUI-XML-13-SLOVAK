@@ -5637,4 +5637,23 @@ Skúste zväčšiť rozlíšenie!"</string>
      
 <string name="gb_performace_guide_disable_desc">Nie je možné prepnúť do vyváženého režimu v Zrýchlení hier, keď je zapnutý režim výkonu v celom systéme. Nastavenia batérie môžete zmeniť v Nastaveniach</string>     
 <string name="bubble_app_empty_page">Žiadna aplikácia ktorá podporuje bublinové upozornenia</string>
+
+<string name="HIPS_Perm_External_READ_FILES">Prístup k súborom a dokumentom</string>
+    <string name="HIPS_Perm_External_READ_FILES_Desc">Prístup k súborom a dokumentom v zariadení</string>
+    <string name="HIPS_Perm_External_READ_MEDIA_AUDIO">Prístup k zvuku</string>
+    <string name="HIPS_Perm_External_READ_MEDIA_AUDIO_Desc">Prístup k hudbe a inému zvuku v zariadení</string>
+    <string name="HIPS_Perm_External_READ_MEDIA_PIC_VIDEO">Prístup k fotografiám a videám</string>
+    <string name="HIPS_Perm_External_READ_MEDIA_PIC_VIDEO_Desc">Prístup k fotkám a videám v zariadení</string>
+    <string name="category_no_scoped">Nevhodné aplikácie</string>
+    <string name="category_scoped">Prispôsobené aplikácie</string>
+    <string name="permission_instruction_media_audio">Povoľte toto povolenie aplikáciám pre prístup k hudbe a inému zvuku vo vašom zariadení.</string>
+    <string name="permission_instruction_media_files">Udeľuje toto povolenie aplikáciám na prístup k súborom a dokumentom vo vašom zariadení.</string>
+<string name="permission_instruction_read_media_pic">Udeľuje toto povolenie aplikáciám na prístup k fotografiám a videám vo vašom zariadení.</string>
+<string name="permission_instruction_scoped">Systém pridal mechanizmus ochrany súkromia rozdeleného úložiska a prvé prispôsobené aplikácie môžu podporovať podrobnejšiu kontrolu prístupových práv k úložisku</string>
+    <string name="storage_compact_warning">Viaceré povolenia budú upravené</string>
+    <string name="storage_compact_warning_desc">Aplikácia podporuje iba úpravu prístupových povolení pre fotografie a videá, zvuk, súbory a dokumenty súčasne, nie jednotlivo</string>
+<string name="gb_performace_switch_toast">Prepnuté do režimu výkonu. Vaše zariadenie sa môže prehrievať a spotrebovať viac energie.</string>
+     <string name="gb_performace_tips_button">Prepnúť</string>
+     <string name="gb_performace_tips_title">Pre lepší zážitok prepnite do režimu výkonu</string>
+	 
 </resources>

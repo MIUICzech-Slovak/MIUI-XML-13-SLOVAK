@@ -2726,4 +2726,8 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
     <string name="qs_traffic_message_type_exceed">%1$s %2$s nad limit</string>
     <string name="qs_traffic_message_type_remain">%1$s %2$s ostáva</string>
     <string name="qs_traffic_message_type_used">Využité %1$s %2$s</string>	
+	
+    <string name="miui_notification_slide_menu_msg_ongoing">Zakázať permanentné upozornenia pre \"%1$s\"?</string>
+    <string name="miui_notification_slide_menu_ongoing">Zakázať permanentné upozornenia</string>
+	
 </resources>

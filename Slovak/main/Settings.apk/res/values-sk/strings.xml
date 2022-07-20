@@ -7742,5 +7742,9 @@ Táto funkcia funguje len ak sú aktivované gestá."</string>
      <string name="wlan_switch_tips_message">Pri prepínaní medzi pomocnou a hlavnou sieťou Wi-Fi bude vaše zariadenie dočasne odpojené od pomocnej siete Wi-Fi. Napriek tomu prepnúť?</string>
      <string name="finger_detail_info_text">Zmeniť názov odtlačku prsta</string>
      <string name="miheadset_double_toast">Nasaďte si obe slúchadlá, aby ste mohli používať túto funkciu</string>
-             
+
+    <string name="card_holder_header_title">Peňaženka</string>
+
+    <string name="allow_ongoing_title">Povoliť permanentné upozornenia</string>
+
 </resources>
