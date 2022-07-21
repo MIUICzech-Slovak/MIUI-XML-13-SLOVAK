@@ -322,7 +322,7 @@ alebo zadajte heslo"</string>
     <string name="app_behavior_desc_other_perm_allowed">Posledná aktivita: %s</string>
     <string name="app_behavior_desc_other_perm_denied">Aktivita počas posledných %dh</string>
     <string name="app_behavior_desc_virtual_once">Odoslaná prázdna správa do %1$s</string>
-    <string name="app_behavior_door">Správanie aplikácií</string>
+    <string name="app_behavior_door">Správanie aplikácie</string>
     <string name="app_behavior_get_install">%1s načítalo zoznam aplikácií</string>
     <string name="app_behavior_get_install_single">Táto aplikácia načítala zoznam aplikácií</string>
     <string name="app_behavior_global_settings_perm_tips">Zobraziť upozornenie ak aplikácie nahrajú zvuk alebo použijú fotoaparát</string>
@@ -484,7 +484,7 @@ alebo zadajte heslo"</string>
     <string name="app_manager_default_open">Otvoriť ako predvolené</string>
     <string name="app_manager_default_open_summary">Nastavili ste otvorenie tejto aplikácie ako predvolené pre niektoré akcie.</string>
     <string name="app_manager_default_open_title">Vymazať predvolené</string>
-    <string name="app_manager_defaults_setting">Predvolené</string>
+    <string name="app_manager_defaults_setting">Predvolené aplikácie</string>
     <string name="app_manager_details_electric_title">Batéria</string>
     <string name="app_manager_details_storage_title">Úložisko</string>
     <string name="app_manager_details_title">Informácie o aplikácii</string>
