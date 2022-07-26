@@ -578,4 +578,5 @@
      <string name="white_noise">Hluk okolia</string>
      <string name="white_noise_guide_desc">Pridajte zvuk na pozadí, aby ste sa mohli sústrediť</string>
      <string name="worldclock_edit_label">Svetové hodiny</string>
+     <string name="add_timer_dialog_title">Pridať časovač</string>	
 </resources>
