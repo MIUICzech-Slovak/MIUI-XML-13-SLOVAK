@@ -670,6 +670,8 @@
     <string name="view_origin_text">Pôvodný text</string>
     <string name="word_is_being_saved">Ukladá sa dokument programu Word…</string>
     <string name="word_save_sucess">Dokument programu Word bol úspešne uložený</string>
-    
+
+<string name="scan_document_top_tip">Naskenujte fyzický dokument a vytvorte súbor PDF</string>
+     <string name="scan_document_top_tip_second">Naskenujte viacero dokumentov a vytvorte jeden súbor PDF</string>
  
 </resources>

@@ -508,4 +508,5 @@ Ak chcete pokračovať, stlačte tlačidlo Vymazať a konvertovať…"</string>
     <string name="window_animation_scale_title">Mierka animácie okna</string>
     <string name="yesterday">Včera</string>
     <string name="notification_disconnectedDialing_message">Nie je možné uskutočniť hovor, pretože už sa vytáča iný odchádzajúci hovor.</string>	
+    <string name="fraud_toast_message">Presmerovanie hovorov môžete spravovať v Nastaveniach</string>	
 </resources>

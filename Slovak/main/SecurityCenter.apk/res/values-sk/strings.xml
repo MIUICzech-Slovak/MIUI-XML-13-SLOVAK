@@ -5668,4 +5668,35 @@ Skúste zväčšiť rozlíšenie!"</string>
     <string name="screen_share_warning_summary">Vaše prichádzajúce upozornenia sa nebudú zobrazovať na zdieľanej obrazovke.</string>
     <string name="screen_share_warning_title">Upozornenia sa nebudú zobrazovať</string>
     <string name="system_anti_fraud_stayaway_from_risk">Vyhnite sa digitálnym podvodom</string>	
+	
+	
+<string name="HIPS_Perm_External_READ_FILES">Prístup k súborom a dokumentom</string>
+    <string name="HIPS_Perm_External_READ_FILES_Desc">Prístup k súborom a dokumentom uloženým v tomto zariadení</string>
+    <string name="HIPS_Perm_External_READ_MEDIA_AUDIO">Prístup k zvukovým súborom</string>
+    <string name="HIPS_Perm_External_READ_MEDIA_AUDIO_Desc">Prístup k skladbám a iným zvukovým súborom uloženým v tomto zariadení</string>
+    <string name="HIPS_Perm_External_READ_MEDIA_PIC_VIDEO">Prístup k fotografiám a videám</string>
+    <string name="HIPS_Perm_External_READ_MEDIA_PIC_VIDEO_Desc">Prístup k fotografiám a videám uloženým v tomto zariadení</string>
+    <string name="category_no_scoped">Iné aplikácie</string>
+    <string name="category_scoped">Kompatibilné aplikácie</string>
+    <string name="enable_notification_title">Povoliť aplikácii %1$s používať upozornenia?</string>
+    <string name="over_package_reminder_type">Po vyčerpaní dátového balíčku</string>
+    <string name="permission_instruction_media_audio">Toto povolenie umožňuje aplikáciám prístup k skladbám a iným zvukovým súborom uloženým v tomto zariadení. Tieto položky môžu obsahovať osobné informácie.</string>
+    <string name="permission_instruction_media_files">Toto povolenie umožňuje aplikáciám pristupovať k súborom a dokumentom uloženým v tomto zariadení. Tieto položky môžu obsahovať osobné informácie.</string>
+<string name="permission_instruction_read_media_pic">Toto povolenie umožňuje aplikáciám prístup k fotografiám a videám uloženým v tomto zariadení. Tieto položky môžu obsahovať osobné informácie.</string>
+<string name="permission_instruction_scoped">Nový mechanizmus ochrany úložiska vám umožňuje lepšie kontrolovať, ako kompatibilné aplikácie využívajú povolenia na úložisko</string>
+    <string name="reach_warning_reminder_type">Po dosiahnutí dátového limitu</string>
+    <string name="reminder_click_to_close_tips">Upozornenia na spotrebu dát môžete zapnúť a vypnúť v časti Zabezpečenie > Využitie dát > Nastavenia.</string>
+    <string name="storage_compact_warning">Úprava viacerých povolení</string>
+    <string name="storage_compact_warning_desc">"áto aplikácia nepodporuje úpravu povolení pre fotografie, videá, zvuk, súbory alebo dokumenty jednotlivo.</string>
+
+<string name="track_auto_collapsed">Automaticky zbalené</string>
+     <string name="track_click_bubble_message">Kliknite na bublinu tlačidla</string>
+     <string name="track_manual_collapsed">Manuálne zbalené</string>
+     <string name="track_no">Nie</string>
+     <string name="track_phone">Telefón</string>
+     <string name="track_screen_horizontal">Horizontálna obrazovka</string>
+     <string name="track_screen_vertical">Vertikálna obrazovka</string>
+     <string name="track_switch_off">Vypnuté</string>
+     <string name="track_switch_on">Zapnuté</string>
+     <string name="track_yes">Áno</string>
 </resources>

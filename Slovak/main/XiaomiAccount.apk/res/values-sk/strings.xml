@@ -807,4 +807,6 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
 	
 <string name="user_agreement_network_permission_msg">Potrebujeme sa pripojiť k internetu, aby sme vám mohli poskytnúť potrebné služby.</string>
      <string name="user_agreement_use_account_msg">Účet Xiaomi vám umožňuje prístup ku všetkým službám poskytovaným spoločnosťou Xiaomi.</string>	
+	 
+    <string name="account_user_avatar_activity_not_found">Nebolo možné otvoriť Galériu</string>	 
 </resources>

@@ -1031,4 +1031,28 @@ na zobrazenie widgetov."</string>
     <string name="pa_picker_empty">"V tejto verzii aplikácie nie sú k dispozícii widgety."</string>
     <string name="pa_picker_list_recommend">Odporúča sa</string>
     <string name="pa_read_storage_permission_description">Na zobrazenie tapety na ploche ako pozadia aplikácie</string>	
+	
+    <string name="pa_filter_replace_bt">Použiť</string>
+    <string name="pa_filter_search_title">Výsledky pre \"%s\"</string>
+    <string name="pa_filter_title">Viac widgetov</string>
+<string name="pa_picker_accessibility_fab_description">Späť na začiatok stránky</string>
+    <string name="pa_picker_detail_bottom_download_app_and_add_widget">Inštalovať aplikáciu</string>
+    <string name="pa_picker_detail_bottom_update_app_and_add_widget">Aktualizovať aplikáciu</string>
+<string name="pa_picker_no_relevant_content">Nič sa nenašlo</string>
+    <string name="pa_picker_search">Hľadať</string>
+    <string name="pa_picker_search_card_header_accessibility_filter_icon">Filter</string>
+    <string name="pa_picker_search_card_more_all_applications">Ďalšie aplikácie</string>
+    <string name="pa_picker_search_card_more_all_suits">Viac widgetov</string>
+    <string name="pa_picker_search_recommendation_title">Odporúčané</string>
+    <string name="pa_picker_search_result_empty">Nič sa nenašlo</string>
+    <string name="pa_picker_search_result_type_application">Aplikácie</string>
+    <string name="pa_picker_search_result_type_recommend">Odporúčané</string>
+    <string name="pa_picker_search_result_type_suit">Skupina widgetov</string>
+    <string name="pa_picker_search_result_type_widget">Widgety</string>
+    <string name="pa_picker_tab_title_category">Kategórie</string>
+    <string name="pa_picker_tab_title_recommend">Odporúčané</string>
+<string name="pa_widget_menu_replace">Prepnúť</string>
+    <string name="pa_widget_need_download_permission">Povolenia</string>
+    <string name="pa_widget_need_download_privacy">Ochrana osobných údajov</string>
+    <string name="pa_widget_need_download_version">Verzia %1$s</string>
 </resources>

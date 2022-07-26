@@ -561,4 +561,21 @@
      
 <string name="xiaomi_deskclock_uninstall_description_content">Hodiny sú systémová aplikácia. Po odinštalovaní aplikácie nebudete môcť kontrolovať čas, nastavovať budíky ani používať iné funkcie Hodín.</string>
      <string name="xiaomi_deskclock_uninstall_description_title">Odinštalovať Hodiny?</string>     
+	 
+<string name="channel_name_stopwatch">Stopky</string>
+     <string name="cities_show_limit_desc">Nie je možné zobraziť viac hodín</string>
+     <string name="module_weather_ringtone_introduce">Alarm počasia vyberá rôzne tóny zvonenia podľa aktuálneho počasia.</string>
+     <string name="repeat_type">Opakovať</string>
+     <string name="select_all">Všetko</string>
+     <string name="selected">Vybraté</string>
+     <string name="timer_alert_type_no">Žiadne</string>
+     <string name="timer_desc_use_brush_teeth">Vyčistiť zuby</string>
+     <string name="timer_desc_use_facial_mask">Tvárová maska</string>
+     <string name="timer_desc_use_sleep">Spánok</string>
+     <string name="timer_item_edit">Upraviť</string>
+     <string name="unselect_all">Zrušiť</string>
+     <string name="voice_add_alarm">Pridať budík pomocou hlasového príkazu</string>
+     <string name="white_noise">Hluk okolia</string>
+     <string name="white_noise_guide_desc">Pridajte zvuk na pozadí, aby ste sa mohli sústrediť</string>
+     <string name="worldclock_edit_label">Svetové hodiny</string>
 </resources>

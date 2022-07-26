@@ -554,4 +554,7 @@
     <string name="permdesc_write_contacts">Povoliť aplikácii %1$s upravovať kontakty?</string>
 	
     <string name="precise_location_title">Presná poloha</string>	
+	
+    <string name="HIPS_Perm_NEARBY_DEVICES_Desc_T">Vyhľadať a pripojiť k zariadeniam nablízku cez Bluetooth a Wi-Fi</string>
+	
 </resources>
