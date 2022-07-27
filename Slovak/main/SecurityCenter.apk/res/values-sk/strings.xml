@@ -5672,7 +5672,6 @@ Skúste zväčšiť rozlíšenie!"</string>
 	
     <string name="enable_notification_title">Povoliť aplikácii %1$s používať upozornenia?</string>
     <string name="over_package_reminder_type">Po vyčerpaní dátového balíčku</string>
-<string name="permission_instruction_scoped">Nový mechanizmus ochrany úložiska vám umožňuje lepšie kontrolovať, ako kompatibilné aplikácie využívajú povolenia na úložisko</string>
     <string name="reach_warning_reminder_type">Po dosiahnutí dátového limitu</string>
     <string name="reminder_click_to_close_tips">Upozornenia na spotrebu dát môžete zapnúť a vypnúť v časti Zabezpečenie > Využitie dát > Nastavenia.</string>
 
