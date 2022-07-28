@@ -1446,4 +1446,41 @@ Objekt bude ostrý na rozmazanom pozadí."</string>
     <string name="wideselfie_rotate_to_right_slowly">Natočte telefón doprava</string>
     <string name="yesterday">Včera</string>
     <string name="zoom_no_support_tip_48M">Zoom nefunguje v 48MP režime</string>
+    
+
+
+     <string name="beauty_fx_makeup_cv">Retuš</string>
+     <string name="beauty_mo_pr_cv">Textúry</string>
+     <string name="beauty_sm_texture_cv">Pokožka</string>
+     <string name="camcorder_tip_isp_super_night_video_max_video_duration">Môžete nahrávať maximálne %d min.</string>
+     <string name="camcorder_tip_super_night_video_1080P_max_video_duration">na 1080p môžete nahrávať maximálne %d min.</string>
+     <string name="color_effect_entry_noraml_cv">Leica Štandard</string>
+     <string name="custom_watermark_contains_senstive_words">Vodoznak nemôže obsahovať zakázané výrazy (%1$s)</string>
+     <string name="cv_lens_black_white">B&amp;W</string>
+     <string name="cv_lens_msg">Zhotovte skvelé fotogrtafie s Pro objektívmi</string>
+     <string name="cv_lens_rotary_focus">Spletitý bokeh</string>
+     <string name="cv_lens_soft_focus">Jemné zaostrenie</string>
+     <string name="cv_lens_title">Pro šošovky</string>
+     <string name="cvtype_btn_select">Použiť \"%1$s\"</string>
+     <string name="cvtype_hint_title">Vyberte štýl</string>
+<string name="cvtype_item_btn_title1">Leica Autentické</string>
+      <string name="cvtype_item_btn_title2">Leica Vibrant</string>
+      <string name="cvtype_item_title1">Prirodzené a realistické</string>
+      <string name="cvtype_item_title2">Svieže a živé</string>
+     <string name="download_in_progress_descrip">Sťahovanie...</string>
+     <string name="guide_pop_window_msg_cv_lens">Dotykom vyskúšajte Pro objektívy</string>
+<string name="pref_camera_heic_image_format_description_global">Vysoko účinný formát obrázkového súboru šetrí úložný priestor, ale nie je podporovaný niektorými aplikáciami tretích strán. Vodoznaky nie je možné odstrániť v HEIF.</string>
+     <string name="pref_cv_watermark_summary">Ukážky slúžia len ako referencia. Vodoznak Leica sa zobrazí na fotografiách zhotovených v režimoch \"Foto\" a \"Portrét\".</string>
+     <string name="pref_cv_watermark_title">Vodoznak Leica</string>
+     <string name="pref_privacy_watermark_edit_title">Upraviť vodoznak</string>
+     <string name="vv_stability_newTip">Ukladajú sa položky…</string>
+     <string name="widget_camera_filter_description">Štyri sady filtrov Leica</string>
+     <string name="widget_camera_filter_talk_back">Filtre Leica</string>
+     <string name="widget_camera_label">Filtre Leica</string>
+     <string name="widget_camera_lens_35mm_description">Tridsaťpäť milimetrov</string>
+     <string name="widget_camera_lens_50mm_description">Päťdesiat milimetrov</string>
+     <string name="widget_camera_lens_90mm_description">Deväťdesiat milimetrov</string>
+     <string name="widget_camera_lens_description">Experimentujte s ohniskovou vzdialenosťou</string>
+     <string name="widget_camera_lens_none_description">50-milimetrový objektív na portréty</string>
+     <string name="widget_camera_lens_talk_back">Profesionálne objektívy</string> 
 </resources>
