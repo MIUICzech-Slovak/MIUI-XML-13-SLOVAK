@@ -155,7 +155,7 @@
     <string name="HIPS_Perm_Mobile_Connectivity_Hint">%1$s môže použiť mobilnú sieť</string>
     <string name="HIPS_Perm_NEARBY_DEVICES">Pripojiť zariadenia v okolí</string>
     <string name="HIPS_Perm_NEARBY_DEVICES_Desc">Objavte a pripojte sa k zariadeniam v okolí</string>
-    <string name="HIPS_Perm_NEARBY_DEVICES_Desc_T">Vyhľadať a pripojiť k zariadeniam nablízku cez Bluetooth a Wi-Fi</string>
+    <string name="HIPS_Perm_NEARBY_DEVICES_Desc_T_china">Vyhľadať a pripojiť k zariadeniam nablízku cez Bluetooth a Wi-Fi</string>
     <string name="HIPS_Perm_Network_Accept">Prijať pripojenie od %1$s</string>
     <string name="HIPS_Perm_Network_Connect">Pripojené k %1$s</string>
     <string name="HIPS_Perm_Network_Listen">Načúvať portu %1$s</string>
