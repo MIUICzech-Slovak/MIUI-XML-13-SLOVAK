@@ -579,15 +579,5 @@
      <string name="white_noise_guide_desc">Pridajte zvuk na pozadí, aby ste sa mohli sústrediť</string>
      <string name="worldclock_edit_label">Svetové hodiny</string>
      <string name="add_timer_dialog_title">Pridať časovač</string>	
-     
-    <string name="add_new_sound">Pridať zvonenie</string>
-<string name="alert_page_desc">Stlačte a podržte, potom potiahnutím nahor budík vypnite</string>
-<string name="confirm_remove_custom_ringtone">Ak toto zvonenie odstránite, budíky a časovače, ktoré ho používajú, budú namiesto toho prehrávať predvolený vyzváňací tón. Odstrániť teraz?</string>
-     <string name="custom_ringtone_lost_permissions">Nie je prístup k tomuto zvuku.</string>
-     <string name="device_sounds">Zvuky zariadenia</string>
-     <string name="unknown_ringtone_title">Neznáme</string>
-     <string name="xiaomi_deskclock_uninstall_description_content">Hodiny sú systémová aplikácia. Po odinštalovaní aplikácie nebudete môcť kontrolovať čas, nastavovať budíky ani používať iné funkcie Hodín.</string>
-     <string name="xiaomi_deskclock_uninstall_description_title">Odinštalovať Hodiny?</string>
-     <string name="your_sounds">Moje zvuky</string>                     
-         
+     <string name="alert_page_desc">Stlačte a podržte, potom potiahnutím nahor budík vypnite</string>                             
 </resources>
