@@ -5685,4 +5685,28 @@ Skúste zväčšiť rozlíšenie!"</string>
      <string name="track_switch_off">Vypnuté</string>
      <string name="track_switch_on">Zapnuté</string>
      <string name="track_yes">Áno</string>
+     
+<string name="added_game_notification_summary">Začať hrať teraz</string>
+    <string name="added_game_notification_title">%s je teraz v Turbe</string>
+    <string name="added_game_start_game">Hrať</string>
+    <string name="bubble_mode_barrage_switch_tips">Zapnite, ak chcete zobrazovať bubliny konverzácií pre minimalizované aplikácie ako komentáre na obrazovke</string>
+    <string name="bubble_mode_barrage_tips">Bubliny konverzácie pre minimalizované aplikácie sa budú zobrazovať ako komentáre na obrazovke</string>
+    <string name="dialog_btn_delete_icon">Odstrániť</string>
+    <string name="dialog_btn_no_create_icon">Zrušiť</string>
+    <string name="dialog_btn_yes_create_icon">Pridať</string>
+    <string name="dialog_msg_create_icon_content">Pridať odkaz na plochu?</string>
+    <string name="dialog_msg_create_icon_not_remain_anymore">Už nezobrazovať</string>
+    <string name="dialog_msg_delete_icon_content">Optimalizácia vám umožňuje vyčistiť odpad vo vašom zariadení, nájsť a neutralizovať vírusy, šetriť batériu, spravovať povolenia a ďalšie.</string>
+    <string name="dialog_msg_delete_icon_title">Chcete odstrániť túto skratku na ploche?</string>
+    <string name="gb_beauty_cold_light">Studené</string>
+    <string name="gb_beauty_face">Skrášliť</string>
+    <string name="gb_beauty_light">Doplniť svetlo</string>
+    <string name="gb_beauty_nature_light">Prirodzené</string>
+    <string name="gb_beauty_warm_light">Teplé</string>
+    <string name="manual_item_create_icon_title">Odkaz na ploche</string>
+    <string name="power_center_battery_duration_screen_on">Zostávajúci čas displeja</string>
+    <string name="power_center_dialog_msg_title_screen_on">Ak zapnete túto funkciu, získate %1$s času displeja. Tu sú opatrenia, ktoré ušetria batériu:</string>
+    <string name="power_main_battery_last_hour_minute_screen_on">%1$s %2$s zostávajúceho času displeja</string>
+    <string name="power_main_open_last_hour_minute_screen_on">Zapnutím pridáte %1$s %2$s času displeja</string>
+    
 </resources>

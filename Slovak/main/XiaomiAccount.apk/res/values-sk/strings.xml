@@ -809,4 +809,13 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
      <string name="user_agreement_use_account_msg">Účet Xiaomi vám umožňuje prístup ku všetkým službám poskytovaným spoločnosťou Xiaomi.</string>	
 	 
     <string name="account_user_avatar_activity_not_found">Nebolo možné otvoriť Galériu</string>	 
+    
+    <string name="cloud_member">Predplatné</string>
+    <string name="cloud_member_status_expired">Skončené</string>
+    <string name="cloud_member_status_expired_soon">Čoskoro skončí</string>
+    <string name="cloud_member_status_non_vip">Navýšiť</string>
+    <string name="cloud_member_vipname_free">Zdarma</string>
+    <string name="cloud_member_vipname_mega">Mega</string>
+    <string name="cloud_member_vipname_premium">Prémium</string>
+    <string name="cloud_member_vipname_ultra">Ultra</string>    
 </resources>

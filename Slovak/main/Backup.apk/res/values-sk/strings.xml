@@ -894,4 +894,10 @@ Veľkosť Delta aktualizácie: %2$s"</string>
 	
 <string name="backup_notice_content">Vaše zálohy nebudú šifrované, čo znamená, že k nim môžu pristupovať alebo ich upravovať aplikácie tretích strán. Môžu sa vyskytnúť aj ďalšie bezpečnostné riziká. Uistite sa, že zálohované položky uchovávate v dobre chránenom prostredí.</string>
      <string name="backup_notice_title">Upozornenie</string>	
+     
+    <string name="category_contacts">Kontakty</string>
+    <string name="category_message_contacts">Správy a kontakty</string>     
+    
+<string name="permission_read_write_sys_app1">Povoľte tejto funkcii prístup k svojim správam a kontaktom, aby ste mohli tieto položky zálohovať a obnoviť.</string>
+     <string name="permission_read_write_sys_app2">Povoľte tejto funkcii prístup k svojim kontaktom, aby ste mohli zálohovať a obnoviť tieto položky.</string>    
 </resources>
