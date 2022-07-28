@@ -25,6 +25,7 @@
     <string name="apple_cloud_price">Okolo RMB 72 / rok</string>
     <string name="bad_authentication">Nesprávne meno alebo heslo</string>
     <string name="btn_return">Späť</string>
+    <string name="btn_revoke_permission">Odvolať súhlas</string>
     <string name="button_agree">Súhlasím</string>
     <string name="button_cancel">Zrušiť</string>
     <string name="button_quit">Ukončiť</string>
@@ -394,7 +395,13 @@ do vášho Xiaomi účtu pre znovu aktivovanie MiCloud."</string>
     <string name="micloud_dspt">Používajte MiCloud na synchr., vyhľadanie telefónu,</string>
     <string name="micloud_dspt_provision">Používajte MiCloud na synchr., vyhľadanie telefónu a zdieľanie súborov.</string>
     <string name="micloud_dspt_provision_china">Použite Xiaomi Cloud pre synchr. vašich dát a vyhľadanie vášho zariadenia.</string>
+    <string name="micloud_dspt_provision_china_no_call">Službu Xiaomi Cloud môžete použiť na synchronizáciu fotografií, kontaktov, správ, poznámok, nahrávok a ďalších údajov, lokalizáciu vášho zariadenia a zdieľanie položiek s priateľmi. Aby táto aplikácia fungovala normálne, potrebuje sa pripojiť k internetu. Synchronizácia položiek môže vyžadovať mobilné dátové pripojenie a zapnutie Wi-Fi.</string>
+    <string name="micloud_dspt_provision_china_no_sms">Službu Xiaomi Cloud môžete použiť na synchronizáciu fotografií, kontaktov, histórie hovorov, poznámok a ďalších údajov, lokalizáciu vášho zariadenia a zdieľanie položiek s priateľmi. Aby táto aplikácia fungovala normálne, potrebuje sa pripojiť k internetu. Synchronizácia položiek môže vyžadovať mobilné dátové pripojenie a zapnutie Wi-Fi.</string>
+    <string name="micloud_dspt_provision_china_no_sms_and_call">Službu Xiaomi Cloud môžete použiť na synchronizáciu fotografií, kontaktov, poznámok, nahrávok a ďalších údajov, lokalizáciu vášho zariadenia a zdieľanie položiek s priateľmi. Aby táto aplikácia fungovala normálne, potrebuje sa pripojiť k internetu. Synchronizácia položiek môže vyžadovať mobilné dátové pripojenie a zapnutie Wi-Fi.</string>
     <string name="micloud_dspt_provision_china_v2">Použite Xiaomi Cloud pre synchr. vašich dát a vyhľadanie vášho zariadenia.</string>
+    <string name="micloud_dspt_provision_no_call">Službu Xiaomi Cloud môžete použiť na synchronizáciu fotografií, kontaktov, správ, poznámok, nahrávok a ďalších údajov, lokalizáciu vášho zariadenia a zdieľanie položiek s priateľmi. Aby táto aplikácia fungovala normálne, potrebuje sa pripojiť k internetu. Synchronizácia položiek môže vyžadovať mobilné dátové pripojenie a zapnutie Wi-Fi.</string>
+    <string name="micloud_dspt_provision_no_sms">Službu Xiaomi Cloud môžete použiť na synchronizáciu fotografií, kontaktov, histórie hovorov, poznámok, nahrávok a ďalších údajov, lokalizáciu vášho zariadenia a zdieľanie položiek s priateľmi. Aby táto aplikácia fungovala normálne, potrebuje sa pripojiť k internetu. Synchronizácia položiek môže vyžadovať mobilné dátové pripojenie a zapnutie Wi-Fi.</string>
+    <string name="micloud_dspt_provision_no_sms_and_call">Službu Xiaomi Cloud môžete použiť na synchronizáciu fotografií, kontaktov, poznámok, nahrávok a ďalších údajov, lokalizáciu vášho zariadenia a zdieľanie položiek s priateľmi. Aby táto aplikácia fungovala normálne, potrebuje sa pripojiť k internetu. Synchronizácia položiek môže vyžadovať mobilné dátové pripojenie a zapnutie Wi-Fi.</string>
     <string name="micloud_dspt_provision_v2">Použite Xiaomi Cloud pre synchr. vašich dát a vyhľadanie vášho zariadenia.</string>
     <string name="micloud_dspt_provision_xms_china">Použiť Xiaomi Cloud na synchronizáciu dát.</string>
     <string name="micloud_find_device_close_alert_content">Ak túto funkciu deaktivujete, nebudete môcť vyhľadať vaše zariadenie ak ho stratíte.</string>
@@ -1126,12 +1133,4 @@ Prečítajte si a odsúhlaste naše Podmienky používania a Ochranu súkromia.
     <string name="xiaomi_cloud_service_subtitle">Všetky dôležité položky na jednom mieste</string>
     <string name="xmpp_server_addr" />
     <string name="yesterday">Včera</string>
-<string name="btn_revoke_permission">Odvolať súhlas</string>    
-
-<string name="micloud_dspt_provision_china_no_call">Službu Xiaomi Cloud môžete použiť na synchronizáciu fotografií, kontaktov, správ, poznámok, nahrávok a ďalších údajov, lokalizáciu vášho zariadenia a zdieľanie položiek s priateľmi. Aby táto aplikácia fungovala normálne, potrebuje sa pripojiť k internetu. Synchronizácia položiek môže vyžadovať mobilné dátové pripojenie a zapnutie Wi-Fi.</string>
-    <string name="micloud_dspt_provision_china_no_sms">Službu Xiaomi Cloud môžete použiť na synchronizáciu fotografií, kontaktov, histórie hovorov, poznámok a ďalších údajov, lokalizáciu vášho zariadenia a zdieľanie položiek s priateľmi. Aby táto aplikácia fungovala normálne, potrebuje sa pripojiť k internetu. Synchronizácia položiek môže vyžadovať mobilné dátové pripojenie a zapnutie Wi-Fi.</string>
-    <string name="micloud_dspt_provision_china_no_sms_and_call">Službu Xiaomi Cloud môžete použiť na synchronizáciu fotografií, kontaktov, poznámok, nahrávok a ďalších údajov, lokalizáciu vášho zariadenia a zdieľanie položiek s priateľmi. Aby táto aplikácia fungovala normálne, potrebuje sa pripojiť k internetu. Synchronizácia položiek môže vyžadovať mobilné dátové pripojenie a zapnutie Wi-Fi.</string>
-    <string name="micloud_dspt_provision_no_call">Službu Xiaomi Cloud môžete použiť na synchronizáciu fotografií, kontaktov, správ, poznámok, nahrávok a ďalších údajov, lokalizáciu vášho zariadenia a zdieľanie položiek s priateľmi. Aby táto aplikácia fungovala normálne, potrebuje sa pripojiť k internetu. Synchronizácia položiek môže vyžadovať mobilné dátové pripojenie a zapnutie Wi-Fi.</string>
-    <string name="micloud_dspt_provision_no_sms">Službu Xiaomi Cloud môžete použiť na synchronizáciu fotografií, kontaktov, histórie hovorov, poznámok, nahrávok a ďalších údajov, lokalizáciu vášho zariadenia a zdieľanie položiek s priateľmi. Aby táto aplikácia fungovala normálne, potrebuje sa pripojiť k internetu. Synchronizácia položiek môže vyžadovať mobilné dátové pripojenie a zapnutie Wi-Fi.</string>
-    <string name="micloud_dspt_provision_no_sms_and_call">Službu Xiaomi Cloud môžete použiť na synchronizáciu fotografií, kontaktov, poznámok, nahrávok a ďalších údajov, lokalizáciu vášho zariadenia a zdieľanie položiek s priateľmi. Aby táto aplikácia fungovala normálne, potrebuje sa pripojiť k internetu. Synchronizácia položiek môže vyžadovať mobilné dátové pripojenie a zapnutie Wi-Fi.</string>
 </resources>

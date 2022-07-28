@@ -155,6 +155,7 @@
     <string name="HIPS_Perm_Mobile_Connectivity_Hint">%1$s môže použiť mobilnú sieť</string>
     <string name="HIPS_Perm_NEARBY_DEVICES">Pripojiť zariadenia v okolí</string>
     <string name="HIPS_Perm_NEARBY_DEVICES_Desc">Objavte a pripojte sa k zariadeniam v okolí</string>
+    <string name="HIPS_Perm_NEARBY_DEVICES_Desc_T">Vyhľadať a pripojiť k zariadeniam nablízku cez Bluetooth a Wi-Fi</string>
     <string name="HIPS_Perm_Network_Accept">Prijať pripojenie od %1$s</string>
     <string name="HIPS_Perm_Network_Connect">Pripojené k %1$s</string>
     <string name="HIPS_Perm_Network_Listen">Načúvať portu %1$s</string>
@@ -373,6 +374,8 @@
     <string name="grant_dialog_button_deny_and_dont_ask_again">Zakázať a nepýtať sa</string>
     <string name="grant_dialog_button_deny_background">Ponechať prístup počas používania</string>
     <string name="grant_dialog_button_deny_background_and_dont_ask_again">Len počas používania aplikácie</string>
+    <string name="grant_dialog_button_only_allow_foreground_locate">Zatiaľ obmedziť</string>
+    <string name="grant_dialog_button_only_allow_foreground_locate_and_dont_ask_again">Vždy obmedziť</string>
     <string name="grant_dialog_storage_category_title">Táto aplikácia vyžaduje povolenia pre prístup ku Galérii a správam v sociálnych aplikáciách</string>
     <string name="grant_dialog_storage_gallery_title">Galéria</string>
     <string name="grant_dialog_storage_sociality_title">Správy v sociálnych aplikáciách</string>
@@ -443,17 +446,31 @@
     <string name="perm_manager_suggest_title">Upraviť povolenia?</string>
     <string name="perm_modem_location">Prístup k vašej polohe</string>
     <string name="perm_modem_location_desc">Váš operátor sa pokúša o prístup k vašej polohe. Chcete povoliť informácie o polohe s operátorom?</string>
+    <string name="permdesc_add_voicemail">Povoliť aplikácii %1$s pridávať systémové hlasové správy?</string>
+    <string name="permdesc_call_phone">Povoliť %1$s volať?</string>
     <string name="permdesc_camera">Zhotoviť fotografie a videá</string>
+    <string name="permdesc_get_account">Povoliť aplikácii %1$s prístup ku všetkým účtom uloženým v tomto zariadení?</string>
     <string name="permdesc_in_calls">Sledovať prichádzajúce hovory</string>
     <string name="permdesc_location">Prístup k polohe</string>
     <string name="permdesc_location_background">Prístup k polohe na pozadí</string>
     <string name="permdesc_microphone">Nahrávať hovory a zvuk</string>
+    <string name="permdesc_nearby_devices">Povoliť aplikácii %1$s vyh+lada5 zariadenia v okolí a pripájať sa k nim?</string>
     <string name="permdesc_out_calls">Sledovať odchádzajúce hovory</string>
+    <string name="permdesc_process_outgoing_call">Povoliť aplikácii %1$s prijímať a ukončovať hovory?</string>
     <string name="permdesc_read_calendar">Prístup k udalostiam v kalendári</string>
+    <string name="permdesc_read_call_log">Povoliť %1$s prístup k histórii hovorov?</string>
+    <string name="permdesc_read_contacts">Povoliť aplikácii %1$s prístup ku kontaktom?</string>
+    <string name="permdesc_read_mms">Povoliť aplikácii %1$s čítať multimediálne správy?</string>
+    <string name="permdesc_read_phone_state">Povoliť aplikácii %1$s prístup k stavu zariadenia a informáciám o mobilnej sieti?</string>
+    <string name="permdesc_read_sms">Povoliť aplikácii %1$s čítať alebo odosielať SMS správy?</string>
     <string name="permdesc_read_storage">Prístup k fotografiám a súborom na úložisku</string>
     <string name="permdesc_recognition">Prístup k aktivitám</string>
+    <string name="permdesc_send_sms">Povoliť %1$s odosielať SMS?</string>
     <string name="permdesc_sensors">Prístup k senzorom</string>
+    <string name="permdesc_use_sip">Povoliť aplikácii %1$s používať na streamovanie videa protokol Session Initiation Protocol?</string>
     <string name="permdesc_write_calendar">Prístup k udalostiam v kalendári</string>
+    <string name="permdesc_write_call_log">Povoliť %1$s upravovať históriu hovorov?</string>
+    <string name="permdesc_write_contacts">Povoliť aplikácii %1$s upravovať kontakty?</string>
     <string name="permdesc_write_storage">Prístup k ukladaniu fotografií a videa</string>
     <string name="permgroupdesc_calendar">Prístup k udalostiam v kalendári</string>
     <string name="permgroupdesc_calllog">Prístup k položkám v zozname hovorov</string>
@@ -493,6 +510,7 @@
     <string name="permisson_reject_notice_toast_text">"\"%1$s\" nemá oprávnenie %2$s. Práva aplikácie môžete zmeniť v Optimalizácia &gt; Povolenia."</string>
     <string name="permisson_reject_notice_toast_text2">nemá práva pre %1$s.</string>
     <string name="pp_privacy_lab_operator_introduction">Upozornenie</string>
+    <string name="precise_location_title">Presná poloha</string>
     <string name="real_location_off">Približná poloha je zapnutá</string>
     <string name="real_location_on">Približná poloha je vypnutá</string>
     <string name="saturday">Sobota</string>
@@ -535,26 +553,4 @@
     <string name="wednesday_shortest">S</string>
     <string name="yes">Áno</string>
     <string name="yesterday">Včera</string>
-	
-<string name="grant_dialog_button_only_allow_foreground_locate">Zatiaľ obmedziť</string>
-    <string name="grant_dialog_button_only_allow_foreground_locate_and_dont_ask_again">Vždy obmedziť</string>
-    <string name="permdesc_add_voicemail">Povoliť aplikácii %1$s pridávať systémové hlasové správy?</string>
-    <string name="permdesc_call_phone">Povoliť %1$s volať?</string>
-    <string name="permdesc_get_account">Povoliť aplikácii %1$s prístup ku všetkým účtom uloženým v tomto zariadení?</string>
-    <string name="permdesc_nearby_devices">Povoliť aplikácii %1$s vyh+lada5 zariadenia v okolí a pripájať sa k nim?</string>
-    <string name="permdesc_process_outgoing_call">Povoliť aplikácii %1$s prijímať a ukončovať hovory?</string>
-    <string name="permdesc_read_call_log">Povoliť %1$s prístup k histórii hovorov?</string>
-    <string name="permdesc_read_contacts">Povoliť aplikácii %1$s prístup ku kontaktom?</string>
-    <string name="permdesc_read_mms">Povoliť aplikácii %1$s čítať multimediálne správy?</string>
-    <string name="permdesc_read_phone_state">Povoliť aplikácii %1$s prístup k stavu zariadenia a informáciám o mobilnej sieti?</string>
-    <string name="permdesc_read_sms">Povoliť aplikácii %1$s čítať alebo odosielať SMS správy?</string>
-    <string name="permdesc_send_sms">Povoliť %1$s odosielať SMS?</string>
-    <string name="permdesc_use_sip">Povoliť aplikácii %1$s používať na streamovanie videa protokol Session Initiation Protocol?</string>
-    <string name="permdesc_write_call_log">Povoliť %1$s upravovať históriu hovorov?</string>
-    <string name="permdesc_write_contacts">Povoliť aplikácii %1$s upravovať kontakty?</string>
-	
-    <string name="precise_location_title">Presná poloha</string>	
-	
-    <string name="HIPS_Perm_NEARBY_DEVICES_Desc_T">Vyhľadať a pripojiť k zariadeniam nablízku cez Bluetooth a Wi-Fi</string>
-	
 </resources>

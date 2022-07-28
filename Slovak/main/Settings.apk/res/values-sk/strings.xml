@@ -29,6 +29,7 @@ Ak vyberiete nepoužívať prispôsobené reklamy, ich počet sa nezníži ale n
     <string name="access_control_password_title">Povoliť heslo</string>
     <string name="access_control_recording_intro_header">Nakreslite kombináciu odomknutia</string>
     <string name="access_control_reset_by_account">Pre odblokovanie sa prihláste na váš Xiaomi účet</string>
+    <string name="access_denied_info">Príliš veľa pokusov. Skúste to znova neskôr.</string>
     <string name="access_point_names">Názvy prístupových bodov</string>
     <string name="accessibility_autoclick_custom_title">Vlastné</string>
     <string name="accessibility_autoclick_default_title">Vypnuté</string>
@@ -338,6 +339,7 @@ Správca môže sledovať a spravovať nastavenia, prístup, aplikácie a údaje
     <string name="allow_mock_location_summary">Povoliť simulovanie polohy</string>
     <string name="allow_oaid_used">Povoliť používanie ID zariadenia</string>
     <string name="allow_oaid_used_desc">Aplikácie nebudú môcť načítať ID bez vášho povolenia. Niektoré funkcie nebudú fungovať správne ak je táto funkcia povolená.</string>
+    <string name="allow_ongoing_title">Povoliť permanentné upozornenia</string>
     <string name="allow_overlay_description">Toto povolenie umožňuje aplikácii zobrazovanie nad inými aplikáciami, ktoré používate. Táto funkcia môže zasahovať do vášho používania rozhrania inej aplikácie alebo meniť zobrazovaný obsah v iných aplikáciách.</string>
     <string name="allow_sound_title">Povoliť zvuk</string>
     <string name="allow_usage_access_message">Ak jej povolíte prístup, táto aplikácia uvidí informácie o ostatných aplikáciách na zariadení, napríklad ako často ich používate.</string>
@@ -889,6 +891,12 @@ Vysielanie používa signály Bluetooth s nízkou spotrebou energie."</string>
     <string name="bluetooth_enable_alphanumeric_pin">Kód PIN obsahuje písmena alebo symboly</string>
     <string name="bluetooth_enable_gabeldorsche">Povoliť Gabeldorsche</string>
     <string name="bluetooth_enable_gabeldorsche_summary">Umožňuje povoliť skupinu funkcií Bluetooth Gabeldorche.</string>
+    <string name="bluetooth_enable_opp_high_speed">Vysokorýchlostné prenosy Bluetooth</string>
+    <string name="bluetooth_enable_opp_high_speed_dialog_message">Na uplatnenie zmien je potrebné reštartovať Bluetooth. Táto akcia môže prerušiť nadviazané spojenia. Napriek tomu reštartovať Bluetooth?</string>
+    <string name="bluetooth_enable_opp_high_speed_dialog_negative">Zrušiť</string>
+    <string name="bluetooth_enable_opp_high_speed_dialog_positive">Reštartovať</string>
+    <string name="bluetooth_enable_opp_high_speed_dialog_title">Reštartujte Bluetooth</string>
+    <string name="bluetooth_enable_opp_high_speed_summary">Na prenosy používajte vysokorýchlostné protokoly Bluetooth P2P</string>
     <string name="bluetooth_enable_page_scan">Povoliť Bluetooth skenovanie</string>
     <string name="bluetooth_enable_page_scan_summary">Skenovanie Bluetooth zariadení v nastaveniach</string>
     <string name="bluetooth_enter_passkey_msg">Párovanie so zariadením: Zadajte prístupový kľúč požadovaný zariadením:</string>
@@ -1087,6 +1095,7 @@ Nikdy ste neboli pripojený k %2$s."</string>
     <string name="bootloader_status_unlocked_info">Bootloader je odomknutý</string>
     <string name="bootloader_summary">Inštalácia cez USB (Fastboot)</string>
     <string name="bottom_function_settings">Funkcie prídavných tlačidiel</string>
+    <string name="bottom_to_top_slide">Potiahnuť nahor</string>
     <string name="breathing_light_color_menu_title">Farba</string>
     <string name="breathing_light_color_summary">Farba LED pri novej notifikácii</string>
     <string name="breathing_light_freq_summary">Pauza LED pred blikaním</string>
@@ -1125,9 +1134,11 @@ Nikdy ste neboli pripojený k %2$s."</string>
     <string name="bt_ldac_property">Atribúty</string>
     <string name="bt_ldac_remember_choice">Pamätať nastavenie</string>
     <string name="bt_ldac_settings">Nastavenia</string>
+    <string name="bt_leaudio_cg_dialog_summary">Po zapnutí tejto funkcie nebudú niektoré funkcie k dispozícii. Táto funkcia tiež nepodporuje pripojenie viacerých zariadení k vašim slúchadlám. Ak ste sa už pripojili k dvom rôznym zariadeniam, odpojte sa od jedeného z nich. Zapnúť LC3 teraz?</string>
     <string name="bt_leaudio_open_dialog_summary">Nebudete môcť pripojiť viaceré zariadenia ak je povolené LC3. Chcete povoliť LC3?</string>
     <string name="bt_leaudio_open_dialog_title">Upozornenie</string>
     <string name="bt_leaudio_summary">Vysoká kvalita zvuku</string>
+    <string name="bt_leaudio_support_multi_dialog_summary">Po zapnutí tejto funkcie nebudú niektoré funkcie dostupné. Zapnúť LC3 teraz?</string>
     <string name="bt_plugin_current_version">Aktuálna verzia</string>
     <string name="bt_pre_summary">Poskytnúť vysokokvalitný zvukový zážitok</string>
     <string name="bt_rarely_used_device_title">Zriedkavo používané zariadenia (%d)</string>
@@ -1228,6 +1239,7 @@ Nikdy ste neboli pripojený k %2$s."</string>
     <string name="captioning_typeface">Skupina písiem</string>
     <string name="captioning_window_color">Farba okna titulkov</string>
     <string name="captioning_window_opacity">Nepriehľadnosť okna titulkov</string>
+    <string name="card_holder_header_title">Peňaženka</string>
     <string name="carrier_enabled">Povoliť/zakázať názov prístupového bodu (APN)</string>
     <string name="carrier_enabled_summaryOff">Názov prístupového bodu (APN) zakázaný</string>
     <string name="carrier_enabled_summaryOn">Názov prístupového bodu (APN) povolený</string>
@@ -1333,6 +1345,7 @@ Nikdy ste neboli pripojený k %2$s."</string>
     <string name="cmcc_dm_settings_title">Správa povolení zariadenia</string>
     <string name="cmcc_hardware_version">Verzia HW</string>
     <string name="codec_low_latency_video_summary">Poskytovať nízke oneskorenie zvuku počas hier a videí.</string>
+    <string name="collect_diagnosis_log">Zhromažďovať denník diagnostiky</string>
     <string name="color_black">Čierna</string>
     <string name="color_blue">Modrá</string>
     <string name="color_calibration_none">Prirodzené</string>
@@ -1445,6 +1458,7 @@ Nikdy ste neboli pripojený k %2$s."</string>
     <string name="continue_reset_factory">Továrenské nastavenie</string>
     <string name="contributors_title">Xiaomi.eu</string>
     <string name="control_center">Prepínače</string>
+    <string name="control_center_force_use_panel_guide_text">Potiahnite oznamovaciu lištu vľavo nadol pre zobrazenie upozornení a vpravo nadol pre zobrazenie ovládačov. Strany môžete prepnúť v nastaveniach.</string>
     <string name="control_center_style">Vzhľad Ovládačov</string>
     <string name="control_center_style_summary">Vyberte ako chcete aby vyzerali prepínače a upozornenia</string>
     <string name="control_panel_switch_side">Prepnúť stranu Ovládačov</string>
@@ -1568,6 +1582,11 @@ Ak chcete ďalej používať svoj telefón, musíte obnoviť jeho továrenské n
     <string name="dark_color_summary">Použiť tmavú farbu pozadia v kompatibilných aplikáciách</string>
     <string name="dark_color_summary_lcd">Použiť tmavé pozadie pre systém a všetky podporované aplikácie.</string>
     <string name="dark_color_summary_oled">Použiť tmavé pozadie pre systém a všetky podporované aplikácie.</string>
+    <string name="dark_mode_alert_dialog_cancel">Zrušiť</string>
+    <string name="dark_mode_alert_dialog_checkbox">Už nezobrazovať</string>
+    <string name="dark_mode_alert_dialog_confirm">Zapnúť</string>
+    <string name="dark_mode_alert_dialog_message">Táto aplikácia sa nemusí v tmavom režime zobraziť správne. Chcete napriek tomu zapnúť tmavý režim?</string>
+    <string name="dark_mode_alert_dialog_title">Pozor</string>
     <string name="dark_mode_apps_header">Jednotlivé aplikácie</string>
     <string name="dark_mode_auto_time_summary">Zapnúť Tmavý režim počas vlastného času</string>
     <string name="dark_mode_auto_time_title">Vlastný čas</string>
@@ -1736,6 +1755,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
     <string name="default_suppression_title">Predvolené (Odporúčané)</string>
     <string name="default_usb_mode">Predvolené USB pripojenie</string>
     <string name="default_vol_stream_title">Predvolené ovládanie hlasitosti</string>
+    <string name="deferred_setup_hintViewTitle">Kontroluje sa...</string>
     <string name="delete">Zmazať</string>
     <string name="delete_fingerprint_confirm_msg">Vymazať odtlačok?</string>
     <string name="delete_fingerprint_confirm_title">Upozornenie</string>
@@ -1820,6 +1840,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
     <string name="device_status_activity_title">Stav</string>
     <string name="device_status_summary">Stav batérie, úroveň nabitia, atď.</string>
     <string name="device_total_memory">"Úložisko "</string>
+    <string name="diagnosis_log_send_failed">Odoslanie protokolu diagnostiky zlyhalo.</string>
     <string name="dial_application_title">Volanie</string>
     <string name="dial_pad_tones_title">Zvuky číselnej klávesnice</string>
     <string name="dialog_background_check_ok">Vypnúť</string>
@@ -1842,6 +1863,12 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
     <string name="dialog_restrict_all_wlan_title">Zakázať Wi-Fi pripojenie</string>
     <string name="dialog_restrict_negative">Zakázať</string>
     <string name="dialog_restrict_positive">Zrušiť</string>
+    <string name="dialog_softbank_esim_wipe_cancel">Ponechať</string>
+    <string name="dialog_softbank_esim_wipe_info">Vymazať všetky stiahnuté dáta eSIM? Týmto sa nezruší váš plán mobilných služieb.</string>
+    <string name="dialog_softbank_esim_wipe_ok">Vymazať</string>
+    <string name="dialog_softbank_esim_wipe_title">Vymazať dáta eSIM karty</string>
+    <string name="dialog_softbank_esime_context">Toto zariadenie sa musí pripojiť k internetu, aby si mohlo aktivovať eSIM. Preskočiť aj aktiváciu eSIM?</string>
+    <string name="dialog_softbank_esime_title">Preskočiť aktiváciu eSIM karty</string>
     <string name="dialog_speaker_auto_clean_button">Rozumiem</string>
     <string name="dialog_speaker_auto_clean_content">Vyčistenie bude trvať 30s. Nezatvárajte túto stránku. Zvýšte hlasitosť pre čo najlepší efekt.</string>
     <string name="dialog_speaker_auto_clean_content_new">Vyčistenie bude trvať 30s. Zvýšte hlasitosť pre čo najlepší efekt.</string>
@@ -2043,6 +2070,10 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
     <string name="drive_mode_sms_report">SMS</string>
     <string name="drive_mode_title">Nastaviť upozornenia</string>
     <string name="drive_mode_voice_report">Hovor</string>
+    <string name="dsda_close_toast">Duálny aktívny režim je vypnutý. Ak chcete použiť zmeny, reštartujte zariadenie.</string>
+    <string name="dsda_open_toast">Duálny aktívny režim je zapnutý. Ak chcete použiť zmeny, reštartujte zariadenie.</string>
+    <string name="dsda_switch_summary">Povoliť obom SIM kartám súčasne využívať mobilné dáta a telefonovať</string>
+    <string name="dsda_switch_title">Duálny aktívny režim</string>
     <string name="dtmf_tone_enable_title">Tóny pri dotyku číselníka</string>
     <string name="dual_clock">Duálne hodiny</string>
     <string name="dual_clock_aod_hint">"\"Duálne hodiny\" závisia na týchto funkciách: 1. Pre vypnutý displej, povoľte zobrazenie v Nastavenia &gt; Displej; 2. Pre zamknutú obrazovku, uistite sa, že používate predvolenú tému v Nastavenie &gt; Témy; 3. Pre domácu plochu, uistite sa, že používate predvolený widget hodín."</string>
@@ -2356,6 +2387,7 @@ Odomknutie tvárou je menej bezpečné ako PIN, heslo alebo vzor. Vaše zariaden
     <string name="finger_add_user_info_dialog_message">Aby ste mohli používať odomykanie odtlačkom prsta a uskutočňovať platby odtlačkom prsta, musíme váš odtlačok prsta zhromaždiť. Odtlačok prsta bude na tomto zariadení uložený lokálne. Ak ho chcete odstrániť, v Nastaveniach vyhľadajte \ "Odomknutie odtlačkom prsta \" a potom vyberte Odomknutie odtlačkom prsta&gt; Odtlačok prsta. Ak nesúhlasíte, túto funkciu nebudete môcť používať.</string>
     <string name="finger_add_user_info_dialog_next">Súhlasím</string>
     <string name="finger_add_user_info_dialog_title">Upozornenie</string>
+    <string name="finger_detail_info_text">Zmeniť názov odtlačku prsta</string>
     <string name="fingerprint_add_max">Môžete pridať ďalšie odtlačky (max. %d)</string>
     <string name="fingerprint_add_title">Pridať odtlačok</string>
     <string name="fingerprint_and_password_entrance_title">Heslo a odtlačok prsta</string>
@@ -2422,6 +2454,8 @@ Odomknutie tvárou je menej bezpečné ako PIN, heslo alebo vzor. Vaše zariaden
     <string name="firewall_wifi">Wi-Fi</string>
     <string name="firewall_wifi_dialog_message">Nainštalovaná aplikácia nebude môcť využívať pripojenie na internet cez Wi-Fi.</string>
     <string name="firmware_version">Android</string>
+    <string name="fiveg_nrca_switch_summary">Zlepšite 5G pripojenie pre testovacie prostredia</string>
+    <string name="fiveg_nrca_switch_title">Agregácia operátora 5G</string>
     <string name="fiveg_sa_switch_summary">Použiť SA sieť na druhej SIM</string>
     <string name="fiveg_sa_vice_switch_title">SA na druhej SIM</string>
     <string name="fiveg_vonr_switch_summary">Použite VoNR v prostredí siete 5G na zlepšenie zážitku z volania. Táto funkcia je poskytovaná len na testovacie účely.</string>
@@ -2476,6 +2510,7 @@ Odomknutie tvárou je menej bezpečné ako PIN, heslo alebo vzor. Vaše zariaden
     <string name="font_size_summary">Nastaviť veľkosť písma aplikácií ako Telefón, SMS, Kontakty a Nastavenia.</string>
     <string name="font_size_summary1" />
     <string name="font_size_summary2" />
+    <string name="for_diagnosis_usage_only">Tieto informácie používajte iba na diagnostiku.</string>
     <string name="forbidden_switch_apn_string">Vybrané nastavenie APN sa nezhoduje so súčasným typom siete</string>
     <string name="force_allow_on_external">Vynútiť povolenie aplikáciám zapisovať na externé úložisko</string>
     <string name="force_allow_on_external_summary">Umožní zapisovať do externého úložiska ľubovoľnej aplikácii</string>
@@ -2492,6 +2527,7 @@ Odomknutie tvárou je menej bezpečné ako PIN, heslo alebo vzor. Vaše zariaden
     <string name="force_immersive_compatibility_hint_title">Problémy s kompatibilitou</string>
     <string name="force_msaa">Vynútiť 4x MSAA</string>
     <string name="force_msaa_new">Vynútiť 4x MSAA</string>
+    <string name="force_msaa_prefrence_summary_new">Povolenie 4x MSAA v aplikáciách OpenGL ES %1$.1f</string>
     <string name="force_msaa_summary">Povoliť 4x MSAA v aplikáciách OpenGL ES 2.0</string>
     <string name="force_msaa_summary_new">Povoliť %2$dx MSAA v OpenGL ES %1$.1f</string>
     <string name="force_resizable_activities">Vynútiť zmenu veľkosti aktivít</string>
@@ -2561,11 +2597,17 @@ Odomknutie tvárou je menej bezpečné ako PIN, heslo alebo vzor. Vaše zariaden
 Táto funkcia funguje iba vtedy, keď je navigácia v systéme nastavená na gestá."</string>
     <string name="freeform_guide_slide_to_small_freeform_summary_pad">Aplikáciu minimalizujte potiahnutím rohu</string>
     <string name="freeform_guide_slide_to_small_freeform_summary_pad_global">Aplikáciu minimalizujte potiahnutím rohu</string>
+    <string name="freeform_guide_slide_to_small_freeform_summary_squarehot">"Stlačte a podržte spodok okna a potiahnite ho k hornej hrane displeja.
+Táto funkcia funguje len ak sú aktivované gestá."</string>
     <string name="freeform_guide_slide_to_small_freeform_title">Minimalizácia aplikácie</string>
     <string name="freeform_guide_slide_up_to_close_summary">Potiahnite nahor z lišty plávajúceho okna</string>
     <string name="freeform_guide_slide_up_to_close_title">Zatvorenie plávajúceho okna</string>
+    <string name="freeform_guide_to_sidehide_summary">Rýchlym pretiahnutím aplikácie na stranu obrazovky ju skryjete</string>
+    <string name="freeform_guide_to_sidehide_title">Skrytie plávajúceho okna</string>
     <string name="freeform_vedio_description">"·Stlačte a podržte, potom potiahnite nadol upozornenie pre jeho otvorenie v plávajúcom okne.
 ·Stlačte \"Plávajúce okno\" v Nedávnych aplikáciách pre výber aplikácie."</string>
+    <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Klepnutím na aplikáciu na bočnom paneli ju otvoríte v plávajúcom okne.
+· Potiahnutím aplikácie do stredu obrazovky ju otvoríte v plávajúcom okne alebo do strany, ak chcete použiť rozdelenú obrazovku."</string>
     <string name="frequently_fragment_delete">Vymazať</string>
     <string name="frequently_fragment_tempty">Často používané položky budú zobrazené tu</string>
     <string name="friday">Piatok</string>
@@ -2624,6 +2666,11 @@ Keď zapnete automatické zálohovanie, údaje zariadenia a aplikácií sa budú
     <string name="gmscore_settings_title">Základné Google služby</string>
     <string name="go_to_sleep">Uspať zariadenie</string>
     <string name="google_account_title">Google</string>
+    <string name="google_assistant_guide_cancel">Zrušiť</string>
+    <string name="google_assistant_guide_message">Môžete stlačiť a podržať tlačidlo zapínania na %s sekundy a začať hovoriť s Asistentom Google. Nastaviť túto skratku teraz?</string>
+    <string name="google_assistant_guide_ok">Nastaviť</string>
+    <string name="google_assistant_guide_tip">*Stlačením a podržaním tlačidla napájania na %s sekúnd otvoríte ponuku vypnutia.</string>
+    <string name="google_assistant_guide_title">Asistent Google</string>
     <string name="google_assistant_label">Google Asistent</string>
     <string name="google_backup_enable">Povoliť zálohovanie</string>
     <string name="google_backup_section_title">Google záloha a obnovenie</string>
@@ -3117,6 +3164,7 @@ Nakopírujte zálohy z USB naspäť do zložky (MIUI-backup-AllBackup) v telefó
     <string name="left_edge">Ľavý okraj</string>
     <string name="left_function_key">Skratky vľavo</string>
     <string name="left_shoulder_key">Vľavo</string>
+    <string name="left_to_right_slide">Potiahnuť doprava</string>
     <string name="legacy_control_center_desc">Potiahnite lištu nadol pre zobrazenie prepínačov a upozornení</string>
     <string name="legacy_control_center_title">Stará verzia</string>
     <string name="legacy_dhcp_client">Použiť starý klient DHCP</string>
@@ -3579,6 +3627,7 @@ Na tomto zariadení sú prítomní ďalší používatelia.
     <string name="miheadset_auto_ack_mode">auto ack režim</string>
     <string name="miheadset_auto_ack_mode_summary">auto ack telefón</string>
     <string name="miheadset_auto_answer_call">Prijímať hovory automaticky</string>
+    <string name="miheadset_auto_upgrade_reminder">Vypnite automatické aktualizácie a skontrolujte znova</string>
     <string name="miheadset_bluetooth_audio_title">Vzorkovacia frekvencia zvuku LC3plus Bluetooth</string>
     <string name="miheadset_bright">Jasné</string>
     <string name="miheadset_call_assist">Asistent</string>
@@ -3599,6 +3648,7 @@ Na tomto zariadení sú prítomní ďalší používatelia.
     <string name="miheadset_double_click_right">Poklepte 2x na pravé slúchadlo</string>
     <string name="miheadset_double_connection">Duálne pripojenie</string>
     <string name="miheadset_double_connection_summary">Keď zapnete túto funkciu, môžete prijímať hovory alebo prehrávať zvuk či video na oboch pripojených zariadeniach bez toho, aby ste museli manuálne prepínať</string>
+    <string name="miheadset_double_toast">Nasaďte si obe slúchadlá, aby ste mohli používať túto funkciu</string>
     <string name="miheadset_dual_connect_mode">Pripojenie k dvom zariadeniam</string>
     <string name="miheadset_dual_connect_mode_summary">Povoľte pre pripojenie vašich slúchadiel k dvom Bluetooth zariadeniam naraz</string>
     <string name="miheadset_enhanceVoice">Vylepšiť hlas</string>
@@ -3635,6 +3685,9 @@ Na tomto zariadení sú prítomní ďalší používatelia.
     <string name="miheadset_key_config_triple_right">Trojité poklepanie pravého slúchadla</string>
     <string name="miheadset_key_config_volume_down">Znížiť hlasitosť</string>
     <string name="miheadset_key_config_volume_up">Hlasitosť nahor</string>
+    <string name="miheadset_keyconfig_click_thrice">Trikrát stlačenie tlačidla</string>
+    <string name="miheadset_keyconfig_click_twice">Dvakrát stlačenie tlačidla</string>
+    <string name="miheadset_keyconfig_press_long">Stlačiť a podržať tlačidlo %d sekúnd</string>
     <string name="miheadset_last_version">Firmware je aktuálny</string>
     <string name="miheadset_low_latency">Nízka latencia</string>
     <string name="miheadset_manual">O zariadení</string>
@@ -3653,6 +3706,8 @@ Na tomto zariadení sú prítomní ďalší používatelia.
     <string name="miheadset_preferences">Predvoľby</string>
     <string name="miheadset_rename">Premenovať</string>
     <string name="miheadset_rename_device">Premenovať</string>
+    <string name="miheadset_same_account_incall">Prijímať hovory zo všetkých synchronizovaných zariadení</string>
+    <string name="miheadset_same_account_incall_summary">Pripojte slúchadlá k iným synchronizovaným zariadeniam, aby ste mohli prijímať prichádzajúce hovory</string>
     <string name="miheadset_shared_contacts">Zdieľanie kontaktov</string>
     <string name="miheadset_shared_contacts_summary">Na zdieľanie kontaktov</string>
     <string name="miheadset_single_ear_indicate">Noste obe slúchadlá pre použitie redukcie hluku</string>
@@ -3708,6 +3763,8 @@ Na tomto zariadení sú prítomní ďalší používatelia.
     <string name="miui_allow_light">LED</string>
     <string name="miui_allow_music">Hudba</string>
     <string name="miui_allow_vibrate">Vibrácie</string>
+    <string name="miui_bubbles_notification">Bubliny upozornení</string>
+    <string name="miui_bubbles_notification_status_opened">Zapnuté</string>
     <string name="miui_data_usage_menu_metered">Mobilné hotspoty</string>
     <string name="miui_disturb_title">Vyrušovanie</string>
     <string name="miui_enable_service_title">Služba vykoná tieto akcie:</string>
@@ -3726,6 +3783,7 @@ Pokračujte pre prístup k ďalším nastaveniam."</string>
     <string name="miui_lab_ai_preload_desc">AI prednačítavanie zvyšuje rýchlosť spúšťania aplikácií</string>
     <string name="miui_lab_ai_preload_title">AI prednačítavanie</string>
     <string name="miui_lab_drive_mode_desc">Use voice controls &amp; listen to WeChat messages</string>
+    <string name="miui_lab_drive_mode_desc_new">Použiť hlasové ovládanie</string>
     <string name="miui_lab_drive_mode_title">Car mode</string>
     <string name="miui_lab_feature_applied">Aplikované</string>
     <string name="miui_lab_feature_off">Vypnuté</string>
@@ -3744,6 +3802,11 @@ Pokračujte pre prístup k ďalším nastaveniam."</string>
     <string name="miui_master_clear_prompt_battery_low">Nie je možné urobiť obnovenie do továrneho nastavenia ak je batéria pod %1$s. Nabite batériu pre pokračovanie.</string>
     <string name="miui_master_clear_summary">Vymažú sa všetky dáta v zariadení</string>
     <string name="miui_more_special_feature">Preskúmať nové funkcie</string>
+    <string name="miui_nfc_dialog_message">Ak vypnete NFC, nebudete môcť používať funkcie NFC, ktoré zahŕňajú Google Pay, dopravné karty, kľúčové karty a ďalšie. Vypnúť ho napriek tomu?</string>
+    <string name="miui_nfc_dialog_negative">Vypnúť</string>
+    <string name="miui_nfc_dialog_positive">Zrušiť</string>
+    <string name="miui_nfc_dialog_title">Vypnutie NFC</string>
+    <string name="miui_nfc_mi_pay_summary">Google Pay, dopravné karty, kľúčové karty</string>
     <string name="miui_optimization_disabled">Deaktivovať MIUI optimalizáciu</string>
     <string name="miui_screen_config_title">Nastavenie MIUI Launchera</string>
     <string name="miui_screensaver_show_time">Trvanie</string>
@@ -4091,6 +4154,7 @@ Vyberte váš operačný systém:"</string>
     <string name="network_control">Zobraziť nastavenie aplikácie</string>
     <string name="network_detail">Detail siete %s</string>
     <string name="network_error">Nastala chyba siete</string>
+    <string name="network_error_info">Vyskytla sa chyba siete. Skontrolujte nastavenia siete a skúste to znova.</string>
     <string name="network_operators_settings">Sieťoví operátori</string>
     <string name="network_reset_not_available">Tento používateľ nemôže resetovať nastavenia siete</string>
     <string name="network_scorer_change_active_dialog_text">Chcete spravovať sieťové pripojenia pomocou aplikácie %1$s namiesto aplikácie %2$s?</string>
@@ -4104,11 +4168,14 @@ Vyberte váš operačný systém:"</string>
     <string name="network_speed_for_apps_title">Pripojenie</string>
     <string name="network_speed_for_apps_total">Rýchlosť pripojenia</string>
     <string name="network_state_label">Stav siete:</string>
+    <string name="network_timeout_info">Nepodarilo sa pripojiť k sieti. Skúste to znova.</string>
     <string name="networkid_label">ID siete:</string>
     <string name="networks">Výber oprátora</string>
     <string name="networks_title">Cellular networks</string>
     <string name="never">Nikdy</string>
     <string name="new_backup_pw_prompt">Zadajte nové heslo pre zálohu</string>
+    <string name="new_fingerprint_to_new_face_dialog_msg">Ak chcete používať odomknutie tvárou, najprv pridajte dáta o tvári. Pridať teraz?</string>
+    <string name="new_fingerprint_to_new_face_dialog_tittle">Pridať dáta o tvári</string>
     <string name="new_password_to_new_fingerprint_dialog_msg">Odtlačok prsta môže byť použitý až po jeho nastavení</string>
     <string name="new_password_to_new_fingerprint_dialog_negative_msg">Zrušiť</string>
     <string name="new_password_to_new_fingerprint_dialog_positive_msg">Pridať</string>
@@ -4119,6 +4186,8 @@ Vyberte váš operačný systém:"</string>
     <string name="nfc_how_it_works_content">Nastavte si platobnú aplikáciu. Potom iba priložte zadnú časť vášho telefónu k akémukoľvek terminálu so symbolom pre bezkontaktné platby.</string>
     <string name="nfc_how_it_works_got_it">Dobre</string>
     <string name="nfc_how_it_works_title">Platenie pri termináli</string>
+    <string name="nfc_image_preference_text_click">Skontrolujte, kde sa na tomto zariadení nachádza oblasť antény NFC</string>
+    <string name="nfc_image_preference_text_noclick">Umiestnite svoje zariadenie blízko bezkontaktného terminálu, aby ste mohli používať Google Pay, dopravné karty, kľúčové karty a ďalšie funkcie NFC.</string>
     <string name="nfc_more_title">Viac...</string>
     <string name="nfc_payment_default">Predvolená platobná aplikácia</string>
     <string name="nfc_payment_default_not_set">Nenastavené</string>
@@ -4261,6 +4330,8 @@ Vyberte váš operačný systém:"</string>
     <string name="notifications_priority">Prioritné</string>
     <string name="notifications_sensitive">Citlivý obsah je skrytý</string>
     <string name="now">Teraz</string>
+    <string name="nrca_need_reset">Reštartujte zariadenie pre použitie zmien</string>
+    <string name="nrca_switch_title">Použiť agregáciu operátora 5G</string>
     <string name="nsd_quick_toggle_summary">Povoliť aplikáciám na iných zariadeniach pristupovať k aplikáciám na Vašom zariadení</string>
     <string name="nsd_quick_toggle_title">Detekcia sieťových služieb</string>
     <string name="oaid_apps_summary">Povoliť alebo zakázať prístup pre jednotlivé aplikácie</string>
@@ -4271,6 +4342,7 @@ Vyberte váš operačný systém:"</string>
     <string name="oem_unlock_enable">Povoliť odomknutie OEM</string>
     <string name="oem_unlock_enable_summary">Povoliť odomknutie zariadenia OEM</string>
     <string name="off">Vypnuté</string>
+    <string name="ok">OK</string>
     <string name="ok_rules">Ukončiť</string>
     <string name="okay">OK</string>
     <string name="oldman_app_label">Jednoduchý režim</string>
@@ -4668,6 +4740,7 @@ Táto funkcia získa vašu MAC adresu Wi-Fi siete iba na počiatočnú registrá
     <string name="pref_volume_wake_summary">Stlačením tlačidlá zosilniť/stlmiť prebudíte zariadenie. Určené pre zariadenia s ťažko dostupným zapínacím tlačidlom.</string>
     <string name="pref_volume_wake_title">Zobudiť telefón</string>
     <string name="preference_change_password_title">Zmeniť heslo</string>
+    <string name="preference_toggle_nfc_dnd_mode_summary">Nedostávať žiadne upozornenia na nerozpoznané NFC</string>
     <string name="preferred_app_settings">Predvolená aplikácia</string>
     <string name="preferred_app_settings_default">Predvolený MIUI</string>
     <string name="preferred_app_settings_not_selected">Žiadne</string>
@@ -4848,6 +4921,7 @@ Táto funkcia získa vašu MAC adresu Wi-Fi siete iba na počiatočnú registrá
     <string name="progress_dialog_speaker_auto_clean_button">Ukončiť</string>
     <string name="progress_dialog_speaker_auto_clean_title">Čistenie reproduktora…</string>
     <string name="progress_scanning">Hľadanie</string>
+    <string name="progressbar_title">Kontrolujú sa problémy so zabezpečením...</string>
     <string name="provider_label">Zobraziť odbery</string>
     <string name="provision_activation">Aktívne</string>
     <string name="provision_back">Späť</string>
@@ -5071,6 +5145,7 @@ Táto funkcia získa vašu MAC adresu Wi-Fi siete iba na počiatočnú registrá
     <string name="right_edge">Pravý okraj</string>
     <string name="right_function_key">Skratky vpravo</string>
     <string name="right_shoulder_key">Vpravo</string>
+    <string name="right_to_left_slide">Potiahnuť doľava</string>
     <string name="ring_volume_option_title">Hlasitosť zvonenia</string>
     <string name="ring_volume_title">Hlasitosť zvonenia</string>
     <string name="ringer_mode_setting_summary">Stíšiť prichádzajúce hovory a oznámenia</string>
@@ -5329,6 +5404,8 @@ Ako funkciu použiť:
     <string name="sdcard_settings_unmounted_status">Teraz môžete SD kartu bezpečne odobrať.</string>
     <string name="sdcard_settings_used_bytes_label">Obsadená pamäť (bajty):</string>
     <string name="sdcard_unmount">Odpojiť USB úložisko</string>
+    <string name="se_in_ese">Vložený prvok zabezpečenia</string>
+    <string name="se_in_ese_desc">Vložený prvok zabezpečenia</string>
     <string name="se_route_default">Vybrať automaticky</string>
     <string name="se_route_ese">Vstavané zabezpečenie</string>
     <string name="se_route_uicc">Zabezpečenie na SIM karte</string>
@@ -5438,6 +5515,8 @@ Ako funkciu použiť:
     <string name="selinux_status_disabled">Zakázané</string>
     <string name="selinux_status_enforcing">Prísne</string>
     <string name="selinux_status_permissive">Mierne</string>
+    <string name="send_diagnosis_log">Odoslať denník diagnostiky</string>
+    <string name="sending">Odosiela sa…</string>
     <string name="service_background_processes">Voľné: %1$s</string>
     <string name="service_foreground_processes">Využité: %1$s</string>
     <string name="service_manage">Nastavenie</string>
@@ -5569,6 +5648,7 @@ Ako funkciu použiť:
     <string name="shut_down_find_device_network_failure_content">Nebolo možné deaktivovať vyhľadávanie zariadenia. Skontrolujte pripojenie na internet.</string>
     <string name="shut_down_find_device_network_failure_title">Nebolo možné sa pripojiť na internet</string>
     <string name="shuting_down_find_device">Deaktivácia vyhľadania zariadenia...</string>
+    <string name="sidebar_setting">Nastavenia bočného panela</string>
     <string name="silent_duration">Trvanie</string>
     <string name="silent_mode">Tichý režim</string>
     <string name="silent_mode_disable_media">Stíšiť všetko</string>
@@ -5670,6 +5750,8 @@ Ostáva:"</string>
     <string name="sim_status_summary">Informácie týkajúce sa SIM karty</string>
     <string name="sim_status_title">Stav SIM</string>
     <string name="sim_status_title_sim_softbank">Stav SIM %1$d</string>
+    <string name="sim_wallet">Peňaženka SIM</string>
+    <string name="sim_wallet_desc">Peňaženka SIM</string>
     <string name="simulate_color_space">Simulácia far. priestoru</string>
     <string name="single_key_use">Režim jedného tlačidla</string>
     <string name="single_key_use_summary">Použiť tlačidlo Domov namiesto ostatných dvoch tlačidiel</string>
@@ -6190,6 +6272,7 @@ Zvážte použitie rýchlejšieho zariadenia (^1) s lepšou výkonnosťou."</str
     <string name="sunday">Nedeľa</string>
     <string name="sunday_short">Ned</string>
     <string name="sunday_shortest">N</string>
+    <string name="sunlight_low_power_notification">Nie je možné zapnúť režim slnečného žiarenia. Batéria je príliš slabá.</string>
     <string name="sunlight_mode">Režim denného svetla</string>
     <string name="sunlight_mode_summary">Prispôsobiť jas priamemu slnku ak je automatický jas vypnutý</string>
     <string name="sunlight_mode_summary_new">Upraviť jas na silné okolité svetlo tak aby obrazovka nebola príliš tmavá. Keď je okolité svetlo silné, v hornej časti obrazovky sa zobrazí malá ikona slnka.</string>
@@ -6256,6 +6339,7 @@ Zvážte použitie rýchlejšieho zariadenia (^1) s lepšou výkonnosťou."</str
     <string name="system_apps_updater">Aktualizácia systémových aplikácií</string>
     <string name="system_backup_section_title">Záloha</string>
     <string name="system_backup_section_title_new">Zálohovať alebo obnoviť</string>
+    <string name="system_error_info">Systém je zaneprázdnený. Skúste to znova neskôr.</string>
     <string name="system_haptic_feedback">Hmatová odozva</string>
     <string name="system_package">Aktualizácia systému nie je možné nainštalovať na SD kartu.</string>
     <string name="system_print_service_help">O tlačení</string>
@@ -6269,6 +6353,7 @@ Zvážte použitie rýchlejšieho zariadenia (^1) s lepšou výkonnosťou."</str
     <string name="system_update_settings_list_item_title">Aktualizácia systému</string>
     <string name="tap_to_wake">Zobudiť klepnutím</string>
     <string name="tap_to_wake_summary">Zariadenie prebudíte dvojitým klepnutím na ľubovoľné miesto na obrazovke.</string>
+    <string name="temporary_not_available">Dočasne nedostupné</string>
     <string name="temporary_style">10s po dotyku obrazovky</string>
     <string name="terms_title">Zmluvné podmienky</string>
     <string name="testing">Testovanie</string>
@@ -6356,6 +6441,7 @@ Zvážte použitie rýchlejšieho zariadenia (^1) s lepšou výkonnosťou."</str
     <string name="toggle_auto_speaker_preference_title">Automaticky prepnúť na reproduktor</string>
     <string name="toggle_collapse_after_clicked_title">Zbaliť po dotyku</string>
     <string name="tomorrow">Zajtra</string>
+    <string name="top_to_bottom_slide">Potiahnuť nadol</string>
     <string name="total">Režim Nerušiť</string>
     <string name="total_info">Stíšiť zvonenia a vibrácie okrem budíka</string>
     <string name="total_info_no_vibrator">Stíšiť zvuky okrem budíka</string>
@@ -6492,6 +6578,7 @@ Zvážte použitie rýchlejšieho zariadenia (^1) s lepšou výkonnosťou."</str
     <string name="uninstall_xspace_app_dlg_title">Odinštalovať klonované aplikácie?</string>
     <string name="unknown">Neznáme</string>
     <string name="unknown_app">Neznáma aplikácia</string>
+    <string name="unknown_error_info">Neznáma chyba</string>
     <string name="unlock_backup_info_summary">Ako chcete zariadenie odomknúť v prípade, že vás funkcia Odomknutia tvárou nevidí?</string>
     <string name="unlock_change_lock_password_title">Zmeniť bezpečnostné heslo</string>
     <string name="unlock_change_lock_pattern_title">Zmena bezpečnostného gesta</string>
@@ -6992,6 +7079,7 @@ Ktorýkoľvek používateľ môže akceptovať aktualizované povolenia aplikác
     <string name="wallpaper_desktop">Domáca obrazovka</string>
     <string name="wallpaper_live">Dynamická tapeta</string>
     <string name="wallpaper_lockscreen">Zamykacia obrazovka</string>
+    <string name="wallpaper_setting_title">Tapeta</string>
     <string name="wallpaper_settings_fragment_title">Vybrať tapetu z</string>
     <string name="wallpaper_settings_title">Tapeta</string>
     <string name="warm_color">Teplé</string>
@@ -7497,6 +7585,8 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
     <string name="wizard_finish">Dokončiť</string>
     <string name="wizard_next">Ďalej</string>
     <string name="wlan_scanner_unresizeble">Nie je možné zobraziť Wi-Fi nastavenia v režime rozdelenia obrazovky</string>
+    <string name="wlan_switch_tips">Prepínanie sietí Wi-Fi</string>
+    <string name="wlan_switch_tips_message">Pri prepínaní medzi pomocnou a hlavnou sieťou Wi-Fi bude vaše zariadenie dočasne odpojené od pomocnej siete Wi-Fi. Napriek tomu prepnúť?</string>
     <string name="words_title">Text</string>
     <string name="work_profile_confirm_remove_message">Všetky aplikácie a údaje v tomto profile budú odstránené.</string>
     <string name="work_profile_confirm_remove_title">Odstrániť pracovný profil?</string>
@@ -7641,110 +7731,4 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
     <string name="zone_auto_title">Časové pásmo podľa siete</string>
     <string name="zone_list_menu_sort_alphabetically">Zoradiť abecedne</string>
     <string name="zone_list_menu_sort_by_timezone">Zoradiť podľa časového pásma</string>
-    
-<string name="deferred_setup_hintViewTitle">Kontroluje sa...</string>
-     <string name="freeform_guide_to_sidehide_summary">Rýchlym pretiahnutím aplikácie na stranu obrazovky ju skryjete</string>
-     <string name="freeform_guide_to_sidehide_title">Skrytie plávajúceho okna</string>
-     <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Klepnutím na aplikáciu na bočnom paneli ju otvoríte v plávajúcom okne.
-· Potiahnutím aplikácie do stredu obrazovky ju otvoríte v plávajúcom okne alebo do strany, ak chcete použiť rozdelenú obrazovku."</string>
-     <string name="sidebar_setting">Nastavenia bočného panela</string>         
-<string name="new_fingerprint_to_new_face_dialog_msg">Ak chcete používať odomknutie tvárou, najprv pridajte dáta o tvári. Pridať teraz?</string>
-     <string name="new_fingerprint_to_new_face_dialog_tittle">Pridať dáta o tvári</string>         
-
-<string name="bluetooth_enable_opp_high_speed">Vysokorýchlostné prenosy Bluetooth</string>
-     <string name="bluetooth_enable_opp_high_speed_summary">Na prenosy používajte vysokorýchlostné protokoly Bluetooth P2P</string>
-     <string name="fiveg_nrca_switch_summary">Zlepšite 5G pripojenie pre testovacie prostredia</string>
-     <string name="fiveg_nrca_switch_title">Agregácia operátora 5G</string>
-     <string name="nrca_switch_title">Použiť agregáciu operátora 5G</string>
-	 
-<string name="miheadset_same_account_incall">Prijímať hovory zo všetkých synchronizovaných zariadení</string>
-     <string name="miheadset_same_account_incall_summary">Pripojte slúchadlá k iným synchronizovaným zariadeniam, aby ste mohli prijímať prichádzajúce hovory</string>
-	 
-     <string name="dialog_softbank_esim_wipe_cancel">Ponechať</string>
-     <string name="dialog_softbank_esim_wipe_info">Vymazať všetky stiahnuté dáta eSIM? Týmto sa nezruší váš plán mobilných služieb.</string>
-     <string name="dialog_softbank_esim_wipe_ok">Vymazať</string>
-     <string name="dialog_softbank_esim_wipe_title">Vymazať dáta eSIM karty</string>
-     <string name="dialog_softbank_esime_context">Toto zariadenie sa musí pripojiť k internetu, aby si mohlo aktivovať eSIM. Preskočiť aj aktiváciu eSIM?</string>
-     <string name="dialog_softbank_esime_title">Preskočiť aktiváciu eSIM karty</string>
-	
-    <string name="miui_lab_drive_mode_desc_new">Použiť hlasové ovládanie</string>
-<string name="miui_nfc_dialog_message">Ak vypnete NFC, nebudete môcť používať funkcie NFC, ktoré zahŕňajú Google Pay, dopravné karty, kľúčové karty a ďalšie. Vypnúť ho napriek tomu?</string>
-     <string name="miui_nfc_dialog_negative">Vypnúť</string>
-     <string name="miui_nfc_dialog_positive">Zrušiť</string>
-     <string name="miui_nfc_dialog_title">Vypnutie NFC</string>
-     <string name="miui_nfc_mi_pay_summary">Google Pay, dopravné karty, kľúčové karty</string>    
-     
-<string name="nfc_image_preference_text_click">Skontrolujte, kde sa na tomto zariadení nachádza oblasť antény NFC</string>
-     <string name="nfc_image_preference_text_noclick">Umiestnite svoje zariadenie blízko bezkontaktného terminálu, aby ste mohli používať Google Pay, dopravné karty, kľúčové karty a ďalšie funkcie NFC.</string>
-<string name="preference_toggle_nfc_dnd_mode_summary">Nedostávať žiadne upozornenia na nerozpoznané NFC</string>
-     <string name="se_in_ese">Vložený prvok zabezpečenia</string>
-     <string name="se_in_ese_desc">Vložený prvok zabezpečenia</string>
-     <string name="sim_wallet">Peňaženka SIM</string>
-     <string name="sim_wallet_desc">Peňaženka SIM</string>
-<string name="wallpaper_setting_title">Tapeta</string>     	
-
-<string name="google_assistant_guide_cancel">Zrušiť</string>
-     <string name="google_assistant_guide_message">Môžete stlačiť a podržať tlačidlo zapínania na %s sekundy a začať hovoriť s Asistentom Google. Nastaviť túto skratku teraz?</string>
-     <string name="google_assistant_guide_ok">Nastaviť</string>
-     <string name="google_assistant_guide_tip">*Stlačením a podržaním tlačidla napájania na %s sekúnd otvoríte ponuku vypnutia.</string>
-     <string name="google_assistant_guide_title">Asistent Google</string>
-     <string name="miui_bubbles_notification">Bubliny upozornení</string>
-     <string name="miui_bubbles_notification_status_opened">Zapnuté</string>
-	 
-    <string name="nrca_need_reset">Reštartujte zariadenie pre použitie zmien</string>	
-
-<string name="access_denied_info">Príliš veľa pokusov. Skúste to znova neskôr.</string>
-<string name="bt_leaudio_cg_dialog_summary">Po zapnutí tejto funkcie nebudú niektoré funkcie k dispozícii. Táto funkcia tiež nepodporuje pripojenie viacerých zariadení k vašim slúchadlám. Ak ste sa už pripojili k dvom rôznym zariadeniam, odpojte sa od jedeného z nich. Zapnúť LC3 teraz?</string>
-<string name="bt_leaudio_support_multi_dialog_summary">Po zapnutí tejto funkcie nebudú niektoré funkcie dostupné. Zapnúť LC3 teraz?</string>
-    <string name="collect_diagnosis_log">Zhromažďovať denník diagnostiky</string>
-    <string name="dark_mode_alert_dialog_cancel">Zrušiť</string>
-    <string name="dark_mode_alert_dialog_checkbox">Už nezobrazovať</string>
-    <string name="dark_mode_alert_dialog_confirm">Zapnúť</string>
-    <string name="dark_mode_alert_dialog_message">Táto aplikácia sa nemusí v tmavom režime zobraziť správne. Chcete napriek tomu zapnúť tmavý režim?</string>
-    <string name="dark_mode_alert_dialog_title">Pozor</string>
-    <string name="diagnosis_log_send_failed">Odoslanie protokolu diagnostiky zlyhalo.</string>
-    <string name="for_diagnosis_usage_only">Tieto informácie používajte iba na diagnostiku.</string>
-    <string name="force_msaa_prefrence_summary_new">Povolenie 4x MSAA v aplikáciách OpenGL ES %1$.1f</string>
-    <string name="network_error_info">Vyskytla sa chyba siete. Skontrolujte nastavenia siete a skúste to znova.</string>
-    <string name="network_timeout_info">Nepodarilo sa pripojiť k sieti. Skúste to znova.</string>
-    <string name="ok">OK</string>
-    <string name="progressbar_title">Kontrolujú sa problémy so zabezpečením...</string>
-    <string name="send_diagnosis_log">Odoslať denník diagnostiky</string>
-    <string name="sending">Odosiela sa…</string>
-    <string name="system_error_info">Systém je zaneprázdnený. Skúste to znova neskôr.</string>
-    <string name="temporary_not_available">Dočasne nedostupné</string>
-    <string name="unknown_error_info">Neznáma chyba</string>
-
-    <string name="control_center_force_use_panel_guide_text">Potiahnite oznamovaciu lištu vľavo nadol pre zobrazenie upozornení a vpravo nadol pre zobrazenie ovládačov. Strany môžete prepnúť v nastaveniach.</string>
-	
-<string name="bluetooth_enable_opp_high_speed_dialog_message">Na uplatnenie zmien je potrebné reštartovať Bluetooth. Táto akcia môže prerušiť nadviazané spojenia. Napriek tomu reštartovať Bluetooth?</string>
-    <string name="bluetooth_enable_opp_high_speed_dialog_negative">Zrušiť</string>
-    <string name="bluetooth_enable_opp_high_speed_dialog_positive">Reštartovať</string>
-    <string name="bluetooth_enable_opp_high_speed_dialog_title">Reštartujte Bluetooth</string>
-    <string name="dsda_close_toast">Duálny aktívny režim je vypnutý. Ak chcete použiť zmeny, reštartujte zariadenie.</string>
-    <string name="dsda_open_toast">Duálny aktívny režim je zapnutý. Ak chcete použiť zmeny, reštartujte zariadenie.</string>
-    <string name="dsda_switch_summary">Povoliť obom SIM kartám súčasne využívať mobilné dáta a telefonovať</string>
-    <string name="dsda_switch_title">Duálny aktívny režim</string>
-    <string name="sunlight_low_power_notification">Nie je možné zapnúť režim slnečného žiarenia. Batéria je príliš slabá.</string>	
-    
-    <string name="freeform_guide_slide_to_small_freeform_summary_squarehot">"Stlačte a podržte spodok okna a potiahnite ho k hornej hrane displeja.
-Táto funkcia funguje len ak sú aktivované gestá."</string>
-    <string name="miheadset_auto_upgrade_reminder">Vypnite automatické aktualizácie a skontrolujte znova</string>    
-    
-<string name="bottom_to_top_slide">Potiahnuť nahor</string>
-     <string name="left_to_right_slide">Potiahnuť doprava</string>
-     <string name="miheadset_keyconfig_click_thrice">Trikrát stlačenie tlačidla</string>
-     <string name="miheadset_keyconfig_click_twice">Dvakrát stlačenie tlačidla</string>
-     <string name="miheadset_keyconfig_press_long">Stlačiť a podržať tlačidlo %d sekúnd</string>
-     <string name="right_to_left_slide">Potiahnuť doľava</string>
-     <string name="top_to_bottom_slide">Potiahnuť nadol</string>
-     <string name="wlan_switch_tips">Prepínanie sietí Wi-Fi</string>
-     <string name="wlan_switch_tips_message">Pri prepínaní medzi pomocnou a hlavnou sieťou Wi-Fi bude vaše zariadenie dočasne odpojené od pomocnej siete Wi-Fi. Napriek tomu prepnúť?</string>
-     <string name="finger_detail_info_text">Zmeniť názov odtlačku prsta</string>
-     <string name="miheadset_double_toast">Nasaďte si obe slúchadlá, aby ste mohli používať túto funkciu</string>
-
-    <string name="card_holder_header_title">Peňaženka</string>
-
-    <string name="allow_ongoing_title">Povoliť permanentné upozornenia</string>
-
 </resources>

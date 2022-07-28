@@ -112,9 +112,12 @@
     <string name="beauty_fragment_tab_name_3d_remodeling">Premodelovanie</string>
     <string name="beauty_fragment_tab_name_beauty">Skrášliť</string>
     <string name="beauty_fragment_tab_name_makeup">Rozšírené</string>
+    <string name="beauty_fx_makeup_cv">Retuš</string>
+    <string name="beauty_mo_pr_cv">Textúry</string>
     <string name="beauty_mode_reset_toast">Premodelovanie odstránené</string>
     <string name="beauty_reset">Obnoviť</string>
     <string name="beauty_reset_toast">Efekt postavy obnovený</string>
+    <string name="beauty_sm_texture_cv">Pokožka</string>
     <string name="beauty_tab_name_live_beauty">Skrášliť</string>
     <string name="beauty_tab_name_live_filter">Filtre</string>
     <string name="bokeh_use_hint">Efekt hĺbky</string>
@@ -126,6 +129,8 @@
     <string name="calibration_hint_usage">Neskalibrovaný fotoaparát bude mať vplyv na kvalitu obrazu.</string>
     <string name="camcorder_tip_8k_max_video_duration">Môžete nahrať maximálne 6 minút v 8K rozlíšení</string>
     <string name="camcorder_tip_current_max_video_duration">V aktuálnom rozlíšení môžete nahrávať maximálne %d min. videa</string>
+    <string name="camcorder_tip_isp_super_night_video_max_video_duration">Môžete nahrávať maximálne %d min.</string>
+    <string name="camcorder_tip_super_night_video_1080P_max_video_duration">na 1080p môžete nahrávať maximálne %d min.</string>
     <string name="camera_disabled">Fotoaparát bol z dôvodu bezpečnosti deaktivovaný.</string>
     <string name="camera_error_title">Chyba fotoaparátu</string>
     <string name="camera_facedetection_sub_option_hint">Experimentálne funkcie sú dostupné</string>
@@ -204,6 +209,7 @@
     <string name="color_effect_entry_new_5">Carmen</string>
     <string name="color_effect_entry_new_5_describe">Hnedasté tóny a stredný kontrast vytvárajú príjemnú atmosféru pre vonkajšie scény snímané v prirodzenom svetle.</string>
     <string name="color_effect_entry_new_bbp_describe">Vysoký kontrast a nízka sýtosť farieb vnášajú do väčšiny scén filmový dojem.</string>
+    <string name="color_effect_entry_noraml_cv">Leica Štandard</string>
     <string name="color_effect_entry_orange">Limetka</string>
     <string name="color_effect_entry_orange_describe">Klasický filmový trik, vďaka ktorému sú tmavé oblasti chladnejšie a svetlá teplejšie. Tento filter osvieži ako mestskú džungľu, tak aj prostredie v prírode.</string>
     <string name="color_effect_entry_quiet">Pokojné</string>
@@ -267,12 +273,23 @@
     <string name="custom_sound_old">Film</string>
     <string name="custom_tint_button_apply">Použiť</string>
     <string name="custom_tint_color_select">Prispôsobiť farby</string>
-    <string name="custom_watermark_contains_senstive_words">Upravte text %1$s</string>
+    <string name="custom_watermark_contains_senstive_words">Vodoznak nemôže obsahovať zakázané výrazy (%1$s)</string>
     <string name="custom_watermark_tips">Tento text bude zobrazený v druhom riadku vodoznaku. Limit je max 15 znakov.</string>
     <string name="custom_watermark_too_many_words">Prekročili ste max. limit znakov</string>
     <string name="custom_watermark_words">Vlastný text vodoznaku</string>
     <string name="custom_watermark_words_input_hint">Zadajte text</string>
     <string name="custom_watermark_words_save_success">Uložené</string>
+    <string name="cv_lens_black_white">B&amp;W</string>
+    <string name="cv_lens_msg">Zhotovte skvelé fotogrtafie s Pro objektívmi</string>
+    <string name="cv_lens_rotary_focus">Spletitý bokeh</string>
+    <string name="cv_lens_soft_focus">Jemné zaostrenie</string>
+    <string name="cv_lens_title">Pro šošovky</string>
+    <string name="cvtype_btn_select">Použiť \"%1$s\"</string>
+    <string name="cvtype_hint_title">Vyberte štýl</string>
+    <string name="cvtype_item_btn_title1">Leica Autentické</string>
+    <string name="cvtype_item_btn_title2">Leica Vibrant</string>
+    <string name="cvtype_item_title1">Prirodzené a realistické</string>
+    <string name="cvtype_item_title2">Svieže a živé</string>
     <string name="dialog_button_accept">Prijať</string>
     <string name="dialog_button_back">Späť</string>
     <string name="dialog_button_cancel">Zrušiť</string>
@@ -326,6 +343,7 @@ skenované dokumenty automaticky"</string>
     <string name="download_hint_cn">"Zdá sa, že vaše zariadenie nie je pripojené k sieti Wi-Fi. Použiť %1$s MB mobilných dát na stiahnutie položiek?"</string>
     <string name="download_hint_wifi">"Zdá sa, že vaše zariadenie nie je pripojené k sieti Wi-Fi. Použiť na stiahnutie položiek %1$s MB mobilných dát?"</string>
     <string name="download_in_progress">Sťahovanie...</string>
+    <string name="download_in_progress_descrip">Sťahovanie...</string>
     <string name="download_title">Spotreba mobilných dát</string>
     <string name="download_waiting">Čaká sa…</string>
     <string name="dual_camera_lens_covered_toast">Zakryté šošovky.</string>
@@ -435,6 +453,7 @@ skenované dokumenty automaticky"</string>
     <string name="front_camera_hint_text_rotate">Otočte telefón</string>
     <string name="groupshot_mode_use_hint">"Bude zhotovených viacero snímkov
 pre výber toho najlepšieho"</string>
+    <string name="guide_pop_window_msg_cv_lens">Dotykom vyskúšajte Pro objektívy</string>
     <string name="hand_gesture_open_tip">Ukážte vašu dlaň pre spustenie odpočítavania</string>
     <string name="hand_gesture_tip">Spúšť dlaňou</string>
     <string name="hibernate_hint">Dotknite sa kdekoľvek pre prebudenie</string>
@@ -881,6 +900,7 @@ Objekt bude ostrý na rozmazanom pozadí."</string>
     <string name="pref_camera_hdr_title">HDR</string>
     <string name="pref_camera_heic_image_format_description">Uložiť fotografie v efektívnom formáte HEIF</string>
     <string name="pref_camera_heic_image_format_description2">Vysoko efektívny formát pre fotografie šetrí miesto na úložisku, ale nie je podporovaný niektorými aplikáciami.</string>
+    <string name="pref_camera_heic_image_format_description_global">Vysoko účinný formát obrázkového súboru šetrí úložný priestor, ale nie je podporovaný niektorými aplikáciami tretích strán. Vodoznaky nie je možné odstrániť v HEIF.</string>
     <string name="pref_camera_heic_image_format_title">HEIC Formát</string>
     <string name="pref_camera_hfr_entry_2x">60</string>
     <string name="pref_camera_hfr_entry_3x">90</string>
@@ -1080,6 +1100,8 @@ Objekt bude ostrý na rozmazanom pozadí."</string>
     <string name="pref_custom_tint_title">Farby</string>
     <string name="pref_customization_style">Vlastný štýl</string>
     <string name="pref_customization_title">Upraviť</string>
+    <string name="pref_cv_watermark_summary">Ukážky slúžia len ako referencia. Vodoznak Leica sa zobrazí na fotografiách zhotovených v režimoch \"Foto\" a \"Portrét\".</string>
+    <string name="pref_cv_watermark_title">Vodoznak Leica</string>
     <string name="pref_document_mode">Dokumenty</string>
     <string name="pref_dual_camera_video">Duálne video</string>
     <string name="pref_dualcamera_watermark_title">Vodoznak</string>
@@ -1124,6 +1146,7 @@ Objekt bude ostrý na rozmazanom pozadí."</string>
     <string name="pref_pic_flaw_tip_title">Upozorniť na chyby</string>
     <string name="pref_priority_storage_title">Uložiť na SD kartu</string>
     <string name="pref_privacy_title">Ochrana súkromia</string>
+    <string name="pref_privacy_watermark_edit_title">Upraviť vodoznak</string>
     <string name="pref_qc_focus_position_title">Ostrenie</string>
     <string name="pref_retain_ai_scene">AI Kamera</string>
     <string name="pref_retain_ai_scene_description">Zachovať stav AI kamery nastavený počas predchádzajúceho používania</string>
@@ -1423,6 +1446,7 @@ Objekt bude ostrý na rozmazanom pozadí."</string>
     <string name="vv_duartion_hint">%1$s | Segment %2$d | %3$ss</string>
     <string name="vv_hint">Môžete točiť vlogy len v režime na šírku</string>
     <string name="vv_stability_hint">Nehýbte so zariadením</string>
+    <string name="vv_stability_newTip">Ukladajú sa položky…</string>
     <string name="vv_start">Točiť vlog</string>
     <string name="vv_use_hint_text_body">"Vlog režim umožňuje natáčať a upravovať videá"</string>
     <string name="vv_use_hint_text_title">VLOG</string>
@@ -1444,43 +1468,15 @@ Objekt bude ostrý na rozmazanom pozadí."</string>
     <string name="wideselfie_rotate_to_front">Nakloňte telefón dopredu</string>
     <string name="wideselfie_rotate_to_left_slowly">Natočte telefón doľava</string>
     <string name="wideselfie_rotate_to_right_slowly">Natočte telefón doprava</string>
+    <string name="widget_camera_filter_description">Štyri sady filtrov Leica</string>
+    <string name="widget_camera_filter_talk_back">Filtre Leica</string>
+    <string name="widget_camera_label">Filtre Leica</string>
+    <string name="widget_camera_lens_35mm_description">Tridsaťpäť milimetrov</string>
+    <string name="widget_camera_lens_50mm_description">Päťdesiat milimetrov</string>
+    <string name="widget_camera_lens_90mm_description">Deväťdesiat milimetrov</string>
+    <string name="widget_camera_lens_description">Experimentujte s ohniskovou vzdialenosťou</string>
+    <string name="widget_camera_lens_none_description">50-milimetrový objektív na portréty</string>
+    <string name="widget_camera_lens_talk_back">Profesionálne objektívy</string>
     <string name="yesterday">Včera</string>
     <string name="zoom_no_support_tip_48M">Zoom nefunguje v 48MP režime</string>
-    
-
-
-     <string name="beauty_fx_makeup_cv">Retuš</string>
-     <string name="beauty_mo_pr_cv">Textúry</string>
-     <string name="beauty_sm_texture_cv">Pokožka</string>
-     <string name="camcorder_tip_isp_super_night_video_max_video_duration">Môžete nahrávať maximálne %d min.</string>
-     <string name="camcorder_tip_super_night_video_1080P_max_video_duration">na 1080p môžete nahrávať maximálne %d min.</string>
-     <string name="color_effect_entry_noraml_cv">Leica Štandard</string>
-     <string name="custom_watermark_contains_senstive_words">Vodoznak nemôže obsahovať zakázané výrazy (%1$s)</string>
-     <string name="cv_lens_black_white">B&amp;W</string>
-     <string name="cv_lens_msg">Zhotovte skvelé fotogrtafie s Pro objektívmi</string>
-     <string name="cv_lens_rotary_focus">Spletitý bokeh</string>
-     <string name="cv_lens_soft_focus">Jemné zaostrenie</string>
-     <string name="cv_lens_title">Pro šošovky</string>
-     <string name="cvtype_btn_select">Použiť \"%1$s\"</string>
-     <string name="cvtype_hint_title">Vyberte štýl</string>
-<string name="cvtype_item_btn_title1">Leica Autentické</string>
-      <string name="cvtype_item_btn_title2">Leica Vibrant</string>
-      <string name="cvtype_item_title1">Prirodzené a realistické</string>
-      <string name="cvtype_item_title2">Svieže a živé</string>
-     <string name="download_in_progress_descrip">Sťahovanie...</string>
-     <string name="guide_pop_window_msg_cv_lens">Dotykom vyskúšajte Pro objektívy</string>
-<string name="pref_camera_heic_image_format_description_global">Vysoko účinný formát obrázkového súboru šetrí úložný priestor, ale nie je podporovaný niektorými aplikáciami tretích strán. Vodoznaky nie je možné odstrániť v HEIF.</string>
-     <string name="pref_cv_watermark_summary">Ukážky slúžia len ako referencia. Vodoznak Leica sa zobrazí na fotografiách zhotovených v režimoch \"Foto\" a \"Portrét\".</string>
-     <string name="pref_cv_watermark_title">Vodoznak Leica</string>
-     <string name="pref_privacy_watermark_edit_title">Upraviť vodoznak</string>
-     <string name="vv_stability_newTip">Ukladajú sa položky…</string>
-     <string name="widget_camera_filter_description">Štyri sady filtrov Leica</string>
-     <string name="widget_camera_filter_talk_back">Filtre Leica</string>
-     <string name="widget_camera_label">Filtre Leica</string>
-     <string name="widget_camera_lens_35mm_description">Tridsaťpäť milimetrov</string>
-     <string name="widget_camera_lens_50mm_description">Päťdesiat milimetrov</string>
-     <string name="widget_camera_lens_90mm_description">Deväťdesiat milimetrov</string>
-     <string name="widget_camera_lens_description">Experimentujte s ohniskovou vzdialenosťou</string>
-     <string name="widget_camera_lens_none_description">50-milimetrový objektív na portréty</string>
-     <string name="widget_camera_lens_talk_back">Profesionálne objektívy</string> 
 </resources>

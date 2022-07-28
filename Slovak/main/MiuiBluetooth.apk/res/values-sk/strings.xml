@@ -29,6 +29,7 @@
     <string name="disconnect_device">Odpojiť zariadenie</string>
     <string name="expand_button_title">Rozšírené</string>
     <string name="fast_connect_anti_lost_content">Nastavte si upozornenie ktoré sa vám ukáže v prípade straty jedného slúchadla.</string>
+    <string name="fast_connect_connection_fail">Nebolo možné sa pripojiť</string>
     <string name="fast_connect_device_battery">Batéria</string>
     <string name="fast_connect_device_box">Box</string>
     <string name="fast_connect_device_box_name">%1$s Box</string>
@@ -79,7 +80,9 @@ Rýchlejšie pripojenie."</string>
     <string name="get_target_info">Získať informácie</string>
     <string name="goto_package">Otvorte %1$s</string>
     <string name="headset_battery_fw_failed">Slabá batéria</string>
+    <string name="headset_battery_low">Batéria je slabá, dobite ju prosím</string>
     <string name="headset_connect_device">Pripojiť zariadenie</string>
+    <string name="headset_connect_timeout">Čas pripojenia vypršal, skúste to znova</string>
     <string name="headset_device_check_failed">Zlyhalo</string>
     <string name="headset_device_donot_move">Nehýbte zariadením</string>
     <string name="headset_device_enter_upgrade_failed">Zlyhalo</string>
@@ -95,7 +98,12 @@ Rýchlejšie pripojenie."</string>
     <string name="headset_fw_error_failed">Zlyhalo</string>
     <string name="headset_fw_file_position_failed">Zlyhalo</string>
     <string name="headset_fw_file_readfailed">Zlyhalo</string>
+    <string name="headset_incall_answer">Odpoveď</string>
+    <string name="headset_incall_reject">Zrušiť</string>
+    <string name="headset_incall_summary">Prijať hovor na %1$s pomocou slúchadiel? Po skončení hovoru zostanú vaše slúchadlá pripojené k tomuto zariadeniu.</string>
+    <string name="headset_incall_title">Prijmite hovor pomocou slúchadiel</string>
     <string name="headset_loss_notify_summary1">Zdá sa, že vaše slúchadla nie sú v púzdre. Vložte ich do púzdra pre ich nabitie.</string>
+    <string name="headset_not_in_case">Slúchadlá nie sú v púzdre, skúste to znova</string>
     <string name="headset_read_fw_state">Zlyhalo</string>
     <string name="headset_update_failed">Zlyhalo</string>
     <string name="headset_update_ok">OK</string>
@@ -233,14 +241,4 @@ Rýchlejšie pripojenie."</string>
     <string name="wednesday_short">Str</string>
     <string name="wednesday_shortest">S</string>
     <string name="yesterday">Včera</string>
-    
-<string name="headset_incall_answer">Odpoveď</string>
-     <string name="headset_incall_reject">Zrušiť</string>
-     <string name="headset_incall_summary">Prijať hovor na %1$s pomocou slúchadiel? Po skončení hovoru zostanú vaše slúchadlá pripojené k tomuto zariadeniu.</string>
-     <string name="headset_incall_title">Prijmite hovor pomocou slúchadiel</string>    
-	<string name="fast_connect_connection_fail">Nebolo možné sa pripojiť</string>	 
-	
-<string name="headset_battery_low">Batéria je slabá, dobite ju prosím</string>
-     <string name="headset_connect_timeout">Čas pripojenia vypršal, skúste to znova</string>
-     <string name="headset_not_in_case">Slúchadlá nie sú v púzdre, skúste to znova</string>
 </resources>

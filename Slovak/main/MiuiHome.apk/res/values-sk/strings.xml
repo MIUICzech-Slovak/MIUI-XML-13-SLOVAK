@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <string name="Icon_name_classic_mode">Nastavenia plochy</string>
     <string name="accessibility_all_app_custom_category_finish">Hotovo</string>
     <string name="accessibility_all_app_custom_category_item_remove">Odstrániť \"%1$s\" z kategórií</string>
     <string name="accessibility_clear_search_bar_text">Vymazať vyhľadávanie</string>
@@ -7,6 +8,8 @@
     <string name="accessibility_enter_all_app_settings">Otvoriť nastavenia zoznamu aplikácií</string>
     <string name="accessibility_menu_item_split_disable">Aplikácia nepodporuje rozdelenie obrazovky.</string>
     <string name="accessibility_menu_item_split_enable">Aplikácia podporuje rozdelenie obrazovky</string>
+    <string name="accessibility_recent_task_show_menu">Viac možností</string>
+    <string name="accessibility_recents_item_dismissed">%1$s vymazané</string>
     <string name="accessibility_recents_item_open_app_info">Otvoriť informácie o aplikácii %s.</string>
     <string name="accessibility_splite_screen_primary">Pridané ako primárna aplikácia pre rozdelenie obrazovky</string>
     <string name="accessibility_splite_screen_secondary">Pridané ako sekundárna aplikácia pre rozdelenie obrazovky</string>
@@ -16,8 +19,10 @@
     <string name="add">Pridať</string>
     <string name="add_custom_category">Prispôsobiť</string>
     <string name="add_screen">Pridať tlačidlo plochy</string>
+    <string name="add_to_workspace">Pridať na plochu</string>
     <string name="added_all_category">Pridané všetky aplikácie</string>
     <string name="additional_settings">Ďalšie nastavenia</string>
+    <string name="agree_button">Súhlasím</string>
     <string name="all_app_category_all">Všetko</string>
     <string name="all_app_category_communication">Komunikácia</string>
     <string name="all_app_category_default">Kategória</string>
@@ -48,6 +53,7 @@
     <string name="all_apps_setting_title">Plocha</string>
     <string name="all_apps_slide_up_tips">Potiahnutie nahor otvorí zoznam aplikácií.</string>
     <string name="all_apps_suggestions">Návrh aplikácií</string>
+    <string name="animation_rate_title">Rýchlosť animácie</string>
     <string name="announce_for_app_move_in_folder">Presunuté na %1$d v zložke</string>
     <string name="announce_for_checked">%1$s, vybraných</string>
     <string name="announce_for_create_folder_with_app">Vytvorená zložka s %1$s</string>
@@ -75,6 +81,13 @@
     <string name="app_category_sport">Športy</string>
     <string name="app_category_tools">Nástroje</string>
     <string name="app_category_travel">Cestovanie</string>
+    <string name="app_drawer_double_confirm_description">Týmto sa zmení rozloženie vašej plochy. Tieto zmeny budete môcť neskôr vrátiť v Nastaveniach.</string>
+    <string name="app_drawer_double_confirm_title">Pozor</string>
+    <string name="app_drawer_feature_description">Zoznam aplikácií je dokonalým nástrojom na usporiadanie všetkých aplikácií. Automaticky kategorizujte aplikácie a rýchlo nájdite všetko, čo potrebujete!</string>
+    <string name="app_drawer_guide_description">Nájdite to, čo hľadáte vo svojich obľúbených aplikáciách</string>
+    <string name="app_drawer_guide_title">Zoznam aplikácií</string>
+    <string name="app_drawer_tip_title">Informačný kanál obsahu sme nahradili zoznamom aplikácií.</string>
+    <string name="app_install_state">Nainštalované</string>
     <string name="application_name">MIUI Launcher</string>
     <string name="apply">Použiť</string>
     <string name="apply_action">Použiť</string>
@@ -101,8 +114,39 @@
     <string name="back">Späť</string>
     <string name="backup_fail">Zálohovanie launchera zlyhalo.</string>
     <string name="bad_wallpaper_source_prompt">Nie je možné načítať tapetu</string>
+    <string name="branch_core_version">Základná verzia</string>
+    <string name="branch_deepview_button">Získať aplikáciu</string>
+    <string name="branch_deepview_button_description">Zobraziť tento obsah ihneď po inštalácii</string>
+    <string name="branch_feature_description">Okrem aplikácií dokáže Quick Finder nájsť obsah v aplikácii a položky online.</string>
+    <string name="branch_guide_attention">Používanie rozšíreného vyhľadávania vyžaduje zdieľanie vašich údajov na vyhľadávanie, Google Ads ID a IP adresy so spoločnosťou Branch Metrics Inc. Prečítajte si a vyjadrite súhlas s <a href="http://url1"><font color=" #B3000000">Podmienkami používania</font></a> a <a href="http://url2"><font color="#B3000000">Ochranou súkromia</font></a> pred použitím tejto funkcie.</string>
+    <string name="branch_guide_description_one">Všetky vaše aplikácie umiestnime do zásuvky aplikácií. Vaša plocha bude vyzerať elegantne a usporiadane.</string>
+    <string name="branch_guide_description_three">Vďaka vstavanému vyhľadávaniu budete môcť rýchlo nájsť všetko, čo potrebujete!</string>
+    <string name="branch_guide_description_two">Zoznam aplikácií automaticky kategorizuje aplikácie.</string>
+    <string name="branch_guide_tip_title">Každá aplikácia na svojom mieste</string>
+    <string name="branch_guide_title">Zoznam aplikácie Meet</string>
+    <string name="branch_guide_type_four_desc">Môžete sa vrátiť k starým spôsobom jediným klepnutím</string>
+    <string name="branch_guide_type_four_main">V \"Nastavenia\" - \"Domovská obrazovka\" prepínajte medzi dvoma režimami.</string>
+    <string name="branch_guide_type_four_step_one">Krok 1: kliknite na položku \"Nastavenia\"</string>
+    <string name="branch_guide_type_four_step_two">Krok 2: kliknite na \"Domovská obrazovka\"</string>
+    <string name="branch_guide_type_one_desc">Zoznam aplikácií vám pomôže spravovať vašu aplikáciu</string>
+    <string name="branch_guide_type_one_main">Všetky vaše aplikácie umiestnime do zásuvky aplikácií. Zabudované vyhľadávanie vám pomôže rýchlo nájsť čokoľvek, čo potrebujete!</string>
+    <string name="branch_new_feature">Nová funkcia</string>
+    <string name="branch_privacy_policy">Zásady ochrany osobných údajov</string>
+    <string name="branch_search_guide_description">Naše výsledky vyhľadávania sú teraz oveľa komplexnejšie</string>
+    <string name="branch_search_guide_privacy">"Túto službu používa spoločnosť Branch Metrics Inc. Informácie o vašej polohe, vyhľadávacie dopyty a Google Ads ID budú zdieľané s pobočkou. Prečítajte si a vyjadrite súhlas s "<a href="http:// url1"><font color="#B3000000">Zmluvné podmienky</font></a> a <a href="http://url2"><font color="#B3000000">Zásady ochrany osobných údajov</font></a> pred použitím tejto služby.</string>
+    <string name="branch_search_guide_title">Nájdite to, čo hľadáte vo svojich obľúbených aplikáciách</string>
+    <string name="branch_terms_condition">Zmluvné podmienky</string>
+    <string name="branch_tip_title">Pomocou Quick Finder nájdete všetko, čo potrebujete, v okamihu.</string>
+    <string name="branch_ui_version">Verzia používateľského rozhrania pobočky</string>
+    <string name="btn_agree">Súhlasím</string>
+    <string name="btn_cancel">Zrušiť</string>
+    <string name="btn_close">Vypnúť</string>
+    <string name="btn_open">Zapnúť</string>
+    <string name="btn_request_permission">Udeliť povolenia</string>
+    <string name="btn_set_right_now">Udeliť povolenia</string>
     <string name="buffering">Načítavanie...</string>
     <string name="cancel_action">Zrušiť</string>
+    <string name="cancel_botton">Zrušiť</string>
     <string name="cancel_btn_label">Zrušiť</string>
     <string name="cant_edit_lock_screen">Nie je možné upraviť štýl zamykacej obrazovky.</string>
     <string name="cant_remove_folder">Nie je možné vymazať zložky, ktoré nie sú prázdne</string>
@@ -129,7 +173,10 @@
     <string name="choose_wallpaper">Vyberte tapetu</string>
     <string name="chooser_wallpaper">Vybrať tapetu z</string>
     <string name="clearable_edittext_clear_description">Vyčistiť</string>
+    <string name="close_multi_finger_slide_summary">Tieto gestá budú v niektorých scenároch ignorované (napr. prehrávanie hier a videí)</string>
+    <string name="close_multi_finger_slide_title">"Nereagujte na gestá tromi a štyrmi prstami"</string>
     <string name="cloud_app_restore_title">V poradí</string>
+    <string name="common_google_play_services_unknown_issue">%1$s má problém so službami Google Play. Skúste to znova.</string>
     <string name="common_home_search_delete">Ostrániť lištu vyhľadávania z plochy</string>
     <string name="configure_wallpaper">Nastavenia</string>
     <string name="confirm_btn_label">OK</string>
@@ -163,6 +210,7 @@
     <string name="disable_wallpaper_scroll">Zakázať posúvanie tapety</string>
     <string name="double_tap_to_lock_title">Zamknúť dvojitým poklepaním</string>
     <string name="download_action">Stiahnuť</string>
+    <string name="drag_icon_to_homescreen_guide">Stlačte a podržte ikonu aplikácie a potom ju presuňte a pridajte odkaz na plochu</string>
     <string name="drawer_background">Pozadie</string>
     <string name="drawer_background_dark">Tmavé</string>
     <string name="drawer_background_light">Svetlé</string>
@@ -191,6 +239,8 @@
     <string name="emptyplaylist">Zoznam skladieb je prázdny</string>
     <string name="enable_wallpaper_scroll">Povoliť posúvanie tapety</string>
     <string name="encryption">Šifrovanie</string>
+    <string name="enter_search_setting_title">Po otvorení zoznamu aplikácií otvoriť vyhľadávanie</string>
+    <string name="exit_overview_because_task_stack_changed">Zatvorené Nedávne z dôvodu zmien, ku ktorým došlo na pozadí</string>
     <string name="expand_button_title">Rozšírené</string>
     <string name="failed_to_delete_temporary">Vymazanie sa nepodarilo. Skúste to prosím znovu.</string>
     <string name="failed_to_drop">Presun sa nepodaril.</string>
@@ -209,6 +259,8 @@
     <string name="fmt_date_short_month_day">"d. MMM "</string>
     <string name="fmt_date_short_year_month">MMM, yyyy</string>
     <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
+    <string name="fold_pair_install_shortcut_long_click">Stlačte a podržte pre pridanie na plochu</string>
+    <string name="fold_pair_installed_shortcut_launcher">Táto skratka už existuje</string>
     <string name="folder_name">Zložka</string>
     <string name="frame_load_failed">Načítavanie foto rámčeka zlyhalo!</string>
     <string name="free_style_apps_title">Vyberte aplikáciu</string>
@@ -264,12 +316,16 @@
     <string name="gadget_weather_title">Počasie</string>
     <string name="gadget_weather_title_14">Počasie 4X1</string>
     <string name="gadget_weather_title_24">Počasie 4X2</string>
+    <string name="garbage_count">Existuje %1$s starých súborov</string>
     <string name="global_search_hint">Vložte hľadaný výraz</string>
+    <string name="got_it_botton">Rozumiem</string>
     <string name="group_folder">Nová zložka</string>
     <string name="group_live_folders">Zložky</string>
     <string name="group_shortcuts">Skratky</string>
     <string name="guide_install_app_msg">Aplikácia nie je nainštalovaná. Chcete ju nájsť v obchode Google?</string>
     <string name="guide_install_app_title">Inštalovať Aplikáciu</string>
+    <string name="guide_permission_title">Vyžadujú sa povolenia</string>
+    <string name="guide_privacy_dialog_title">Zmluvné podmienky</string>
     <string name="guide_tips_editing_mode">Podržte prst na widgete pre jeho pretiahnutie na obrazovku</string>
     <string name="hide_apps_title">Skryť ikony na ploche</string>
     <string name="home_gesture_content_center">Centrum obsahu</string>
@@ -309,6 +365,9 @@
     <string name="launcher_slide_up_title">Potiahnutie nahor na ploche</string>
     <string name="launcher_sliding_up_gesture">Potiahnutím nahor otvoríte vyhľadávanie</string>
     <string name="launcher_title">Launcher</string>
+    <string name="layout_guide_description">Ak sa vám nepáči zoznam aplikácií, vždy sa môžete vrátiť na klasickú plochu. Stačí použiť skratku \"Nastavenia plochy\" a prepínať medzi týmito dvoma režimami.</string>
+    <string name="layout_guide_tip_title">Môžete sa vrátiť k starému spôsobu jediným klepnutím</string>
+    <string name="layout_guide_title">Ako odstrániť zásuvku aplikácie</string>
     <string name="like">Páči sa</string>
     <string name="liked">Páči sa</string>
     <string name="loading_desktop">Načítavanie launcheru...</string>
@@ -362,6 +421,7 @@
     <string name="minus_one_screen_google">Google</string>
     <string name="minus_one_screen_none">Žiadna</string>
     <string name="miui_screen_config_title">Nastavenie MIUI Launchera</string>
+    <string name="miui_widget_menu_replace_text">Zmeniť</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Odznačiť</string>
     <string name="miuix_appcompat_action_mode_select_all">Všetko</string>
     <string name="miuix_appcompat_action_mode_title_empty">Vybrať položky</string>
@@ -466,9 +526,11 @@
     <string name="network_error">Nebolo možné pripojiť sa k sieti.</string>
     <string name="no_detail_page">Žiadne podrobnosti</string>
     <string name="no_space_toast">Nie je voľné miesto</string>
+    <string name="no_space_toast_fold">Nie je tu dostatok miesta</string>
     <string name="no_space_toast_when_click_widget">Nie je dostatok miesta na tejto ploche.</string>
     <string name="normal_wallpaper">Tapeta</string>
     <string name="not_set">Nie je nastavené</string>
+    <string name="notification_channel_alerts">Upozornenia</string>
     <string name="notification_installed">Nainštalované</string>
     <string name="notification_open_button">Otvoriť</string>
     <string name="notification_reset_description">%1$s%1$s Môže obnoviť launcher do %2$s</string>
@@ -555,6 +617,7 @@
     <string name="recents_title_security_scan">Antivírus</string>
     <string name="recents_tv_small_window_text">Plávajúce okná</string>
     <string name="recents_worldcirculate_text">Vyberte uvoľnením</string>
+    <string name="recnets_relay_device_info">Od %s</string>
     <string name="recnets_worldcirculate_button_text">Xiaomi Smart Hub</string>
     <string name="recnets_worldcirculate_display_computer_info">Aplikácia funguje na %s.</string>
     <string name="recnets_worldcirculate_display_default_info">Dotykom ju vrátite späť sem.</string>
@@ -689,6 +752,7 @@
     <string name="uninstall_xspace_dialog_title_format">Odinštalovať klonované \"%s\"?</string>
     <string name="unknown_artist_name">Neznámy interpret</string>
     <string name="unnamed_folder_name">Bez mena</string>
+    <string name="upgrade_remove_small_window_in_recents">Postranný panel môžete použiť na otváranie aplikácií v plávajúcich oknách</string>
     <string name="use_theme_screen_cells_title">Povoliť zmenu mriežky podľa témy</string>
     <string name="wallpaper">Tapeta</string>
     <string name="wallpaper_auto_change_title">Zamykacia obrazovka</string>
@@ -708,72 +772,4 @@
     <string name="widget_quick_function">Skratky</string>
     <string name="widgets_preview_title">Pridať widget</string>
     <string name="yesterday">Včera</string>
-	
-<string name="Icon_name_classic_mode">Nastavenia plochy</string>
-    <string name="accessibility_recent_task_show_menu">Viac možností</string>
-    <string name="accessibility_recents_item_dismissed">%1$s vymazané</string>
-    <string name="agree_button">Súhlasím</string>
-    <string name="animation_rate_title">Rýchlosť animácie</string>
-    <string name="app_drawer_double_confirm_description">Týmto sa zmení rozloženie vašej plochy. Tieto zmeny budete môcť neskôr vrátiť v Nastaveniach.</string>
-    <string name="app_drawer_double_confirm_title">Pozor</string>
-    <string name="app_drawer_feature_description">Zoznam aplikácií je dokonalým nástrojom na usporiadanie všetkých aplikácií. Automaticky kategorizujte aplikácie a rýchlo nájdite všetko, čo potrebujete!</string>
-    <string name="app_drawer_guide_description">Nájdite to, čo hľadáte vo svojich obľúbených aplikáciách</string>
-    <string name="app_drawer_guide_title">Zoznam aplikácií</string>
-    <string name="app_drawer_tip_title">Informačný kanál obsahu sme nahradili zoznamom aplikácií.</string>
-    <string name="app_install_state">Nainštalované</string>
-    <string name="branch_core_version">Základná verzia</string>
-    <string name="branch_deepview_button">Získať aplikáciu</string>
-    <string name="branch_deepview_button_description">Zobraziť tento obsah ihneď po inštalácii</string>
-    <string name="branch_feature_description">Okrem aplikácií dokáže Quick Finder nájsť obsah v aplikácii a položky online.</string>
-    <string name="branch_guide_attention">Používanie rozšíreného vyhľadávania vyžaduje zdieľanie vašich údajov na vyhľadávanie, Google Ads ID a IP adresy so spoločnosťou Branch Metrics Inc. Prečítajte si a vyjadrite súhlas s <a href="http://url1"><font color=" #B3000000">Podmienkami používania</font></a> a <a href="http://url2"><font color="#B3000000">Ochranou súkromia</font></a> pred použitím tejto funkcie.</string>
-    <string name="branch_guide_description_one">Všetky vaše aplikácie umiestnime do zásuvky aplikácií. Vaša plocha bude vyzerať elegantne a usporiadane.</string>
-    <string name="branch_guide_description_three">Vďaka vstavanému vyhľadávaniu budete môcť rýchlo nájsť všetko, čo potrebujete!</string>
-    <string name="branch_guide_description_two">Zoznam aplikácií automaticky kategorizuje aplikácie.</string>
-    <string name="branch_guide_tip_title">Každá aplikácia na svojom mieste</string>
-    <string name="branch_guide_title">Zoznam aplikácie Meet</string>
-    <string name="branch_guide_type_four_desc">Môžete sa vrátiť k starým spôsobom jediným klepnutím</string>
-    <string name="branch_guide_type_four_main">V \"Nastavenia\" - \"Domovská obrazovka\" prepínajte medzi dvoma režimami.</string>
-    <string name="branch_guide_type_four_step_one">Krok 1: kliknite na položku \"Nastavenia\"</string>
-    <string name="branch_guide_type_four_step_two">Krok 2: kliknite na \"Domovská obrazovka\"</string>
-    <string name="branch_guide_type_one_desc">Zoznam aplikácií vám pomôže spravovať vašu aplikáciu</string>
-    <string name="branch_guide_type_one_main">Všetky vaše aplikácie umiestnime do zásuvky aplikácií. Zabudované vyhľadávanie vám pomôže rýchlo nájsť čokoľvek, čo potrebujete!</string>
-    <string name="branch_new_feature">Nová funkcia</string>
-    <string name="branch_privacy_policy">Zásady ochrany osobných údajov</string>
-    <string name="branch_search_guide_description">Naše výsledky vyhľadávania sú teraz oveľa komplexnejšie</string>
-    <string name="branch_search_guide_privacy">"Túto službu používa spoločnosť Branch Metrics Inc. Informácie o vašej polohe, vyhľadávacie dopyty a Google Ads ID budú zdieľané s pobočkou. Prečítajte si a vyjadrite súhlas s "<a href="http:// url1"><font color="#B3000000">Zmluvné podmienky</font></a> a <a href="http://url2"><font color="#B3000000">Zásady ochrany osobných údajov</font></a> pred použitím tejto služby.</string>
-    <string name="branch_search_guide_title">Nájdite to, čo hľadáte vo svojich obľúbených aplikáciách</string>
-    <string name="branch_terms_condition">Zmluvné podmienky</string>
-    <string name="branch_tip_title">Pomocou Quick Finder nájdete všetko, čo potrebujete, v okamihu.</string>
-    <string name="branch_ui_version">Verzia používateľského rozhrania pobočky</string>
-    <string name="btn_agree">Súhlasím</string>
-    <string name="btn_cancel">Zrušiť</string>
-    <string name="btn_close">Vypnúť</string>
-    <string name="btn_open">Zapnúť</string>
-    <string name="btn_request_permission">Udeliť povolenia</string>
-    <string name="btn_set_right_now">Udeliť povolenia</string>
-    <string name="cancel_botton">Zrušiť</string>
-    <string name="close_multi_finger_slide_summary">Tieto gestá budú v niektorých scenároch ignorované (napr. prehrávanie hier a videí)</string>
-    <string name="close_multi_finger_slide_title">"Nereagujte na gestá tromi a štyrmi prstami"</string>
-<string name="common_google_play_services_unknown_issue">%1$s má problém so službami Google Play. Skúste to znova.</string>
-<string name="drag_icon_to_homescreen_guide">Stlačte a podržte ikonu aplikácie a potom ju presuňte a pridajte odkaz na plochu</string>
-    <string name="enter_search_setting_title">Po otvorení zoznamu aplikácií otvoriť vyhľadávanie</string>
-    <string name="exit_overview_because_task_stack_changed">Zatvorené Nedávne z dôvodu zmien, ku ktorým došlo na pozadí</string>
-<string name="got_it_botton">Rozumiem</string>
-     <string name="guide_permission_title">Vyžadujú sa povolenia</string>
-     <string name="guide_privacy_dialog_title">Zmluvné podmienky</string>
-    <string name="layout_guide_description">Ak sa vám nepáči zoznam aplikácií, vždy sa môžete vrátiť na klasickú plochu. Stačí použiť skratku \"Nastavenia plochy\" a prepínať medzi týmito dvoma režimami.</string>
-     <string name="layout_guide_tip_title">Môžete sa vrátiť k starému spôsobu jediným klepnutím</string>
-     <string name="layout_guide_title">Ako odstrániť zásuvku aplikácie</string>
-	 
-<string name="garbage_count">Existuje %1$s starých súborov</string>
-     <string name="notification_channel_alerts">Upozornenia</string>
-	 
-<string name="add_to_workspace">Pridať na plochu</string>
-     <string name="fold_pair_install_shortcut_long_click">Stlačte a podržte pre pridanie na plochu</string>
-     <string name="fold_pair_installed_shortcut_launcher">Táto skratka už existuje</string>
-<string name="no_space_toast_fold">Nie je tu dostatok miesta</string>
-<string name="recnets_relay_device_info">Od %s</string>
-<string name="upgrade_remove_small_window_in_recents">Postranný panel môžete použiť na otváranie aplikácií v plávajúcich oknách</string>
-
-    <string name="miui_widget_menu_replace_text">Zmeniť</string>
 </resources>

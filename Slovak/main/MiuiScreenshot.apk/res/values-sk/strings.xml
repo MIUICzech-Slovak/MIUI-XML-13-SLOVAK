@@ -22,6 +22,8 @@
     <string name="cta_main_purpose">Vitajte v editore screenshotu! Túto aplikáciu môžete použiť na orezanie a úpravu snímok obrazovky.</string>
     <string name="custom_define_permission_desc_android.permission_group.STORAGE">Pre ukladanie screenshotu</string>
     <string name="default_device_name">Neznáme zariadenie</string>
+    <string name="device_list_all">Všetky zariadenia</string>
+    <string name="device_list_more">Viac</string>
     <string name="device_offline">Druhé zariadenie je offline. Začnite odznova.</string>
     <string name="device_status_failed">Nepodarilo sa odoslať</string>
     <string name="device_status_sending">Odosiela sa…</string>
@@ -52,6 +54,9 @@
     <string name="functions_are_being_developed">Táto funkcia bude čoskoro k dispozícii.</string>
     <string name="garbage_count">Existuje %1$s starých prípadov</string>
     <string name="global_main_purpose">Vitajte v editore snímok obrazovky! Túto aplikáciu môžete použiť na orezanie a úpravu snímok obrazovky. Táto aplikácia sa musí pripojiť k internetu, aby mohla normálne fungovať.</string>
+    <string name="global_pad">Môj tablet</string>
+    <string name="global_pc">Môj laptop</string>
+    <string name="global_phone">Môj telefón</string>
     <string name="help">Nemôžete nájsť zariadenia?</string>
     <string name="help_content">Ak nemôžete nájsť zariadenie, ktoré potrebujete, požiadajte druhú osobu, aby zapla Xiaomi Share.</string>
     <string name="image_decode_failed">Nepodarilo sa dekódovať obrázok</string>
@@ -221,10 +226,4 @@ dlhý screenshot"</string>
     <string name="wednesday_short">Str</string>
     <string name="wednesday_shortest">S</string>
     <string name="yesterday">Včera</string>
-    
-    <string name="global_pad">Môj tablet</string>
-    <string name="global_pc">Môj laptop</string>
-    <string name="global_phone">Môj telefón</string>
-    <string name="device_list_all">Všetky zariadenia</string>
-    <string name="device_list_more">Viac</string>        
 </resources>

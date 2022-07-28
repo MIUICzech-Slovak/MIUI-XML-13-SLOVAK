@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <string name="access_denied_info">Príliš veľa pokusov. Počkajte chvíľu a skúste to znova.</string>
     <string name="action_collapse">Skryť</string>
     <string name="action_expand">Viac</string>
     <string name="action_folder_description">Zložky</string>
@@ -206,6 +207,7 @@
     <string name="menu_create_folder">Nová zložka</string>
     <string name="menu_delete">Odstrániť</string>
     <string name="menu_delete_forever">Vymazať natrvalo</string>
+    <string name="menu_edit">Upraviť</string>
     <string name="menu_folders">Zložky</string>
     <string name="menu_group">Vytvoriť zložku</string>
     <string name="menu_hide">Ukryť</string>
@@ -296,6 +298,8 @@
     <string name="month_september">September</string>
     <string name="month_september_short">Sep</string>
     <string name="month_september_shortest">S</string>
+    <string name="network_error_info">Vyskytla sa chyba siete. Skontrolujte nastavenia siete a skúste to znova.</string>
+    <string name="network_timeout_info">Nepodarilo sa pripojiť k sieti. Skúste to znova.</string>
     <string name="new_audio_create_cancel_talkback_des">Zrušené</string>
     <string name="new_audio_create_done_talkback_des">Vytvorené</string>
     <string name="new_audio_create_guide_tip">Podržte pre vytvorenie nahrávky</string>
@@ -319,6 +323,7 @@
     <string name="note_mindnote_entrance_hint_newversion">"Začnite písať "</string>
     <string name="note_mindnote_entrance_icon_text">Vytvoriť myšlienkovú mapu</string>
     <string name="note_mindnote_entrance_icon_text_newversion">Vytvoriť myšlienkovú mapu</string>
+    <string name="note_module_name">Poznámky</string>
     <string name="note_not_text_stub">Žiaden text</string>
     <string name="note_sort_way">Triedenie poznámok</string>
     <string name="notealert_enter">Zobraziť</string>
@@ -374,6 +379,7 @@
     <string name="privacy_notes_fragment_title">Ukryté poznámky</string>
     <string name="private_entry_available">Pustite pre otvorenie súkromnej zložky</string>
     <string name="private_entry_default">Potiahnite nadol pre otvorenie súkromnej zložky</string>
+    <string name="progressbar_title">Kontrolujú sa bezpečnostné problémy…</string>
     <string name="quick_note_new_user_guide">Rýchle poznámky vám umožňujú vytvoriť poznámky a úryvky</string>
     <string name="recover_notes_hint">Boli zistené chyby poznámok, skúste ich obnoviť na i.mi.com</string>
     <string name="redo">Znovu</string>
@@ -426,6 +432,7 @@
     <string name="setting_big_screen_layout_columns">Bočný panel</string>
     <string name="setting_big_screen_layout_flat">Dlaždice</string>
     <string name="setting_big_screen_layout_title">Rozloženie na veľkej obrazovke</string>
+    <string name="setting_cloud_service">Služby Cloudu</string>
     <string name="setting_layout">Rozloženie</string>
     <string name="setting_micloud_sync_title">Xiaomi Cloud</string>
     <string name="setting_note_list_layout_title">Rozloženie</string>
@@ -470,6 +477,7 @@
     <string name="sync_note_folder">%1$s a %2$s</string>
     <string name="sync_note_todo">%1$s a %2$s</string>
     <string name="sync_tips">Dotykom synchr. poznámky s MiCloud.</string>
+    <string name="system_error_info">Systém je zaneprázdnený. Počkajte chvíľu a skúste to znova.</string>
     <string name="theme_blue_description">Modrá</string>
     <string name="theme_green_description">Zelená</string>
     <string name="theme_red_description">Červená</string>
@@ -610,10 +618,12 @@ Povoľte aplikácií Poznámky prístup k mikrofónu."</string>
     <string name="tuesday_shortest">U</string>
     <string name="unclassfied_folder_name">Nerozdelené</string>
     <string name="undo">Späť</string>
+    <string name="unknown_error_info">Neznáma chyba</string>
     <string name="unknown_source">Neznámy zdroj</string>
     <string name="view_all_notes">Zobraziť všetko</string>
     <string name="warn_cannot_add_new_bullet">Nie je možné pridať nový zoznam s odrážkami, pretože poznámka je príliš dlhá</string>
     <string name="warn_cannot_add_new_checkbox">Nie je možné pridať nové začiarkavacie políčko, pretože poznámka je príliš dlhá</string>
+    <string name="warn_cannot_add_new_content">Nie je možné pridať ďalší obsah, pretože poznámka je príliš dlhá</string>
     <string name="warn_cannot_add_new_doodle">Nové sviatočné logo nie je možné pridať, pretože poznámka je príliš dlhá</string>
     <string name="warn_cannot_add_new_element">Novú položku nie je možné pridať, pretože poznámka je príliš dlhá</string>
     <string name="warn_cannot_add_new_link_card">Nie je možné pridať nový odkaz, pretože poznámka je príliš dlhá</string>
@@ -643,22 +653,9 @@ http://www.miuios.cz/rom
     <string name="widget_size_item_big">Veľký</string>
     <string name="widget_size_item_medium">Stredný</string>
     <string name="widget_size_item_small">Malý</string>
+    <string name="widget_size_item_super_big">Mimoriadne veľké</string>
+    <string name="widget_size_not_support">Na tomto zariadení nie sú podporované mimoriadne veľké widgety</string>
     <string name="widget_take_notes_title">Poznámky</string>
     <string name="widget_under_privacy_mode">Režim Súkromie, nie je možné zobraziť obsah poznámky</string>
     <string name="yesterday">Včera</string>
-    
-    <string name="menu_edit">Upraviť</string>
-    <string name="note_module_name">Poznámky</string>
-    <string name="setting_cloud_service">Služby Cloudu</string>            
-	
-<string name="warn_cannot_add_new_content">Nie je možné pridať ďalší obsah, pretože poznámka je príliš dlhá</string>
-     <string name="widget_size_item_super_big">Mimoriadne veľké</string>
-     <string name="widget_size_not_support">Na tomto zariadení nie sú podporované mimoriadne veľké widgety</string>
-     
-<string name="access_denied_info">Príliš veľa pokusov. Počkajte chvíľu a skúste to znova.</string>
-     <string name="network_error_info">Vyskytla sa chyba siete. Skontrolujte nastavenia siete a skúste to znova.</string>
-     <string name="network_timeout_info">Nepodarilo sa pripojiť k sieti. Skúste to znova.</string>
-     <string name="progressbar_title">Kontrolujú sa bezpečnostné problémy…</string>
-     <string name="system_error_info">Systém je zaneprázdnený. Počkajte chvíľu a skúste to znova.</string>
-     <string name="unknown_error_info">Neznáma chyba</string>     
 </resources>

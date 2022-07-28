@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <string name="access_denied_info">Príliš veľa pokusov. Počkajte minútu alebo dve a skúste to znova.</string>
     <string name="agree_description">Povoľte tejto aplikácii pripojenie na internet pre jej správne fungovanie.</string>
     <string name="alert_message_clear_records">Vymazať vybrané nahrávky?</string>
     <string name="alert_message_delete_record">Vymazať vybranú nahrávku?</string>
@@ -47,6 +48,8 @@ Pri použití mobilných dát sa budú účtovať poplatky od operátora."</stri
     <string name="dialog_privacy_revoke_tips">Po odmietnutí autorizácie, aplikácia prestane zhromažďovať vaše dáta a všetky dáta budú vymazané zo servera. Chcete odmietnuť autorizáciu aj napriek tomu?.</string>
     <string name="dialog_title_storage_full">Nie je dostatok miesta.</string>
     <string name="download">Stiahnuť</string>
+    <string name="download_pause">Sťahovanie pozastavené. Dotykom obnovíte.</string>
+    <string name="downloading">Sťahuje sa. Dotykom pozastavíte.</string>
     <string name="duration_format_hour">%sh</string>
     <string name="duration_format_minute">%sm</string>
     <string name="duration_format_second">%ss</string>
@@ -85,6 +88,7 @@ Pri použití mobilných dát sa budú účtovať poplatky od operátora."</stri
     <string name="low_battery_error_confirm">OK</string>
     <string name="low_battery_error_for_pad">Ostáva menej ako %s batérie. Uložte svoje nahrávky aby ste o nich neprišli.</string>
     <string name="low_battery_error_title">Slabá batéria</string>
+    <string name="manage_external_storage">Prístup k všetkým súborom</string>
     <string name="mark_point_list_title">Označiť</string>
     <string name="message_file_size_error">Nahrávka dosiahla maximálnu dĺžku nahrávania podporovanú pre %s</string>
     <string name="minute_rain">Minútová predpoveď</string>
@@ -150,6 +154,8 @@ Pri použití mobilných dát sa budú účtovať poplatky od operátora."</stri
     <string name="month_september">September</string>
     <string name="month_september_short">Sep</string>
     <string name="month_september_shortest">S</string>
+    <string name="network_error_info">Vyskytla sa chyba siete. Skontrolujte nastavenia siete a skúste to znova.</string>
+    <string name="network_timeout_info">Nepodarilo sa pripojiť k sieti. Skúste to znova.</string>
     <string name="new_record_name">Nová nahrávka</string>
     <string name="new_saf_permission_dialog_content">"Povolenia k nahrávaniu boli aktualizované. Povoľte Záznamníku prístup k nahrávkam hovorov.
 
@@ -192,6 +198,7 @@ Klepnite na \"%1$s\" a potom vyberte \"%2$s\"."</string>
     <string name="privacy_policy_title">Ochrana súkromia</string>
     <string name="privacy_settings">Súkromie</string>
     <string name="progress">Ukazovateľ priebehu prehrávania</string>
+    <string name="progressbar_title">Kontrolujú sa bezpečnostné problémy…</string>
     <string name="recognition_error_cancel">Zrušené</string>
     <string name="recognition_error_download_cancel">Neskôr</string>
     <string name="recognition_error_download_fail">Sťahovanie zlyhalo. Skontrolujte nastavenie siete</string>
@@ -287,6 +294,8 @@ Klepnite na \"%1$s\" a potom vyberte \"%2$s\"."</string>
     <string name="sunday_short">Ned</string>
     <string name="sunday_shortest">N</string>
     <string name="switch_orientation_desc">Orientácia obrazovky</string>
+    <string name="sync_desc_state_complete">Synchr. s cloudom: %1$s</string>
+    <string name="system_error_info">Systém je zaneprázdnený. Počkajte minútu alebo dve a skúste to znova.</string>
     <string name="tap_to_record">Dotknite sa tlačidla pre spustenie nahrávania</string>
     <string name="text_btn_backward_3_seconds">3s späť</string>
     <string name="text_btn_complete">Hotovo</string>
@@ -324,6 +333,7 @@ Klepnite na \"%1$s\" a potom vyberte \"%2$s\"."</string>
     <string name="tuesday_shortest">U</string>
     <string name="uninstall_warning_content">Záznamník je systémová aplikácia. Ak ju odinštalujete, niektoré funkcie nemusia fungovať správne.</string>
     <string name="uninstall_warning_title">Odinštalovať Záznamník?</string>
+    <string name="unknown_error_info">Neznáma chyba</string>
     <string name="usage_description">Synchronizácia nahrávok s Xiaomi Cloudom</string>
     <string name="view_privacy">Zobraziť Ochranu súkromia</string>
     <string name="wednesday">Streda</string>
@@ -334,17 +344,4 @@ Klepnite na \"%1$s\" a potom vyberte \"%2$s\"."</string>
  Dotknite sa %s pre spustenie sťahovania po pripojení na Wi-Fi sieť."</string>
     <string name="wifi_recommended_title">Upozornenie na spotrebu dát</string>
     <string name="yesterday">Včera</string>
-	
-    <string name="manage_external_storage">Prístup k všetkým súborom</string>
-    <string name="sync_desc_state_complete">Synchr. s cloudom: %1$s</string>	
-    
-<string name="download_pause">Sťahovanie pozastavené. Dotykom obnovíte.</string>
-     <string name="downloading">Sťahuje sa. Dotykom pozastavíte.</string>
-     
-<string name="access_denied_info">Príliš veľa pokusov. Počkajte minútu alebo dve a skúste to znova.</string>
-     <string name="network_error_info">Vyskytla sa chyba siete. Skontrolujte nastavenia siete a skúste to znova.</string>
-     <string name="network_timeout_info">Nepodarilo sa pripojiť k sieti. Skúste to znova.</string>
-     <string name="progressbar_title">Kontrolujú sa bezpečnostné problémy…</string>
-     <string name="system_error_info">Systém je zaneprázdnený. Počkajte minútu alebo dve a skúste to znova.</string>
-     <string name="unknown_error_info">Neznáma chyba</string>                 
 </resources>

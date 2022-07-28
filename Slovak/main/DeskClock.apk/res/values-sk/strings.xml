@@ -8,7 +8,9 @@
     <string name="add_alarm">Pridať</string>
     <string name="add_clock">Pridať hodiny</string>
     <string name="add_common_timer">Pridať časovač</string>
+    <string name="add_new_sound">Pridať zvonenie</string>
     <string name="add_timer">Časovač</string>
+    <string name="add_timer_dialog_title">Pridať časovač</string>
     <string name="add_timezone_title">Pridať časovú zónu</string>
     <string name="agree">Súhlasím</string>
     <string name="alarm_alert">Zvonenie budíka</string>
@@ -37,6 +39,7 @@
     <string name="alarmclock_empty_text">Žiadne budíky</string>
     <string name="alarmclock_silent_hint">Budík je stíšený</string>
     <string name="alert">Vyzváňací tón</string>
+    <string name="alert_page_desc">Stlačte a podržte, potom potiahnutím nahor budík vypnite</string>
     <string name="alert_ringtone">Zvonenie budíka</string>
     <string name="alert_vibrate_enable_summary">Vibrovať po ukončení budíka</string>
     <string name="alert_volume">Hlasitosť zvonenia</string>
@@ -80,7 +83,9 @@
     <string name="cancel">Ukončiť</string>
     <string name="channel_name_alarm">Budík</string>
     <string name="channel_name_sleep">Spánok</string>
+    <string name="channel_name_stopwatch">Stopky</string>
     <string name="channel_name_timer">Časovač</string>
+    <string name="cities_show_limit_desc">Nie je možné zobraziť viac hodín</string>
     <string name="city_time_contrast_desc">Porovnať čas v rôznych mestách</string>
     <string name="clock_bg_button_setting_summary_common">Vybrať farbu pozadia aplikácie hodín</string>
     <string name="clock_bg_button_setting_summary_follow_sys">Čierne pozadie bude nastavené spolu s Tmavým režimom v Nastavenia - Nastavenia pre vývojárov - Tmavý režim</string>
@@ -92,6 +97,7 @@
     <string name="common_timer_selector">Vybrať časovač</string>
     <string name="confirm">Potvrdiť</string>
     <string name="confirm_abort">Zrušiť zmeny</string>
+    <string name="confirm_remove_custom_ringtone">Ak toto zvonenie odstránite, budíky a časovače, ktoré ho používajú, budú namiesto toho prehrávať predvolený vyzváňací tón. Odstrániť teraz?</string>
     <string name="content_desc_keep_screen">\"Nezhasínať displej\" tlačidlo</string>
     <string name="continue_operation">Pokračovať</string>
     <string name="continue_step">Ďalej</string>
@@ -99,6 +105,7 @@
     <string name="control_set_alarm_with_existing">Nastavenie budíka: %s</string>
     <string name="copy">Kopírovať</string>
     <string name="current_stopwatch_time">Súčasné načasovanie</string>
+    <string name="custom_ringtone_lost_permissions">Nie je možné načítať tento zvuk.</string>
     <string name="day">1 deň</string>
     <string name="day_concat">", "</string>
     <string name="days">%d dní</string>
@@ -112,6 +119,7 @@
     <string name="delete_timer_item_title">Vymazať časovač</string>
     <string name="delete_timezone_title">Vymazať časovú zónu</string>
     <string name="deskclock_sleep_no_disturbance">Hodiny - Spravovať spánok - Režim Nerušiť</string>
+    <string name="device_sounds">Zvuky zariadenia</string>
     <string name="dialog_confirm_abort">Naozaj chcete zrušiť vaše zmeny?</string>
     <string name="dialog_legal_off_day">Táto funkcia vyžaduje pripojenie k sieti. Pred jej použitím musíte súhlasiť s našimi Podmienkami používania a ochranou súkromia.</string>
     <string name="dialog_legal_off_day_desc">Aplikácia Hodiny nemá povolený prístup k sieti.</string>
@@ -262,6 +270,7 @@
     <string name="module_weather_ringtone_download_data_privacy">Počasie budíka vyberie rôzne melódie pre budenie podľa aktuálneho počasia. Je potrebné stiahnuť ≈30MB dodatočných dát. Pokračovať?</string>
     <string name="module_weather_ringtone_download_wifi">Počasie budíka vyberie rôzne melódie pre budenie podľa aktuálneho počasia. Je potrebné stiahnuť ≈30MB dodatočných dát. Pokračovať?</string>
     <string name="module_weather_ringtone_download_wifi_privacy">Počasie budíka vyberie rôzne melódie pre budenie podľa aktuálneho počasia. Je potrebné stiahnuť ≈30MB dodatočných dát. Pokračovať?</string>
+    <string name="module_weather_ringtone_introduce">Alarm počasia vyberá rôzne tóny zvonenia podľa aktuálneho počasia.</string>
     <string name="module_weather_ringtone_introduce_global">Počasie budíka vyberie rôzne melódie pre budenie podľa aktuálneho počasia.</string>
     <string name="module_weather_ringtone_update_data">Počasie budíka vyberie rôzne melódie pre budenie podľa aktuálneho počasia. Je potrebné stiahnuť ≈30MB dodatočných dát. Pokračovať?</string>
     <string name="module_weather_ringtone_update_success">Počasie budíka vyberie rôzne melódie pre budenie podľa aktuálneho počasia. Môžete to nastaviť v nastaveniach Hodín.</string>
@@ -356,6 +365,7 @@
     <string name="remark_hint">Zadajte názov</string>
     <string name="remind_ringtone">Vyzváňací tón</string>
     <string name="repeat_count">Krát</string>
+    <string name="repeat_type">Opakovať</string>
     <string name="reset">Zmaž</string>
     <string name="revert">Vrátiť späť</string>
     <string name="ringtone_all">Všetky zvonenia</string>
@@ -373,7 +383,9 @@
     <string name="search_events">Vyhľadať udalosť</string>
     <string name="search_history">História</string>
     <string name="search_menu_title">Vyhľadať</string>
+    <string name="select_all">Všetko</string>
     <string name="select_operation">Vybrať</string>
+    <string name="selected">Vybraté</string>
     <string name="set_alarm">Nastaviť budík</string>
     <string name="set_alarm_choose_ringtone">Vybrať zvonenie</string>
     <string name="set_alarm_done">Hotovo</string>
@@ -468,6 +480,7 @@
     <string name="timer_alert_type_beach">Pláž</string>
     <string name="timer_alert_type_forest">Les</string>
     <string name="timer_alert_type_mute">Predvolené</string>
+    <string name="timer_alert_type_no">Žiadny</string>
     <string name="timer_alert_type_rain">Dážď</string>
     <string name="timer_alert_type_spring_rain">Letný dážď</string>
     <string name="timer_alert_type_stove_fire">Oheň</string>
@@ -479,12 +492,16 @@
     <string name="timer_continue">Pokračovať</string>
     <string name="timer_continue_timer">Obnoviť</string>
     <string name="timer_created">Časovač vytvorený</string>
+    <string name="timer_desc_use_brush_teeth">Vyčistiť zuby</string>
+    <string name="timer_desc_use_facial_mask">Tvárová maska</string>
+    <string name="timer_desc_use_sleep">Spánok</string>
     <string name="timer_end_time">Časovač skončí o %s</string>
     <string name="timer_got_it">OK</string>
     <string name="timer_got_it_new">Stíšiť</string>
     <string name="timer_is_paused">Časovač je pozastavený</string>
     <string name="timer_item_delete">Vymazať</string>
     <string name="timer_item_duration_display">%1$dmin %2$ds</string>
+    <string name="timer_item_edit">Upraviť</string>
     <string name="timer_item_label_hint">Názov časovača</string>
     <string name="timer_item_picker_hour">hod</string>
     <string name="timer_item_picker_minute">min</string>
@@ -507,6 +524,8 @@
     <string name="tuesday_shortest">U</string>
     <string name="turn_off_a_repeat_alarm">Vypnúť opakovanie budíka</string>
     <string name="turn_off_this_repeat_alarm">Vypnúť opakovanie tohto budíka</string>
+    <string name="unknown_ringtone_title">Neznáme</string>
+    <string name="unselect_all">Zrušiť</string>
     <string name="upcoming_alarm">Budík: %s</string>
     <string name="upcoming_alarm_hint">Môžete ho zrušiť</string>
     <string name="update_health_app">Aktualizujte aplikáciu Zdravie</string>
@@ -519,6 +538,7 @@
     <string name="user_agreement">Podmienky používania</string>
     <string name="vibrate_pref_summary">Vibrovať počas budenia</string>
     <string name="vibrate_when_ringing">Vibrovať počas zvonenia</string>
+    <string name="voice_add_alarm">Pridať budík pomocou hlasového príkazu</string>
     <string name="volume_button_setting_desc">Priradiť funkcie k tlačidlám Zapínania a Hlasitosti</string>
     <string name="volume_button_setting_summary">Nastavte funkciu týchto tlačidiel, pokiaľ sú stlačená počas vyzváňania budíka.</string>
     <string name="volume_button_setting_title">Tlačidlá hlasitosti</string>
@@ -530,8 +550,13 @@
     <string name="wednesday_short">Str</string>
     <string name="wednesday_shortest">S</string>
     <string name="week_ringtone_recommend_desc">Prírodný budík prehráva rôzne zvuky v závislosti od dátumu. Nastaviť ako predvolený budík?</string>
+    <string name="white_noise">Hluk okolia</string>
+    <string name="white_noise_guide_desc">Pridajte zvuk na pozadí, aby ste sa mohli sústrediť</string>
+    <string name="white_noise_not_selected">Nevybraté</string>
+    <string name="white_noise_selected">Vybraté</string>
     <string name="white_noise_selector">Vybrať zvuk</string>
     <string name="workday_alarm_clock">Pracovný deň</string>
+    <string name="worldclock_edit_label">Svetové hodiny</string>
     <string name="worldclock_empty_text">Žiadne svetové hodiny</string>
     <string name="worldclock_input_hint_text">Zadajte mesto alebo krajinu</string>
     <string name="worldclock_local_time">Lokálny čas</string>
@@ -548,36 +573,8 @@
     <string name="worldcolock_timezone_date">dd MMM</string>
     <string name="worldcolock_timezone_gap">Hodina</string>
     <string name="worldcolock_timezone_local">Rovnaký čas ako u vás</string>
+    <string name="xiaomi_deskclock_uninstall_description_content">Hodiny sú systémová aplikácia. Po odinštalovaní aplikácie nebudete môcť kontrolovať čas, nastavovať budíky ani používať iné funkcie Hodín.</string>
+    <string name="xiaomi_deskclock_uninstall_description_title">Odinštalovať Hodiny?</string>
     <string name="yesterday">Včera</string>
-	
-<string name="add_new_sound">Pridať zvonenie</string>
-     <string name="confirm_remove_custom_ringtone">Ak toto zvonenie odstránite, budíky a časovače, ktoré ho používajú, budú namiesto toho prehrávať predvolený vyzváňací tón. Odstrániť teraz?</string>
-     <string name="custom_ringtone_lost_permissions">Nie je možné načítať tento zvuk.</string>
-     <string name="device_sounds">Zvuky zariadenia</string>
-     <string name="unknown_ringtone_title">Neznáme</string>
-     <string name="white_noise_not_selected">Nevybraté</string>
-     <string name="white_noise_selected">Vybraté</string>
-     <string name="your_sounds">Moje zvuky</string>
-     
-<string name="xiaomi_deskclock_uninstall_description_content">Hodiny sú systémová aplikácia. Po odinštalovaní aplikácie nebudete môcť kontrolovať čas, nastavovať budíky ani používať iné funkcie Hodín.</string>
-     <string name="xiaomi_deskclock_uninstall_description_title">Odinštalovať Hodiny?</string>     
-	 
-<string name="channel_name_stopwatch">Stopky</string>
-     <string name="cities_show_limit_desc">Nie je možné zobraziť viac hodín</string>
-     <string name="module_weather_ringtone_introduce">Alarm počasia vyberá rôzne tóny zvonenia podľa aktuálneho počasia.</string>
-     <string name="repeat_type">Opakovať</string>
-     <string name="select_all">Všetko</string>
-     <string name="selected">Vybraté</string>
-     <string name="timer_alert_type_no">Žiadny</string>
-     <string name="timer_desc_use_brush_teeth">Vyčistiť zuby</string>
-     <string name="timer_desc_use_facial_mask">Tvárová maska</string>
-     <string name="timer_desc_use_sleep">Spánok</string>
-     <string name="timer_item_edit">Upraviť</string>
-     <string name="unselect_all">Zrušiť</string>
-     <string name="voice_add_alarm">Pridať budík pomocou hlasového príkazu</string>
-     <string name="white_noise">Hluk okolia</string>
-     <string name="white_noise_guide_desc">Pridajte zvuk na pozadí, aby ste sa mohli sústrediť</string>
-     <string name="worldclock_edit_label">Svetové hodiny</string>
-     <string name="add_timer_dialog_title">Pridať časovač</string>	
-     <string name="alert_page_desc">Stlačte a podržte, potom potiahnutím nahor budík vypnite</string>                             
+    <string name="your_sounds">Moje zvuky</string>
 </resources>

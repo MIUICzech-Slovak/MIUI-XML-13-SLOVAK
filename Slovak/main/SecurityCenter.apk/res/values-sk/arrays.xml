@@ -229,11 +229,23 @@
         <item>Zoradiť podľa využitého úložiska</item>
         <item>Zoradiť podľa času inštalácie</item>
     </string-array>
+    <string-array name="sort_title_new">
+        <item>Zoradiť podľa názvu aplikácie</item>
+        <item>Zoradiť podľa frekvencie používania</item>
+        <item>Zoradiť podľa využitého úložiska</item>
+        <item>Zoradiť podľa času inštalácie</item>
+    </string-array>
     <string-array name="sort_type">
         <item>Stavu</item>
         <item>Názvu aplikácie</item>
         <item>Frekvencia používania</item>
         <item>Využitie úložiska</item>
+        <item>Čas inštalácie</item>
+    </string-array>
+    <string-array name="sort_type_new">
+        <item>Názov aplikácie</item>
+        <item>Frekvencia používania</item>
+        <item>Využitý ukladací priestor</item>
         <item>Čas inštalácie</item>
     </string-array>
     <string-array name="tether_limit_warn_type">
@@ -273,16 +285,4 @@
         <item>MB</item>
         <item>GB</item>
     </string-array>
-<string-array name="sort_title_new">
-         <item>Zoradiť podľa názvu aplikácie</item>
-         <item>Zoradiť podľa frekvencie používania</item>
-         <item>Zoradiť podľa využitého úložiska</item>
-         <item>Zoradiť podľa času inštalácie</item>
-      </string-array>
-      <string-array name="sort_type_new">
-         <item>Názov aplikácie</item>
-         <item>Frekvencia používania</item>
-         <item>Využitý ukladací priestor</item>
-         <item>Čas inštalácie</item>
-      </string-array> 
 </resources>

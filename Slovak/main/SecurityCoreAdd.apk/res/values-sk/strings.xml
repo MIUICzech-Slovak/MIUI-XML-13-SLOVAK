@@ -13,6 +13,7 @@ táto funkcia bude automaticky aktívna aj v Druhom profile."</string>
     <string name="air_space_exit">Odísť z Pracovného priestoru</string>
     <string name="air_space_setting">Nastavenie Pracovného priestoru</string>
     <string name="airspace_users_full">Nebolo možné vytvoriť viac pracovných priestorov</string>
+    <string name="alwaysUsePrompt">Zapamätať voľbu</string>
     <string name="appData">Nainštalované apl.</string>
     <string name="app_name">Bezpečnostné jadro</string>
     <string name="back">Späť</string>
@@ -492,6 +493,7 @@ Rozdeľte a zabezpečte svoje dáta."</string>
     <string name="xspace_guide_description">"Každý účet
 si zaslúži vlastnú aplikáciu"</string>
     <string name="xspace_guide_title">Vytvoriť klonovanú aplikáciu</string>
+    <string name="xspace_head">Klonovaná aplikácia</string>
     <string name="xspace_header">Klonované aplikácie</string>
     <string name="xspace_instagram_title">Instagram</string>
     <string name="xspace_install_complete">Vytvorenie klonovanej apl. dokončené. Otvoriť teraz.</string>
@@ -504,6 +506,7 @@ si zaslúži vlastnú aplikáciu"</string>
     <string name="xspace_loading_msg">Načítavanie apl...</string>
     <string name="xspace_notification">Upozornenia klonovaných aplikácií</string>
     <string name="xspace_remove">Vymazať účty klonovaných aplikácií</string>
+    <string name="xspace_resolver_activity_title">Vybrať aplikáciu</string>
     <string name="xspace_setting_label">Nastavenie klonovaných aplikácií</string>
     <string name="xspace_settins">Nastaviť</string>
     <string name="xspace_start">Vytvoriť</string>
@@ -513,8 +516,4 @@ si zaslúži vlastnú aplikáciu"</string>
     <string name="xspace_uninstalling">Odinštalovanie...</string>
     <string name="xspace_whatsapp_title">WhatsApp</string>
     <string name="yesterday">Včera</string>
-    
-<string name="alwaysUsePrompt">Zapamätať voľbu</string>
-    <string name="xspace_head">Klonovaná aplikácia</string>
-    <string name="xspace_resolver_activity_title">Vybrať aplikáciu</string>        
 </resources>

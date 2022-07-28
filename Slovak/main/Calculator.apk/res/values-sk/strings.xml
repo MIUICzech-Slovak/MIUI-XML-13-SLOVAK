@@ -504,6 +504,7 @@ Ročné a päťročné ZÚS budú stanovené vždy v 20. deň v mesiaci (môžu 
     <string name="tax_total_insurance_provident_fund">Poistenie a fond bývania</string>
     <string name="tax_unemployment">Nezamestnanosť</string>
     <string name="tax_update_time_format">Dáta poskytuje HeXun (%s)</string>
+    <string name="tenure_year_month">%1$s a %2$s</string>
     <string name="thursday">Štvrtok</string>
     <string name="thursday_short">Štv</string>
     <string name="thursday_shortest">Š</string>
@@ -831,5 +832,4 @@ Veľkosť delta aktualizácie: %2$s"</string>
     <string name="xiaomi_update_dialog_title">Aktualizácia aplikácie %1$s!</string>
     <string name="year" />
     <string name="yesterday">Včera</string>
-	<string name="tenure_year_month">%1$s a %2$s</string>
 </resources>

@@ -5,6 +5,7 @@
     <string name="accessibility_battery_level_charging">Nabíjanie batérie, %d percent.</string>
     <string name="add_custom_image">Vlastný obrázok</string>
     <string name="add_from_album">Vybrať z Galérie</string>
+    <string name="add_from_local">Vybrať obrázok</string>
     <string name="align_type">Zarovnať</string>
     <string name="always_style">Vždy</string>
     <string name="always_style_symmary">Spotrebuje viac energie</string>
@@ -242,6 +243,7 @@ N e"</string>
     <string name="text_length_exceed_limit_alert">*Zadaný text je príliš dlhý</string>
     <string name="text_size">Veľkosť textu</string>
     <string name="theme_cate_title">Téma</string>
+    <string name="theme_manager_other">Viac položiek</string>
     <string name="thursday">Štvrtok</string>
     <string name="thursday_short">Štv</string>
     <string name="thursday_shortest">Š</string>
@@ -257,8 +259,5 @@ N e"</string>
     <string name="wednesday">Streda</string>
     <string name="wednesday_short">Str</string>
     <string name="wednesday_shortest">S</string>
-    
-    <string name="theme_manager_other">Viac položiek</string>    
-    <string name="add_from_local">Vybrať obrázok</string>    
 </resources>
 

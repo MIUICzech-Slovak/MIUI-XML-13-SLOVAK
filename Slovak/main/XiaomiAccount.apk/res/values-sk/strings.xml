@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="about_device_info">Podrobnosti o zariadení</string>
+    <string name="about_mi_account">O účte Mi</string>
     <string name="accept">Povoliť</string>
     <string name="access_denied_info">Príliš mnoho pokusov. Skúste to neskôr.</string>
     <string name="access_token_expired_warning">Weibo account has expired, please rebind</string>
@@ -44,6 +45,7 @@
  ID účtu: %s"</string>
     <string name="account_token_expired_title">Chyba overenia</string>
     <string name="account_user_avatar">Profilová fotka</string>
+    <string name="account_user_avatar_activity_not_found">Nebolo možné otvoriť Galériu</string>
     <string name="account_user_avatar_from_album">Vybrať</string>
     <string name="account_user_avatar_from_camera">Odfotiť</string>
     <string name="account_user_base_info">Info o užívateľovi</string>
@@ -111,6 +113,14 @@
     <string name="change_password">Zmeniť heslo</string>
     <string name="change_phone_number">Zmeniť telefónne číslo</string>
     <string name="checking_phone_num_availible">Overenie telefónu...</string>
+    <string name="cloud_member">Predplatné</string>
+    <string name="cloud_member_status_expired">Skončené</string>
+    <string name="cloud_member_status_expired_soon">Čoskoro skončí</string>
+    <string name="cloud_member_status_non_vip">Navýšiť</string>
+    <string name="cloud_member_vipname_free">Zdarma</string>
+    <string name="cloud_member_vipname_mega">Mega</string>
+    <string name="cloud_member_vipname_premium">Prémium</string>
+    <string name="cloud_member_vipname_ultra">Ultra</string>
     <string name="cloud_service">MiCloud</string>
     <string name="cloud_service_status_backup_not_open">Zálohovanie je vypnuté</string>
     <string name="cloud_service_status_cloud_not_open">Vypnuté</string>
@@ -169,6 +179,7 @@
     <string name="confirm_unbind">Odpojiť?</string>
     <string name="confirm_unbundled_phone_dialog_message">Telefónne číslo %1$s a prepojený %2$s účet, Pokračovať s %3$s neprepojeným účtom. Chcete pokračovať?</string>
     <string name="continue_action">Pokračovať</string>
+    <string name="copy_link">Kopírovať adresu URL</string>
     <string name="copy_to_clipboard_successful">Skopírované</string>
     <string name="cta_declaration_agree_and_continue">Súhlasím</string>
     <string name="cta_declaration_exit">Ukončiť</string>
@@ -365,6 +376,8 @@
     <string name="multi_user_not_show_sync_activity_title">Nezapínajte synchr. s MiCloud</string>
     <string name="my_device_title">Súčasné zariadenie</string>
     <string name="my_favorite">Moje obľúbené</string>
+    <string name="network_error">Vyskytla sa chyba siete.</string>
+    <string name="network_error_hint">Skontrolujte adresu URL a skúste to znova, alebo skopírujte adresu URL a otvorte ju vo svojom prehliadači.</string>
     <string name="network_error_info">Chyba siete. Skontrolujte nastavenie siete.</string>
     <string name="network_timeout_info">Nebolo možné pripojiť sa k sieti.</string>
     <string name="no_account_or_forget_password">Vytvoriť účet alebo ste zabudli heslo?</string>
@@ -392,6 +405,7 @@
     <string name="optional_permissions">Voliteľné povolenia</string>
     <string name="other_devices">Ostatné zariadenia</string>
     <string name="other_devices_title">Ostatné zariadenia</string>
+    <string name="page_load_failed">Stránku nie je možné otvoriť</string>
     <string name="passport_access_denied">Prístup zamietnutý</string>
     <string name="passport_account_hint_text">Email alebo telefónne číslo</string>
     <string name="passport_account_identity_title">Overiť vašu identitu</string>
@@ -649,6 +663,7 @@ Skontrolujte aj SPAM."</string>
     <string name="personal_info_desc">Fotografia, prezývka, atď.</string>
     <string name="phone_activated">%s aktivované</string>
     <string name="phone_num_use_for">Telefónne číslo použité pre:</string>
+    <string name="phone_register">Použiť telefónne číslo</string>
     <string name="phone_send_verify_code_prompt">Odoslať overovací kód na %s</string>
     <string name="phone_unactivated">Neaktivované</string>
     <string name="phone_unknown">Neznáme</string>
@@ -774,6 +789,8 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
     <string name="update_phone_number_notice_message">Musíte overiť vašu identitu predtým ako zmeníte telefónne číslo.</string>
     <string name="updated_nothing">Žiadna aktualizácia</string>
     <string name="used_cloud_storage_info">Využité úložisko %s</string>
+    <string name="user_agreement_network_permission_msg">Potrebujeme sa pripojiť k internetu, aby sme vám mohli poskytnúť potrebné služby.</string>
+    <string name="user_agreement_use_account_msg">Účet Xiaomi vám umožňuje prístup ku všetkým službám poskytovaným spoločnosťou Xiaomi.</string>
     <string name="user_avatar_update_title">Aktualizovať profilovú fotografiu</string>
     <string name="user_avatar_uploading">Nahrávanie...</string>
     <string name="user_instruction_all_purpose">Vitajte v Xiaomi účte! Môžete vytvoriť nový účet alebo sa prihlásiť pre prístup k online Xiaomi službám.</string>
@@ -797,25 +814,4 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
     <string name="wipe_data_dialog_msg_separator">, </string>
     <string name="wipe_data_dialog_title">Niektoré položky neboli synchronizované.</string>
     <string name="yesterday">Včera</string>
-    <string name="about_mi_account">O účte Mi</string>
-        <string name="phone_register">Použiť telefónne číslo</string>
-		
-<string name="copy_link">Kopírovať adresu URL</string>
-     <string name="network_error">Vyskytla sa chyba siete.</string>
-     <string name="network_error_hint">Skontrolujte adresu URL a skúste to znova, alebo skopírujte adresu URL a otvorte ju vo svojom prehliadači.</string>
-     <string name="page_load_failed">Stránku nie je možné otvoriť</string>
-	
-<string name="user_agreement_network_permission_msg">Potrebujeme sa pripojiť k internetu, aby sme vám mohli poskytnúť potrebné služby.</string>
-     <string name="user_agreement_use_account_msg">Účet Xiaomi vám umožňuje prístup ku všetkým službám poskytovaným spoločnosťou Xiaomi.</string>	
-	 
-    <string name="account_user_avatar_activity_not_found">Nebolo možné otvoriť Galériu</string>	 
-    
-    <string name="cloud_member">Predplatné</string>
-    <string name="cloud_member_status_expired">Skončené</string>
-    <string name="cloud_member_status_expired_soon">Čoskoro skončí</string>
-    <string name="cloud_member_status_non_vip">Navýšiť</string>
-    <string name="cloud_member_vipname_free">Zdarma</string>
-    <string name="cloud_member_vipname_mega">Mega</string>
-    <string name="cloud_member_vipname_premium">Prémium</string>
-    <string name="cloud_member_vipname_ultra">Ultra</string>    
 </resources>

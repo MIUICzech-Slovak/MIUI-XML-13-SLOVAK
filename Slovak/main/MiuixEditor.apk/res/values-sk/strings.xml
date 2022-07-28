@@ -7,6 +7,11 @@
     <string name="floating_toolbar_close_overflow_description">Zatvoriť</string>
     <string name="floating_toolbar_open_overflow_description">Viac nastavení</string>
     <string name="frequent_phrases">Časté frázy</string>
+    <string name="google_call">Hovor</string>
+    <string name="google_email">Email</string>
+    <string name="google_map">Mapa</string>
+    <string name="google_open">Otvoriť</string>
+    <string name="google_translate">Preložiť</string>
     <string name="open">Prehliadať</string>
     <string name="query">Dopyt</string>
     <string name="select">Vybrať</string>
@@ -14,9 +19,4 @@
     <string name="translation_more">Viac</string>
     <string name="translation_query_error">Nič sa nenašlo</string>
     <string name="translation_query_error_network">Skontrolujte nastavenie siete</string>
-	    <string name="google_call">Hovor</string>
-    <string name="google_email">Email</string>
-    <string name="google_map">Mapa</string>
-    <string name="google_open">Otvoriť</string>
-    <string name="google_translate">Preložiť</string>
 </resources>

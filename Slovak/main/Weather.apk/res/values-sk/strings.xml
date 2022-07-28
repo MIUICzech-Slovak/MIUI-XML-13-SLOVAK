@@ -51,6 +51,7 @@
     <string name="content_desc_activity_main_add_city">Pridať mesto</string>
     <string name="content_desc_activity_main_add_city_manage">Správa miest</string>
     <string name="content_desc_activity_main_more_settings">Viac nastavení</string>
+    <string name="content_desc_activity_main_page">Strana %1$d z %2$d</string>
     <string name="content_desc_city_manage_del">Vymazať</string>
     <string name="content_desc_city_manage_edit">Spravovať mestá</string>
     <string name="content_desc_close_button">Zatvoriť</string>
@@ -370,6 +371,4 @@ Zadajte vaše mesto manuálne"</string>
     <string name="xiaomi_weather_description_title">O Počasí</string>
     <string name="yesterday">Včera</string>
     <string name="your_location">Vaša poloha</string>
-    
-    <string name="content_desc_activity_main_page">Strana %1$d z %2$d</string>    
 </resources>

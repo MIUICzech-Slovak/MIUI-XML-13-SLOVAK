@@ -96,6 +96,7 @@ Navštívte https://appleid.apple.com/#!&amp;page=signin pre vypnutie autentifik
     <string name="current_user_not_supported_summary">Aktuálne systémové nastavenia zakazujú prenos dát pomocou aplikácie Xiaomi Mover.</string>
     <string name="current_user_not_supported_title">Položky nie je možné preniesť</string>
     <string name="data_read_white_permission_desc">Na prenos položiek do iných zariadení</string>
+    <string name="deselect_all">Odznačiť</string>
     <string name="dialog_airplane_mode_button">Nastavenia</string>
     <string name="dialog_airplane_mode_content">Prenos dát nemôže fungovať správne ak je aktívny režim Lietadlo. Najskôr ho vypnite v nastaveniach.</string>
     <string name="dialog_airplane_mode_title">Vypnite režim Lietadlo</string>
@@ -555,6 +556,7 @@ Uvoľnite aspoň %s."</string>
     <string name="search_events">Vyhľadať udalosť</string>
     <string name="search_history">História</string>
     <string name="searching_for_new_device">Vyhľadávajú sa zariadenia v okolí…</string>
+    <string name="select_all">Všetko</string>
     <string name="select_android_summary">Huawei, OPPO, vivo a ďalšie</string>
     <string name="select_android_title">Android</string>
     <string name="select_apple_summary">iPhone</string>
@@ -721,6 +723,4 @@ na vašom iPhone"</string>
     <string name="wednesday_short">Str</string>
     <string name="wednesday_shortest">S</string>
     <string name="yesterday">Včera</string>
-    <string name="deselect_all">Odznačiť</string>
-    <string name="select_all">Všetko</string>        
 </resources>

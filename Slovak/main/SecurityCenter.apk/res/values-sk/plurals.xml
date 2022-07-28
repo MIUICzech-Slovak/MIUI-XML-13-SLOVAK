@@ -286,6 +286,18 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="other">%ds</item>
         <item quantity="one">%ds</item>
     </plurals>
+    <plurals name="gb_smart_battery_hrs">
+        <item quantity="other">%d h</item>
+        <item quantity="one">%d h</item>
+    </plurals>
+    <plurals name="gb_smart_battery_min">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="gb_smart_battery_surplus">
+        <item quantity="other">%2$1.2f h zostáva</item>
+        <item quantity="one">%2$1.2f h zostáva</item>
+    </plurals>
     <plurals name="gb_toolbox_guide_known">
         <item quantity="other">Rozumiem (%ds)</item>
         <item quantity="one">Rozumiem (%ds)</item>
@@ -532,6 +544,10 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="other">Zadajte aspoň %d znaky</item>
         <item quantity="one">Zadajte aspoň %d znak</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nových upozornení</item>
+        <item quantity="one">%d nové upozornenie</item>
+    </plurals>
     <plurals name="network_restrict_count">
         <item quantity="other">Prístup k sieti je zakázaný pre %d aplikácií</item>
         <item quantity="one">Prístup k sieti je zakázaný pre %d aplikáciu</item>
@@ -686,6 +702,14 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="other">Vaše zariadenie sa vypne o %ds</item>
         <item quantity="one">Vaše zariadenie sa vypne o %ds</item>
     </plurals>
+    <plurals name="power_battery_hour">
+        <item quantity="other">%s h</item>
+        <item quantity="one">%s h</item>
+    </plurals>
+    <plurals name="power_battery_minute">
+        <item quantity="other">%s min</item>
+        <item quantity="one">%s min</item>
+    </plurals>
     <plurals name="power_center_battery_charge_number">
         <item quantity="other">krát</item>
         <item quantity="one">krát</item>
@@ -761,6 +785,14 @@ If you turn on mobile data again, your carrier may charge you for additional dat
     <plurals name="power_main_battery_last_minute">
         <item quantity="other">Ostáva %smin</item>
         <item quantity="one">Ostáva %smin</item>
+    </plurals>
+    <plurals name="power_main_battery_last_minute_screen_on">
+        <item quantity="other">%s min ostáva</item>
+        <item quantity="one">%s min ostáva</item>
+    </plurals>
+    <plurals name="power_main_open_last_minute_screen_on">
+        <item quantity="other">Povoľte pre pridanie %s min svietenia displeja</item>
+        <item quantity="one">Povoľte pre pridanie %s min svietenia displeja</item>
     </plurals>
     <plurals name="power_off_warning_button_ok_time">
         <item quantity="other">Rozumiem (%ds)</item>
@@ -1016,38 +1048,4 @@ Dajte si pauzu!"</item>
         <item quantity="other">Vírusy: %d</item>
         <item quantity="one">Vírusy: %d</item>
     </plurals>
-    <plurals name="gb_smart_battery_surplus">
-        <item quantity="other">%2$1.2f h zostáva</item>
-        <item quantity="one">%2$1.2f h zostáva</item>
-    </plurals>    
-    
-    <plurals name="gb_smart_battery_hrs">
-        <item quantity="other">%d h</item>
-        <item quantity="one">%d h</item>
-    </plurals>
-    <plurals name="gb_smart_battery_min">
-        <item quantity="other">%d min</item>
-        <item quantity="one">%d min</item>
-    </plurals>    
-<plurals name="mtrl_badge_content_description">
-         <item quantity="other">%d nových upozornení</item>
-         <item quantity="one">%d nové upozornenie</item>
-     </plurals>	
-     
-    <plurals name="power_battery_hour">
-        <item quantity="other">%s h</item>
-        <item quantity="one">%s h</item>
-    </plurals>
-    <plurals name="power_battery_minute">
-        <item quantity="other">%s min</item>
-        <item quantity="one">%s min</item>
-    </plurals>
-    <plurals name="power_main_battery_last_minute_screen_on">
-        <item quantity="other">%s min ostáva</item>
-        <item quantity="one">%s min ostáva</item>
-    </plurals>
-    <plurals name="power_main_open_last_minute_screen_on">
-        <item quantity="other">Povoľte pre pridanie %s min svietenia displeja</item>
-        <item quantity="one">Povoľte pre pridanie %s min svietenia displeja</item>
-    </plurals>         
 </resources>

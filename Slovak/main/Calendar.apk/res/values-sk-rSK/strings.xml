@@ -2,5 +2,5 @@
 <resources>
     <string name="date_interval_end">Do</string>
     <string name="does_not_repeat">Jednorázová udalosť</string>
-    <string name="second_saturday_holiday">Každá druhá sobota je voľno</string>    
+    <string name="second_saturday_holiday">Každá druhá sobota je voľno</string>
 </resources>

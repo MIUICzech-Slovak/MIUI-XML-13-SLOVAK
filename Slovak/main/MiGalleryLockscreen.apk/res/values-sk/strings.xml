@@ -76,6 +76,7 @@
     <string name="at_least_one">Vyberte aspoň jednu kategóriu</string>
     <string name="auth_fail_warning">Platnosť relácie vypršala. Prihláste sa znova.</string>
     <string name="auto_interval">Auto</string>
+    <string name="back">Späť</string>
     <string name="back_icon_content_description">Späť</string>
     <string name="bind_sign_in_title">Pripojiť k Xiaomi účtu</string>
     <string name="cancel">Ukončiť</string>
@@ -130,6 +131,7 @@
     <string name="clear_text_end_icon_content_description">Vymazať text</string>
     <string name="clearable_edittext_clear_description">Vymazať</string>
     <string name="close">Zavrieť</string>
+    <string name="close_country_code_content_description">Vymazať predvoľbu</string>
     <string name="close_gallery">Vypnúť</string>
     <string name="collect_diagnosis_log">Zbierať denníky</string>
     <string name="comment_pop_cancel">Teraz nie</string>
@@ -211,8 +213,10 @@
     <string name="detail_no_more_recomm">Žiadne ďalšie položky na zobrazenie.</string>
     <string name="detail_no_net">"Nepodarilo sa pripojiť k sieti."</string>
     <string name="detail_outer_menu_icon">Ponuka</string>
+    <string name="detail_recomm_excellent">Odporúčané</string>
     <string name="detail_recomm_fail">„Nepodarilo sa získať odporúčania“</string>
     <string name="detail_recomm_load_tip">Priraďuje sa vašim záujmom…</string>
+    <string name="detail_recomm_personal">Odporúčané</string>
     <string name="detail_toast_deny_apply">„Nedá sa použiť.“</string>
     <string name="detail_toast_deny_dislike">"Nedá sa odstrániť"</string>
     <string name="detail_toast_deny_favor">„Nedá sa pridať medzi obľúbené.“</string>
@@ -243,6 +247,7 @@ Pošlite tento kód nadriadenému."</string>
     <string name="exposed_dropdown_menu_content_description">Zobraziť rozbaľovaciu ponuku</string>
     <string name="external_storage_permission">Prístup k úložisku</string>
     <string name="external_storage_permission_summary">Na výber vlastných tapiet a uloženie stiahnutých položiek</string>
+    <string name="facebook_login_btn_content_description">Prihlásiť cez Facebook</string>
     <string name="failed_dup_secure_phone_number">Toto telefónne číslo je už priradené k inému účtu Mi</string>
     <string name="favor_list_no_data">Žiadne položky.</string>
     <string name="favor_list_title">Obľúbené</string>
@@ -271,6 +276,7 @@ Pošlite tento kód nadriadenému."</string>
     <string name="get_ph_ticket">Získať kód</string>
     <string name="get_phone_bind_exceed_limit">"K telefónnemu číslu môžete priradiť až 3 Xiaomi účty. Nie je možné pridávať nové účty."</string>
     <string name="get_phone_verifycode_exceed_limit">Na toto číslo bolo odoslaných príliš veľa verifikačných kódov. Počkajte 24 hodín a skúste to znova.</string>
+    <string name="google_login_btn_content_description">Prihlásiť cez Google</string>
     <string name="goto_confirm">Nastavenia</string>
     <string name="goto_sign_up">Vytvoriť účet</string>
     <string name="history_list_no_data">Žiadne položky</string>
@@ -390,6 +396,7 @@ To môže spôsobiť dodatočné poplatky."</string>
     <string name="look_str">Populárne</string>
     <string name="main_fragment_title_discover">Objaviť</string>
     <string name="main_fragment_title_home">Odporúčané</string>
+    <string name="main_fragment_title_home_excellent">Odporúčané</string>
     <string name="main_fragment_title_search">Najlepšie</string>
     <string name="main_fragment_title_user">Nastavenia</string>
     <string name="manage">Spravovať</string>
@@ -909,13 +916,4 @@ To môže spôsobiť dodatočné poplatky."</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Aktualizácia</string>
     <string name="xiaomi_market_sdk_update_dialog_title">K dispozícii je aktualizácia</string>
     <string name="yesterday">Včera</string>
-<string name="detail_recomm_excellent">Odporúčané</string>
-<string name="detail_recomm_personal">Odporúčané</string>
-<string name="main_fragment_title_home_excellent">Odporúčané</string>
-
-<string name="back">Späť</string>
-    <string name="close_country_code_content_description">Vymazať predvoľbu</string>
-    <string name="facebook_login_btn_content_description">Prihlásiť cez Facebook</string>
-    <string name="google_login_btn_content_description">Prihlásiť cez Google</string>
-            
 </resources>
