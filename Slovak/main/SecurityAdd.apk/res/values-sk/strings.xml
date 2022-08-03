@@ -320,4 +320,7 @@
     <string name="wlan_change_protection_detail">Neprepínať automaticky na Wi-Fi po pripojení na mobilné dáta</string>
     <string name="wlan_change_protection_title">Zamedziť zmene siete</string>
     <string name="yesterday">Včera</string>
+    
+    <string name="power_center_battery_duration_screen_on">Ostávajúci čas displeja</string>
+    <string name="power_main_battery_last_hour_minute_screen_on">%1$s %2$s z ostávajúceho času displeja</string>    
 </resources>

@@ -453,4 +453,8 @@
     <string name="wireless_charging_notification_titile">Reverzné bezdrôtové nabíjanie je deaktivované</string>
     <string name="xspace_head">Klonovaná aplikácia</string>
     <string name="xspace_resolver_activity_title">Vybrať apl.</string>
+    
+<string name="hs_guide_dialog_button_confirm">Rozumiem</string>
+     <string name="hs_guide_dialog_message">Táto aplikácia ešte nebola optimalizovaná pre nový režim na šírku. Namiesto toho bola prepnutá na iné kompatibilné rozloženie.</string>
+     <string name="hs_guide_dialog_title">Upozornenie</string> 
 </resources>

@@ -12,4 +12,13 @@
         <item quantity="other">Nebolo možné stiahnuť: %1$d</item>
         <item quantity="one">Nebolo možné stiahnuť: %1$d</item>
     </plurals>
+    
+<plurals name="dialog_confirm_delete_downloads_message">
+         <item kvantita="other">Odstrániť %d stiahnutí?</item>
+         <item kvantita="one">Odstrániť %d stiahnutie?</item>
+     </plurals>
+     <plurals name="download_info_count_deleted_tasks">
+         <item kvantita="other">Stiahnuté súbory %s boli úspešne odstránené</item>
+         <item kvantita="one">Sťahovanie %s bolo úspešne odstránené</item>
+     </plurals>    
 </resources>

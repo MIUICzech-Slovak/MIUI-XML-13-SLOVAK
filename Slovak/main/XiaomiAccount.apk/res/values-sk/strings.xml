@@ -814,4 +814,6 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
     <string name="wipe_data_dialog_msg_separator">, </string>
     <string name="wipe_data_dialog_title">Niektoré položky neboli synchronizované.</string>
     <string name="yesterday">Včera</string>
+    
+<string name="passport_vcode_what_app_send_prompt">Váš overovací kód WhatsApp bude doručený na váš telefón na obnovenie %s</string>
 </resources>

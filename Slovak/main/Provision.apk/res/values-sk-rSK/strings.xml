@@ -530,4 +530,6 @@ Pred použitím tejto funkcie musíte súhlasiť so Zásadami ochrany osobných 
     <string name="withdraw_consent">Ak svoj súhlas odvoláte, služby Dennej tapety budú deaktivované.</string>
     <string name="yesterday">Včera</string>
     <string name="zone_picker_title">Vyberte časovú zónu</string>
+    
+<string name="location_introduction_qcom">Služby určovania polohy používajú určovanie polohy na poskytovanie služieb špecifických pre vašu polohu.</string>    
 </resources>

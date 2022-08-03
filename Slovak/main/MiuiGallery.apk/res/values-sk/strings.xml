@@ -1765,7 +1765,7 @@ Pripojte nabíjačku a vypnite obrazovku, aby sa objavili spomienky."</string>
     <string name="projection_cancel">Zrušiť</string>
     <string name="projection_checkbox_text">Pamätať toto zariadenie</string>
     <string name="projection_device_connection_failed">Pripojenie k TV zlyhalo</string>
-    <string name="projection_local_mobile">Mobil</string>
+    <string name="projection_local_mobile">Toto zariadenie</string>
     <string name="projection_multi_title">Zoznam zariadení</string>
     <string name="projection_screen_project_in_screening">Používate vaše zariadenie pre vysielanie</string>
     <string name="projection_single_title">Zobraziť na %s</string>
@@ -2516,4 +2516,14 @@ Pripojte nabíjačku a vypnite obrazovku, aby sa objavili spomienky."</string>
     <string name="yuzhitiaojie">Upravenie hrúbky</string>
     <string name="zi_ding_yi_wenben">Vlastná veľkosť</string>
     <string name="zman_title">Bezpečné zdieľanie</string>
+    
+<string name="assistant_today_of_year_function_closed_tip">Zapnúť</string>
+     <string name="assistant_today_of_year_function_no_address_tip">Späť v čase</string>
+     <string name="assistant_today_of_year_function_no_photo_tip">Začať</string>
+     <string name="cta_screenthrow_declare">Aby bolo možné prenášať obrazovku tohto zariadenia na externé monitory, musí sa táto aplikácia pripojiť k internetu.</string>
+     <string name="fail_reason_migrate">Prebieha spracovanie položiek... Počkajte minútu alebo dve a skúste to znova.</string>
+     <string name="home_sdcard_op_tip_msg">Túto akciu sa nepodarilo dokončiť pre všetky vybraté obrázky. Odpojte a znova pripojte SD kartu.</string>
+     <string name="home_sdcard_tip_msg">Zdá sa, že vaša SD karta je len na čítanie. Odpojte ho a znova ho pripojte v časti Nastavenia > Informácie o telefóne > Úložisko.</string>
+     <string name="ocr_switch_hint">Rozpoznať text zobrazený na obrázkoch, aby ste ho mohli vybrať alebo vykonať akciu</string>
+     <string name="ocr_switch_title">Rozpoznať text na obrázkoch</string>    
 </resources>
