@@ -75,15 +75,15 @@
     </plurals>
     
 <plurals name="power_battery_hour">
-         <item quality="other">%s h</item>
-         <item kvantita="one">%s h</item>
+         <item quantity="other">%s h</item>
+         <item quantity="one">%s h</item>
      </plurals>
      <plurals name="power_battery_minute">
-         <item quality="other">%s min</item>
-         <item number="one">%s min</item>
+         <item quantity="other">%s min</item>
+         <item quantity="one">%s min</item>
      </plurals>
      <plurals name="power_main_battery_last_minute_screen_on">
-         <item kvantita="other">Zostáva %s minút času displeja</item>
-         <item kvantita="one">Zostáva %s min času displeja</item>
+         <item quantity="other">Zostáva %s minút času displeja</item>
+         <item quantity="one">Zostáva %s min času displeja</item>
      </plurals>    
 </resources>
