@@ -1971,4 +1971,10 @@ Ak sa rozhodnete uprednostňovať mobilné siete, budú sa predvolene používa�
     <string name="xdivert_summary">CFNRc Nastavenia</string>
     <string name="xdivert_title">X-Divert</string>
     <string name="yesterday">Včera</string>
+    
+<string name="data_interruption_remind_for_t">Zdá sa, že vaše dátové pripojenie nie je spoľahlivé. Ak chcete zlepšiť pripojenie, povoľte svojmu zariadeniu používať mobilné dáta počas hovorov VoLTE na sekundárnej SIM.</string>
+     <string name="smart_switch_dual_sim_prompt">Pripojenie k mobilnej dátovej sieti pomocou SIM karty %1$s môže spôsobiť ďalšie poplatky za dáta. Nastavte si limit spotreby dát, aby ste sa vyhli ďalším poplatkom.</string>
+     <string name="smart_switch_dual_sim_summary">Automaticky prepínať medzi dátovými SIM kartami na základe kvality sieťového pripojenia a stavu zariadenia</string>
+     <string name="smart_switch_dual_sim_title">Prepínanie medzi dátovými SIM kartami</string>
+        
 </resources>
