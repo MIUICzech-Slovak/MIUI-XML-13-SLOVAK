@@ -1056,4 +1056,6 @@ Pokus: %s."</string>
     <string name="zero_sms_feedback_message">Nahlásené správy sú odoslané na náš server pre ďalšiu analýzu.</string>
     <string name="zero_sms_feedback_success">Nahlásené</string>
     <string name="zero_sms_feedback_title">Nahlásiť</string>
+    
+    <string name="sim_not_support_mms">Táto SIM karta nepodporuje MMS</string>    
 </resources>

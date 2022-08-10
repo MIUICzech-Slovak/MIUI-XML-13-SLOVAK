@@ -966,4 +966,17 @@ Získali ste ďalších %1$s"</string>
     <string name="year_month_day_format">dd. MMM. yyyy</string>
     <string name="yes">Áno</string>
     <string name="yesterday">Včera</string>
+    
+<string name="add_to_widget">Pridať widget</string>
+     <string name="dialog_keep_choice">Zapamätať</string>
+     <string name="tips_add_to_widget">Do tohto widgetu môžete pridať až %d súborov. Ak pridáte ďalšie súbory, predtým pridané súbory budú nahradené.</string>
+     <string name="widget_add_files">Pridať súbor</string>
+     <string name="widget_added_fail_content">%1$s je už na ploche</string>
+     <string name="widget_added_fail_tips">Nepodarilo sa pridať</string>
+     <string name="widget_added_success_content">Pridal %1$s na plochu</string>
+     <string name="widget_added_success_tips">Úspešne pridané</string>
+     <string name="widget_choose_file">Dotykom pridáte súbory</string>
+     <string name="widget_choose_fragment_title">Vyberte typ súboru</string>
+     <string name="widget_finish">Hotovo</string>
+                    
 </resources>

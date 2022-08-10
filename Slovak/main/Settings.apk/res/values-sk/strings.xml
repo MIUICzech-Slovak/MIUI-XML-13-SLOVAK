@@ -7732,4 +7732,8 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
     <string name="zone_list_menu_sort_alphabetically">Zoradiť abecedne</string>
     <string name="zone_list_menu_sort_by_timezone">Zoradiť podľa časového pásma</string>
         <string name="miheadset_open_closeAnc">Potlačenie šumu Zap/Vyp</string>
+        
+<string name="accept_new_connection">Povoliť nové pripojenia</string>
+     <string name="accept_new_connection_detail">Nové pripojenia bluetooth boli z ovládacieho centra vypnuté</string>
+     <string name="bt_always_show_icon">Vždy zobrazovať ikonu bluetooth v stavovom riadku</string>        
 </resources>

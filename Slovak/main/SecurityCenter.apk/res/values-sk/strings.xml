@@ -5691,4 +5691,11 @@ Skúste zväčšiť rozlíšenie!"</string>
     <string name="xspace_warning_dialog_title">Upozornenie</string>
     <string name="xunyou_server_expired">Relácia vypršala.</string>
     <string name="yesterday">Včera</string>
+    
+<string name="application_mode_name">Rozloženia aplikácií</string>
+     <string name="icon_created_settings_preference">Pridané</string>
+     <string name="main_toolbar_custom_service">Služba zákazníkom</string>
+     <string name="pc_endurance_calculation">Prebieha výpočet…</string>
+     <string name="size_embedded">Paralelné okná</string>
+     <string name="size_full">Celá obrazovka</string>    
 </resources>

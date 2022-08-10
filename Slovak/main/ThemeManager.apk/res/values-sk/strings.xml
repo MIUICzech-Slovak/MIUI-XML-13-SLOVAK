@@ -1362,4 +1362,6 @@ ale obsah ktorý hľadáte nie je dostupný vo vašej krajine."</string>
     <string name="wifi_check_message">Používať na sťahovanie aktualizácií mobilné dáta?</string>
     <string name="wifi_check_tip">Už nezobrazovať</string>
     <string name="yesterday">Včera</string>
+    
+<string name="recommend_bottom_tips">Ste na spodku</string>    
 </resources>
