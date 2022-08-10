@@ -820,7 +820,6 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
 <string name="user_agreement_device_permission_desc">Na zaistenie bezpečnosti prihlasovacieho prostredia</string>
     <string name="user_agreement_device_permission_title">Prístup k informáciám o zariadení</string>
     <string name="user_agreement_must_permission_msg">Povinné povolenia (používané pre základné funkcie a služby tejto aplikácie)</string>
-    <string name="user_agreement_network_permission_msg">Táto aplikácia sa musí pripojiť k internetu a vyžaduje nasledujúce povolenia, aby mohla normálne fungovať:</string>
     <string name="user_agreement_permission_summary_msg">Účet Xiaomi vám umožňuje prístup ku všetkým službám poskytovaným spoločnosťou Xiaomi. Táto aplikácia sa musí pripojiť k internetu a vyžaduje nasledujúce povolenia, aby mohla normálne fungovať:</string>
     <string name="user_agreement_wifi_permission_title">Zapnutie a vypnutie Wi-Fi</string>
     <string name="user_agreement_wlan_permission_desc">Na kontrolu bezpečnostných problémov v prihlasovacom prostredí</string>
