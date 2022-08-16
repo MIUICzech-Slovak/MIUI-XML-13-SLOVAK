@@ -385,4 +385,7 @@ Stlačte \"%1$s\" a potom vyberte \"%2$s\"."</string>
     <string name="wednesday_shortest">S</string>
     <string name="wifi_call">VoWi-fi hovor</string>
     <string name="yesterday">Včera</string>
+	
+<string name="call_log_short_in">Toto číslo vám práve volalo</string>
+     <string name="call_log_short_out">Na toto číslo ste práve volali</string>	
 </resources>

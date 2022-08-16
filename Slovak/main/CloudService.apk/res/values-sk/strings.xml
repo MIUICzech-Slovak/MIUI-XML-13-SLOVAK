@@ -1133,4 +1133,7 @@ Prečítajte si a odsúhlaste naše Podmienky používania a Ochranu súkromia.
     <string name="xiaomi_cloud_service_subtitle">Všetky dôležité položky na jednom mieste</string>
     <string name="xmpp_server_addr" />
     <string name="yesterday">Včera</string>
+	
+<string name="find_permission_phone_sim_info_summary">Na prístup k vašej polohe prostredníctvom SMS, keď nie ste pripojení k sieti</string>
+     <string name="find_permission_phone_sim_info_title">Prístup k informáciám o zariadení</string>	
 </resources>
