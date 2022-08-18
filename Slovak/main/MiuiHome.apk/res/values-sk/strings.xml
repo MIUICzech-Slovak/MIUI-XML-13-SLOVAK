@@ -772,4 +772,5 @@
     <string name="widget_quick_function">Skratky</string>
     <string name="widgets_preview_title">Pridať widget</string>
     <string name="yesterday">Včera</string>
+    <string name="miui_widget_menu_replace_text">Prepnúť</string>    
 </resources>

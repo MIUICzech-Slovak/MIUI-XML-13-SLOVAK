@@ -93,7 +93,7 @@
     <string name="fmt_date_short_year_month">MMM, yyyy</string>
     <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
     <string name="font_hint_large">Predvolená veľkosť textu</string>
-    <string name="font_hint_normal">Zväčšiť veľkosť textu</string>
+    <string name="font_hint_normal">Zväčšiť</string>
     <string name="framework_introduction">Framework Xiaomi Služby vám umožňuje používať služby Xiaomi Konto, Xiaomi Push, Xiaomi Stats a MIUI BI.</string>
     <string name="framwork_base_service">Aby sme vám mohli poskytnúť tieto služby, Framework Xiaomi Služby (Xiaomi Konto, Xiaomi Push, Xiaomi Stats MIUI BI) vyžaduje pripojenie k internetu, prístup k telefónnemu číslu, IMEI a IMSI a povolenie na dostávanie push notifikácií</string>
     <string name="friday">Piatok</string>
@@ -194,7 +194,7 @@
     <string name="multisim_settings_sb_title">Našla sa 1 SIM karta</string>
     <string name="multisim_settings_title">Našli sa 2 SIM karty</string>
     <string name="navigation_picker_gesture_guide">Sprievodca gestami</string>
-    <string name="navigation_picker_radio_text_full_screen">Gestá celej obrazovky</string>
+    <string name="navigation_picker_radio_text_full_screen">Gestá</string>
     <string name="navigation_picker_radio_text_virtual_key">Tlačidlá</string>
     <string name="next">Ďalej</string>
     <string name="next_fingerprint">Ďalej</string>
@@ -402,7 +402,7 @@ Zobraziť Zásady ochrany osobných údajov pre vybranú klávesnicu."</string>
     <string name="service_privacy_index">Zásady ochrany osobných údajov</string>
     <string name="service_sim_activation">Aktivácia SIM karty</string>
     <string name="servicestate_title">Vyhlásenie o základných službách</string>
-    <string name="setting_locale">Nastavovanie oblasti…</string>
+    <string name="setting_locale">Nastavenie regiónu…</string>
     <string name="shut_down">Vypnúť</string>
     <string name="sim_activation_introduction">Služba aktivácie SIM karty overí informácie o aktuálne vloženej SIM karte, aby sa uistil, že služby MIUI môžu fungovať normálne. Tieto služby zahŕňajú Vyhľadanie zariadenia, vytváranie účtov Xiaomi pomocou telefónnych čísel a synchronizáciu správ a histórie hovorov.</string>
     <string name="sim_card_detecting">Kontrola SIM karty…</string>
@@ -533,4 +533,7 @@ Pred použitím tejto funkcie musíte súhlasiť so Zásadami ochrany osobných 
     
 <string name="location_introduction_qcom">Služby určovania polohy používajú určovanie polohy na poskytovanie služieb špecifických pre vašu polohu.</string>   
     <string name="create_shortcut">Odkaz na domácej obrazovke</string> 
+    
+<string name="other_settings_get_apps">Aktualizácia aplikácií</string>
+     <string name="other_settings_get_apps_summary">Aktualizujte systém a aplikácie tretích strán, aby ste mohli používať ich najnovšie funkcie.</string>  
 </resources>

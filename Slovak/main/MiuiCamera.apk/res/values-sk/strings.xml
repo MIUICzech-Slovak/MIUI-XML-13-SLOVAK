@@ -280,10 +280,10 @@
     <string name="custom_watermark_words_input_hint">Zadajte text</string>
     <string name="custom_watermark_words_save_success">Uložené</string>
     <string name="cv_lens_black_white">B&amp;W</string>
-    <string name="cv_lens_msg">Zhotovte skvelé fotogrtafie s Pro objektívmi</string>
+    <string name="cv_lens_msg">Zhotovte skvelé fotogrtafie s PRO objektívmi</string>
     <string name="cv_lens_rotary_focus">Spletitý bokeh</string>
     <string name="cv_lens_soft_focus">Jemné zaostrenie</string>
-    <string name="cv_lens_title">Pro šošovky</string>
+    <string name="cv_lens_title">PRO objektívy</string>
     <string name="cvtype_btn_select">Použiť \"%1$s\"</string>
     <string name="cvtype_hint_title">Vyberte štýl</string>
     <string name="cvtype_item_btn_title1">Leica Autentické</string>
@@ -453,7 +453,7 @@ skenované dokumenty automaticky"</string>
     <string name="front_camera_hint_text_rotate">Otočte telefón</string>
     <string name="groupshot_mode_use_hint">"Bude zhotovených viacero snímkov
 pre výber toho najlepšieho"</string>
-    <string name="guide_pop_window_msg_cv_lens">Dotykom vyskúšajte Pro objektívy</string>
+    <string name="guide_pop_window_msg_cv_lens">Vyskúšajte PRO objektívy</string>
     <string name="hand_gesture_open_tip">Ukážte vašu dlaň pre spustenie odpočítavania</string>
     <string name="hand_gesture_tip">Spúšť dlaňou</string>
     <string name="hibernate_hint">Dotknite sa kdekoľvek pre prebudenie</string>
@@ -985,7 +985,7 @@ Objekt bude ostrý na rozmazanom pozadí."</string>
     <string name="pref_camera_portrait_mode_entry_on">Portrét zap.</string>
     <string name="pref_camera_portrait_mode_title">Portrét</string>
     <string name="pref_camera_portrait_with_facebeauty_title">Vyhladiť pleť v režime Portrét</string>
-    <string name="pref_camera_predictive_shutter_description">Sledujte pohyb pre minimalizovanie rozmazania na fotografiách s deťmi, domácimi miláčikmi alebo inými objektami, ktoré sú v pohybe</string>
+    <string name="pref_camera_predictive_shutter_description">Sledovať pohyb pre minimalizovanie rozmazania na fotografiách s deťmi, domácimi miláčikmi alebo inými objektami, ktoré sú v pohybe</string>
     <string name="pref_camera_predictive_shutter_title">Sledovanie pohybu</string>
     <string name="pref_camera_proximity_lock_summary">Uzamknúť gestá dotykov ak je zariadenie vo vrecku</string>
     <string name="pref_camera_proximity_lock_title">Režim vo vrecku</string>
@@ -1479,4 +1479,9 @@ Objekt bude ostrý na rozmazanom pozadí."</string>
     <string name="widget_camera_lens_talk_back">Profesionálne objektívy</string>
     <string name="yesterday">Včera</string>
     <string name="zoom_no_support_tip_48M">Zoom nefunguje v 48MP režime</string>
+    
+<string name="camera_newcta_other_message">Aby sme vám mohli počas používania aplikácie poskytovať ďalšie služby, budeme potrebovať povolenia na prístup k vašej polohe.</string>   
+
+ <string name="newbie_privacy_watermark_msg">Použite vodotlač na ochranu dokumentov pred neoprávneným kopírovaním</string>
+     <string name="newbie_privacy_watermark_title">Chráňte svoje dokumenty</string>
 </resources>
