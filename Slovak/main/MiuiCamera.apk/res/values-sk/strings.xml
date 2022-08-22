@@ -1484,4 +1484,16 @@ Objekt bude ostrý na rozmazanom pozadí."</string>
 
  <string name="newbie_privacy_watermark_msg">Použite vodotlač na ochranu dokumentov pred neoprávneným kopírovaním</string>
      <string name="newbie_privacy_watermark_title">Chráňte svoje dokumenty</string>
+    
+<string name="lighting_bright_red">Scarlet</string>
+     <string name="lighting_dazzling">Trámy</string>
+     <string name="lighting_dreamland">Sen</string>
+     <string name="lighting_gorgeous">Motley</string>
+     <string name="lighting_lanshan">Dekadencia</string>
+     <string name="lighting_movie_light_effect_title">Filmové efekty</string>
+     <string name="lighting_neon">Neon</string>
+     <string name="lighting_nostalgia">Nostalgia</string>
+     <string name="lighting_pattern_holi">Holi</string>
+     <string name="lighting_phantom">Fantóm</string>
+     <string name="lighting_rainbow">Dúha</string>    
 </resources>
