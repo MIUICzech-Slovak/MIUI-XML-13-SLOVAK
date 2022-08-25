@@ -2729,4 +2729,6 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
     
 <string name="quick_settings_bluetooth_connected_tip">Úspešne pripojené cez Bluetooth</string>
 <string name="quick_settings_bluetooth_disconnected_tip">Všetky zariadenia Bluetooth zostanú dnes odpojené</string>    
+<string name="tip_close_flares">Počas tejto relácie nebudete dostávať upozornenia na správanie aplikácie</string>
+
 </resources>

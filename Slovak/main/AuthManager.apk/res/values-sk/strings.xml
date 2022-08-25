@@ -553,4 +553,7 @@
     <string name="wednesday_shortest">S</string>
     <string name="yes">Áno</string>
     <string name="yesterday">Včera</string>
+    
+<string name="perm_educate_post_notification">Upozornenia môžu sprevádzať zvuk a vibrácie, ktoré sa zobrazujú na paneli upozornení a na ikonách na ploche. Predvoľby upozornení môžete zmeniť v Nastaveniach.</string>
+     <string name="permdesc_post_notification">Povoliť aplikácii %1$s upozornenia?</string>    
 </resources>
