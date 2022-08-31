@@ -149,4 +149,21 @@
         <item quantity="other">" min"</item>
         <item quantity="one">" min"</item>
     </plurals>
+    
+<plurals name="category_limit_notify_content">
+         <item quantity="other">na \"%1$s\" dnes zostáva %2$d minút</item>
+         <item quantity="one">pre \"%1$s\" dnes zostáva %2$d minúta</item>
+     </plurals>
+     <plurals name="steady_on_screen_rest_time">
+         <item quantity="other">Odpočívajte %d minút</item>
+         <item quantity="one">Odpočívajte %d minútu</item>
+     </plurals>
+     <plurals name="steady_on_screen_tip_title">
+         <item quantity="other">"Toto zariadenie používate už %d minút"</item>
+         <item quantity="one">"Toto zariadenie používate už %d minútu"</item>
+     </plurals>
+     <plurals name="tip_most_unavailable_period">
+         <item quantity="other">Môžete pridať až %d prestávok</item>
+         <item quantity="one">Môžete pridať až %d prestávku</item>
+     </plurals>    
 </resources>

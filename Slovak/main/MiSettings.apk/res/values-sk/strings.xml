@@ -649,4 +649,44 @@ Pre správne fungovanie, táto aplikácia vyžaduje pripojenie na internet a nas
     <string name="yellow_necked_spurfowl">Frankolínec žltokrký</string>
     <string name="yellow_throated_marten">Kuna žltohrdlá</string>
     <string name="yunnan_snub_nosed_monkey">Čierna opica s tuponosým nosom</string>
+    
+<string name="avalible_per_day">Trvanie relácie</string>
+    <string name="category_limit_notify_title">Upozornenie na čas pred obrazovkou</string>
+    <string name="category_list_expand">Viac</string>
+    <string name="category_list_packup">Skryť</string>
+    <string name="compulsor_tip">Domovská obrazovka</string>
+    <string name="continue_time">Trvanie relácie</string>
+    <string name="device_limit_enable">Zapnuté</string>
+    <string name="device_limit_un_enable">Vypnuté</string>
+    <string name="force_rest">Použite prestávky relácie</string>
+    <string name="force_rest_summary">Keď relácie dosiahnu stanovený limit, urobte si povinné prestávky</string>
+    <string name="force_rest_time">Trvanie prestávky</string>
+    <string name="guard_item_app_summary">Vzdialené odinštalovanie aplikácií</string>
+    <string name="guard_item_app_title">Spravovať aplikácie</string>
+    <string name="guard_item_browser_summary">Ovládanie prístupu k aplikáciám a obsahu</string>
+    <string name="guard_item_browser_title">Obmedzenia</string>
+    <string name="guard_item_call_summary">Povoliť konkrétnym kontaktom uskutočňovať hovory</string>
+    <string name="guard_item_call_title">Komunikácia</string>
+    <string name="guard_item_eye_protect_summary">Sledovať polohu</string>
+    <string name="guard_item_eye_protect_title">Pohodlie pre oči</string>
+    <string name="guard_range_from">Od</string>
+    <string name="guard_range_to">Komu</string>
+    <string name="holiday_limit">Dni voľna</string>
+    <string name="in_forbidden_period">Používanie je teraz obmedzené</string>
+    <string name="loading_error">"Položky sa nepodarilo načítať"</string>
+    <string name="next_day">"(Nasledujúci deň) "</string>
+    <string name="steady_on_screen_notify_new">Dajte si prestávku</string>
+    <string name="steady_on_screen_ntf_msg">Všetky funkcie budú opäť dostupné v %1$s</string>
+    <string name="time_over_back_home">Domovská obrazovka</string>
+    <string name="time_over_delayed_use">Ignorovať</string>
+    <string name="time_over_not_delayed_use">Rozumiem</string>
+    <string name="time_over_today">„Už nezostáva čas
+pre dnešok"</string>
+    <string name="time_over_today_use">"Dnešné relácie: "</string>
+    <string name="unavailable_per_day">Prestávky</string>
+    <string name="usage_device_limit_forbidden_period">Použitie je obmedzené medzi %1$s a %2$s</string>
+    <string name="usage_device_limit_start_forbidden_period">Použitie bude obmedzené medzi %1$s a %2$s (zostáva %3$s)</string>
+    <string name="usage_new_category_limit_summary">Nastaviť denné limity používania pre všetky aplikácie v tejto kategórii</string>
+    <string name="usage_new_category_limit_title">Obmedziť použitie pre kategóriu aplikácií</string>
+    <string name="workday_limit">Pracovné dni</string>    
 </resources>

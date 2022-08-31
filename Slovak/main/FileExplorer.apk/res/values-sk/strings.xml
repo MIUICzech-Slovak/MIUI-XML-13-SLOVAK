@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="access_limit">Obmedzený prístup</string>
-    <string name="access_tips">Prístup k systémovým súborom je túto aplikáciu zakázaný. Otvorte túto zložku v Android správcovi súborov.</string>
+    <string name="access_tips">Prístup k systémovým súborom je pre túto aplikáciu zakázaný. Otvorte túto zložku v Android správcovi súborov.</string>
     <string name="account_bind_prompt">"Migrovanie užívateľských dát. Čakajte prosím..."</string>
     <string name="action_mode_deselect_all">Odznačiť</string>
     <string name="action_mode_select_all">Všetko</string>
