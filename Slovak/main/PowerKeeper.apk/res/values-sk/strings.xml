@@ -342,7 +342,7 @@
     <string name="sleep_config_enhance_description">MIUI bude šetriť batériu počas noci</string>
     <string name="sleep_config_enhance_description_non_nfc">Ak MIUI zistí, že ste zaspali, ukončí aplikácie na pozadí, obmedzí Bluetooth, GPS, mobilné dáta W-Fi, a nebude sa rozsviecovať displej pri nových upozorneniach.</string>
     <string name="sleep_config_enhance_description_pad">Ak MIUI zistí, že ste zaspali, aplikácie v pozadí budú ukončené, Bluetooth a Wi-Fi budú obmedzené, a displej sa nerozsvieti ak dostanete upozornenie.</string>
-    <string name="sleep_config_enhance_title">Zapnuté</string>
+    <string name="sleep_config_enhance_title">Povoliť</string>
     <string name="sleep_config_mode_title">Šetrenie batérie v noci</string>
     <string name="sleepmode_disclaimer_agree">Súhlasím</string>
     <string name="sleepmode_disclaimer_cancel">Zrušiť</string>

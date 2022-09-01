@@ -5709,4 +5709,8 @@ Skúste zväčšiť rozlíšenie!"</string>
      <string name="eletric_no_grant_dialog_negative_button">Zrušiť</string>
      <string name="eletric_no_grant_dialog_positive_button">Nastavenia</string>
      <string name="eletric_no_grant_dialog_title">Vyžadujú sa povolenia</string>     
+     
+<string name="bh_home_to_set_phone_number">Nastaviť telefónne číslo</string>     
+<string name="bh_set_phone_dialog_title">"Uistite sa, že zadané telefónne číslo je správne.
+Svoje telefónne číslo môžete zmeniť v Nastaveniach."</string>
 </resources>
