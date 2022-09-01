@@ -164,6 +164,6 @@
      </plurals>
      <plurals name="tip_most_unavailable_period">
          <item quantity="other">Môžete pridať až %d prestávok</item>
-         <item quantity="one">Môžete pridať až %d prestávku</item>
+         <item quantity="one">Môžete pridať %d prestávku</item>
      </plurals>    
 </resources>

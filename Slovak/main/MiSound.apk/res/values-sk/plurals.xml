@@ -59,6 +59,6 @@
     
 <plurals name="rename_error_longer_effect_name">
          <item quantity="other">Tu môžete zadať až %d znakov</item>
-         <item quantity="one">Tu môžete zadať až %d znak</item>
+         <item quantity="one">Tu môžete zadať %d znak</item>
      </plurals>    
 </resources>

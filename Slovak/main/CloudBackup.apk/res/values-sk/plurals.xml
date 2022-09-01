@@ -94,7 +94,7 @@
          <item quantity="one">Zálohovaná %d aplikácia</item>
      </plurals>
      <plurals name="session_starting_app_count_restore_text">
-         <item quantity="other">obnovených %d aplikácií</item>
+         <item quantity="other">Obnovených %d aplikácií</item>
          <item quantity="one">Obnovená %d aplikácia</item>
      </plurals>    
 </resources>

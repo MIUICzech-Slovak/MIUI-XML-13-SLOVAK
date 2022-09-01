@@ -660,7 +660,6 @@ Začnite odznova. “</string>
     <string name="last_measure_hours_minutes">%1$s od posledného váženia </string>
     <string name="last_sync_time"> Posledná synchronizácia:%1$s </string>
     <string name="late"> Neskoré </string>
-    <string name="less"> Malý </string>
     <string name="light_sleep"> Ľahký spánok </string>
     <string name="light_sleep_duration"> Trvanie ľahkého spánku </string>
     <string name="light_sleep_duration_description"> Keď ľudia spia, vyskytujú sa pravidelné rýchle pohyby očí. Spánok môžeme rozdeliť na spánok s rýchlymi pohybmi očí (REM) a spánok s rýchlymi pohybmi očí (NREM). Ľahký spánok nastáva počas období spánku NREM, čo predstavuje asi 50 až 60%% z celkového trvania spánku. Počas ľahkého spánku sa vedomie postupne znižuje a mozog je relatívne statický, ale stále sa dá ľahko prebudiť. </string>
@@ -756,7 +755,6 @@ Ak nechcete zdieľať svoje informácie, môžete túto funkciu vypnúť."</stri
     <string name="member_name_select"> Vyberte svoje používateľské meno </string>
     <string name="member_name_select_purpose"> Synchronizujte svoje zdravotné údaje vygenerované %1$s </string>
     <string name="member_name_select_purpose2"> Vyberte svoje používateľské meno na synchronizáciu údajov o zdravotnom stave </string>
-    <string name="menej">Malý</string>
     <string name="mens_avg_menstrual_period"> Priemerná doba </string>
     <string name="mens_avg_period"> Priemerný cyklus </string>
     <string name="mens_cancel_mark"> Zrušiť </string>
