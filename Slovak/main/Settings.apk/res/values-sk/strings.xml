@@ -7735,5 +7735,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
         
 <string name="accept_new_connection">Povoliť nové pripojenia</string>
      <string name="accept_new_connection_detail">Nové pripojenia bluetooth boli z ovládacieho centra vypnuté</string>
-     <string name="bt_always_show_icon">Vždy zobrazovať ikonu bluetooth v stavovom riadku</string>        
+     <string name="bt_always_show_icon">Vždy zobrazovať ikonu bluetooth v stavovom riadku</string>  
+
+<string name="emulate_sd_data">Emulované dáta karty SD</string>	 
 </resources>
