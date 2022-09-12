@@ -124,4 +124,16 @@
         <item quantity="other">Nesynchr.: %d</item>
         <item quantity="one">Nesynchr.: %d</item>
     </plurals>
+     <plurals name="mtrl_badge_content_description">
+        <item quantity="other">Nové upozornenia: %d</item>
+        <item quantity="one">Nové upozornenia: %d</item>
+     </plurals>
+     <plurals name="search_fm_records_hint">
+        <item quantity="other">Nahrávky: %d</item>
+        <item quantity="one">Nahrávky: %d</item>
+     </plurals>
+     <plurals name="search_recorder_records_hint">
+        <item quantity="other">Nahrávky: %d</item>
+        <item quantity="one">Nahrávky: %d</item>
+     </plurals>	
 </resources>
