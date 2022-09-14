@@ -88,4 +88,8 @@
         <item quantity="other">Zariadenia: %d</item>
         <item quantity="one">Zariadenia: %d</item>
     </plurals>
+    <plurals name="family_service_member_count">
+        <item quantity="other">%d ľudí</item>
+        <item quantity="one">%d človek</item>
+    </plurals>	
 </resources>

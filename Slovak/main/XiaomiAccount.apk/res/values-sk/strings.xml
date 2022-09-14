@@ -824,4 +824,13 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
     <string name="user_agreement_wifi_permission_title">Zapnutie a vypnutie Wi-Fi</string>
     <string name="user_agreement_wlan_permission_desc">Na kontrolu bezpečnostných problémov v prihlasovacom prostredí</string>
     <string name="user_agreement_wlan_permission_title_china">Zapnutie a vypnutie Wi-Fi</string>
+<string name="cloud_service_cloud_open">Zapnúť</string>
+     <string name="cloud_service_space_full">Úložisko je plné</string>
+     <string name="cloud_service_space_not_enough">Nedostatok ukladacieho priestoru</string>
+     <string name="cloud_service_space_used">Obsadené</string>
+     <string name="cloud_service_state_error">Nepodarilo sa načítať</string>
+     <string name="dind_device_service_not_open">Vypnuté</string>
+     <string name="dind_device_service_opened">Zapnuté</string>
+     <string name="family_service_not_open">Pozvať členov</string>
+     <string name="mi_account">Môj účet</string>	
 </resources>
