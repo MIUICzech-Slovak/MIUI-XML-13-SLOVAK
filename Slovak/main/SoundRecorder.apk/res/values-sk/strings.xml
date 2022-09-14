@@ -299,7 +299,7 @@ Klepnite na \"%1$s\" a potom vyberte \"%2$s\"."</string>
     <string name="tap_to_record">Dotknite sa tlačidla pre spustenie nahrávania</string>
     <string name="text_btn_backward_3_seconds">3s späť</string>
     <string name="text_btn_complete">Hotovo</string>
-    <string name="text_btn_forward_3_seconds">3s späť</string>
+    <string name="text_btn_forward_3_seconds">3s dopredu</string>
     <string name="text_btn_list">Zoznam</string>
     <string name="text_btn_mark">Označiť</string>
     <string name="text_btn_pause">Zastaviť</string>
