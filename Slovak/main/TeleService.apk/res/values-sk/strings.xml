@@ -1976,5 +1976,12 @@ Ak sa rozhodnete uprednostňovať mobilné siete, budú sa predvolene používa�
      <string name="smart_switch_dual_sim_prompt">Pripojenie k mobilnej dátovej sieti pomocou SIM karty %1$s môže spôsobiť ďalšie poplatky za dáta. Nastavte si limit spotreby dát, aby ste sa vyhli ďalším poplatkom.</string>
      <string name="smart_switch_dual_sim_summary">Automaticky prepínať medzi dátovými SIM kartami na základe kvality sieťového pripojenia a stavu zariadenia</string>
      <string name="smart_switch_dual_sim_title">Prepínanie medzi dátovými SIM kartami</string>
-        
+
+<string name="business_hall_settings_summary">Kontrolujte svoje hovory a spotrebu dát</string>
+     <string name="business_hall_settings_title">Nastavenia programu</string>
+     <string name="default_data_title">Dáta</string>
+     <string name="default_sim_setting">Predvolené SIM karty</string>
+     <string name="default_voice_title">Hovory</string>
+<string name="pref_sim_item_no_default">Žiadne predvolené</string>
+     <string name="sim_select_dialog_title">Vyberte kartu SIM</string>
 </resources>
