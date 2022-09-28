@@ -5713,4 +5713,9 @@ Skúste zväčšiť rozlíšenie!"</string>
 <string name="bh_home_to_set_phone_number">Nastaviť telefónne číslo</string>     
 <string name="bh_set_phone_dialog_title">"Uistite sa, že zadané telefónne číslo je správne.
 Svoje telefónne číslo môžete zmeniť v Nastaveniach."</string>
+
+<string name="app_manager_restricted_settings_title">Povoliť obmedzené nastavenia</string>
+     <string name="gb_barrage_chat_pre_desc">Ukážka</string>
+     <string name="gb_barrage_chat_text_speed_moderate">Stredné</string>
+     <string name="power_dialog_performance_mode_checkbox">Prepnúť na obnovovaciu frekvenciu 120 Hz</string>
 </resources>

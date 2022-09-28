@@ -7752,4 +7752,6 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
      <string name="miui_type_style_summary">Štýl písania použitý pri zapnutej čítačke obrazovky</string>
      <string name="miui_type_style_title">Štýl písania</string>
      <string name="stylus_not_connect_message_new">Pripojte stylus na spárovanie</string>
+	 
+<string name="external_ram_intro">Vytvorte si dodatočnú pamäť RAM obsadením úložiska. Túto funkciu používajte iba vtedy, keď je na vašom zariadení dostatok voľného miesta.</string>	 
 </resources>

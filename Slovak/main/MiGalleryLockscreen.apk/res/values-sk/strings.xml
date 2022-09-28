@@ -916,4 +916,10 @@ To môže spôsobiť dodatočné poplatky."</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Aktualizácia</string>
     <string name="xiaomi_market_sdk_update_dialog_title">K dispozícii je aktualizácia</string>
     <string name="yesterday">Včera</string>
+	
+<string name="apply_warning_content">Používate Supertapetu. Ak si tapetu zmeníte, použije sa na ploche aj na uzamknutej obrazovke. Použiť teraz?</string>
+     <string name="apply_warning_content_with_aod">Používate Supertapetu. Ak si tapetu zmeníte, použije sa na ploche aj na uzamknutej obrazovke a Vždy zapnutá obrazovka sa môže obnoviť na predvolenú hodnotu. Použiť teraz?</string>
+     <string name="apply_warning_content_with_maml">Používate motív tretej strany. Ak zmeníte tapetu, hodiny na uzamknutej obrazovke sa môžu obnoviť na predvolené. Použiť teraz?</string>
+     <string name="apply_warning_title">Použiť tapetu</string>
+     <string name="dlg_ok">Použiť</string>	
 </resources>

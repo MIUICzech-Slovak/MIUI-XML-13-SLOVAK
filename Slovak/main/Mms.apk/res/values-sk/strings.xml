@@ -1058,4 +1058,6 @@ Pokus: %s."</string>
     <string name="zero_sms_feedback_title">Nahlásiť</string>
     
     <string name="sim_not_support_mms">Táto SIM karta nepodporuje MMS</string>    
+	
+    <string name="button_copy">Kopírovať</string>	
 </resources>

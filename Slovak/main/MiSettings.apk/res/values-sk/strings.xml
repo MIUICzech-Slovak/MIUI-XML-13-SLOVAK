@@ -689,4 +689,14 @@ pre dnešok"</string>
     <string name="usage_new_category_limit_summary">Nastaviť denné limity používania pre všetky aplikácie v tejto kategórii</string>
     <string name="usage_new_category_limit_title">Obmedziť použitie pre kategóriu aplikácií</string>
     <string name="workday_limit">Pracovné dni</string>    
+	
+	
+<string name="closed_high_refresh_options">Aplikácie nepoužívajúce vysokú obnovovaciu frekvenciu</string>
+     <string name="customize_high_refresh_summary">Táto funkcia podporuje obnovovaciu frekvenciu až %d Hz. Príslušnú obnovovaciu frekvenciu je možné vybrať automaticky na základe nastavení zariadenia.</string>
+     <string name="customize_high_refresh_title">Aplikácie využívajúce vysokú obnovovaciu frekvenciu</string>
+     <string name="follow_apps_settings">Na základe nastavení aplikácie</string>
+     <string name="high_refresh_options_title">Podporované aplikácie</string>
+     <string name="new_customize_high_refresh_title">Vysoká obnovovacia frekvencia</string>
+     <string name="opened_high_refresh_options">Aplikácie využívajúce vysokú obnovovaciu frekvenciu</string>
+     <string name="search_app_tips">Vyhľadanie aplikácií</string>	
 </resources>
