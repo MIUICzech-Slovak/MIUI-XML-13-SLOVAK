@@ -1010,4 +1010,14 @@ Prípadne môžete vypnúť zjednodušený režim a skúsiť to znova."</string>
     <string name="zen_mode_enable_dialog_turn_on">Zapnúť</string>
     <string name="zen_mode_settings_summary_off">Nikdy</string>
     <string name="zen_mode_settings_turn_on_dialog_title">Zapnite režim Nerušiť</string>
+    
+<string name="install_version">Verzia: %1$s</string>
+     <string name="install_version_replace">Verzia: %1$s > %2$s</string>
+     <string name="app_info_version">Verzia: %1$s</string>
+     <string name="app_info_version_replace">Verzia: %1$s -> %2$s</string>
+     <string name="app_info_size">Veľkosť: %1$s</string>
+     <string name="cancel_update">Neaktualizovať</string>
+     <string name="after_install_to_delete">Po inštalácii vymazať apk súbor</string>
+
+            
 </resources>

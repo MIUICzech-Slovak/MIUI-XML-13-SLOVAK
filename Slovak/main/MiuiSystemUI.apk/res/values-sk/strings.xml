@@ -2718,7 +2718,7 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
     <string name="zen_alarm_warning_indef">Pokiaľ toto nastavenie nevypnete, váš budík o %1$s sa nespustí</string>
     <string name="zen_alarms_introduction">Nebudú vás vyrušovať zvuky ani vibrácie, iba budíky. Budete naďalej počuť všetko, čo sa rozhodnete prehrať, ako napríklad hudbu, videá a hry.</string>
     <string name="zen_mode_and_condition">%1$s. %2$s</string>
-    <string name="zen_mode_warnings_all_time_content">Upozornenia a hovory budú stíšené</string>
+    <string name="zen_mode_warnings_all_time_content">Upozornenia a hovory sú stíšené</string>
     <string name="zen_mode_warnings_keyguard_content">Upozornenia a hovory budú stíšené ak je zariadenie uzamknuté</string>
     <string name="zen_mode_warnings_quit_immediately">Vypnúť</string>
     <string name="zen_mode_warnings_title">Režim Nerušiť je zapnutý</string>
