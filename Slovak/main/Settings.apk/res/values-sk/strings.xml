@@ -7754,4 +7754,6 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
      <string name="stylus_not_connect_message_new">Pripojte stylus na spárovanie</string>
 	 
 <string name="external_ram_intro">Vytvorte si dodatočnú pamäť RAM obsadením úložiska. Túto funkciu používajte iba vtedy, keď je na vašom zariadení dostatok voľného miesta.</string>	 
+    <string name="easymode_hint">Dotykom vypnete Zjednodušený režim</string>
+
 </resources>

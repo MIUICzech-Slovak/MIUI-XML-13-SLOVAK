@@ -777,4 +777,9 @@
     <string name="open_personal_assistant_settings_off">Vypnuté</string>
     <string name="open_personal_assistant_settings_on">Zapnuté</string>
     <string name="open_personal_assistant_settings_simplified">Asistent</string>	
+    
+    <string name="all_apps_setting_jeejen_title">Zjednodušený režim</string>
+    <string name="jeejen_description">"Väčšie UI prvky.
+Dostupnejšie volanie.
+Zvýšená bezpečnosť."</string>    
 </resources>
