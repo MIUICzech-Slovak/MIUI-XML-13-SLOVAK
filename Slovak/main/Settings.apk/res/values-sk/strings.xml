@@ -7756,4 +7756,8 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
 <string name="external_ram_intro">Vytvorte si dodatočnú pamäť RAM obsadením úložiska. Túto funkciu používajte iba vtedy, keď je na vašom zariadení dostatok voľného miesta.</string>	 
     <string name="easymode_hint">Dotykom vypnete Zjednodušený režim</string>
 
+<string name="headset_find_left_tip">Zdá sa, že ľavé slúchadlo máte v puzdre alebo máte v uchu</string>
+     <string name="headset_find_right_tip">Zdá sa, že správne slúchadlá máte v puzdre alebo v uchu</string>
+     <string name="miheadset_connect_device_hfp">Pripojte slúchadlá a uistite sa, že je povolené prehrávanie zvuku pre telefónne hovory</string>
+     <string name="miheadset_firmware_version_update">Aktualizovať firmvér</string>
 </resources>

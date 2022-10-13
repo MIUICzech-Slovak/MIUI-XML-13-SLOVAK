@@ -536,4 +536,5 @@ Pred použitím tejto funkcie musíte súhlasiť so Zásadami ochrany osobných 
     
 <string name="other_settings_get_apps">Aktualizácia aplikácií</string>
      <string name="other_settings_get_apps_summary">Aktualizujte systém a aplikácie tretích strán, aby ste mohli používať ich najnovšie funkcie.</string>  
+    <string name="preinstall_tips">Pripravuje sa…</string>	 
 </resources>

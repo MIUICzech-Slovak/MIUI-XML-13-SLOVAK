@@ -1136,4 +1136,16 @@ Prečítajte si a odsúhlaste naše Podmienky používania a Ochranu súkromia.
 	
 <string name="find_permission_phone_sim_info_summary">Na prístup k vašej polohe prostredníctvom SMS, keď nie ste pripojení k sieti</string>
      <string name="find_permission_phone_sim_info_title">Prístup k informáciám o zariadení</string>	
+	 
+<string name="download_gallery_data_summary">Prejdite na stránku i.mi.com a stiahnite si synchronizované fotografie a videá do svojho zariadenia.</string>
+    <string name="download_gallery_data_title">Stiahnite si položky do zariadenia</string>
+    <string name="gallery_data_transfer_ddl">Termín: %s</string>
+    <string name="gallery_data_transfer_summary">"Položky galérie už nie je možné synchronizovať so službou Xiaomi Cloud. Odporúčame preniesť fotky a videá, ktoré ste synchronizovali s cloudom do Fotiek Google a použiť ich služby na zálohovanie položiek."</string>
+    <string name="gallery_data_transfer_title">Preniesť synchronizované fotografie a videá do Fotiek Google</string>
+    <string name="gallery_service_termination_announcement">Upozornenie: Položky galérie už nie je možné synchronizovať s Xiaomi Cloud</string>
+    <string name="gallery_service_termination_announcement_title">"Položky galérie už nie je možné synchronizovať so službou Xiaomi Cloud. Odporúčame preniesť fotografie a videá, ktoré ste synchronizovali s cloudom, do Fotiek Google alebo navštíviť stránku i.mi.com a stiahnuť si synchronizované fotografie a videá do vášho zariadenia. Služby prenosu a sťahovania budú dostupné do %s, kedy budú všetky položky Galérie synchronizované s vaším účtom Xiaomi Cloud natrvalo odstránené.“</string>
+    <string name="gallery_service_termination_btn_continue">Pokračovať</string>
+    <string name="gallery_service_termination_more_info">Ďalšie podrobnosti nájdete v časti \"%s\"</string>
+    <string name="menu_migrate_to_google_photos">Prenos údajov do Fotiek Google</string>
+    <string name="start_transfer_gallery_data">Preniesť dáta</string>	 
 </resources>

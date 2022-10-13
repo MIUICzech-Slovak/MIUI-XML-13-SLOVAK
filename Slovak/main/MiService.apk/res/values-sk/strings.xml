@@ -198,4 +198,8 @@
     <string name="yesterday">Včera</string>
 	
     <string name="mi_service_back">Späť</string>	
+<string name="miui_main_icon_callback">Skratka na ploche</string>
+     <string name="miui_main_icon_callback_create">Vytvoriť</string>
+     <string name="miui_main_icon_callback_desc">Vytvoriť odkaz na ploche teraz?</string>
+     <string name="miui_main_icon_callback_nocreate">Zrušiť</string>	
 </resources>
