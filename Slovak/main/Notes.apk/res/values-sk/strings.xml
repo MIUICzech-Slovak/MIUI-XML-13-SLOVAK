@@ -661,4 +661,10 @@ http://www.miuios.cz/rom
     
     <string name="pc_all_folder_name">Všetko</string>
     
+<string name="new_lite_audio_create_talkback_des">Dotykom vytvoríte poznámku</string>
+     <string name="widget_all_notes_name">Všetky poznámky</string>
+     <string name="widget_all_todo_name">Všetky úlohy</string>
+     <string name="widget_click_check">Zobrazíte klepnutím</string>
+         
+    
 </resources>

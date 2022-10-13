@@ -177,4 +177,5 @@
 <string name="remove_icon_description_content">Kompas je systémová aplikácia. Po odstránení skratky na ploche ju nebudete môcť použiť na kontrolu smeru, súradníc, atmosférického tlaku a aktuálnej nadmorskej výšky.</string>
       <string name="remove_icon_description_title">Chcete odstrániť \"Kompas\" z plochy?</string>
      <string name="unit_degree">Stupňov</string>    
+     <string name="calibrate_new_tip">Ostro nakloňte zariadenie, aby sa loptička kotúľala okolo kruhu</string>
 </resources>
