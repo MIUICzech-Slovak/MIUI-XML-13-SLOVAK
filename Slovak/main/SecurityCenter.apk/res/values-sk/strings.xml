@@ -837,7 +837,7 @@ alebo zadajte heslo"</string>
     <string name="auto_task_default_if_exclude">Ak</string>
     <string name="auto_task_default_task_summary_driver_car">Zapnúť prenosný hotspot pri pripojení k systému auta cez Bluetooth</string>
     <string name="auto_task_default_task_summary_get_up">Vypnúť režim Nerušiť a znova zapnúť Bluetooth, Wi-Fi a mobilné dáta</string>
-    <string name="auto_task_default_task_summary_listen_music">Prehrávanie hudby a výber typu slúchadiel</string>
+    <string name="auto_task_default_task_summary_listen_music">Prehrávať hudbu a výber typu slúchadiel</string>
     <string name="auto_task_default_task_summary_meet">Naplánovať čas stretnutia a zapnúť režim Nerušiť</string>
     <string name="auto_task_default_task_summary_noon_break">Naplánovať čas spánku a zapnúť režim Nerušiť</string>
     <string name="auto_task_default_task_summary_save_power">Zapnúť šetrič batérie, keď je batéria nižšia ako 30%</string>

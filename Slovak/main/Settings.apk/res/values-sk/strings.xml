@@ -2586,7 +2586,7 @@ Odomknutie tvárou je menej bezpečné ako PIN, heslo alebo vzor. Vaše zariaden
     <string name="freeform_guide_drop_down_to_fullscreen_summary">Stlačte a podržte, potom potiahnite nadol za lištu plávajúceho okna</string>
     <string name="freeform_guide_drop_down_to_fullscreen_title">Zobrazenie plávajúceho okna na celom displeji</string>
     <string name="freeform_guide_move_summary">Stlačte a podržte lištu plávajúceho okna pre jeho presunutie</string>
-    <string name="freeform_guide_move_title">Presunúť plávajúce okno</string>
+    <string name="freeform_guide_move_title">Presúvanie plávajúceho okna</string>
     <string name="freeform_guide_move_to_small_freeform_window_summary">Premiestnite plávajúce okno do rohu displeja</string>
     <string name="freeform_guide_move_to_small_freeform_window_title">Minimalizovanie plávajúceho okna</string>
     <string name="freeform_guide_multi_window">Multitasking</string>
@@ -2599,7 +2599,7 @@ Táto funkcia funguje iba vtedy, keď je navigácia v systéme nastavená na ges
     <string name="freeform_guide_slide_to_small_freeform_summary_pad_global">Aplikáciu minimalizujte potiahnutím rohu</string>
     <string name="freeform_guide_slide_to_small_freeform_summary_squarehot">"Stlačte a podržte spodok okna a potiahnite ho k hornej hrane displeja.
 Táto funkcia funguje len ak sú aktivované gestá."</string>
-    <string name="freeform_guide_slide_to_small_freeform_title">Minimalizácia aplikácie</string>
+    <string name="freeform_guide_slide_to_small_freeform_title">Minimalizovanie aplikácie</string>
     <string name="freeform_guide_slide_up_to_close_summary">Potiahnite nahor z lišty plávajúceho okna</string>
     <string name="freeform_guide_slide_up_to_close_title">Zatvorenie plávajúceho okna</string>
     <string name="freeform_guide_to_sidehide_summary">Rýchlym pretiahnutím aplikácie na stranu obrazovky ju skryjete</string>
