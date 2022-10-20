@@ -1364,4 +1364,7 @@ ale obsah ktorý hľadáte nie je dostupný vo vašej krajine."</string>
     <string name="yesterday">Včera</string>
     <string name="use_now">Pridať</string>    
 <string name="recommend_bottom_tips">Ste na spodku</string>    
+
+    <string name="component_title_widget_suit">Widgety</string>
+    <string name="search_view_description_clear">Vymazať vyhľadávanie</string>	
 </resources>

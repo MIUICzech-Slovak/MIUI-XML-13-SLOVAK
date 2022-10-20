@@ -1056,4 +1056,8 @@ na zobrazenie widgetov."</string>
 	
     <string name="pa_picker_search_card_filter_button_text">Všetky widgety</string>
     <string name="pa_setting_perm_empty">Zatiaľ prázdne</string>	
+	
+<string name="pa_open_personal_assistant_dialog_desc">"Ak vypnete Asistenta, nebudete môcť používať widgety ani k nim pristupovať potiahnutím prstom doprava na ploche. Napriek tomu vypnúť?"</string>
+     <string name="pa_open_personal_assistant_dialog_title">Vypnúť Asistenta?</string>	
+    <string name="pa_setting_simplify_title_bar">Asistent</string>	 
 </resources>
