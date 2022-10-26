@@ -259,5 +259,8 @@ N e"</string>
     <string name="wednesday">Streda</string>
     <string name="wednesday_short">Str</string>
     <string name="wednesday_shortest">S</string>
+	
+    <string name="settings_view_btn_check_off">Vyp.</string>
+    <string name="settings_view_btn_check_on">Zap.</string>	
 </resources>
 
