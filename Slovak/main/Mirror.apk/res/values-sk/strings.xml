@@ -296,6 +296,12 @@ pokračovať“</string>
     <string name="sunday_short">Ned</string>
     <string name="sunday_shortest">N</string>
     <string name="switch_orientation_desc">Orientácia obrazovky</string>
+    <string name="switch_wlan_action">Pripojiť</string>
+    <string name="switch_wlan_failed">Nepodarilo sa pripojiť</string>
+    <string name="switch_wlan_failed_desc">"K tejto sieti Wi-Fi sa nepodarilo pripojiť automaticky. Skúste sa pripojiť manuálne v Nastaveniach."</string>
+    <string name="switch_wlan_success">Pripojené</string>
+    <string name="switch_wlan_tips">Pripojte sa k rovnakej sieti</string>
+    <string name="switch_wlan_tips_desc">Pre lepší zážitok sa môžete pripojiť k rovnakej sieti Wi-Fi ako druhé zariadenie. Pripojiť teraz?</string>
     <string name="thursday">Štvrtok</string>
     <string name="thursday_short">Štv</string>
     <string name="thursday_shortest">Š</string>
@@ -330,11 +336,4 @@ pokračovať“</string>
     <string name="worker_try_join_in_connected_state">Pripojené</string>
     <string name="worker_try_join_in_connecting_state">Pripájanie zariadenia...</string>
     <string name="yesterday">Včera</string>
-	
-<string name="switch_wlan_action">Pripojiť</string>
-     <string name="switch_wlan_failed">Nepodarilo sa pripojiť</string>
-     <string name="switch_wlan_failed_desc">"K tejto sieti Wi-Fi sa nepodarilo pripojiť automaticky. Skúste sa pripojiť manuálne v Nastaveniach."</string>
-     <string name="switch_wlan_success">Pripojené</string>
-     <string name="switch_wlan_tips">Pripojte sa k rovnakej sieti</string>
-     <string name="switch_wlan_tips_desc">Pre lepší zážitok sa môžete pripojiť k rovnakej sieti Wi-Fi ako druhé zariadenie. Pripojiť teraz?</string>	
 </resources>

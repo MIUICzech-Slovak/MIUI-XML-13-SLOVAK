@@ -20,6 +20,7 @@
     <string name="icon_remove_description_content">"\"Služby a spätná väzba\" je systémová aplikácia. Budete mať k nej prístup cez Nastavenia."</string>
     <string name="icon_remove_description_title">Odobrať \"Služby a spätná väzba\" z plochy?</string>
     <string name="mi_service_app_name">Služby a spätná väzba</string>
+    <string name="mi_service_back">Späť</string>
     <string name="miservice_channel_update_notification_info">\"Služby a spätná väzba\" načítava online dáta…</string>
     <string name="miservice_notification_boot_content">Naučte sa čo MIUI dokáže</string>
     <string name="miservice_notification_huanji_content">Preneste ich cez MiMover</string>
@@ -47,6 +48,10 @@
     <string name="miui_main_control_center_desc">Alebo prepnite na starú verziu v Nastavenia &gt; Upozornenia a Centrum ovládania</string>
     <string name="miui_main_control_center_open">Nové Centrum ovládania</string>
     <string name="miui_main_control_center_title">Potiahnite pre prepnutie Centra ovládania a Upozornení</string>
+    <string name="miui_main_icon_callback">Skratka na ploche</string>
+    <string name="miui_main_icon_callback_create">Vytvoriť</string>
+    <string name="miui_main_icon_callback_desc">Vytvoriť odkaz na ploche teraz?</string>
+    <string name="miui_main_icon_callback_nocreate">Zrušiť</string>
     <string name="miui_main_mirror_tab_desc1">Pripojiť automaticky</string>
     <string name="miui_main_mirror_tab_desc2">Zobraziť obrázky na väčšom displeji</string>
     <string name="miui_main_mirror_tab_desc3">Zdieľať súbory</string>
@@ -196,10 +201,4 @@
     <string name="wednesday_short">Str</string>
     <string name="wednesday_shortest">S</string>
     <string name="yesterday">Včera</string>
-	
-    <string name="mi_service_back">Späť</string>	
-<string name="miui_main_icon_callback">Skratka na ploche</string>
-     <string name="miui_main_icon_callback_create">Vytvoriť</string>
-     <string name="miui_main_icon_callback_desc">Vytvoriť odkaz na ploche teraz?</string>
-     <string name="miui_main_icon_callback_nocreate">Zrušiť</string>	
 </resources>

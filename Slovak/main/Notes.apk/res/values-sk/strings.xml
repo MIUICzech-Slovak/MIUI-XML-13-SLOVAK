@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="access_denied_info">Príliš veľa pokusov. Počkajte chvíľu a skúste to znova.</string>
+    <string name="access_photos_and_videos">Prístup k fotografiám a videám</string>
     <string name="action_collapse">Skryť</string>
     <string name="action_expand">Viac</string>
     <string name="action_folder_description">Zložky</string>
@@ -304,6 +305,7 @@
     <string name="new_audio_create_done_talkback_des">Vytvorené</string>
     <string name="new_audio_create_guide_tip">Podržte pre vytvorenie nahrávky</string>
     <string name="new_audio_create_talkback_des">Dotknite sa pre vytvorenie poznámky. Podržte pre vytvorenie nahrávky. Pustite tlačidlo pre ukončenie nahrávky alebo potiahnite nahor pre zrušenie.</string>
+    <string name="new_lite_audio_create_talkback_des">Dotykom vytvoríte poznámku</string>
     <string name="no_network">Nie je možné pripojiť sa k sieti</string>
     <string name="not_now">Nie teraz</string>
     <string name="note_alert_expired">Ukončené</string>
@@ -337,6 +339,7 @@
     <string name="option_menu_rename">Premenovať</string>
     <string name="option_menu_restore_note">Obnoviť</string>
     <string name="option_menu_save_as">Uložiť ako</string>
+    <string name="pc_all_folder_name">Všetko</string>
     <string name="permdesc_accessNote">Škodlivé aplikácie to môžu využiť na prístup k vašim súkromným dátam.</string>
     <string name="permission_data_shared_desc">Vyhlásenie o zdieľaní údajov tretej strany</string>
     <string name="permission_get_account_desc">Synchronizácia poznámok</string>
@@ -347,6 +350,8 @@
     <string name="permission_microphone_desc">Nahrávať hlasové poznámky</string>
     <string name="permission_network_for_cloud_desc">Vyžaduje sa pripojenie k sieti pre synchronizáciu poznámok s Xiaomi cloudom. Pripojiť sa teraz?</string>
     <string name="permission_phone_state_desc">Pre ukončenie nahrávania poznámok počas hovoru</string>
+    <string name="permission_photos_desc">Na pridávanie obrázkov do poznámok</string>
+    <string name="permission_photos_desc_pad">Na pridávanie obrázkov do poznámok</string>
     <string name="permission_read_contact_desc">Pre spárovanie poznámok s kontaktom</string>
     <string name="permission_storage_desc">Pre ukladanie poznámok</string>
     <string name="permission_storage_desc_v12">Pre pridanie obrázkov do poznámok a ukladanie poznámok</string>
@@ -428,6 +433,7 @@
     <string name="search_label">Hľadať</string>
     <string name="search_setting_description">Vyhľadá text v poznámkach</string>
     <string name="select_account_prompt">Povoliť synchronizáciu poznámok</string>
+    <string name="send_notifications_for_reminder">Na odosielanie pripomienok</string>
     <string name="set_alarm_description">Upozornenie</string>
     <string name="setting_big_screen_layout_columns">Bočný panel</string>
     <string name="setting_big_screen_layout_flat">Dlaždice</string>
@@ -533,6 +539,7 @@ Povoľte aplikácií Poznámky prístup ku kontaktom."</string>
 Povoľte aplikácií Poznámky prístup k úložisku."</string>
     <string name="toast_refuse_to_use_phone_state">"Povolenie prístupu k zoznamu hovorov je zakázané.
 Povoľte aplikácií Poznámky prístup k zoznamu hovorov."</string>
+    <string name="toast_refuse_to_use_photos_in_excerpt">Povoľte tejto aplikácii prístup k fotkám, aby ste mohli pridávať obrázky do poznámok</string>
     <string name="toast_refuse_to_use_record_audio">"Povolenie prístupu k mikrofónu je zakázané.
 Povoľte aplikácií Poznámky prístup k mikrofónu."</string>
     <string name="toast_refuse_to_use_storage_in_excerpt">Povoľte Poznámkam prístup na úložisko</string>
@@ -644,6 +651,9 @@ Povoľte aplikácií Poznámky prístup k mikrofónu."</string>
 Pre viac informácií navštívte
 http://www.miuios.cz/rom
 "</string>
+    <string name="widget_all_notes_name">Všetky poznámky</string>
+    <string name="widget_all_todo_name">Všetky úlohy</string>
+    <string name="widget_click_check">Zobrazíte klepnutím</string>
     <string name="widget_content_loading">Načítavanie...</string>
     <string name="widget_create_select_size">Vyberte veľkosť</string>
     <string name="widget_empty_content">Dotykom vyberte poznámku</string>
@@ -658,18 +668,4 @@ http://www.miuios.cz/rom
     <string name="widget_take_notes_title">Poznámky</string>
     <string name="widget_under_privacy_mode">Režim Súkromie, nie je možné zobraziť obsah poznámky</string>
     <string name="yesterday">Včera</string>
-    
-    <string name="pc_all_folder_name">Všetko</string>
-    
-<string name="new_lite_audio_create_talkback_des">Dotykom vytvoríte poznámku</string>
-     <string name="widget_all_notes_name">Všetky poznámky</string>
-     <string name="widget_all_todo_name">Všetky úlohy</string>
-     <string name="widget_click_check">Zobrazíte klepnutím</string>
-         
-<string name="access_photos_and_videos">Prístup k fotografiám a videám</string>
-     <string name="permission_photos_desc">Na pridávanie obrázkov do poznámok</string>
-     <string name="permission_photos_desc_pad">Na pridávanie obrázkov do poznámok</string>
-     <string name="send_notifications_for_reminder">Na odosielanie pripomienok</string>
-     <string name="toast_refuse_to_use_photos_in_excerpt">Povoľte tejto aplikácii prístup k fotkám, aby ste mohli pridávať obrázky do poznámok</string>
-	 
 </resources>

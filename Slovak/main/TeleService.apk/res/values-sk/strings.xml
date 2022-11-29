@@ -209,6 +209,8 @@ Vzorkovacia frekvencia"</string>
     <string name="bt_hci_snoop_log_summary">Zaznamenať všetky pakety Bluetooth HCI do súboru</string>
     <string name="bugreport_in_power">Skratka hlásenia chyby</string>
     <string name="bugreport_in_power_summary">Zobraziť v hlavnej ponuke tlačidlo na vytvorenie hlásenia chyby</string>
+    <string name="business_hall_settings_summary">Kontrolujte svoje hovory a spotrebu dát</string>
+    <string name="business_hall_settings_title">Nastavenia programu</string>
     <string name="button_convert_fbe">Vymazať a konvertovať…</string>
     <string name="callEnded_pulled">Hovor bol presmerovaný na iné zariadenie.</string>
     <string name="callFailed_already_dialing">Nie je možné uskutočniť hovor, pretože už je vytáčaný iný odchádzajúci hovor.</string>
@@ -453,6 +455,7 @@ Ak chcete pokračovať, stlačte tlačidlo Vymazať a konvertovať…"</string>
     <string name="data_enable_summary">Aktivuje dátové prenosy prostredníctvom mobilnej siete</string>
     <string name="data_enabled">Mobilné dáta</string>
     <string name="data_interruption_remind">Zdá sa, že vaše sieťové prostredie nie je spoľahlivé. Ak chcete zlepšiť pripojenie, povoľte používanie mobilných dát počas hovorov VoLTE na druhej SIM.</string>
+    <string name="data_interruption_remind_for_t">Zdá sa, že vaše dátové pripojenie nie je spoľahlivé. Ak chcete zlepšiť pripojenie, povoľte svojmu zariadeniu používať mobilné dáta počas hovorov VoLTE na sekundárnej SIM.</string>
     <string name="data_usage_uninstalled_apps">Odstránené aplikácie</string>
     <string name="data_usage_uninstalled_apps_users">Odstránené aplikácie a používatelia</string>
     <string name="dds_switch_warning_message_data_off">Nebolo možné nájsť SIM %1$s. SIM %2$s je nastavená ako predvolená pre mobilné dáta. Mobilné dáta budú vypnuté.</string>
@@ -476,12 +479,14 @@ Ak chcete pokračovať, stlačte tlačidlo Vymazať a konvertovať…"</string>
     <string name="default_area_code_setting">Default area code</string>
     <string name="default_areacode">Default area code</string>
     <string name="default_call_type">CSVoice</string>
+    <string name="default_data_title">Dáta</string>
     <string name="default_notification_description">Predvolený zvuk (%1$s)</string>
     <string name="default_preference_summary">&lt;Nenastavené&gt;</string>
     <string name="default_preference_summary_domain_address">&lt;Nenastavené&gt;</string>
     <string name="default_preference_summary_password">&lt;Nenastavené&gt;</string>
     <string name="default_preference_summary_username">&lt;Nenastavené&gt;</string>
     <string name="default_sim_setting">Predvolená SIM ako:</string>
+    <string name="default_voice_title">Hovory</string>
     <string name="delete">Vymazať</string>
     <string name="deleteAllSimEntries">Vymazať všetky kontakty na SIM</string>
     <string name="deleteSimContacts">Mazanie kontaktov na SIM</string>
@@ -1324,6 +1329,7 @@ Počet zostávajúcich pokusov: %d."</string>
     <string name="power_remaining_charging_duration_only">Zostávajúci čas do úplného nabitia: %1$s</string>
     <string name="power_remaining_duration_only">Približný zostávajúci čas: %1$s</string>
     <string name="power_remaining_duration_only_short">Zostávajúci čas: %1$s</string>
+    <string name="pref_sim_item_no_default">Žiadne predvolené</string>
     <string name="prefered_network_type_3g_promp">Pred vybraním 3G siete, by ste mali deaktivovať VoLTE. Deaktivovať teraz?</string>
     <string name="preference_auto_ip_summary_disable">Deaktivované</string>
     <string name="preference_auto_ip_summary_on">"IP operátora: %s"</string>
@@ -1342,7 +1348,7 @@ Počet zostávajúcich pokusov: %d."</string>
     <string name="preference_telocation_summary_teloc_off">Skryť polohu kontaktu</string>
     <string name="preference_telocation_summary_teloc_on">Zobraziť polohu kontaktu</string>
     <string name="preference_telocation_title">Poloha</string>
- <string name="preferred_network_mode_cdma_evdo_gsm_wcdma_summary">Preferovaný režim siete: CDMA/EvDo/GSM/WCDMA</string>
+    <string name="preferred_network_mode_cdma_evdo_gsm_wcdma_summary">Preferovaný režim siete: CDMA/EvDo/GSM/WCDMA</string>
     <string name="preferred_network_mode_cdma_evdo_summary">Preferovaný režim siete: CDMA / EvDo</string>
     <string name="preferred_network_mode_cdma_only_summary">Preferovaný režim siete: iba CDMA</string>
     <string name="preferred_network_mode_cdma_summary">Preferovaný režim siete: CDMA</string>
@@ -1383,7 +1389,7 @@ Počet zostávajúcich pokusov: %d."</string>
     <string name="preferred_network_mode_title">Preferovaný typ siete</string>
     <string name="preferred_network_mode_wcdma_only_summary">Preferovaný režim siete: iba WCDMA</string>
     <string name="preferred_network_mode_wcdma_perf_summary">Preferovaný režim siete: preferované WCDMA</string>
-<string name="preferred_network_restrict_network_changed_incall">"Počas hovoru nie je možné zmeniť mobilnú sieť"</string>
+    <string name="preferred_network_restrict_network_changed_incall">"Počas hovoru nie je možné zmeniť mobilnú sieť"</string>
     <string name="preferred_network_type_3g_only_warning">Vaša SIM karta musí podporovať 3G, aby ste sa mohli pripojiť k sieti.</string>
     <string name="preferred_network_type_cdma">CDMA</string>
     <string name="preferred_network_type_pref_entries_3g_non_preferred_mx_at">3G/2G</string>
@@ -1629,6 +1635,7 @@ Počet zostávajúcich pokusov: %d."</string>
     <string name="sim_me_lock_disabled">Zámok SIM je deaktivovaný.</string>
     <string name="sim_ndp_dismiss_text">Zrušiť</string>
     <string name="sim_ndp_unlock_text">Odblokovať</string>
+    <string name="sim_select_dialog_title">Vyberte kartu SIM</string>
     <string name="sim_unknown">Neznáma</string>
     <string name="sim_unlock_failed">SIM SIM unlock request unsuccessful.</string>
     <string name="sim_unlock_success">SIM SIM unlock successful.</string>
@@ -1666,6 +1673,9 @@ Počet zostávajúcich pokusov: %d."</string>
     <string name="smart_dual_sim_prompt_title">Upozornenie na spotrebu dát (SIM %s)</string>
     <string name="smart_dual_sim_summary">Pripojiť k mobilným dátam pomocou druhej SIM karty ak je na tejto SIM slabý signál. Ak sa signál zlepší, mobilné dáta sa prepnú na pôvodnú SIM kartu.</string>
     <string name="smart_dual_sim_title">Inteligentná duálna SIM</string>
+    <string name="smart_switch_dual_sim_prompt">Pripojenie k mobilnej dátovej sieti pomocou SIM karty %1$s môže spôsobiť ďalšie poplatky za dáta. Nastavte si limit spotreby dát, aby ste sa vyhli ďalším poplatkom.</string>
+    <string name="smart_switch_dual_sim_summary">Automaticky prepínať medzi dátovými SIM kartami na základe kvality sieťového pripojenia a stavu zariadenia</string>
+    <string name="smart_switch_dual_sim_title">Prepínanie medzi dátovými SIM kartami</string>
     <string name="smsc_dialog_message">Uistite sa, že zadané SMSC číslo je správne, inak nebudete môcť odosielať a prijímať SMS správy.</string>
     <string name="sp_unlock_failed">SIM Service Provider unlock request unsuccessful.</string>
     <string name="sp_unlock_success">SIM Service Provider unlock successful.</string>
@@ -2001,16 +2011,4 @@ Ak sa rozhodnete uprednostňovať mobilné siete, budú sa predvolene používa�
     <string name="xdivert_summary">CFNRc Nastavenia</string>
     <string name="xdivert_title">X-Divert</string>
     <string name="yesterday">Včera</string>
-    
-<string name="data_interruption_remind_for_t">Zdá sa, že vaše dátové pripojenie nie je spoľahlivé. Ak chcete zlepšiť pripojenie, povoľte svojmu zariadeniu používať mobilné dáta počas hovorov VoLTE na sekundárnej SIM.</string>
-     <string name="smart_switch_dual_sim_prompt">Pripojenie k mobilnej dátovej sieti pomocou SIM karty %1$s môže spôsobiť ďalšie poplatky za dáta. Nastavte si limit spotreby dát, aby ste sa vyhli ďalším poplatkom.</string>
-     <string name="smart_switch_dual_sim_summary">Automaticky prepínať medzi dátovými SIM kartami na základe kvality sieťového pripojenia a stavu zariadenia</string>
-     <string name="smart_switch_dual_sim_title">Prepínanie medzi dátovými SIM kartami</string>
-
-<string name="business_hall_settings_summary">Kontrolujte svoje hovory a spotrebu dát</string>
-     <string name="business_hall_settings_title">Nastavenia programu</string>
-     <string name="default_data_title">Dáta</string>
-     <string name="default_voice_title">Hovory</string>
-<string name="pref_sim_item_no_default">Žiadne predvolené</string>
-     <string name="sim_select_dialog_title">Vyberte kartu SIM</string>
 </resources>

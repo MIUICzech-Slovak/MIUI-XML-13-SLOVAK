@@ -158,6 +158,10 @@
         <item quantity="other">Položiek: %1$s</item>
         <item quantity="one">Položiek: %1$s</item>
     </plurals>
+    <plurals name="notification_missedCallsMsg">
+        <item quantity="other">%d zmeškané hovory</item>
+        <item quantity="one">%d zmeškaný hovor</item>
+    </plurals>
     <plurals name="notification_voicemail_title">
         <item quantity="other">%1$d Hlasových správ</item>
         <item quantity="one">Hlasová správa</item>
@@ -221,9 +225,4 @@
         <item quantity="other">Ľudí: %1$d</item>
         <item quantity="one">Ľudí: %1$d</item>
     </plurals>
-	
-    <plurals name="notification_missedCallsMsg">
-        <item quantity="other">%d zmeškané hovory</item>
-        <item quantity="one">%d zmeškaný hovor</item>
-    </plurals>	
 </resources>

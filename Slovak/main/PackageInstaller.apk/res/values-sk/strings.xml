@@ -34,6 +34,7 @@
     <string name="adb_warning_message">Ladenie USB je určené iba na účely vývoja. Použite ho na kopírovanie údajov medzi počítačom a zariadením, inštaláciu aplikácií do zariadenia bez upozornenia a čítanie údajov denníka.</string>
     <string name="adb_warning_title">Povoliť ladenie USB?</string>
     <string name="additional_permissions">Ďalšie povolenia</string>
+    <string name="after_install_to_delete">Po inštalácii vymazať apk súbor</string>
     <string name="allPerms">Všetko</string>
     <string name="all_permissions">Všetky povolenia</string>
     <string name="allow_mock_location">Povoliť simulované polohy</string>
@@ -612,6 +613,4 @@ Všetky predchádzajúce používateľské údaje budú uložené."</string>
     <string name="wifi_verbose_logging">Enable Wi‑Fi Verbose Logging</string>
     <string name="wifi_verbose_logging_summary">Increase Wi‑Fi logging level, show per SSID RSSI in Wi‑Fi Picker</string>
     <string name="window_animation_scale_title">Window animation scale</string>
-	
-<string name="after_install_to_delete">Po inštalácii vymazať apk súbor</string>
 </resources>

@@ -15,12 +15,14 @@
     <string name="accessibility_settings">Nastavenia</string>
     <string name="accessibility_volume_collapse">Zbaliť</string>
     <string name="accessibility_volume_expand">Rozbaliť</string>
+    <string name="airplane">Lietadlo</string>
     <string name="airplane_mode">Lietadlo</string>
     <string name="already_in_small_freeform">Niektoré aplikácie sú otvorené v plávajúcom okne</string>
     <string name="auto_brightness_off">Automatický jas je vypnutý</string>
     <string name="auto_brightness_on">Automatický jas je zapnutý</string>
     <string name="auto_disable_screenbuttons_disable_toast_text">Navigačné tlačidlá sú vypnuté, dvojitým klepnutím na ľubovoľné tlačidlo ich znova zapnete.</string>
     <string name="auto_disable_screenbuttons_enable_toast_text">Navigačné tlačidlá sú povolené</string>
+    <string name="bootloader">Fastboot</string>
     <string name="bt_is_off">Bluetooth je vypnuté</string>
     <string name="character_counter_content_description">Zadané znaky %1$d z %2$d</string>
     <string name="character_counter_overflowed_content_description">Limit znakov prekročený %1$d z %2$d</string>
@@ -31,7 +33,10 @@
     <string name="close_invisible_mode_dialog_ok">Nastavenia</string>
     <string name="close_invisible_mode_dialog_title">Ste inkognito</string>
     <string name="control_center_notification_switch_guide">Potiahnutím prepnete medzi Ovládacím centrom a panelom upozornení</string>
+    <string name="controls_add_device_guide">Zatiaľ tu nie sú žiadne zariadenia</string>
+    <string name="controls_click_to_add_device">Pridať zariadenia</string>
     <string name="controls_confirmation_message">Potvrďte zmenu pre %s</string>
+    <string name="controls_default_structure">Zariadenia inteligentnej domácnosti</string>
     <string name="controls_dialog_confirmation">Ovládanie aktualizované</string>
     <string name="controls_dialog_message">%s odporúčame pridať toto ovládanie do obľúbených.</string>
     <string name="controls_dialog_ok">Pridať do obľúbených</string>
@@ -44,6 +49,12 @@
     <string name="controls_dismiss_dialog_message_international">Odobrať \"Smart home\" kartu?</string>
     <string name="controls_dismiss_dialog_title">Smart home zariadenia</string>
     <string name="controls_dismiss_dialog_title_international">Odstrániť kartu</string>
+    <string name="controls_edit_add_device_guide">Žiadne dostupné zariadenia</string>
+    <string name="controls_edit_added_subtitle">Presunutím položiek zmeníte usporiadanie</string>
+    <string name="controls_edit_added_title">Pridané</string>
+    <string name="controls_edit_done_button">Hotovo</string>
+    <string name="controls_edit_go_to_app_guide">Otvoriť</string>
+    <string name="controls_edit_not_added_title">K dispozícii</string>
     <string name="controls_edit_panel_not_added_title">Dostupné zariadenia</string>
     <string name="controls_edit_panel_save_button">Hotovo</string>
     <string name="controls_edit_panel_subtitle">Presuňte položky prstom</string>
@@ -58,6 +69,7 @@
     <string name="controls_favorite_removed">Všetky ovládače odstránené</string>
     <string name="controls_favorite_subtitle">Vyberte ovládače pre prístup z menu vypínania</string>
     <string name="controls_favorite_toast_no_changes">Zmeny nie sú uložené</string>
+    <string name="controls_loading_device">Prepínanie miest</string>
     <string name="controls_menu_add">Pridať ovládanie</string>
     <string name="controls_mijia_setup_subtitle">Vyberte aplikácie pre pridanie zariadení</string>
     <string name="controls_mijia_setup_subtitle_login">Pridať zariadenia</string>
@@ -65,6 +77,9 @@
     <string name="controls_no_device_subtitle">Najskôr pridajte zariadenia v %s.</string>
     <string name="controls_no_device_title">Nebolo možné nájsť zariadenia</string>
     <string name="controls_no_favorites_title">Vyberte aplikácie pre správu smart home zariadení</string>
+    <string name="controls_not_found_device_toast">Táto položka bola z aplikácie odstránená</string>
+    <string name="controls_not_found_device_toast_mihome">Táto položka bola z aplikácie odstránená</string>
+    <string name="controls_offline_device_toast">Toto zariadenie je offline. Stlačením a podržaním otvoríte aplikáciu.</string>
     <string name="controls_pin_instructions">Zadajte PIN</string>
     <string name="controls_pin_instructions_retry">Skúste iný PIN</string>
     <string name="controls_pin_use_alphanumeric">PIN obsahuje písmena a symboly</string>
@@ -73,6 +88,7 @@
     <string name="controls_providers_title">Vyberte aplikáciu pre pridanie ovládania</string>
     <string name="controls_seeding_in_progress">Načítavanie...</string>
     <string name="controls_structure_tooltip">Potiahnite pre zobrazenie</string>
+    <string name="controls_unsupport_toggle_toast">Toto zariadenie sa odtiaľto nedá ovládať. Stlačením a podržaním otvoríte aplikáciu.</string>
     <string name="disabled">Nedostupné</string>
     <string name="dnd_popup_close_message">Rozumiem</string>
     <string name="dnd_popup_message">Môžete zapnúť režim Nerušiť pre stíšenie hovorov a upozornení bez vypnutia zvukov médií.</string>
@@ -325,6 +341,7 @@
     <string name="quick_settings_wireless_label">Reverzné nabíjanie</string>
     <string name="reboot_info_auto_boot">Zariadenie sa vypne o %s</string>
     <string name="reboot_info_shutdown_alarm">Budík: %s</string>
+    <string name="recovery">TWRP</string>
     <string name="reset">Obnoviť</string>
     <string name="restart">Reštart</string>
     <string name="saturday">Sobota</string>
@@ -334,7 +351,10 @@
     <string name="search_events">Vyhľadať udalosť</string>
     <string name="search_history">História</string>
     <string name="search_menu_title">Vyhľadať</string>
+    <string name="silent">Tichý režim</string>
     <string name="slider_view_content_description">Potiahnite nahor pre vypnutie alebo nadol pre reštartovanie</string>
+    <string name="slider_view_content_left_description">Potiahnite nahor pre Fastboot režim alebo nadol pre TWRP</string>
+    <string name="slider_view_content_right_description">Potiahnite nahor pre režim Lietadlo alebo nadol pre Tichý režim</string>
     <string name="smart_home_title">Inteligentné zariadenia</string>
     <string name="sunday">Nedeľa</string>
     <string name="sunday_short">Ned</string>
@@ -379,26 +399,4 @@
     <string name="wireless_charging_tips_sub_message">Druhé zariadenie musí podporovať Qi bezdrôtové nabíjanie.</string>
     <string name="wireless_charging_tips_title">Reverzné bezdrôtové nabíjanie</string>
     <string name="yesterday">Včera</string>
-    
-<string name="controls_add_device_guide">Zatiaľ tu nie sú žiadne zariadenia</string>
-    <string name="controls_click_to_add_device">Pridať zariadenia</string>
-    <string name="controls_default_structure">Zariadenia inteligentnej domácnosti</string>
-    <string name="controls_edit_add_device_guide">Žiadne dostupné zariadenia</string>
-    <string name="controls_edit_added_subtitle">Presunutím položiek zmeníte usporiadanie</string>
-    <string name="controls_edit_added_title">Pridané</string>
-    <string name="controls_edit_done_button">Hotovo</string>
-    <string name="controls_edit_go_to_app_guide">Otvoriť</string>
-    <string name="controls_edit_not_added_title">K dispozícii</string>
-    <string name="controls_loading_device">Prepínanie miest</string>
-    <string name="controls_not_found_device_toast">Táto položka bola z aplikácie odstránená</string>
-    <string name="controls_not_found_device_toast_mihome">Táto položka bola z aplikácie odstránená</string>
-    <string name="controls_offline_device_toast">Toto zariadenie je offline. Stlačením a podržaním otvoríte aplikáciu.</string>
-    <string name="controls_unsupport_toggle_toast">Toto zariadenie sa odtiaľto nedá ovládať. Stlačením a podržaním otvoríte aplikáciu.</string>    
-    
-    <string name="airplane">Lietadlo</string>
-    <string name="bootloader">Fastboot</string>
-    <string name="recovery">TWRP</string>
-    <string name="silent">Tichý režim</string>
-    <string name="slider_view_content_left_description">Potiahnite nahor pre Fastboot režim alebo nadol pre TWRP</string>
-    <string name="slider_view_content_right_description">Potiahnite nahor pre režim Lietadlo alebo nadol pre Tichý režim</string>                    
 </resources>

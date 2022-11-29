@@ -954,6 +954,11 @@ Postupujte podľa pokynov"</item>
         <item>Veľmi svižná</item>
         <item>Najrýchlejšia</item>
     </string-array>
+    <string-array name="typing_style_entries">
+        <item>Štandardné</item>
+        <item>Dotyk</item>
+        <item>Priamy dotyk</item>
+    </string-array>
     <string-array name="usage_stats_display_order_types">
         <item>Doba použitia</item>
         <item>Počet spustení</item>
@@ -1125,10 +1130,4 @@ Postupujte podľa pokynov"</item>
         <item>Mierka animácie 5x</item>
         <item>Mierka animácie 10x</item>
     </string-array>
-	
-    <string-array name="typing_style_entries">
-        <item>Štandardné</item>
-        <item>Dotyk</item>
-        <item>Priamy dotyk</item>
-    </string-array>	
 </resources>

@@ -122,6 +122,11 @@
     <string name="cloud_member_vipname_premium">Prémium</string>
     <string name="cloud_member_vipname_ultra">Ultra</string>
     <string name="cloud_service">MiCloud</string>
+    <string name="cloud_service_cloud_open">Zapnúť</string>
+    <string name="cloud_service_space_full">Úložisko je plné</string>
+    <string name="cloud_service_space_not_enough">Nedostatok ukladacieho priestoru</string>
+    <string name="cloud_service_space_used">Obsadené</string>
+    <string name="cloud_service_state_error">Nepodarilo sa načítať</string>
     <string name="cloud_service_status_backup_not_open">Zálohovanie je vypnuté</string>
     <string name="cloud_service_status_cloud_not_open">Vypnuté</string>
     <string name="cloud_service_status_storage_full">Úložisko je plné</string>
@@ -207,6 +212,8 @@
     <string name="device_list_title">Zoznam zariadení</string>
     <string name="device_name">Názov zariadenia</string>
     <string name="device_trust_info">Dôveryhodné zariadenie</string>
+    <string name="dind_device_service_not_open">Vypnuté</string>
+    <string name="dind_device_service_opened">Zapnuté</string>
     <string name="download_file">Sťahovanie %s…</string>
     <string name="empty_device_list_notice">Žiadne zariadenia</string>
     <string name="enable">Nastavenia</string>
@@ -221,6 +228,7 @@
     <string name="exit">Ukončiť</string>
     <string name="facebook">Facebook</string>
     <string name="failed_dup_secure_phone_number">Toto telefónne číslo už je použité pre iný Xiaomi účet</string>
+    <string name="family_service_not_open">Pozvať členov</string>
     <string name="family_share">Rodinné zdieľanie</string>
     <string name="find_device">Vyhľadávanie zariadenia</string>
     <string name="find_device_access_denied">Nie je možné načítať stav zariadenia, prístup zamietnutý</string>
@@ -297,6 +305,7 @@
     <string name="login_guard_prompt">Vyžadovať overenie telefónneho čísla pri nasledujúcom prihlásení sa ku Xiaomi účtu na neznámom zariadení alebo aplikácií.</string>
     <string name="logout_account">Odhlásiť</string>
     <string name="logout_failed">Odhlásenie zlyhalo</string>
+    <string name="mi_account">Môj účet</string>
     <string name="mi_account_identity_title">Overiť vašu identitu</string>
     <string name="mi_member">Xiaomi Komunita</string>
     <string name="mi_pass">MiPass</string>
@@ -639,6 +648,7 @@ Skontrolujte aj SPAM."</string>
     <string name="passport_vcode_notification_title">Vaše overenie prihlásenia nie je dokončené</string>
     <string name="passport_vcode_prompt_long">Zadajte váš overovací kód</string>
     <string name="passport_vcode_sms_send_prompt">Odoslať overovací kód na %s</string>
+    <string name="passport_vcode_what_app_send_prompt">Váš overovací kód WhatsApp bude doručený na váš telefón na obnovenie %s</string>
     <string name="passport_verification_failed">Chyba prihlásenia</string>
     <string name="passport_verify">Overiť</string>
     <string name="passport_verifying_activator_phone">Overovanie zabezpečenia...</string>
@@ -789,8 +799,15 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
     <string name="update_phone_number_notice_message">Musíte overiť vašu identitu predtým ako zmeníte telefónne číslo.</string>
     <string name="updated_nothing">Žiadna aktualizácia</string>
     <string name="used_cloud_storage_info">Využité úložisko %s</string>
+    <string name="user_agreement_device_permission_desc">Na zaistenie bezpečnosti prihlasovacieho prostredia</string>
+    <string name="user_agreement_device_permission_title">Prístup k informáciám o zariadení</string>
+    <string name="user_agreement_must_permission_msg">Povinné povolenia (používané pre základné funkcie a služby tejto aplikácie)</string>
     <string name="user_agreement_network_permission_msg">Potrebujeme sa pripojiť k internetu, aby sme vám mohli poskytnúť potrebné služby.</string>
+    <string name="user_agreement_permission_summary_msg">Účet Xiaomi vám umožňuje prístup ku všetkým službám poskytovaným spoločnosťou Xiaomi. Táto aplikácia sa musí pripojiť k internetu a vyžaduje nasledujúce povolenia, aby mohla normálne fungovať:</string>
     <string name="user_agreement_use_account_msg">Účet Xiaomi vám umožňuje prístup ku všetkým službám poskytovaným spoločnosťou Xiaomi.</string>
+    <string name="user_agreement_wifi_permission_title">Zapnutie a vypnutie Wi-Fi</string>
+    <string name="user_agreement_wlan_permission_desc">Na kontrolu bezpečnostných problémov v prihlasovacom prostredí</string>
+    <string name="user_agreement_wlan_permission_title_china">Zapnutie a vypnutie Wi-Fi</string>
     <string name="user_avatar_update_title">Aktualizovať profilovú fotografiu</string>
     <string name="user_avatar_uploading">Nahrávanie...</string>
     <string name="user_instruction_all_purpose">Vitajte v Xiaomi účte! Môžete vytvoriť nový účet alebo sa prihlásiť pre prístup k online Xiaomi službám.</string>
@@ -814,23 +831,4 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
     <string name="wipe_data_dialog_msg_separator">, </string>
     <string name="wipe_data_dialog_title">Niektoré položky neboli synchronizované.</string>
     <string name="yesterday">Včera</string>
-    
-<string name="passport_vcode_what_app_send_prompt">Váš overovací kód WhatsApp bude doručený na váš telefón na obnovenie %s</string>
-
-<string name="user_agreement_device_permission_desc">Na zaistenie bezpečnosti prihlasovacieho prostredia</string>
-    <string name="user_agreement_device_permission_title">Prístup k informáciám o zariadení</string>
-    <string name="user_agreement_must_permission_msg">Povinné povolenia (používané pre základné funkcie a služby tejto aplikácie)</string>
-    <string name="user_agreement_permission_summary_msg">Účet Xiaomi vám umožňuje prístup ku všetkým službám poskytovaným spoločnosťou Xiaomi. Táto aplikácia sa musí pripojiť k internetu a vyžaduje nasledujúce povolenia, aby mohla normálne fungovať:</string>
-    <string name="user_agreement_wifi_permission_title">Zapnutie a vypnutie Wi-Fi</string>
-    <string name="user_agreement_wlan_permission_desc">Na kontrolu bezpečnostných problémov v prihlasovacom prostredí</string>
-    <string name="user_agreement_wlan_permission_title_china">Zapnutie a vypnutie Wi-Fi</string>
-<string name="cloud_service_cloud_open">Zapnúť</string>
-     <string name="cloud_service_space_full">Úložisko je plné</string>
-     <string name="cloud_service_space_not_enough">Nedostatok ukladacieho priestoru</string>
-     <string name="cloud_service_space_used">Obsadené</string>
-     <string name="cloud_service_state_error">Nepodarilo sa načítať</string>
-     <string name="dind_device_service_not_open">Vypnuté</string>
-     <string name="dind_device_service_opened">Zapnuté</string>
-     <string name="family_service_not_open">Pozvať členov</string>
-     <string name="mi_account">Môj účet</string>	
 </resources>

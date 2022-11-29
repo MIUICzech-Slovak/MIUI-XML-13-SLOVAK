@@ -330,6 +330,7 @@
     <string name="blur_location_is_on_tip">%1$s spustilo služby približnej polohy. Chcete ponechať využívanie približnej polohy?</string>
     <string name="blur_location_now_tip">Približná poloha je zapnutá</string>
     <string name="blur_location_title">Približná poloha</string>
+    <string name="carwith_grant_permission_tips_when_lock">Najskôr odomknite telefón</string>
     <string name="clipboard_ai_allow_once">Povolené %1$s automaticky načítať položky v schránke</string>
     <string name="clipboard_data">Položky v schránke</string>
     <string name="clipboard_data_request">%1$s žiada prístup k položkám v schránke</string>
@@ -442,6 +443,7 @@
     <string name="ok">OK</string>
     <string name="perm_action_allow">Povoliť</string>
     <string name="perm_action_deny">Nikdy</string>
+    <string name="perm_educate_post_notification">Upozornenia môžu sprevádzať zvuk a vibrácie, ktoré sa zobrazujú na paneli upozornení a na ikonách na ploche. Predvoľby upozornení môžete zmeniť v Nastaveniach.</string>
     <string name="perm_manager_suggest_operation">Spravovať povolenia</string>
     <string name="perm_manager_suggest_title">Upraviť povolenia?</string>
     <string name="perm_modem_location">Prístup k vašej polohe</string>
@@ -456,11 +458,13 @@
     <string name="permdesc_microphone">Nahrávať hovory a zvuk</string>
     <string name="permdesc_nearby_devices">Povoliť aplikácii %1$s vyh+lada5 zariadenia v okolí a pripájať sa k nim?</string>
     <string name="permdesc_out_calls">Sledovať odchádzajúce hovory</string>
+    <string name="permdesc_post_notification">Povoliť aplikácii %1$s upozornenia?</string>
     <string name="permdesc_process_outgoing_call">Povoliť aplikácii %1$s prijímať a ukončovať hovory?</string>
     <string name="permdesc_read_calendar">Prístup k udalostiam v kalendári</string>
     <string name="permdesc_read_call_log">Povoliť %1$s prístup k histórii hovorov?</string>
     <string name="permdesc_read_contacts">Povoliť aplikácii %1$s prístup ku kontaktom?</string>
     <string name="permdesc_read_mms">Povoliť aplikácii %1$s čítať multimediálne správy?</string>
+    <string name="permdesc_read_phone_numbers">Povoliť aplikácii %1$s čítať telefónne čísla na tomto zariadení?</string>
     <string name="permdesc_read_phone_state">Povoliť aplikácii %1$s prístup k stavu zariadenia a informáciám o mobilnej sieti?</string>
     <string name="permdesc_read_sms">Povoliť aplikácii %1$s čítať alebo odosielať SMS správy?</string>
     <string name="permdesc_read_storage">Prístup k fotografiám a súborom na úložisku</string>
@@ -553,10 +557,4 @@
     <string name="wednesday_shortest">S</string>
     <string name="yes">Áno</string>
     <string name="yesterday">Včera</string>
-    
-<string name="perm_educate_post_notification">Upozornenia môžu sprevádzať zvuk a vibrácie, ktoré sa zobrazujú na paneli upozornení a na ikonách na ploche. Predvoľby upozornení môžete zmeniť v Nastaveniach.</string>
-     <string name="permdesc_post_notification">Povoliť aplikácii %1$s upozornenia?</string>    
-	 
-<string name="carwith_grant_permission_tips_when_lock">Najskôr odomknite telefón</string>
-     <string name="permdesc_read_phone_numbers">Povoliť aplikácii %1$s čítať telefónne čísla na tomto zariadení?</string>	 
 </resources>

@@ -324,9 +324,22 @@ Ak chcete pokračovať, stlačte tlačidlo Vymazať a konvertovať…"</string>
     <string name="no_vm_number">Číslo hlasovej schránky neexistuje</string>
     <string name="no_vm_number_msg">Na karte SIM nie je uložené žiadne číslo hlasovej schránky.</string>
     <string name="non_primary_user">Iba vlastník zariadenia môže zobrazovať a spravovať blokované čísla.</string>
+    <string name="notification_AllMissedCallTitle">Všetky zmeškané hovory</string>
+    <string name="notification_audioProcessing_body">%s umiestnil volanie do pozadia. Táto aplikácia môže pristupovať a prehrávať zvuk počas hovoru.</string>
+    <string name="notification_audioProcessing_title">Volanie na pozadí</string>
+    <string name="notification_channel_background_calls">Volanie na pozadí</string>
+    <string name="notification_channel_call_blocking">Blokovanie hovorov</string>
+    <string name="notification_channel_disconnected_calls">Odpojené hovory</string>
+    <string name="notification_channel_in_call_service_crash">Pády telefónnych aplikácií</string>
     <string name="notification_channel_incoming_call">Prichádzajúce hovory</string>
     <string name="notification_channel_missed_call">Zmeškané hovory</string>
+    <string name="notification_channel_missed_call_DND">Nerušiť</string>
+    <string name="notification_disconnectedCall_body">Volanie na %s bolo prerušené z dôvodu uskutočnenia tiesňového volania.</string>
+    <string name="notification_disconnectedCall_generic_body">Váš hovor bol odpojený z dôvodu tiesňového volania.</string>
+    <string name="notification_disconnectedCall_title">Odpojený hovor</string>
     <string name="notification_disconnectedDialing_message">Nie je možné uskutočniť hovor, pretože už sa vytáča iný odchádzajúci hovor.</string>
+    <string name="notification_incallservice_not_responding_body">Váš hovor použil telefónnu aplikáciu, ktorá bola dodaná s vaším zariadením</string>
+    <string name="notification_incallservice_not_responding_title">%s prestal reagovať</string>
     <string name="notification_incoming_call">Hovor %1$s od používateľa %2$s</string>
     <string name="notification_incoming_video_call">Videohovor %1$s od používateľa %2$s</string>
     <string name="notification_missedCallTicker">Zmeškaný hovor od %s</string>
@@ -509,18 +522,4 @@ Ak chcete pokračovať, stlačte tlačidlo Vymazať a konvertovať…"</string>
     <string name="wifi_verbose_logging_summary">Zvýšiť úroveň denníkov Wi-Fi, zobrazovať podľa SSID RSSI pri výbere siete Wi-Fi</string>
     <string name="window_animation_scale_title">Mierka animácie okna</string>
     <string name="yesterday">Včera</string>
-    
-<string name="notification_AllMissedCallTitle">Všetky zmeškané hovory</string>
-     <string name="notification_audioProcessing_body">%s umiestnil volanie do pozadia. Táto aplikácia môže pristupovať a prehrávať zvuk počas hovoru.</string>
-     <string name="notification_audioProcessing_title">Volanie na pozadí</string>
-     <string name="notification_channel_background_calls">Volanie na pozadí</string>
-     <string name="notification_channel_call_blocking">Blokovanie hovorov</string>
-     <string name="notification_channel_disconnected_calls">Odpojené hovory</string>
-     <string name="notification_channel_in_call_service_crash">Pády telefónnych aplikácií</string>
-     <string name="notification_channel_missed_call_DND">Nerušiť</string>
-     <string name="notification_disconnectedCall_body">Volanie na %s bolo prerušené z dôvodu uskutočnenia tiesňového volania.</string>
-     <string name="notification_disconnectedCall_generic_body">Váš hovor bol odpojený z dôvodu tiesňového volania.</string>
-     <string name="notification_disconnectedCall_title">Odpojený hovor</string>
-     <string name="notification_incallservice_not_responding_body">Váš hovor použil telefónnu aplikáciu, ktorá bola dodaná s vaším zariadením</string>
-     <string name="notification_incallservice_not_responding_title">%s prestal reagovať</string>    
 </resources>

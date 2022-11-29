@@ -401,6 +401,10 @@
         <item quantity="other">Nemáte oprávnenie vymazať tieto súbory %d.</item>
         <item quantity="one">Nemáte oprávnenie vymazať tieto súbory %d.</item>
     </plurals>
+    <plurals name="migrate_gp_data_num">
+        <item quantity="other">%1$d položiek</item>
+        <item quantity="one">%1$d položka</item>
+    </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">Vybraných: %d</item>
         <item quantity="one">Vybraných: %d</item>
@@ -609,6 +613,14 @@
         <item quantity="other">Synchr. %d položiek</item>
         <item quantity="one">Synchr. %d položky</item>
     </plurals>
+    <plurals name="tran_notification_complete_msg">
+        <item quantity="other">Nepodarilo sa preniesť %1$d položiek</item>
+        <item quantity="one">Nepodarilo sa preniesť %1$d položku</item>
+    </plurals>
+    <plurals name="transfer_status_banner_msg_file_failed">
+        <item quantity="other">Nepodarilo sa preniesť %1$d položiek. Ak si ich chcete stiahnuť, navštívte stránku i.mi.com.</item>
+        <item quantity="one">Nepodarilo sa preniesť %1$d položku. Navštívte i.mi.com a stiahnite si ju.</item>
+    </plurals>
     <plurals name="trash_purge_dialog_message_image">
         <item quantity="other">Nebude možné obnoviť vybrané položky (%d) ak ich vymažete. Aj tak ich chcete vymazať?</item>
         <item quantity="one">Nebude možné obnoviť vybranú položku (%d) ak ju vymažete. Aj tak ju chcete vymazať?</item>
@@ -625,6 +637,14 @@
         <item quantity="other">Položky môžu byť uložené tu po dobu %1$d dní (%2$s)</item>
         <item quantity="one">Položky môžu byť uložené tu po dobu %1$d dňa (%2$s)</item>
     </plurals>
+    <plurals name="trash_vip_info_text_login_medium_or_low_level">
+        <item quantity="other">Položky tu môžu byť uložené %1$s dní. Klepnutím predĺžite toto obdobie.</item>
+        <item quantity="one">Položky tu môžu byť uložené %1$s deň. Klepnutím predĺžite toto obdobie.</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_no_sync_server">
+        <item quantity="other">Odstránené položky sú uložené v cloude na %1$d dní</item>
+        <item quantity="one">Odstránené položky sú uložené v cloude na %1$d deň</item>
+    </plurals>
     <plurals name="trash_vip_info_text_unlogin">
         <item quantity="other">Položky môžu byť uložené tu po dobu %1$d dní. Navýšte si vaše predplatné pre predĺženie tejto doby.</item>
         <item quantity="one">Položky môžu byť uložené tu po dobu %1$d dňa. Navýšte si vaše predplatné pre predĺženie tejto doby.</item>
@@ -637,25 +657,4 @@
         <item quantity="other">Videá: %d</item>
         <item quantity="one">Videá: %d</item>
     </plurals>
-    
-<plurals name="migrate_gp_data_num">
-        <item quantity="other">%1$d položiek</item>
-        <item quantity="one">%1$d položka</item>
-    </plurals>
-    <plurals name="tran_notification_complete_msg">
-        <item quantity="other">Nepodarilo sa preniesť %1$d položiek</item>
-        <item quantity="one">Nepodarilo sa preniesť %1$d položku</item>
-    </plurals>
-    <plurals name="transfer_status_banner_msg_file_failed">
-        <item quantity="other">Nepodarilo sa preniesť %1$d položiek. Ak si ich chcete stiahnuť, navštívte stránku i.mi.com.</item>
-        <item quantity="one">Nepodarilo sa preniesť %1$d položku. Navštívte i.mi.com a stiahnite si ju.</item>
-    </plurals>
-    <plurals name="trash_vip_info_text_login_medium_or_low_level">
-        <item quantity="other">Položky tu môžu byť uložené %1$s dní. Klepnutím predĺžite toto obdobie.</item>
-        <item quantity="one">Položky tu môžu byť uložené %1$s deň. Klepnutím predĺžite toto obdobie.</item>
-    </plurals>
-    <plurals name="trash_vip_info_text_no_sync_server">
-        <item quantity="other">Odstránené položky sú uložené v cloude na %1$d dní</item>
-        <item quantity="one">Odstránené položky sú uložené v cloude na %1$d deň</item>
-    </plurals>    
 </resources>

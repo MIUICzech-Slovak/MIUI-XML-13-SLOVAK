@@ -333,6 +333,9 @@
     <string name="start_analysis">Skontrolovať</string>
     <string name="start_download">Stiahnuť</string>
     <string name="starting_analysis">Kontrola...</string>
+    <string name="storage_dialog_content">Povoľte stiahnutým súborom prístup k úložisku zariadenia, aby ste mohli používať jeho funkcie.</string>
+    <string name="storage_dialog_go">Nastavenia</string>
+    <string name="storage_dialog_title">Prístup k úložisku zariadenia</string>
     <string name="storage_internal">Interné úložisko</string>
     <string name="storage_sd_card">SD karta</string>
     <string name="storage_usb">USB úložisko</string>
@@ -400,8 +403,4 @@ Táto funkcia nie je mimo Čínu odporúčaná"</string>
     <string name="xunlei_speed_service">Xunlei sťahovanie</string>
     <string name="xunlei_switch">Xunlei sťahovanie</string>
     <string name="yesterday">Včera</string>
-    
-<string name="storage_dialog_content">Povoľte stiahnutým súborom prístup k úložisku zariadenia, aby ste mohli používať jeho funkcie.</string>
-     <string name="storage_dialog_go">Nastavenia</string>
-     <string name="storage_dialog_title">Prístup k úložisku zariadenia</string>    
 </resources>

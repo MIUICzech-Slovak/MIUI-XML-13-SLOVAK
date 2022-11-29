@@ -42,6 +42,8 @@
     <string name="call_contacts_deny_permission_msg">Zakázali ste prístup ku kontaktom, nie je možné zobraziť informácie o kontakte.</string>
     <string name="call_description_recording">Nahrávanie...</string>
     <string name="call_extension_conference_mode">Konferencia</string>
+    <string name="call_log_short_in">Toto číslo vám práve volalo</string>
+    <string name="call_log_short_out">Na toto číslo ste práve volali</string>
     <string name="call_not_support_high_frequency_click">Stláčajte tlačidlo pomalšie</string>
     <string name="call_record_button_label">Nahrávanie %s</string>
     <string name="call_record_wait_label">Čakanie</string>
@@ -61,6 +63,10 @@
     <string name="caller_info_name_delimiter">" alebo "</string>
     <string name="caller_manage_header">Konferenčný hovor %s</string>
     <string name="calling_via_template">Volanie prostredníctvom %s</string>
+    <string name="camera_on">Druhá osoba chce zapnúť vašu kameru.</string>
+    <string name="camera_on_agree">Povoliť</string>
+    <string name="camera_on_refuse">Nepovoliť</string>
+    <string name="camera_on_title">Fotoaparát</string>
     <string name="can_not_call_oneself">Nie je možné uskutočniť hovor na toto číslo</string>
     <string name="can_not_use">Nie je možné použiť</string>
     <string name="cancel">Zrušiť</string>
@@ -304,6 +310,10 @@
     <string name="onscreen_change_to_video">Video hovor</string>
     <string name="onscreen_change_to_voice">Hlasový hovor</string>
     <string name="onscreen_close_preview_camera">Zatvoriť kameru</string>
+    <string name="onscreen_collapsed">Zbaliť</string>
+    <string name="onscreen_collapsed_dialpad">Zobraziť klávesnicu</string>
+    <string name="onscreen_expand">Viac</string>
+    <string name="onscreen_expand_dialpad">Skryť klávesnicu</string>
     <string name="onscreen_hold_text">Podržať</string>
     <string name="onscreen_merge_calls_text">Spojiť hovory</string>
     <string name="onscreen_message_text">Správy</string>
@@ -341,6 +351,11 @@ Stlačte \"%1$s\" a potom vyberte \"%2$s\"."</string>
     <string name="saturday">Sobota</string>
     <string name="saturday_short">Sob</string>
     <string name="saturday_shortest">S</string>
+    <string name="screen_share">Vzdialená pomoc</string>
+    <string name="screen_share_agree">Povoliť</string>
+    <string name="screen_share_connecting">Pripája sa…</string>
+    <string name="screen_share_message">Povoliť druhej osobe zobraziť vašu obrazovku v reálnom čase?</string>
+    <string name="screen_share_refuse">Zrušiť</string>
     <string name="search_events">Vyhľadať udalosť</string>
     <string name="search_history">História</string>
     <string name="select_audio_dialog_title">Vyberte režim odpovede</string>
@@ -385,21 +400,4 @@ Stlačte \"%1$s\" a potom vyberte \"%2$s\"."</string>
     <string name="wednesday_shortest">S</string>
     <string name="wifi_call">VoWi-fi hovor</string>
     <string name="yesterday">Včera</string>
-	
-<string name="call_log_short_in">Toto číslo vám práve volalo</string>
-     <string name="call_log_short_out">Na toto číslo ste práve volali</string>	
-	 
-<string name="camera_on">Druhá osoba chce zapnúť vašu kameru.</string>
-     <string name="camera_on_agree">Povoliť</string>
-     <string name="camera_on_refuse">Nepovoliť</string>
-     <string name="camera_on_title">Fotoaparát</string>
-     <string name="onscreen_collapsed">Zbaliť</string>
-     <string name="onscreen_collapsed_dialpad">Zobraziť klávesnicu</string>
-     <string name="onscreen_expand">Viac</string>
-     <string name="onscreen_expand_dialpad">Skryť klávesnicu</string>
-     <string name="screen_share">Vzdialená pomoc</string>
-     <string name="screen_share_agree">Povoliť</string>
-     <string name="screen_share_connecting">Pripája sa…</string>
-     <string name="screen_share_message">Povoliť druhej osobe zobraziť vašu obrazovku v reálnom čase?</string>
-     <string name="screen_share_refuse">Zrušiť</string>	 
 </resources>

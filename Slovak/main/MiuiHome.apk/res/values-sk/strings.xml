@@ -47,6 +47,7 @@
     <string name="all_apps_setting_drawer_tips_desc">Zoznam aplikácií zobrazíte potiahnutím nahor na ploche. Chcete prepnúť do zoznamu aplikácií?</string>
     <string name="all_apps_setting_drawer_tips_title">Použiť Zoznam aplikácií</string>
     <string name="all_apps_setting_drawer_title">So zoznamom aplikácií</string>
+    <string name="all_apps_setting_jeejen_title">Zjednodušený režim</string>
     <string name="all_apps_setting_min_category_limit">Vyberte aspoň 1 kategóriu</string>
     <string name="all_apps_setting_original_scrollbar">Pôvodné rozloženie</string>
     <string name="all_apps_setting_scroll_bar">Posuvník</string>
@@ -347,6 +348,9 @@
     <string name="invalid_contact_shortcut">Neplatný zástupca kontaktu</string>
     <string name="is_setting_wallpaper_message">Nastavovanie tapety...</string>
     <string name="is_system_wallpaper_message">Nie je možné vymazať systémové súbory</string>
+    <string name="jeejen_description">"Väčšie UI prvky.
+Dostupnejšie volanie.
+Zvýšená bezpečnosť."</string>
     <string name="key_shortcut_settings_title">Skratky tlačidla</string>
     <string name="launcher_auto_fill_empty_title">Auto. vyplniť prázdne miesto</string>
     <string name="launcher_global_search_mode_title">Vyhľadávanie</string>
@@ -408,6 +412,7 @@
     <string name="menu_more">Viac nastavení</string>
     <string name="menu_no_word">Nezobrazovať text</string>
     <string formatted="false" name="menu_no_word_setting_tip">Použiť %d×%d rozloženie bez textu</string>
+    <string name="menu_only_widget_no_word">Odstrániť názvy widgetov</string>
     <string name="menu_picktheme">Zvoliť tému</string>
     <string name="menu_reset_scene">Obnoviť na predvolenú scénu</string>
     <string name="menu_search">Hľadať</string>
@@ -544,6 +549,9 @@
     <string name="open_personal_assistant_dialog_desc_international">Nebude možné využívať karty asistenta.</string>
     <string name="open_personal_assistant_dialog_title">Deaktivovať Asistenta</string>
     <string name="open_personal_assistant_settings">Nastavenia asistenta</string>
+    <string name="open_personal_assistant_settings_off">Vypnuté</string>
+    <string name="open_personal_assistant_settings_on">Zapnuté</string>
+    <string name="open_personal_assistant_settings_simplified">Asistent</string>
     <string name="open_personal_assistant_title">Povoliť Asistenta</string>
     <string name="ota_layout_adjustment_button_text">Rozumiem</string>
     <string name="ota_layout_adjustment_content">Rozloženie plochy bolo synchronizované.</string>
@@ -771,15 +779,5 @@
     <string name="widget_global_search">Vyhľadávanie</string>
     <string name="widget_quick_function">Skratky</string>
     <string name="widgets_preview_title">Pridať widget</string>
-    <string name="yesterday">Včera</string>   
-	
-    <string name="menu_only_widget_no_word">Odstrániť názvy widgetov</string>
-    <string name="open_personal_assistant_settings_off">Vypnuté</string>
-    <string name="open_personal_assistant_settings_on">Zapnuté</string>
-    <string name="open_personal_assistant_settings_simplified">Asistent</string>	
-    
-    <string name="all_apps_setting_jeejen_title">Zjednodušený režim</string>
-    <string name="jeejen_description">"Väčšie UI prvky.
-Dostupnejšie volanie.
-Zvýšená bezpečnosť."</string>    
+    <string name="yesterday">Včera</string>
 </resources>

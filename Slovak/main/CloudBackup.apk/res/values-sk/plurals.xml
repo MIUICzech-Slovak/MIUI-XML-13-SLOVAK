@@ -84,17 +84,16 @@
         <item quantity="other">Obnovenie súborov (%d)</item>
         <item quantity="one">Obnovenie súborov (%d)</item>
     </plurals>
+    <plurals name="session_starting_app_count_backup_text">
+        <item quantity="other">Zálohovaných %d aplikácií</item>
+        <item quantity="one">Zálohovaná %d aplikácia</item>
+    </plurals>
+    <plurals name="session_starting_app_count_restore_text">
+        <item quantity="other">Obnovených %d aplikácií</item>
+        <item quantity="one">Obnovená %d aplikácia</item>
+    </plurals>
     <plurals name="session_time_remain">
         <item quantity="other">Ostáva okolo %s min</item>
         <item quantity="one">Ostáva okolo %s min</item>
     </plurals>
-    
-<plurals name="session_starting_app_count_backup_text">
-         <item quantity="other">Zálohovaných %d aplikácií</item>
-         <item quantity="one">Zálohovaná %d aplikácia</item>
-     </plurals>
-     <plurals name="session_starting_app_count_restore_text">
-         <item quantity="other">Obnovených %d aplikácií</item>
-         <item quantity="one">Obnovená %d aplikácia</item>
-     </plurals>    
 </resources>

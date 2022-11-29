@@ -6,8 +6,7 @@
         <item quantity="few">%1$d ďalšie</item>
         <item quantity="many">%1$d ďalšieho</item>
     </plurals>
-	
-<plurals name="app_info_permission_count">
+    <plurals name="app_info_permission_count">
         <item quantity="other">povolenia %1$s</item>
         <item quantity="one">povolenie %1$s</item>
     </plurals>

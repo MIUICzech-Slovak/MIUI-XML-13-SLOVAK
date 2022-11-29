@@ -212,6 +212,8 @@ d. MMMM"</string>
     <string name="search_menu_title">Vyhľadať</string>
     <string name="select_notification_animation_style">Vybrať špeciálny efekt</string>
     <string name="select_notification_notify_style">Vyberte efekt upozornení</string>
+    <string name="settings_view_btn_check_off">Vyp.</string>
+    <string name="settings_view_btn_check_on">Zap.</string>
     <string name="share">Zdieľať</string>
     <string name="show_battery">Zobraziť stav batérie</string>
     <string name="show_battery_status">Zobraziť stav batérie</string>
@@ -259,8 +261,5 @@ N e"</string>
     <string name="wednesday">Streda</string>
     <string name="wednesday_short">Str</string>
     <string name="wednesday_shortest">S</string>
-	
-    <string name="settings_view_btn_check_off">Vyp.</string>
-    <string name="settings_view_btn_check_on">Zap.</string>	
 </resources>
 

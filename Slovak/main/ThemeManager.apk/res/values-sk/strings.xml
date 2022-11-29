@@ -121,6 +121,7 @@
     <string name="component_title_settings_video_wallpaper">Tapety s efektami</string>
     <string name="component_title_video_wallpaper">Filmy na tapety</string>
     <string name="component_title_wallpaper">Tapety</string>
+    <string name="component_title_widget_suit">Widgety</string>
     <string name="concentration_old_period">Viac</string>
     <string name="configure_success_not_enable_aod">Nastavené. Zapnite Always-on displej pre použitie témy.</string>
     <string name="copy">Kopírovať</string>
@@ -714,6 +715,7 @@ Toto povolenie môžete udeliť v časti Nastavenia &gt; Ochrana osobných údaj
     <string name="purchased_list_legacy">Staré témy</string>
     <string name="read_and_agree_account_privacy">Prečítal som si a súhlasím s Ochranou súkromia.</string>
     <string name="recently_used">Nedávno použité</string>
+    <string name="recommend_bottom_tips">Ste na spodku</string>
     <string name="recommend_trigger">Prispôsobené odporúčania</string>
     <string name="recommend_trigger_summary">Zapnite, ak chcete dostávať odporúčania na základe vašich preferencií</string>
     <string name="refresh_footer_all_loaded">"To je zatiaľ všetko."</string>
@@ -986,6 +988,7 @@ ale obsah ktorý hľadáte nie je dostupný vo vašej krajine."</string>
     <string name="search_sort_news">Prvá novinka</string>
     <string name="search_sort_synthesize">Všeobecné</string>
     <string name="search_sort_top">Najskôr obľúbené</string>
+    <string name="search_view_description_clear">Vymazať vyhľadávanie</string>
     <string name="selected_resource_file_invalid">Vybraný súbor je chybný.</string>
     <string name="send">Odoslať</string>
     <string name="server_internal_error">Vyskytla sa chyba servera. Počkajte minútu alebo dve a skúste to znova.</string>
@@ -1252,6 +1255,7 @@ ale obsah ktorý hľadáte nie je dostupný vo vašej krajine."</string>
     <string name="update_no_net">Vyskytla sa chyba siete. Skúste to znova.</string>
     <string name="update_title">K DISPOZÍCII NOVÁ AKTUALIZÁCIA</string>
     <string name="use_hint">Pozor</string>
+    <string name="use_now">Pridať</string>
     <string name="using_theme_has_update_tips">K dispozícii je aktualizácia pre túto tému.</string>
     <string name="using_theme_next_automatic_update">Automatické aktualizácie</string>
     <string name="using_theme_next_automatic_update_summary">Aktualizovať stiahnuté témy automaticky cez Wi-Fi</string>
@@ -1362,9 +1366,4 @@ ale obsah ktorý hľadáte nie je dostupný vo vašej krajine."</string>
     <string name="wifi_check_message">Používať na sťahovanie aktualizácií mobilné dáta?</string>
     <string name="wifi_check_tip">Už nezobrazovať</string>
     <string name="yesterday">Včera</string>
-    <string name="use_now">Pridať</string>    
-<string name="recommend_bottom_tips">Ste na spodku</string>    
-
-    <string name="component_title_widget_suit">Widgety</string>
-    <string name="search_view_description_clear">Vymazať vyhľadávanie</string>	
 </resources>

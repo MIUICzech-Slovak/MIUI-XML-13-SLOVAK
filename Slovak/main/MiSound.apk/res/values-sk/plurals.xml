@@ -56,9 +56,8 @@
         <item quantity="other">Pred %d minútami</item>
         <item quantity="one">Pred minútou</item>
     </plurals>
-    
-<plurals name="rename_error_longer_effect_name">
-         <item quantity="other">Tu môžete zadať až %d znakov</item>
-         <item quantity="one">Tu môžete zadať %d znak</item>
-     </plurals>    
+    <plurals name="rename_error_longer_effect_name">
+        <item quantity="other">Tu môžete zadať až %d znakov</item>
+        <item quantity="one">Tu môžete zadať %d znak</item>
+    </plurals>
 </resources>

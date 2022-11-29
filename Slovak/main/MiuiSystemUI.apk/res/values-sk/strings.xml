@@ -1933,7 +1933,9 @@ Máte tiež aktívne pripojenie k sieti VPN, ktorá môže sledovať vašu akti
     <string name="quick_settings">Rýchle nastavenia</string>
     <string name="quick_settings_autobrightness_label">Auto jas</string>
     <string name="quick_settings_batterysaver_label">Šetrenie batérie</string>
+    <string name="quick_settings_bluetooth_connected_tip">Úspešne pripojené cez Bluetooth</string>
     <string name="quick_settings_bluetooth_detail_empty_text">Žiadne spárované zariadenia nie sú dostupné</string>
+    <string name="quick_settings_bluetooth_disconnected_tip">Všetky zariadenia Bluetooth zostanú dnes odpojené</string>
     <string name="quick_settings_bluetooth_label">Bluetooth</string>
     <string name="quick_settings_bluetooth_multiple_devices_label">Rozhranie Bluetooth (počet zariadení: %d)</string>
     <string name="quick_settings_bluetooth_off_label">Rozhranie Bluetooth je vypnuté</string>
@@ -2365,6 +2367,7 @@ posunutím nadol uzamknete"</string>
     <string name="storage_is_connecting">%1$s je pripojené</string>
     <string name="stream_accessibility">Dostupnosť</string>
     <string name="stream_alarm">Budík</string>
+    <string name="stream_assistant">Asistent</string>
     <string name="stream_bluetooth_sco">Bluetooth</string>
     <string name="stream_dtmf">Dvojtónová multifrekvencia</string>
     <string name="stream_music">Médiá</string>
@@ -2464,8 +2467,10 @@ Telefón sa môže príliš zahriať v týchto prípadoch:
     <string name="time_picker_dialog_title">Nastaviť čas</string>
     <string name="time_picker_label_hour">H</string>
     <string name="time_picker_label_minute">M</string>
+    <string name="tip_close_flares">Počas tejto relácie nebudete dostávať upozornenia na správanie aplikácie</string>
     <string name="title_convert_fbe">Konvertovanie na šifrovanie založené na súboroch</string>
     <string name="title_usb_accessory">USB príslušenstvo</string>
+    <string name="toast_for_first_use_three_gesture">Vodorovným potiahnutím štyrmi prstami prepínate medzi aplikáciami</string>
     <string name="today">Dnes</string>
     <string name="tomorrow">Zajtra</string>
     <string name="torch_activity_hint">Svietidlo môžete tiež zapnúť podržaním tlačidla [icon] na zamykacej obrazovke</string>
@@ -2726,10 +2731,4 @@ Akýkoľvek používateľ môže aktualizovať aplikácie všetkých ostatných 
     <string name="zen_priority_introduction">Nebudú vás vyrušovať zvuky ani vibrácie, iba budíky, pripomenutia, udalosti a volajúci, ktorých určíte. Budete naďalej počuť všetko, čo sa rozhodnete prehrať, ako napríklad hudbu, videá a hry.</string>
     <string name="zen_silence_introduction">Zablokujú sa tým VŠETKY zvuky a vibrácie vrátane zvukov budíkov, hudby, videí a hier.</string>
     <string name="zen_silence_introduction_voice">Zablokujú sa VŠETKY zvuky a vibrácie vrátane budíkov, hudby, videí a hier. Stále však budete môcť telefonovať.</string>
-    
-<string name="quick_settings_bluetooth_connected_tip">Úspešne pripojené cez Bluetooth</string>
-<string name="quick_settings_bluetooth_disconnected_tip">Všetky zariadenia Bluetooth zostanú dnes odpojené</string>    
-<string name="tip_close_flares">Počas tejto relácie nebudete dostávať upozornenia na správanie aplikácie</string>
-<string name="toast_for_first_use_three_gesture">Vodorovným potiahnutím štyrmi prstami prepínate medzi aplikáciami</string>
-    <string name="stream_assistant">Asistent</string>
 </resources>

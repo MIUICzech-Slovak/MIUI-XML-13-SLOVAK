@@ -138,6 +138,7 @@
     <string name="camera_liveshot_off_tip">Dynamický záber je vypnutý</string>
     <string name="camera_liveshot_on_tip">Dynamický záber</string>
     <string name="camera_mode_options">Režimy</string>
+    <string name="camera_newcta_other_message">Aby sme vám mohli počas používania aplikácie poskytovať ďalšie služby, budeme potrebovať povolenia na prístup k vašej polohe.</string>
     <string name="camera_setting">Fotoaparát</string>
     <string name="camera_settings_category_development">Experimentálne funkcie</string>
     <string name="camera_settings_label">Fotoaparát</string>
@@ -488,13 +489,22 @@ a vyberie sa tá kde sú všetci najkrajší."</string>
 prosím vyčistite ho pre lepšie fotografie."</string>
     <string name="lens_dirty_detected_title_back">Zadný fotoaparát je špinavý</string>
     <string name="lens_dirty_detected_title_front">Predný fotoaparát je špinavý</string>
+    <string name="lighting_bright_red">Scarlet</string>
+    <string name="lighting_dazzling">Lúče</string>
+    <string name="lighting_dreamland">Sen</string>
+    <string name="lighting_gorgeous">Motley</string>
     <string name="lighting_hint_needed">Umiestnite objekt do svetla</string>
     <string name="lighting_hint_title">Štúdiové osvetlenie</string>
     <string name="lighting_hint_too_close">Oddiaľte kameru</string>
     <string name="lighting_hint_too_far">Priblížte kameru</string>
     <string name="lighting_hint_usage">"V režime Portrét môžete využiť
 efekty osvetlenia"</string>
+    <string name="lighting_lanshan">Dekadencia</string>
+    <string name="lighting_movie_light_effect_title">Filmové efekty</string>
+    <string name="lighting_neon">Neon</string>
+    <string name="lighting_nostalgia">Nostalgia</string>
     <string name="lighting_pattern_dot">Bodové</string>
+    <string name="lighting_pattern_holi">Holi</string>
     <string name="lighting_pattern_leaf">Listy</string>
     <string name="lighting_pattern_movie">Film</string>
     <string name="lighting_pattern_nature">Prirodzené</string>
@@ -502,6 +512,8 @@ efekty osvetlenia"</string>
     <string name="lighting_pattern_rainbow">Dúha</string>
     <string name="lighting_pattern_shutter">Roleta</string>
     <string name="lighting_pattern_stage">Pódium</string>
+    <string name="lighting_phantom">Fantóm</string>
+    <string name="lighting_rainbow">Dúha</string>
     <string name="live_draft_continue">Obnoviť</string>
     <string name="live_draft_empty">Žiadne položky</string>
     <string name="live_edit_exit_confirm">Ukončiť</string>
@@ -668,6 +680,8 @@ efekty osvetlenia"</string>
     <string name="network_connection_prerequisites_china">Zapnite Bluetooth a Wi-Fi pre použitie nahrávania z viacerých zariadení.</string>
     <string name="network_connection_rejected">Odmietnuté</string>
     <string name="network_connection_timed_out">Časový limit pripojenia vypršal</string>
+    <string name="newbie_privacy_watermark_msg">Použite vodotlač na ochranu dokumentov pred neoprávneným kopírovaním</string>
+    <string name="newbie_privacy_watermark_title">Chráňte svoje dokumenty</string>
     <string name="no_storage">Pred použitím vložte SD kartu.</string>
     <string name="not_enough_space">Vaša SD karta je plná.</string>
     <string name="not_set">Nenastavené</string>
@@ -1479,21 +1493,4 @@ Objekt bude ostrý na rozmazanom pozadí."</string>
     <string name="widget_camera_lens_talk_back">Profesionálne objektívy</string>
     <string name="yesterday">Včera</string>
     <string name="zoom_no_support_tip_48M">Zoom nefunguje v 48MP režime</string>
-    
-<string name="camera_newcta_other_message">Aby sme vám mohli počas používania aplikácie poskytovať ďalšie služby, budeme potrebovať povolenia na prístup k vašej polohe.</string>   
-
- <string name="newbie_privacy_watermark_msg">Použite vodotlač na ochranu dokumentov pred neoprávneným kopírovaním</string>
-     <string name="newbie_privacy_watermark_title">Chráňte svoje dokumenty</string>
-    
-<string name="lighting_bright_red">Scarlet</string>
-     <string name="lighting_dazzling">Lúče</string>
-     <string name="lighting_dreamland">Sen</string>
-     <string name="lighting_gorgeous">Motley</string>
-     <string name="lighting_lanshan">Dekadencia</string>
-     <string name="lighting_movie_light_effect_title">Filmové efekty</string>
-     <string name="lighting_neon">Neon</string>
-     <string name="lighting_nostalgia">Nostalgia</string>
-     <string name="lighting_pattern_holi">Holi</string>
-     <string name="lighting_phantom">Fantóm</string>
-     <string name="lighting_rainbow">Dúha</string>    
 </resources>

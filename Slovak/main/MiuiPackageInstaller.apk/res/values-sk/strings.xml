@@ -58,6 +58,7 @@
     <string name="ads_install_button_waiting">Čakanie</string>
     <string name="ads_summary">Ľuďom, ktorí si nainštalovali %1$s, sa tiež páčilo</string>
     <string name="ads_summary_default_value">Ľuďom, ktorí si nainštalovali túto aplikáciu, sa tiež páčilo</string>
+    <string name="after_install_to_delete">Po inštalácii vymazať apk súbor</string>
     <string name="alarm_template">o %1$s</string>
     <string name="alarm_template_far">o %1$s</string>
     <string name="allPerms">Všetko</string>
@@ -76,6 +77,9 @@
     <string name="app_detail_other_update_time">Aktualizované: %1$s</string>
     <string name="app_detail_other_version">Verzia: %1$s</string>
     <string name="app_info_permissions">Povolenia</string>
+    <string name="app_info_size">Veľkosť: %1$s</string>
+    <string name="app_info_version">Verzia: %1$s</string>
+    <string name="app_info_version_replace">Verzia: %1$s -> %2$s</string>
     <string name="app_install_failed_button_text">Vyhľadať aplikácie</string>
     <string name="app_installing_not_allow">Nepovolili ste %1$s inštaláciu aplikácií. Môžete to zmeniť v Nastaveniach.</string>
     <string name="app_installing_toast">Počkajte kým sa dokončia všetky inštalácie a skúste to znova</string>
@@ -206,6 +210,7 @@ Výber"</string>
     <string name="caller_app">Vyžadujú sa povolenia od %1$s</string>
     <string name="cancel">Zrušiť</string>
     <string name="cancel_install">Zrušiť</string>
+    <string name="cancel_update">Neaktualizovať</string>
     <string name="category_personal">Osobné</string>
     <string name="category_work">Práca</string>
     <string name="character_counter_content_description">Zadané znaky %1$d z %2$d</string>
@@ -427,6 +432,8 @@ Prípadne môžete vypnúť zjednodušený režim a skúsiť to znova."</string>
     <string name="install_from_appstore_hint">Odporúčame vám nainštalovať aplikáciu z Google Play</string>
     <string name="install_other_apps">Inštalácia neznámych aplikácií</string>
     <string name="install_unknow_source">Inštalovať neznáme aplikácie</string>
+    <string name="install_version">Verzia: %1$s</string>
+    <string name="install_version_replace">Verzia: %1$s > %2$s</string>
     <string name="install_vip_account_mode_explain_des">Toto je beta verzia aplikácie. Pred inštaláciou požiadajte o povolenia na testovanie beta.</string>
     <string name="install_vip_account_mode_solution_des">Požiadať o verziu beta</string>
     <string name="installing">Inštaluje sa...</string>
@@ -1010,14 +1017,4 @@ Prípadne môžete vypnúť zjednodušený režim a skúsiť to znova."</string>
     <string name="zen_mode_enable_dialog_turn_on">Zapnúť</string>
     <string name="zen_mode_settings_summary_off">Nikdy</string>
     <string name="zen_mode_settings_turn_on_dialog_title">Zapnite režim Nerušiť</string>
-    
-<string name="install_version">Verzia: %1$s</string>
-     <string name="install_version_replace">Verzia: %1$s > %2$s</string>
-     <string name="app_info_version">Verzia: %1$s</string>
-     <string name="app_info_version_replace">Verzia: %1$s -> %2$s</string>
-     <string name="app_info_size">Veľkosť: %1$s</string>
-     <string name="cancel_update">Neaktualizovať</string>
-     <string name="after_install_to_delete">Po inštalácii vymazať apk súbor</string>
-
-            
 </resources>

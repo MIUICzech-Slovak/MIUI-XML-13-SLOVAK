@@ -47,6 +47,7 @@
     <string name="content_introduction">Centrum obsahu agreguje obsah a služby z rôznych kanálov. Tu môžete čítať články, sledovať videá, vzhliadať najnovšie zaujímavosti a dostávať odporúčaný obsah.</string>
     <string name="continue_to_enable_accessibility">Ak chcete povoliť funkcie dostupnosti, podržte stlačené dva prsty.</string>
     <string name="copy">Kopírovať</string>
+    <string name="create_shortcut">Odkaz na domácej obrazovke</string>
     <string name="data_traffic_enable_dialog_title">Ak nie ste pripojený na Wi-Fi, vaše zariadenie použije mobilné dáta.</string>
     <string name="desc_extra_fingerprint" />
     <string name="desc_extra_international_fingerprint" />
@@ -124,6 +125,7 @@
     <string name="locale_picker_other_locale_title">Viac regiónov</string>
     <string name="locale_picker_title">Vyberte váš región</string>
     <string name="location_introduction">Služby na základe polohy vyhľadávajú produkty a služby vo vašej blízkosti.</string>
+    <string name="location_introduction_qcom">Služby určovania polohy používajú určovanie polohy na poskytovanie služieb špecifických pre vašu polohu.</string>
     <string name="location_location">Agentúry záchrannej služby môžu na požiadanie získať vašu aktuálnu polohu</string>
     <string name="lockscreen_introduction">Denná tapeta vám každý deň umožňuje dostávať najnovšie tapety na Zamknutú obrazovku.</string>
     <string name="miui_privacy_policy_no_network">Žiadne internetové pripojenie. Zásady ochrany osobných údajov zobraziť na %s.</string>
@@ -216,6 +218,8 @@ Vypnúť prispôsobené reklamy napriek tomu?"</string>
     <string name="other_settings_enhanced_lockscreen_privacy_index">Zásady ochrany osobných údajov</string>
     <string name="other_settings_enhanced_lockscreen_summary">Dostávajte vybrané obrázky a príbehy do vášho zariadenia každý deň. %1$s a %2$s</string>
     <string name="other_settings_enhanced_lockscreen_summary_index">Licenčná zmluva koncového používateľa</string>
+    <string name="other_settings_get_apps">Aktualizácia aplikácií</string>
+    <string name="other_settings_get_apps_summary">Aktualizujte systém a aplikácie tretích strán, aby ste mohli používať ich najnovšie funkcie.</string>
     <string name="other_settings_location">Prístup k polohe</string>
     <string name="other_settings_location_summary">Povoliť aplikáciám prístup k vašej polohe</string>
     <string name="other_settings_quality_service">Oprávnenie MIUI Daemon</string>
@@ -337,6 +341,7 @@ Vypnúť prispôsobené reklamy napriek tomu?"</string>
     <string name="pref_title_data_slot">Preferovaná dátová SIM karta</string>
     <string name="pref_title_voice_slot">Preferovaná hlasová SIM karta</string>
     <string name="preference_copied">\"%1$s\" bolo skopírované do schránky.</string>
+    <string name="preinstall_tips">Pripravuje sa…</string>
     <string name="privacy_policy">Zásady ochrany osobných údajov</string>
     <string name="privacy_provision_more">Viac informácií o ochrane súkromia</string>
     <string name="privacy_provision_summary">Ochrana súkromia je záväzkom, ktorý stojí za dizajnom našich produktov</string>
@@ -530,11 +535,4 @@ Pred použitím tejto funkcie musíte súhlasiť so Zásadami ochrany osobných 
     <string name="withdraw_consent">Ak svoj súhlas odvoláte, služby Dennej tapety budú deaktivované.</string>
     <string name="yesterday">Včera</string>
     <string name="zone_picker_title">Vyberte časovú zónu</string>
-    
-<string name="location_introduction_qcom">Služby určovania polohy používajú určovanie polohy na poskytovanie služieb špecifických pre vašu polohu.</string>   
-    <string name="create_shortcut">Odkaz na domácej obrazovke</string> 
-    
-<string name="other_settings_get_apps">Aktualizácia aplikácií</string>
-     <string name="other_settings_get_apps_summary">Aktualizujte systém a aplikácie tretích strán, aby ste mohli používať ich najnovšie funkcie.</string>  
-    <string name="preinstall_tips">Pripravuje sa…</string>	 
 </resources>

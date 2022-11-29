@@ -72,6 +72,10 @@
     <string name="apply_to_above_all">Nastavte obe</string>
     <string name="apply_to_screenlock">Nastaviť ako uzamknutú obrazovku</string>
     <string name="apply_to_wallpaper">Nastaviť ako domovskú obrazovku</string>
+    <string name="apply_warning_content">Používate Supertapetu. Ak si tapetu zmeníte, použije sa na ploche aj na uzamknutej obrazovke. Použiť teraz?</string>
+    <string name="apply_warning_content_with_aod">Používate Supertapetu. Ak si tapetu zmeníte, použije sa na ploche aj na uzamknutej obrazovke a Vždy zapnutá obrazovka sa môže obnoviť na predvolenú hodnotu. Použiť teraz?</string>
+    <string name="apply_warning_content_with_maml">Používate motív tretej strany. Ak zmeníte tapetu, hodiny na uzamknutej obrazovke sa môžu obnoviť na predvolené. Použiť teraz?</string>
+    <string name="apply_warning_title">Použiť tapetu</string>
     <string name="article_item_hot">Pozrite si %s+ populárnych článkov</string>
     <string name="at_least_one">Vyberte aspoň jednu kategóriu</string>
     <string name="auth_fail_warning">Platnosť relácie vypršala. Prihláste sa znova.</string>
@@ -232,6 +236,7 @@ Pošlite tento kód nadriadenému."</string>
     <string name="disable_dlg_title">Vypnúť Dennú Tapetu?</string>
     <string name="dislike">Vymazať</string>
     <string name="dlg_cancel">Zrušiť</string>
+    <string name="dlg_ok">Použiť</string>
     <string name="double_click_to_exit_activity">Opätovným klepnutím ukončíte</string>
     <string name="edit_wallpaper">Spravovať tapety</string>
     <string name="enable_toast_ar">Prepnuté na odporúčania</string>
@@ -916,10 +921,4 @@ To môže spôsobiť dodatočné poplatky."</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Aktualizácia</string>
     <string name="xiaomi_market_sdk_update_dialog_title">K dispozícii je aktualizácia</string>
     <string name="yesterday">Včera</string>
-	
-<string name="apply_warning_content">Používate Supertapetu. Ak si tapetu zmeníte, použije sa na ploche aj na uzamknutej obrazovke. Použiť teraz?</string>
-     <string name="apply_warning_content_with_aod">Používate Supertapetu. Ak si tapetu zmeníte, použije sa na ploche aj na uzamknutej obrazovke a Vždy zapnutá obrazovka sa môže obnoviť na predvolenú hodnotu. Použiť teraz?</string>
-     <string name="apply_warning_content_with_maml">Používate motív tretej strany. Ak zmeníte tapetu, hodiny na uzamknutej obrazovke sa môžu obnoviť na predvolené. Použiť teraz?</string>
-     <string name="apply_warning_title">Použiť tapetu</string>
-     <string name="dlg_ok">Použiť</string>	
 </resources>
