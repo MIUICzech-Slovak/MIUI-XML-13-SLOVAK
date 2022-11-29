@@ -1060,4 +1060,8 @@ Pokus: %s."</string>
     <string name="sim_not_support_mms">Táto SIM karta nepodporuje MMS</string>    
 	
     <string name="button_copy">Kopírovať</string>	
+    
+<string name="mms_main_purpose_new">Táto aplikácia sa musí pripojiť k internetu, aby vám mohla poskytovať základné služby. Odporúčame vám zapnúť služby Mi Message a Smart Messaging.</string>
+     <string name="system_permission_declare_exit">Ukončiť</string>
+     <string name="wait_for_sp_mark_as_read">Načítavanie...</string>    
 </resources>

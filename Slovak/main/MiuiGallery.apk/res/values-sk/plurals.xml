@@ -637,4 +637,25 @@
         <item quantity="other">Videá: %d</item>
         <item quantity="one">Videá: %d</item>
     </plurals>
+    
+<plurals name="migrate_gp_data_num">
+        <item quantity="other">%1$d položiek</item>
+        <item quantity="one">%1$d položka</item>
+    </plurals>
+    <plurals name="tran_notification_complete_msg">
+        <item quantity="other">Nepodarilo sa preniesť %1$d položiek</item>
+        <item quantity="one">Nepodarilo sa preniesť %1$d položku</item>
+    </plurals>
+    <plurals name="transfer_status_banner_msg_file_failed">
+        <item quantity="other">Nepodarilo sa preniesť %1$d položiek. Ak si ich chcete stiahnuť, navštívte stránku i.mi.com.</item>
+        <item quantity="one">Nepodarilo sa preniesť %1$d položku. Navštívte i.mi.com a stiahnite si ju.</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_login_medium_or_low_level">
+        <item quantity="other">Položky tu môžu byť uložené %1$s dní. Klepnutím predĺžite toto obdobie.</item>
+        <item quantity="one">Položky tu môžu byť uložené %1$s deň. Klepnutím predĺžite toto obdobie.</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_no_sync_server">
+        <item quantity="other">Odstránené položky sú uložené v cloude na %1$d dní</item>
+        <item quantity="one">Odstránené položky sú uložené v cloude na %1$d deň</item>
+    </plurals>    
 </resources>
