@@ -160,4 +160,17 @@
         <item quantity="other">%d sú vypnuté</item>
         <item quantity="one">%d je vypnuté</item>
     </plurals>
+	
+<plurals name="cloud_storage_full_upgrade_text">
+         <item kvantita="other">Nie je miesto na úložisku. Nepodarilo sa synchronizovať %d fotografií.</item>
+         <item kvantita="one">Nie je miesto na úložisku. Nepodarilo sa synchronizovať %d fotografiu.</item>
+     </plurals>
+     <plurals name="gallery_auto_sync_fail_noti_red_title">
+         <item kvantita="other">Nepodarilo sa synchronizovať &lt;font color=#F22424>%s položiek&lt;/font></item>
+         <item kvantita="one">Nepodarilo sa synchronizovať &lt;font color=#F22424>%s položku&lt;/font>"</item>
+     </plurals>
+     <plurals name="noti_quota_full_title_with_icon_text">
+         <item kvantita="other">Nie je miesto na úložisku. Nepodarilo sa synchronizovať &lt;font color=#F22424>%d aplikácií&lt;/font></item>
+         <item kvantita="one">Nie je miesto na úložisku. Nepodarilo sa synchronizovať &lt;font color=#F22424>%d aplikáciu&lt;/font></item>
+     </plurals>	
 </resources>

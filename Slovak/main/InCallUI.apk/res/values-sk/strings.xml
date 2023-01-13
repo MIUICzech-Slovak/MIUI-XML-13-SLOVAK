@@ -400,4 +400,6 @@ Stlačte \"%1$s\" a potom vyberte \"%2$s\"."</string>
     <string name="wednesday_shortest">S</string>
     <string name="wifi_call">VoWi-fi hovor</string>
     <string name="yesterday">Včera</string>
+<string name="high_temperature_toast">V prípade ochrany pred vysokou teplotou je funkcia dočasne nedostupná</string>	
+	
 </resources>

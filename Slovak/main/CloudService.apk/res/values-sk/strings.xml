@@ -1146,4 +1146,16 @@ Prečítajte si a odsúhlaste naše Podmienky používania a Ochranu súkromia.
     <string name="xiaomi_cloud_service_subtitle">Všetky dôležité položky na jednom mieste</string>
     <string name="xmpp_server_addr" />
     <string name="yesterday">Včera</string>
+	
+<string name="cloud_manage_storage_text">Spravovať úložisko v cloude</string>
+     <string name="cloud_storage_almost_full_upgrade_text">Úložisko je takmer plné. Možno nebude možné synchronizovať fotografie.</string>
+     <string name="cloud_storage_common_functions_text">Často používané</string>
+<string name="cloud_storage_full_upgrade_default_text">Nedostatok miesta na úložisku. Fotografie sa nepodarilo synchronizovať.</string>
+     <string name="cloud_storage_sufficient_text">Inovujte a získajte až %d TB ukladacieho priestoru</string>
+     <string name="cloud_storage_upgrade_text">Inovovať</string>
+     <string name="cloud_storage_upgrade_text_now">Inovovať</string>
+     <string name="cloud_storage_zero_upgrade_button_text_now">Inovujte zadarmo</string>
+     <string name="customize_notification_btn_text">Inovovať</string>
+     <string name="default_noti_quota_full_title">Cloudové úložisko je plné</string>
+<string name="noti_quota_low_title_with_storage">&lt;font color=#F22424>Menej ako &lt;xliff:g id=remaining_storage_space example=0.5>%s&lt;/xliff:g> GB&lt;/font> zostávajúceho cloudového úložiska</string>	
 </resources>

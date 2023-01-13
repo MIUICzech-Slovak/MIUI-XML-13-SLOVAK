@@ -7756,4 +7756,6 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
     <string name="zone_auto_title">Časové pásmo podľa siete</string>
     <string name="zone_list_menu_sort_alphabetically">Zoradiť abecedne</string>
     <string name="zone_list_menu_sort_by_timezone">Zoradiť podľa časového pásma</string>
+	
+<string name="embedded_window_guide_text">Keď sa obrazovka zobrazuje vodorovne, aplikácie sa budú zobrazovať navzájom paralelne. Keď je táto funkcia vypnutá, aplikácie budú vycentrované.</string>	
 </resources>
